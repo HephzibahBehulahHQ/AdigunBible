@@ -21,3 +21,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | zechariah 11 | [Zechariah 11 KJV](https://www.biblegateway.com/passage/?search=Zechariah+11&version=KJV) | Public domain |
 | zechariah 12 | [Zechariah 12 KJV](https://www.biblegateway.com/passage/?search=Zechariah+12&version=KJV) | Public domain |
 | zechariah 13 | [Zechariah 13 KJV](https://www.biblegateway.com/passage/?search=Zechariah+13&version=KJV) | Public domain |
+| zechariah 14 | [Zechariah 14 KJV](https://www.biblegateway.com/passage/?search=Zechariah+14&version=KJV) | Public domain |
