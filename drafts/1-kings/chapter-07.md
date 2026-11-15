@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 7 (51 verses), checked at https://biblehub.com/web/1_kings/7.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–51 is included. Required code switches are distributed through the chapter: Yoruba (ilé), German (Säulen), French (or), Igbo (ọrụ), Hausa (tagulla), Jamaican Patois (di), Hebrew (neḥosheth), plus Spanish (plata) and Swahili (mawe). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–51 is included. Required code switches are distributed through the chapter: Yoruba (ilé), German (Säulen), French (or), Igbo (ọrụ), Hausa (tagulla), Jamaican Patois (di), Hebrew (neḥosheth), plus Spanish (plata) and Swahili (mawe). Each verse word is paired with an emoji. Meaning review against the World English Bible is complete. Verse 25 now describes the oxen’s hindquarters facing inward, matching the source. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -56,7 +56,7 @@
 
 **24**🔢 Just⬇️ under⬇️ its💧 rim🔝 was🌱 a💯 ring🔄 of🌱 buds🌱 running🔄 all💯 around↔️ it🌊, ten🔢 cubits📐 around🔄 the🌊 Sea🌊. The🌱 buds🌱 came🫗 in📍 two🔢 rows📏, cast🫗 together🤝 with📍 the🌊 basin🌊.
 
-**25**🔢 The🌊 Sea🌊 rested🛟 on⬆️ twelve🔢 bronze🟤 oxen🐂: three🔢 facing👀 north⬆️, three🔢 west⬅️, three🔢 south⬇️, and➕ three🔢 east➡️. The🌊 basin🌊 sat🛟 on📍 their👥 backs🐂, while⏳ all💯 their🐂 tails⬅️ pointed📍 inward↩️.
+**25**🔢 The🌊 Sea🌊 rested🛟 on⬆️ twelve🔢 bronze🟤 oxen🐂: three🔢 facing👀 north⬆️, three🔢 west⬅️, three🔢 south⬇️, and➕ three🔢 east➡️. The🌊 basin🌊 sat🛟 on📍 their👥 backs🐂, while⏳ all💯 their🐂 hindquarters🐂 faced👀 inward↩️.
 
 **26**🔢 The🌊 basin’s🌊 bronze🟤 wall🧱 was💯 a🖐️ hand✋ width📏 thick🧱. Its🌊 rim🔝 was🌸 shaped🎨 like💯 a🥤 cup🥤 rim🔝 with🌸 lily🌸 petals🌸, and➕ it👆 held💧 two🔢 thousand🔢 baths📏 of💧 water💧.
 
