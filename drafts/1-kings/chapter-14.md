@@ -56,7 +56,7 @@
 
 **24**🔢 Male👨 shrine🛕 prostitutes💰 were💯 also➕ in📍 the👥 land🌍. Judah👥 copied🪞 the🔁 disgusting🤢 practices⚠️ of📍 the👥 nations🌍 Yahweh🙏 had💯 driven🚶 out🚪 before⏮️ Israel🇮🇱.
 
-**25**🔢 In📅 Rehoboam’s👑 fifth5️⃣ year🗓️, Shishak👑, Egypt’s🇪🇬 king👑, marched🥾 against⚔️ Jerusalem🏙️.
+**25**🔢 In📅 Rehoboam’s👑 fifth🔢 year🗓️, Shishak👑, Egypt’s🇪🇬 king👑, marched🥾 against⚔️ Jerusalem🏙️.
 
 **26**🔢 He👑 took🫳 all💯 the💎 treasures💰 from📍 Yahweh’s🙏 house🏠 and➡️ the💎 treasures💰 from📍 the👑 royal🏰 house🏠. He👑 cleared🧹 it💯 out💨, taking🫳 every💯 gold🥇 shield🛡️ Solomon👑 had💯 made🛠️.
 
@@ -64,7 +64,7 @@
 
 **28**🔢 Whenever⏰ the👑 king👑 went🚶 into📍 Yahweh’s🙏 house🏠, the🛡️ guards👮 carried🫳 those👉 shields🛡️, then⏰ brought🔙 them🛡️ back↩️ to📍 the🛡️ guard👮 room🏠.
 
-**29**🔢 The📚 rest➕ of📍 Rehoboam’s👑 story📖—everything💯 he👑 did🛠️—is💯 recorded✍️ in📍 the📚 chronicles📖 of📍 Judah’s🇮🇱 kings👑, right🫡?
+**29**🔢 The📚 rest➕ of📍 Rehoboam’s👑 story📖—everything💯 he👑 did🛠️—is💯 recorded✍️ in📍 the📚 chronicles📖 of📍 Judah’s🇮🇱 kings👑.
 
 **30**🔢 Rehoboam👑 and➕ Jeroboam👑 kept🔁 fighting⚔️ each👥 other👥, year🗓️ after➡️ year🗓️.
 
