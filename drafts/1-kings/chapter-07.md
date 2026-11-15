@@ -10,7 +10,7 @@
 
 **1**🔢 Solomon👑 spent⏳ thirteen🔢 years📅 building🏗️ his👑 own🏠 palace🏰, and➡️ finished✅ the💯 whole🏠 complex🏰.
 
-**2**🔢 He👑 built🏗️ the🏛️ House🏠 of📍 the🌲 Forest🌲 of📍 Lebanon🏔️: one☝️ hundred🔢 cubits📐 long↔️, fifty🔢 wide↔️, and➕ thirty🔢 high⬆️. Four🔢 rows📏 of🌲 cedar🌲 columns🏛️ held🪵 cedar🌲 beams🪵 across↔️ them🏛️.
+**2**🔢 He👑 built🏗️ the🏛️ House🏠—ilé🏠—of📍 the🌲 Forest🌲 of📍 Lebanon🏔️: one☝️ hundred🔢 cubits📐 long↔️, fifty🔢 wide↔️, and➕ thirty🔢 high⬆️. Four🔢 rows📏 of🌲 cedar🌲 columns🏛️ held🪵 cedar🌲 beams🪵 across↔️ them🏛️.
 
 **3**🔢 Cedar🌲 covered🪵 the🏠 ceiling⬆️ above⬆️ forty-five🔢 beams🪵, arranged📏 fifteen🔢 per☝️ row📏.
 
@@ -18,7 +18,7 @@
 
 **5**🔢 All💯 the🚪 doors🚪 and➕ doorposts🚪 were💯 square📐, framed🪵 with🌲 beams🪵; the🪟 windows🪟 also➕ lined🪟 up↕️ in📏 three🔢 rows📏.
 
-**6**🔢 He👑 built🏛️ a💯 hall🏛️ of🌲 columns🏛️, fifty🔢 cubits📐 long↔️ and➕ thirty🔢 wide↔️, with🏛️ a🚪 porch🚪 in📍 front↔️, complete✅ with🏛️ columns🏛️ and➕ a🚪 threshold🚪.
+**6**🔢 He👑 built🏛️ a💯 hall🏛️ of🌲 columns🏛️—Säulen🏛️—, fifty🔢 cubits📐 long↔️ and➕ thirty🔢 wide↔️, with🏛️ a🚪 porch🚪 in📍 front↔️, complete✅ with🏛️ columns🏛️ and➕ a🚪 threshold🚪.
 
 **7**🔢 He👑 also➕ built🏛️ the👑 throne🪑 porch🏛️ where📍 he👑 would💬 judge⚖️—his👑 courtroom⚖️. From⬇️ floor🏠 to⬆️ ceiling🏛️, it💯 was🪵 lined🪵 in🌲 cedar🌲.
 
@@ -26,7 +26,7 @@
 
 **9**🔢 Every💯 building🏛️ here📍 used💎 costly💎 stone🪨, cut⛏️ to📐 exact✅ measurements📏 and🪚 sawed🪚 smooth📏 inside↔️ and➕ out↔️. That👉 went🧱 from⬇️ the🧱 foundations🧱 right⬆️ up📏 to📍 the🏛️ top🏁, and➕ continued➡️ outside↗️ toward📍 the💯 great🏛️ court🏛️.
 
-**10**🔢 The🧱 foundation🧱 used💎 huge📏 costly💎 stones🪨—some📏 ten🔢 cubits📐 long📏, others📏 eight🔢 cubits📐.
+**10**🔢 The🧱 foundation🧱 used💎 huge📏 costly💎 stones🪨—mawe🪨—some📏 ten🔢 cubits📐 long📏, others📏 eight🔢 cubits📐.
 
 **11**🔢 Above⬆️ those📍 were💎 more💎 costly💎 stones🪨, cut⛏️ to📏 precise✅ measurements📐, plus➕ cedar🌲 beams🪵.
 
@@ -34,7 +34,7 @@
 
 **13**🔢 King👑 Solomon👑 sent📨 for👨 Hiram👨 and➡️ brought🚶 him👨 from📍 Tyre🏙️.
 
-**14**🔢 Hiram👨 was👶 the👦 son👦 of👩 a💔 widow👩 from📍 Naphtali🏞️; his👨 father👨 had💯 been👨 from📍 Tyre🏙️, a💯 bronze🟤 worker🛠️. Hiram👨 had🧠 wisdom🧠, insight💡, and➕ serious💯 skill🛠️ in⚒️ every💯 kind🛠️ of🟤 bronze🟤 work⚒️. He👨 came🚶 to👑 King👑 Solomon👑 and➡️ handled🛠️ all💯 the📜 work⚒️.
+**14**🔢 Hiram👨 was👶 the👦 son👦 of👩 a💔 widow👩 from📍 Naphtali🏞️; his👨 father👨 had💯 been👨 from📍 Tyre🏙️, a💯 bronze🟤—tagulla🟤—worker🛠️. Hiram👨 had🧠 wisdom🧠, insight💡, and➕ serious💯 skill🛠️ in⚒️ every💯 kind🛠️ of🟤 bronze🟤 work⚒️. He👨 came🚶 to👑 King👑 Solomon👑 and➡️ handled🛠️ all💯 the📜 work⚒️.
 
 **15**🔢 Hiram👨 cast🫗 two🔢 bronze🟤 pillars🏛️, each💯 eighteen🔢 cubits📐 high⬆️, with🟤 a💯 twelve🔢-cubit📐 circumference↔️ around🔄 it👆.
 
@@ -96,16 +96,16 @@
 
 **44**🔢 Plus➕ the🌊 one☝️ great🌊 Sea🌊 and➕ the🐂 twelve🔢 oxen🐂 holding🛟 it👆 up⬆️.
 
-**45**🔢 Also➕ the🍲 pots🍲, shovels🥄, and➕ basins💧. Every💯 vessel🏺 Hiram👨 made🏗️ for👑 King👑 Solomon👑 in📍 Yahweh’s🙏 house🏛️ was💯 polished✨ bronze🟤.
+**45**🔢 Also➕ the🍲 pots🍲, shovels🥄, and➕ basins💧. Every💯 vessel🏺 Hiram👨 made🏗️ for👑 King👑 Solomon👑 in📍 Yahweh’s🙏 house🏛️ was💯 polished✨ bronze🟤—neḥosheth🟤.
 
 **46**🔢 The👑 king👑 had🏗️ them👥 cast🫗 in📍 the🌾 Jordan🌊 plain🌾, in📍 clay🟤 ground🌍 between↔️ Succoth🏘️ and➕ Zarethan🏘️.
 
 **47**🔢 Solomon👑 didn’t🙅 weigh⚖️ any💯 of📍 these🏺 vessels🏺; there💯 were💯 so💯 many♾️ the🟤 bronze🟤 weight⚖️ couldn’t🙅 be💯 figured🧮 out🧮.
 
-**48**🔢 Solomon👑 also➕ made🏗️ all💯 the🏺 furnishings🏺 for📍 Yahweh’s🙏 house🏛️: the🪙 golden🪙 altar🪨 and➕ the🍞 table🍽️ for📍 the🍞 Bread🍞 of📍 the📍 Presence🙏, both💯 made🪙 of🪙 gold🪙.
+**48**🔢 Solomon👑 also➕ made🏗️ all💯 the🏺 furnishings🏺 for📍 Yahweh’s🙏 house🏛️: the🪙 golden🪙 altar🪨 and➕ the🍞 table🍽️ for📍 the🍞 Bread🍞 of📍 the📍 Presence🙏, both💯 made🪙 of🪙 gold🪙—or🪙.
 
 **49**🔢 In📍 front↔️ of🏛️ the💛 inner💛 sanctuary🏛️ stood🕯️ ten🔢 pure✨ gold🪙 lampstands🕯️—five🔢 on📍 the➡️ right👉, five🔢 on📍 the⬅️ left👈. Their🌼 flowers🌼, lamps🪔, and➕ tongs🗜️ were🪙 gold🪙 too➕.
 
 **50**🔢 The🥤 cups🥤, snuffers🕯️, basins💧, spoons🥄, and➕ fire🔥 pans🍳 were💯 all✨ pure💯 gold🪙. Even➕ the🚪 hinges🚪 for📍 the💛 inner💛 doors🚪 of🏛️ the💯 Most✨ Holy💛 Place🏛️, and➕ the🚪 Temple⛪ doors🚪, were🪙 gold🪙.
 
-**51**🔢 That💯 completed✅ all💯 the📜 work⚒️ King👑 Solomon👑 did🏗️ for📍 Yahweh’s🙏 house🏛️. He👑 brought🚶 in➡️ the💎 silver🥈, gold🪙, and➕ vessels🏺 his👨 father👑 David👑 had💝 dedicated🙏, then➡️ stored📦 them👥 in📍 the💰 treasuries🏛️ of🙏 Yahweh’s🙏 house🏛️.
+**51**🔢 That💯 completed✅ all💯 di👥 work⚒️ King👑 Solomon👑 did🏗️ for📍 Yahweh’s🙏 house🏛️. He👑 brought🚶 in➡️ the💎 silver🥈—plata🥈, gold🪙, and➕ vessels🏺 his👨 father👑 David👑 had💝 dedicated🙏, then➡️ stored📦 them👥 in📍 the💰 treasuries🏛️ of🙏 Yahweh’s🙏 house🏛️.
