@@ -4,11 +4,11 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 9 (28 verses), checked at https://biblehub.com/web/1_kings/9.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–28 is included. Required code switches are distributed through the chapter: Yoruba (orúkọ), German (Herz), French (fidèle), Igbo (ala), Hausa (gari), Jamaican Patois (dem), Hebrew (shem), plus Spanish (dioses) and Swahili (meli). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–28 is included. Required code switches are distributed through the chapter: Yoruba (orúkọ), German (Herz), French (fidèle), Igbo (ala), Hausa (gari), Jamaican Patois (dem), Hebrew (shem), plus Spanish (dioses) and Swahili (meli). Each verse word is paired with an emoji. Meaning review against the World English Bible is complete. Verse 1 now retains Solomon’s broader completed plans, and verse 25 makes Solomon the subject of the house’s completion. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
-**1**🔢 After⏳ Solomon👑 finished✅ building🏗️ Yahweh’s🙏 house🏛️, his👑 palace🏰, and➕ everything💯 else💯 he👑 had💭 wanted🏗️ to🏗️ build🏗️…
+**1**🔢 After⏳ Solomon👑 finished✅ building🏗️ Yahweh’s🙏 house🏛️, the👑 royal👑 palace🏰, and➕ all💯 the💭 projects🏗️ he👑 had💯 wanted💭 to🤲 complete✅…
 
 **2**🔢 …Yahweh🙏 appeared✨ to👑 Solomon👑 a☝️ second🔢 time⏰, just💯 as💬 He🙏 had💯 appeared✨ to👑 him👑 at📍 Gibeon🏘️.
 
@@ -56,7 +56,7 @@
 
 **24**🔢 Pharaoh’s👑 daughter👸 moved🚶‍♀️ from📍 David’s👑 City🏙️ to➡️ the🏠 house🏰 Solomon👑 had💯 built🏗️ for👸 her👸. After⏭️ that👆, he👑 built🏗️ Millo🏘️.
 
-**25**🔢 Three🔢 times📅 each💯 year📅, Solomon👑 offered🙏 burnt🔥 offerings🫗 and➕ peace🕊️ offerings🫗 on📍 the⛪ altar🪨 he👑 had💯 built🏗️ for🙏 Yahweh🙏, burning🔥 incense🌫️ there📍 too➕. That💯 completed✅ the🏛️ house🏛️.
+**25**🔢 Three🔢 times📅 each💯 year📅, Solomon👑 offered🙏 burnt🔥 offerings🫗 and➕ peace🕊️ offerings🫗 on📍 the⛪ altar🪨 he👑 had💯 built🏗️ for🙏 Yahweh🙏, burning🔥 incense🌫️ there📍 too➕. Afterward⏭️, Solomon👑 had💯 completed✅ the🏛️ house🏛️.
 
 **26**🔢 King👑 Solomon👑 built🏗️ a💯 fleet🚢—meli🚢—of🚢 ships🚢 at📍 Ezion🏘️ Geber🏘️, beside📍 Eloth🏘️ on🌊 the📍 shore🏝️ of🌊 the📍 Red🔴 Sea🌊, in📍 Edom🏜️.
 
