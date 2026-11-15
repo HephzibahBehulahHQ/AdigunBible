@@ -70,3 +70,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 
 | hosea 4 | [Hosea 4 KJV](https://www.biblegateway.com/passage/?search=Hosea+4&version=KJV) | Public domain |
 | hosea 3 | [Hosea 3 KJV](https://www.biblegateway.com/passage/?search=Hosea+3&version=KJV) | Public domain |
+| hosea 2 | [Hosea 2 KJV](https://www.biblegateway.com/passage/?search=Hosea+2&version=KJV) | Public domain |
