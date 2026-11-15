@@ -32,7 +32,7 @@
 
 **12**🔢 Baana👨 son👦 of🌳 Ahilud👨 covered🗺️ Taanach🏘️, Megiddo🏘️, and➕ all💯 Beth🏘️ Shean🏘️ beside🌊 Zarethan🏘️, below⬇️ Jezreel🏞️—from📍 Beth🏘️ Shean🏘️ to📍 Abel🏘️ Meholah🏘️ and➡️ beyond📍 Jokmeam🏘️.
 
-**13**🔢 Ben👨 Geber👨 managed🗺️ Ramoth🏘️ Gilead🏞️, plus➕ the🏘️ Gilead🏘️ towns🏘️ Jair👨 son👦 of🌳 Manasseh👨 held📍. He👨 also➕ covered🗺️ Argob🏞️ in📍 Bashan🏞️, with📍 its👥 sixty🔢 large📈 cities🏙️, walls🧱, and➕ bronze🟤 bars🚪.
+**13**🔢 Ben👨 Geber👨 managed🗺️ Ramoth🏘️ Gilead🏞️, including➕ the👈 Gilead🏞️ towns🏘️ of📍 Jair👨 son👦 of🌳 Manasseh👨 that📍 fell📍 under📍 his👨 authority👑. He👨 also➕ oversaw👀 Argob🏞️ in📍 Bashan🏞️, with🤝 its👥 sixty🔢 large📈 cities🏙️, walls🧱, and➕ bronze🟤 bars🚪.
 
 **14**🔢 Ahinadab👨 son👦 of🌳 Iddo👨 handled🗺️ Mahanaim🏘️.
 
