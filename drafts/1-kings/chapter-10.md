@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 10 (29 verses), checked at https://biblehub.com/web/1_kings/10.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–29 is included. Required code switches are distributed through the chapter: Yoruba (ọlọ́rọ̀), German (wahr), French (sagesse), Igbo (udo), Hausa (ƙasa), Jamaican Patois (fi), Hebrew (ḥokhmah), plus Spanish (feliz) and Swahili (dhahabu). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–29 is included. Required code switches are distributed through the chapter: Yoruba (ọlọ́rọ̀), German (wahr), French (sagesse), Igbo (ezi omume), Hausa (ƙasa), Jamaican Patois (fi), Hebrew (ḥokhmah), plus Spanish (benditos) and Swahili (dhahabu). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -20,13 +20,13 @@
 
 **6**🔢 She👸 said🗣️ to👑 the📜 king👑, “What💬 I🙋 heard👂 back🏠 home🏠 about📣 your👑 life✨ and➕ wisdom🧠 was💯 true✅—wahr✅.”
 
-**7**🔢 “I🙋 didn’t🙅 believe🧠 the📣 reports📜 until⏳ I🙋 came🚶 and👀 saw👀 it💯 with👀 my👸 own👀 eyes👀. Honestly💯, they👥 didn’t🙅 even✨ tell🗣️ me🙋 half½ of📍 it💯! Your👑 wisdom🧠 and➕ success📈 go🏆 way📈 beyond↗️ what💬 I🙋 heard👂.”
+**7**🔢 “I🙋 didn’t🙅 believe🧠 the📣 reports📜 until⏳ I🙋 came🚶 and👀 saw👀 it💯 with👀 my👸 own👀 eyes👀. Honestly💯, they👥 didn’t🙅 even✨ tell🗣️ me🙋 half🔢 of📍 it💯! Your👑 wisdom🧠—sagesse🧠—and➕ success📈 go🏆 way📈 beyond↗️ what💬 I🙋 heard👂.”
 
-**8**🔢 “Your👥 men👥 are💯 blessed🙏, and➕ these👥 servants🧑‍🤝‍🧑 standing🧍 before🙏 you👑 every💯 day📅 are💯 blessed🙏 too➕, because💭 they👥 get💯 to👂 hear👂 your👑 wisdom🧠.”
+**8**🔢 “Your👥 men👥 are💯 blessed🙏—benditos🙏—and➕ these👥 servants🧑‍🤝‍🧑 standing🧍 before🙏 you👑 every💯 day📅 are💯 blessed🙏 too➕, because💭 they👥 get💯 to👂 hear👂 your👑 wisdom🧠.”
 
-**9**🔢 “Blessed🙏 be🙏 Yahweh🙏 your👑 God🙏, who💛 delighted😊 in📍 you👑 and➕ placed👑 you👑 on🪑 Israel’s🇮🇱 throne👑. Because💛 Yahweh🙏 loves❤️ Israel🇮🇱 forever⏳, He🙏 made👑 you👑 king👑 to⚖️ uphold⚖️ justice⚖️ and➕ righteousness✅—udo🕊️ for🤝 the🌍 people👥.”
+**9**🔢 “Blessed🙏 be🙏 Yahweh🙏 your👑 God🙏, who💛 delighted😊 in📍 you👑 and➕ placed👑 you👑 on🪑 Israel’s🇮🇱 throne👑. Because💛 Yahweh🙏 loves❤️ Israel🇮🇱 forever⏳, He🙏 made👑 you👑 king👑 to⚖️ uphold⚖️ justice⚖️ and➕ righteousness✅—ezi✅ omume✅ for🤝 the🌍 people👥.”
 
-**10**🔢 She👸 gave🎁 the👑 king👑 one☝️ hundred🔢 twenty🔢 talents💰 of✨ gold🪙, a💯 huge📦 supply📦 of🌿 spices🌿, and➕ precious💎 stones💎. No🚫 one🌿 ever⏳ brought📦 Solomon👑 spice🌿 wealth💰 like💯 the👸 queen👸 of📍 Sheba🏞️ did✅.
+**10**🔢 She👸 gave🎁 the👑 king👑 one☝️ hundred🔢 twenty🔢 talents💰 of✨ gold🪙—dhahabu🪙—and➕ a💯 huge📦 supply📦 of🌿 spices🌿, and➕ precious💎 stones💎. No🚫 one🌿 ever⏳ brought📦 Solomon👑 spice🌿 wealth💰 like💯 the👸 queen👸 of📍 Sheba🏞️ did✅.
 
 **11**🔢 Hiram’s👑 fleet🚢, which👥 carried🚚 gold🪙 from📍 Ophir🏝️, also➕ brought🚢 back⬅️ great💯 loads📦 of🌳 almug🌳 wood🪵 and➕ precious💎 stones💎.
 
@@ -56,7 +56,7 @@
 
 **24**🔢 People👥 everywhere🌍 wanted💭 to👀 meet🤝 Solomon👑 and➡️ hear👂 the🧠 wisdom🧠—ḥokhmah🧠—God🙏 had💯 placed🫀 in📍 his👑 heart❤️.
 
-**25**🔢 Every📅 year📅, each💯 visitor👤 brought🎁 tribute💰: silver🥈 vessels🏺, gold🪙 vessels🏺, clothes👘, weapons🛡️, spices🌿, horses🐎, and➕ mules🫏.
+**25**🔢 Every📅 year📅, each💯 visitor👤 brought🎁 tribute💰 for👑 the📜 king👑—fi👑 di👑 king👑—: silver🥈 vessels🏺, gold🪙 vessels🏺, clothes👘, weapons🛡️, spices🌿, horses🐎, and➕ mules🫏.
 
 **26**🔢 Solomon👑 gathered📋 chariots🛞 and➕ horsemen🐎: one☝️ thousand🔢 four🔢 hundred🔢 chariots🛞 and➕ twelve🔢 thousand🔢 horsemen🐎. He👑 stationed📍 them👥 in📍 the🏙️ chariot🏙️ cities🏘️ and➕ with🤝 the👑 king👑 in📍 Jerusalem🏙️.
 
