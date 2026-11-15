@@ -119,3 +119,5 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | ezekiel 30 | [Ezekiel 30 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+30&version=KJV) | Public domain |
 
 | ezekiel 29 | [Ezekiel 29 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+29&version=KJV) | Public domain |
+
+| ezekiel 28 | [Ezekiel 28 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+28&version=KJV) | Public domain |
