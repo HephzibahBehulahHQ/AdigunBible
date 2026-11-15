@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 18 (46 verses), checked at https://bible.ontariocommunitychurch.org/web/1-kings/18. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–46 is included. Required code switches appear in the verse text: Yoruba (òjò), German (gut), French (veuve), Igbo (mmiri), Hausa (ruwa), Jamaican Patois (mi lord), Hebrew (navi), plus Spanish (fuego) and Portuguese (chuva). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–46 is included. Required code switches appear in the verse text: Yoruba (òjò), German (gut), French (voix), Igbo (mmiri), Hausa (ruwa), Jamaican Patois (mi lord), Hebrew (navi), plus Spanish (fuego) and Portuguese (chuva). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
