@@ -82,3 +82,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | daniel 5 | [Daniel 5 KJV](https://www.biblegateway.com/passage/?search=Daniel+5&version=KJV) | Public domain |
 | daniel 4 | [Daniel 4 KJV](https://www.biblegateway.com/passage/?search=Daniel+4&version=KJV) | Public domain |
 | daniel 3 | [Daniel 3 KJV](https://www.biblegateway.com/passage/?search=Daniel+3&version=KJV) | Public domain |
+| daniel 2 | [Daniel 2 KJV](https://www.biblegateway.com/passage/?search=Daniel+2&version=KJV) | Public domain |
