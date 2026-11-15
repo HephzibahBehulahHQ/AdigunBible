@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible Classic, 1 Kings 22 (53 verses), checked at https://ebible.org/eng-web/1KI22.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–53 is included. Required code switches appear in the verse text: Yoruba (ọba), German (Wahrheit), French (prophète), Igbo (mmụọ), Hausa (gida), Jamaican Patois (mi), Hebrew (navi), plus Spanish (mentira) and Portuguese (paz). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–53 and word-level emoji pairing passed. A verse-by-verse meaning pass against the World English Bible Classic source is complete. Required code-switch terms appear in the verse text; their linguistic accuracy, full-chapter Gen Z voice, and rendering still need review, so this chapter remains a draft.
 
 ## Verses
 
