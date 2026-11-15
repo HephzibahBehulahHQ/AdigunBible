@@ -42,7 +42,7 @@
 
 **17**🔢 She👑 answered🗣️, “My🙇 lord👑, you👄 swore🙏 by🌟 Yahweh🙏 your👑 God🙏 to👩 your🤲 servant👩, ‘Solomon👑 your👦 son👑 will💯 reign👑 after⏭️ me🙋 and🪑 sit👑 on🪑 my👑 throne🪑.’”
 
-**18**🔢 “But😳 look👀, Adonijah👑 is💺 acting👑 king👑 now⏰, and➡️ you👑, my🙇 lord👑 the📜 king👑, don’t🙈 know🧠 aboutℹ️ it👑.”
+**18**🔢 “But😳 look👀, Adonijah👑 is💺 acting👑 king👑 now⏰, and➡️ you👑, my🙇 lord👑 the📜 king👑, don’t🙈 know🧠 about💭 it👑.”
 
 **19**🔢 “He👑 has💯 sacrificed🐂 loads📦 of🐑 cattle🐂, sheep🐑, and➕ choice✨ animals🐄, and➡️ invited📨 all💯 the👑 king’s👑 sons👦, Abiathar🙏 the📜 priest⛪, and➕ Joab⚔️ the📣 army’s🛡️ commander👨‍✈️; but🚫 he👑 didn’t🙅 invite📨 your👑 servant👦 Solomon👑.”
 
