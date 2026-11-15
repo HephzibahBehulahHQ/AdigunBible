@@ -8,7 +8,7 @@
 
 ## Verses
 
-**1**🔢 Elijah🧔 the👨 Tishbite🏞️, one👤 of📍 the👥 settlers🏕️ in📍 Gilead🏞️, told🗣️ Ahab👑, “Yahweh🙏, Israel’s🇮🇱 God🙏, is💯 alive🫶—I🙋 stand🧍 before🙏 him🙏. No🚫 dew💧 or🔀 rain🌧️ will💯 fall🌧️ in📅 these👈 years🗓️ unless💯 I🙋 say🗣️ so💯.”
+**1**🔢 Elijah🧔 the👨 Tishbite🏞️, a💯 navi🕊️—Yahweh’s🙏 prophet🕊️—one👤 of📍 the👥 settlers🏕️ in📍 Gilead🏞️, told🗣️ Ahab👑, “Yahweh🙏, Israel’s🇮🇱 God🙏, is💯 alive🫶—I🙋 stand🧍 before🙏 him🙏. No🚫 dew💧 or🔀 rain🌧️ will💯 fall🌧️ in📅 these👈 years🗓️ unless💯 I🙋 say🗣️ so💯.”
 
 **2**🔢 Then⏰ Yahweh’s🙏 word📣 came📨 to📍 Elijah🧔.
 
@@ -20,7 +20,7 @@
 
 **6**🔢 The🪶 ravens🐦 brought📦 him👤 bread🍞—Brot🍞, pão🍞—and➕ meat🥩 in📅 the🌅 morning🌄 and➡️ again🔁 in📅 the🌆 evening🌇. He👤 drank🥤 from📍 the🌊 brook🌊.
 
-**7**🔢 After⏳ a💯 while⌛, the🌊 brook🌊 dried🏜️ up⬆️ because📍 no🚫 rain🌧️ was💯 falling🌧️ anywhere🌍 in📍 the🌍 land🌍.
+**7**🔢 After⏳ a💯 while⌛, the🌊 brook🌊 dried🏜️ up⬆️ because📍 no🚫 rain🌧️—pluie🌧️—was💯 falling🌧️ anywhere🌍 in📍 the🌍 land🌍.
 
 **8**🔢 Then⏰ Yahweh’s🙏 word📣 came📨 to📍 Elijah🧔 again🔁:
 
