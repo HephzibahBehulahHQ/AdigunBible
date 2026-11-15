@@ -10,11 +10,11 @@
 
 **1**🔢 Three🔢 years🗓️ passed⏳ with🤝 no🚫 war⚔️ between📍 Syria🇸🇾 and➡️ Israel🇮🇱.
 
-**2**🔢 In📅 year🗓️ three🔢, Jehoshaphat👑 king👑 of📍 Judah🇮🇱 went⬇️ down⬇️ to📍 Israel’s🇮🇱 king👑.
+**2**🔢 In📅 year🗓️ three🔢, Jehoshaphat👑, Judah’s🇮🇱 king👑—ọba👑— went⬇️ down⬇️ to📍 Israel’s🇮🇱 king👑.
 
 **3**🔢 Israel’s🇮🇱 king👑 told🗣️ his👑 officials👥, “You👥 know🧠 Ramoth🏘️ Gilead🏘️ belongs💯 to📍 us🙋, so💭 why❓ are💯 we🙋 sitting🪑 here💯 doing💯 nothing🚫, letting🫴 Syria’s🇸🇾 king👑 keep🫳 it👈?”
 
-**4**🔢 Ahab👑 asked🗣️ Jehoshaphat👑, “Will❓ you👑 join🤝 me🙋 in📍 battle⚔️ to📍 take🫳 Ramoth🏘️ Gilead🏘️ back↩️?” Jehoshaphat👑 answered🗣️, “I🙋 am💯 with🤝 you👑, my🙋 people👥 with🤝 your👑 people👥, my🙋 horses🐎 with🤝 your👑 horses🐎—ọba👑 side-by-side🤝.”
+**4**🔢 Ahab👑 asked🗣️ Jehoshaphat👑, “Will❓ you👑 join🤝 me🙋 in📍 battle⚔️ to📍 take🫳 Ramoth🏘️ Gilead🏘️ back↩️?” Jehoshaphat👑 answered🗣️, “I🙋 am💯 with🤝 you👑, my🙋 people👥 with🤝 your👑 people👥, my🙋 horses🐎 with🤝 your👑 horses🐎.”
 
 **5**🔢 Jehoshaphat👑 told🗣️ Israel’s🇮🇱 king👑, “First🥇, let’s🙋 ask🙏 Yahweh🙏 what💬 he🙋 says🗣️.”
 
@@ -34,11 +34,11 @@
 
 **13**🔢 The👨 messenger🧑 sent📨 to💯 fetch🫴 Micaiah🧔 told🗣️ him👤, “Look👀, every💯 prophet🕊️ is💯 giving🎁 the👑 king👑 one💯 positive💚 message🗣️. Please🙏 make💯 your👤 words💬 match🤝 theirs👥 and➡️ speak🗣️ good💚 things💬.”
 
-**14**🔢 Micaiah🧔 answered🗣️, “As⏳ surely💯 as💯 Yahweh🙏 lives🫶, I🙋 will💯 say🗣️—mi🙋 will💯 speak🗣️—only💯 what💬 Yahweh🙏 tells🗣️ me🙋.”
+**14**🔢 Micaiah🧔 answered🗣️, “As⏳ surely💯 as💯 Yahweh🙏 lives🫶, mi🙋 will💯 speak🗣️ only💯 what💬 Yahweh🙏 tells🗣️ me🙋.”
 
 **15**🔢 When⏰ Micaiah🧔 came🚶 to📍 the👑 king👑, Ahab👑 asked🗣️, “Should❓ we🙋 fight⚔️ at📍 Ramoth🏘️ Gilead🏘️, or🔀 not🚫?” Micaiah🧔 answered🗣️, “Sure✅, go⬆️ and➡️ win🏆; Yahweh🙏 will💯 hand🤲 it👈 over➡️ to📍 the👑 king👑.” 
 
-**16**🔢 The👑 king👑 said🗣️, “How⏳ many💯 times🔁 must💯 I🙋 make🗣️ you👤 swear🤞 to💯 tell🗣️ me🙋 only💯 the👈 truth✅ in📍 Yahweh’s🙏 name📛—Wahrheit✅, the👈 real💯 truth✅?”
+**16**🔢 The👑 king👑 said🗣️, “How⏳ many💯 times🔁 must💯 I🙋 make🗣️ you👤 swear🤞 to💯 tell🗣️ me🙋 only💯 the👈 truth✅ in📍 Yahweh’s🙏 name📛—Wahrheit✅?””
 
 **17**🔢 Micaiah🧔 said🗣️, “I👀 saw👀 Israel🇮🇱 scattered💨 across📍 the⛰️ mountains⛰️, like💯 sheep🐑 with🚫 no🚫 shepherd🧑‍🌾. Yahweh🙏 said🗣️, ‘These👥 people👥 have🚫 no🚫 master👑. Let👥 them👥 each💯 return🚶 to📍 their👥 gida🏠—home🏠—in📍 peace🕊️, paz🕊️.’”
 
@@ -48,9 +48,9 @@
 
 **20**🔢 Yahweh🙏 asked🗣️, ‘Who👤 can💯 lure🎣 Ahab👑 into📍 going🚶 up⬆️ to📍 Ramoth🏘️ Gilead🏘️, where📍 he👑 will💯 fall💀?’ One👤 spirit🕊️ suggested🗣️ one💯 plan📋, another🔀 suggested🗣️ a💯 different🔀 one💯.
 
-**21**🔢 Then⏰ a💯 spirit🕊️ stepped🚶 forward⬆️, stood🧍 before🙏 Yahweh🙏, and➡️ said🗣️, ‘I🙋 will💯 lure🎣 him👑.’
+**21**🔢 Then⏰ a💯 spirit🕊️—mmụọ🕊️—stepped🚶 forward⬆️, stood🧍 before🙏 Yahweh🙏, and➡️ said🗣️, ‘I🙋 will💯 lure🎣 him👑.’
 
-**22**🔢 Yahweh🙏 asked🗣️, ‘How❓?’ The👈 spirit🕊️ answered🗣️, ‘I🙋 will💯 become🔄 a💯 lying🤥 spirit🕊️ in📍 the👄 mouths👄 of📍 all💯 his👑 prophets🕊️.’ Yahweh🙏 said🗣️, ‘You👤 can💯 lure🎣 him👑. You👤 will💯 succeed🏆. Go🚶 do✅ it👈.’—mmụọ🕊️, a💯 spirit🕊️.
+**22**🔢 Yahweh🙏 asked🗣️, ‘How❓?’ The👈 spirit🕊️ answered🗣️, ‘I🙋 will💯 become🔄 a💯 lying🤥 spirit🕊️—a💯 mentira🤥—in📍 the👄 mouths👄 of📍 all💯 his👑 prophets🕊️.’ Yahweh🙏 said🗣️, ‘You👤 can💯 lure🎣 him👑. You👤 will💯 succeed🏆. Go🚶 do✅ it👈.’
 
 **23**🔢 So⚖️ Micaiah🧔 said🗣️, “Yahweh🙏 has💯 put📍 a💯 lying🤥 spirit🕊️ in📍 the👄 mouths👄 of📍 all💯 these👥 prophets🕊️ of📍 yours👑. Yahweh🙏 has💯 declared🗣️ disaster⚡ for📍 you👑—a💯 mentira🤥, a💯 lie🤥, is💯 what💬 they👥 are💯 speaking🗣️.”
 
