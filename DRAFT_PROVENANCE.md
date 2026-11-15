@@ -77,3 +77,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | daniel 10 | [Daniel 10 KJV](https://www.biblegateway.com/passage/?search=Daniel+10&version=KJV) | Public domain |
 | daniel 9 | [Daniel 9 KJV](https://www.biblegateway.com/passage/?search=Daniel+9&version=KJV) | Public domain |
 | daniel 8 | [Daniel 8 KJV](https://www.biblegateway.com/passage/?search=Daniel+8&version=KJV) | Public domain |
+| daniel 7 | [Daniel 7 KJV](https://www.biblegateway.com/passage/?search=Daniel+7&version=KJV) | Public domain |
