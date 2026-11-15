@@ -48,7 +48,7 @@
 
 **20**🔢 The📚 rest➕ of📍 Zimri’s👑 story📖 and➡️ his👑 treason⚔️—trahison⚔️—are💯 recorded✍️ in📍 Israel’s🇮🇱 kings👑 chronicles📚, right🫡?
 
-**21**🔢 Israel🇮🇱 split🪓 into📍 two🔢 camps🏕️: mitad🇪🇸 of📍 the👥 people👥 backed🤝 Tibni👨 son👦 of📍 Ginath👨 to💯 make👑 him👨 king👑; the👈 other🔀 half½ backed🤝 Omri👨.
+**21**🔢 Israel🇮🇱 split🪓 into📍 two🔢 camps🏕️: mitad🇪🇸 of📍 the👥 people👥 backed🤝 Tibni👨 son👦 of📍 Ginath👨 to💯 make👑 him👨 king👑; the👈 other🔀 half🔢 backed🤝 Omri👨.
 
 **22**🔢 Omri’s👥 side👥 beat⚔️ Tibni’s👥 side👥. Tibni👨 died💀, and➡️ Omri👑 ruled👑.
 
