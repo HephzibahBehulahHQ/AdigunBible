@@ -4,11 +4,11 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 18 (46 verses), checked at https://bible.ontariocommunitychurch.org/web/1-kings/18. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–46 is included. Required code switches appear in the verse text: Yoruba (òjò), German (Hab keine Angst), French (veuve), Igbo (mmiri), Hausa (ruwa), Jamaican Patois (mi lord), Hebrew (navi), plus Spanish (fuego) and Portuguese (chuva). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–46 is included. Required code switches appear in the verse text: Yoruba (òjò), German (gut), French (veuve), Igbo (mmiri), Hausa (ruwa), Jamaican Patois (mi lord), Hebrew (navi), plus Spanish (fuego) and Portuguese (chuva). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
-**1**🔢 After⏳ many💯 days🗓️, Yahweh’s🙏 word📣 came📨 to📍 Elijah🧔 in📅 year🗓️ three🔢: “Go🚶 face👀 Ahab👑 again🔁, and➡️ I🙋 will💯 send📨 rain🌧️—òjò🌧️—over📍 the🌍 land🌍.”
+**1**🔢 After⏳ many💯 days🗓️, Yahweh’s🙏 word📣 came📨 to📍 Elijah🧔, a💯 navi🕊️ prophet🕊️, in📅 year🗓️ three🔢: “Go🚶 face👀 Ahab👑 again🔁, and➡️ I🙋 will💯 send📨 rain🌧️—òjò🌧️—over📍 the🌍 land🌍.”
 
 **2**🔢 Elijah🧔 went🚶 to💯 meet🤝 Ahab👑. The🏜️ famine🍽️ was💯 crushing😰 Samaria🏙️.
 
@@ -54,7 +54,7 @@
 
 **23**🔢 Bring🚶 us🙋 two🔢 bulls🐂. Let👥 them👥 choose✅ one🔀 bull🐂, cut🔪 it👈 up🔪, and➡️ lay🪵 it👈 on📍 the🪵 wood🪵—no🚫 fire🔥 underneath⬇️. I🙋 will💯 prepare🪓 the👈 other🔀 bull🐂 and➡️ set🪵 it👈 on📍 wood🪵 too➕, with🚫 no🚫 fire🔥 under⬇️ it👈.
 
-**24**🔢 Then⏰ you👥 call📣 on📍 your👥 god🪨, and➡️ I🙋 will💯 call📣 on📍 Yahweh🙏. The👈 God🙏 who👤 answers📣 with🤝 fire🔥—fuego🔥—is💯 God🙏.” Everyone👥 said🗣️, “That✅ sounds👂 fair✅.”
+**24**🔢 Then⏰ you👥 call📣 on📍 your👥 god🪨, and➡️ I🙋 will💯 call📣 on📍 Yahweh🙏. The👈 God🙏 who👤 answers📣 with🤝 fire🔥—fuego🔥—is💯 God🙏.” Everyone👥 said🗣️, “What💬 you👤 say🗣️ is💯 good✅—gut✅.”
 
 **25**🔢 Elijah🧔 told🗣️ Baal’s🪨 prophets🕊️, “You👥 choose✅ a💯 bull🐂 and➡️ prepare🪓 it👈 first🥇, since📍 you👥 are💯 more💯 numerous👥. Call📣 on📍 your👥 god🪨, but↩️ don’t🚫 start🏁 a💯 fire🔥.”
 
@@ -64,7 +64,7 @@
 
 **28**🔢 They👥 shouted📢 louder📢 and➡️ cut🔪 themselves🫵, following🚶 their👥 ritual🛐, with⚔️ knives🔪 and➡️ spears🗡️ until⏳ blood🩸 poured🌊 out⬇️.
 
-**29**🔢 They👥 kept🔁 prophesying🗣️ past⏰ midday☀️ until📅 the👈 evening🌆 offering🙏 time⏳. Still😶 no🚫 voice🗣️, no🚫 answer📣, and➡️ nobody👤 paid👀 attention👂.
+**29**🔢 They👥 kept🔁 prophesying🗣️ past⏰ midday☀️ until📅 the👈 evening🌆 offering🙏 time⏳. Still😶 no🚫 voice🗣️—voix🗣️—, no🚫 answer📣, and➡️ nobody👤 paid👀 attention👂.
 
 **30**🔢 Elijah🧔 called📣 to📍 all💯 the👥 people👥, “Come🚶 closer📍 to📍 me🙋.” Everyone👥 gathered🤝 around📍 him👤. Then⏰ he👤 rebuilt🧱 Yahweh’s🙏 altar🪨, the👈 one🪨 that👥 had💯 been💯 knocked💥 down⬇️.
 
@@ -72,7 +72,7 @@
 
 **32**🔢 Using🛠️ those👉 stones🪨, Elijah🧔 built🧱 Yahweh’s🙏 altar🪨. He👤 dug⛏️ a💯 trench🕳️ around↪️ it👈, big📏 enough💯 to💯 hold📦 two🔢 seahs🌾 of📍 seed🌱.
 
-**33**🔢 He👤 arranged🪵 the🪵 wood🪵, cut🔪 the👈 bull🐂 into📍 pieces🔪, and➡️ laid🪵 it👈 on📍 the🪵 wood🪵. Then⏰ he👤 said🗣️, “Fill🫗 four🔢 jars🏺 with🤝 water💧 and➡️ pour🫗 it💧 over⬇️ the👈 offering🙏 and➡️ the🪵 wood🪵.”
+**33**🔢 He👤 arranged🪵 the🪵 wood🪵, cut🔪 the👈 bull🐂 into📍 pieces🔪, and➡️ laid🪵 it👈 on📍 the🪵 wood🪵. Then⏰ he👤 said🗣️, “Fill🫗 four🔢 jars🏺 with🤝 water💧—mmiri💧, ruwa💧—and➡️ pour🫗 it💧 over⬇️ the👈 offering🙏 and➡️ the🪵 wood🪵.”
 
 **34**🔢 “Do✅ it👈 a💯 second2️⃣ time⏳,” he👤 said🗣️. They👥 did✅ it👈. “Now⏰ do✅ it👈 a💯 third3️⃣ time⏳.” They👥 did✅ that👈 too➕.
 
