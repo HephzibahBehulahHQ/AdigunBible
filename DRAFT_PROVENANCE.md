@@ -44,3 +44,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | jonah 3 | [Jonah 3 KJV](https://www.biblegateway.com/passage/?search=Jonah+3&version=KJV) | Public domain |
 | jonah 2 | [Jonah 2 KJV](https://www.biblegateway.com/passage/?search=Jonah+2&version=KJV) | Public domain |
 | jonah 1 | [Jonah 1 KJV](https://www.biblegateway.com/passage/?search=Jonah+1&version=KJV) | Public domain |
+| obadiah 1 | [Obadiah KJV](https://www.biblegateway.com/passage/?search=Obadiah+1&version=KJV) | Public domain |
