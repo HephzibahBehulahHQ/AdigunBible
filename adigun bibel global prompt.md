@@ -35,7 +35,7 @@ A complete, original Gen Z Bible edition and modern Scripture reading platform. 
 
 This voice rule applies to every book, chapter, heading, and verse in the single canonical AdigunBible edition. Do not apply it only to Genesis or to a sample chapter.
 
-- Write Scripture verse by verse in vivid, conversational Gen Z storytelling. Do not render the verse text as plain formal English.
+- Take a reliable source verse as the meaning reference, apply these voice rules to its full wording, and produce original AdigunBible text. Reword every ordinary source phrase into vivid, conversational Gen Z storytelling; do not leave the verse as plain formal English or merely add one slang word.
 - Use natural slang, abbreviations, punchy reactions, and code-switching between languages when it fits.
 - Pair an appropriate emoji with every word in the verse narration. Emojis accompany the words; they never replace Scripture.
 - Keep verse numbers, facts, speakers, event order, commands, promises, and theological meaning intact.
