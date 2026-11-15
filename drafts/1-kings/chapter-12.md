@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 12 (33 verses), checked at https://biblehub.com/web/1_kings/12.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–33 is included. Required code switches are distributed through the chapter: Yoruba (ìjọba), German (Rat), French (léger), Igbo (ndị mmadụ), Hausa (suka fada), Jamaican Patois (unu), Hebrew (אֱלֹהִים), plus Spanish (vuelvan) and Swahili (ndama wawili). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–33 is included. Required code switches are distributed through the chapter: Yoruba (ìjọba), German (Rat), French (léger), Igbo (ndị mmadụ), Hausa (suka fada), Jamaican Patois (unu), Hebrew (אֱלֹהִים), plus Spanish (vuelvan) and Swahili (ndama wawili). Each verse word is paired with an emoji. Meaning review against the World English Bible is complete. Verse 20 now specifies Judah as the one tribe that stayed loyal to David’s house, and verse 25 follows the source’s wording that Jeroboam built up Shechem. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -46,7 +46,7 @@
 
 **19**🔢 So➡️ Israel🇮🇱 has💯 been💯 in⚔️ rebellion⚔️ against📍 David’s👑 house🏠—ìjọba👑 divided↔️—ever⏳ since📅.
 
-**20**🔢 When⏳ all💯 Israel🇮🇱 heard👂 Jeroboam👨 was💯 back🚶, they👥 called📣 a💯 gathering🤝—ndị👥 mmadụ👥—and➡️ made👑 him👨 king👑 over📍 all💯 Israel🇮🇱. Only☝️ Judah🏞️ remained⏳ loyal🤝 to👑 David’s👑 family🏠.
+**20**🔢 When⏳ all💯 Israel🇮🇱 heard👂 Jeroboam👨 was💯 back🚶, they👥 called📣 a💯 gathering🤝—ndị👥 mmadụ👥—and➡️ made👑 him👨 king👑 over📍 all💯 Israel🇮🇱. Only☝️ the👈 tribe👥 of📍 Judah🏞️ remained⏳ loyal🤝 to👑 David’s👑 family🏠.
 
 **21**🔢 Rehoboam👑 arrived🚶 in📍 Jerusalem🏙️ and➡️ gathered🛡️ all💯 Judah🏞️ and➕ Benjamin🏞️—one☝️ hundred🔢 eighty🔢 thousand🔢 chosen✅ warriors⚔️—to⚔️ fight⚔️ Israel🇮🇱 and➡️ bring🔄 the👑 kingdom🏰 back↩️ to👑 Rehoboam👑 son👦 of🌳 Solomon👑.
 
@@ -56,7 +56,7 @@
 
 **24**🔢 “‘Yahweh🙏 says🗣️: “Don’t🚫 march🏃 out🚶 or🚫 fight⚔️ your👥 own🤝 Israelite🇮🇱 relatives👬. Everyone👥 go🚶 back↩️ home🏠, because💭 this📜 situation📍 came💯 from🙋 Me🙋.”’” So➡️ they👥 obeyed👂 Yahweh’s🙏 word📜 and➡️ went🚶 back↩️ home🏠, just💯 as💬 He🙏 had💯 said🗣️.
 
-**25**🔢 Jeroboam👨 strengthened🏗️ Shechem🏘️ in📍 Ephraim’s🏞️ hill⛰️ country🏞️ and➡️ settled🏠 there📍. Then➡️ he👨 left🚶 and➡️ built🏗️ up⬆️ Penuel🏘️ too➕.
+**25**🔢 Jeroboam👨 built🏗️ up⬆️ Shechem🏘️ in📍 Ephraim’s🏞️ hill⛰️ country🏞️ and➡️ settled🏠 there📍. Then➡️ he👨 left🚶 and➡️ built🏗️ up⬆️ Penuel🏘️ too➕.
 
 **26**🔢 Jeroboam👨 thought💭 to💭 himself👤, “The🏰 kingdom🏰 could💭 return🔄 to👑 David’s👑 family🏠.”
 
