@@ -8,11 +8,11 @@
 
 ## Verses
 
-**1**🔢 Ben-Hadad👑, Syria’s🇸🇾 king👑, brought🚶 his👑 whole💯 army⚔️ together👥, plus➕ thirty-two🔢 other🔢 kings👑 with🤝 horses🐎—Pferde🐎—and➡️ chariots🏇. He👑 marched🥾 up⬆️, surrounded🛡️ Samaria🏙️, and➡️ attacked⚔️ it🏙️.
+**1**🔢 Ben-Hadad👑, Syria’s🇸🇾 king👑—ọba👑—brought🚶 his👑 whole💯 army⚔️ together👥, plus➕ thirty-two🔢 other🔢 kings👑 with🤝 horses🐎—Pferde🐎—and➡️ chariots🏇. He👑 marched🥾 up⬆️, surrounded🛡️ Samaria🏙️, and➡️ attacked⚔️ it🏙️.
 
 **2**🔢 Ben-Hadad👑 sent📨 messengers👥 into📍 the🏙️ city🏙️ to💯 Ahab👑, king👑 of📍 Israel🇮🇱, with📍 this📣 message📰:
 
-**3**🔢 “Ben-Hadad👑 says🗣️, ‘Your👑 silver🥈 and➡️ gold🥇 are💯 mine🙋. Your👑 wives👸 and➡️ children👦 too➕—especially💯 the👈 best🏆 ones👥—belong💯 to📍 me🙋.’”
+**3**🔢 “Ben-Hadad👑 says🗣️, ‘Your👑 silver🥈—argent🥈—and➡️ gold🥇 are💯 mine🙋. Your👑 wives👸 and➡️ children👦 too➕—especially💯 the👈 best🏆 ones👥—belong💯 to📍 me🙋.’”
 
 **4**🔢 Israel’s🇮🇱 king👑 replied🗣️, “It’s💯 just💯 as💬 you👑 say🗣️, my🙋 lord👑 and➡️ king👑. I🙋 am💯 yours👑, and➡️ everything💯 I🙋 have💯 is💯 yours👑—eze👑, sarki👑.”
 
@@ -32,7 +32,7 @@
 
 **12**🔢 Ben-Hadad👑 got📨 that👈 reply📰 while⏳ drinking🍷 with🤝 the👥 kings👑 in📍 their👥 tents⛺. He👑 told🗣️ his👥 men👥, “Get🛠️ ready🛡️ to💯 attack⚔️!” So➡️ they👥 lined🧍 up🧍 against⚔️ the🏙️ city🏙️.
 
-**13**🔢 A💯 prophet🕊️ came🚶 to📍 Ahab👑, Israel’s🇮🇱 king👑, and➡️ said🗣️, “Yahweh🙏 says🗣️, ‘See👀 this👈 huge💯 crowd👥? Today📅 I🙋 will💯 hand🤲 them👥 over➡️ to📍 you👑. Then⏰ you👑 will💯 know🧠 I🙋 am💯 Yahweh🙏.’”
+**13**🔢 A💯 navi🕊️ prophet🕊️ came🚶 to📍 Ahab👑, Israel’s🇮🇱 king👑, and➡️ said🗣️, “Yahweh🙏 says🗣️, ‘See👀 this👈 huge💯 crowd👥? Today📅 I🙋 will💯 hand🤲 them👥 over➡️ to📍 you👑. Then⏰ you👑 will💯 know🧠 I🙋 am💯 Yahweh🙏.’”
 
 **14**🔢 Ahab👑 asked🗣️, “Who👤 will💯 do✅ it👈?” The👨 prophet👨 said🗣️, “Yahweh🙏 says🗣️, ‘The👦 young👦 men👨 serving🧑 the👑 provincial🏘️ rulers👑.’” Ahab👑 asked🗣️, “Who👤 starts🏁 the👈 battle⚔️?” The👨 prophet👨 answered🗣️, “You👑.”
 
