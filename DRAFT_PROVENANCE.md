@@ -115,3 +115,5 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | ezekiel 32 | [Ezekiel 32 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+32&version=KJV) | Public domain |
 
 | ezekiel 31 | [Ezekiel 31 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+31&version=KJV) | Public domain |
+
+| ezekiel 30 | [Ezekiel 30 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+30&version=KJV) | Public domain |
