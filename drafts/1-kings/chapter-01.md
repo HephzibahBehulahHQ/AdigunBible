@@ -16,7 +16,7 @@
 
 **4**🔢 She🌼 was💯 truly✨ beautiful🌸; she👩 cared🫶 for👑 the📜 king👑 and🛎️ served🤲 him🫅, but🚫 the👑 king👀 did🚫 not🙅‍♀️ sleep🛏️ with💞 her👩.
 
-**5**🔢 Then⚡ Adonijah👑, Haggith’s👩 son👦, started🚀 hyping📣 himself🙋‍♂️ up📈: “I👑 am💯 taking🏆 the👑 throne🪑!” He🧍 got🛠️ chariots🛞, horsemen🐎, and➕ fifty5️⃣ men🏃 to🏃‍♂️ run🏃 ahead🏁 of🫅 him👑.
+**5**🔢 Then⚡ Adonijah👑, Haggith’s👩 son👦, started🚀 hyping📣 himself🙋‍♂️ up📈: “I👑 am💯 taking🏆 the👑 throne🪑!” He🧍 got🛠️ chariots🛞, horsemen🐎, and➕ fifty💯 men🏃 to🏃‍♂️ run🏃 ahead🏁 of🫅 him👑.
 
 **6**🔢 His👨 father👑 had🚫 never🕰️ checked🗣️ him🧒 by💬 asking❓, “Why🤔 did🫵 you👦 do⚡ that❓” Adonijah👑 was✨ also💯 very💯 handsome😎, and➡️ he👶 had💯 been👶 born🍼 after⏭️ Absalom👑.
 
@@ -24,7 +24,7 @@
 
 **8**🔢 But↩️ Zadok🙏 the📜 priest⛪, Benaiah🛡️ son👦 of🛡️ Jehoiada👨, Nathan📣 the📜 prophet🕊️, Shimei👨, Rei👨, and➕ David’s👑 mighty💪 warriors⚔️ were🚫 not🙅‍♂️ with🤝 Adonijah👑.
 
-**9**🔢 Adonijah👑 sacrificed🐑 sheep🐑, cattle🐂, and➕ choice✨ animals🐄 at📍 Zoheleth’s🪨 stone🪨 near📍 En-Rogel💧. He👑 invited📨 all💯 his👬 brothers👨, the👑 king’s👑 sons👦, and➕ Judah’s🏞️ royal👑 officials🧑‍💼.
+**9**🔢 Adonijah👑 sacrificed🐑 sheep🐑, cattle🐂, and➕ choice✨ animals🐄 at📍 Zoheleth’s🪨 stone🪨 near📍 En📍-Rogel💧. He👑 invited📨 all💯 his👬 brothers👨, the👑 king’s👑 sons👦, and➕ Judah’s🏞️ royal👑 officials🧑‍💼.
 
 **10**🔢 But🚫 he👑 left🚪 out❌ Nathan📣 the📜 prophet🕊️, Benaiah🛡️, the💪 mighty🛡️ warriors⚔️, and➕ his👬 brother👑 Solomon👑.
 
