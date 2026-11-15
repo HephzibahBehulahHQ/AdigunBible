@@ -12,19 +12,19 @@
 
 **2**🔢 Back⏪ then⏳, people👥 were💭 still⏳ sacrificing🫗 at📍 high⛰️ places⛩️, because💭 no🚫 house🏠 had💯 yet⏳ been🏗️ built🧱 for🙏 Yahweh’s🙏 name📛.
 
-**3**🔢 Solomon👑 loved❤️ Yahweh🙏 and➡️ followed👣 the📜 instructions🧭 David👑 his👨 father👑 had💬 taught📖 him👨. The📍 exception⚠️: he👑 still⏳ sacrificed🫗 and➕ burned🔥 incense🌫️ at📍 those⛰️ high⛩️ places📍.
+**3**🔢 Solomon👑 loved❤️ Yahweh🙏—Olúwa🙏—and➡️ followed👣 the📜 instructions🧭 David👑 his👨 father👑 had💬 taught📖 him👨. The📍 exception⚠️: he👑 still⏳ sacrificed🫗 and➕ burned🔥 incense🌫️ at📍 those⛰️ high⛩️ places📍.
 
 **4**🔢 The👑 king👑 went🚶 to📍 Gibeon🏘️, the💯 biggest📈 high⛰️ place⛩️, to🫗 offer🙏 sacrifices🐑 there📍. Solomon👑 presented🫴 a💯 thousand🔢 burnt🔥 offerings🫗 on📍 that⛩️ altar🪨.
 
 **5**🔢 That🌙 night🌃, Yahweh🙏 appeared✨ to👑 Solomon👑 in💤 a🌙 dream💭 at📍 Gibeon🏘️. God🙏 said🗣️, “Ask🙏 Me🙋 for💬 whatever🎁 you👑 want💭 Me🙏 to🤲 give🤲 you👑—was💬 soll🤔 Ich🙏 dir🤝 geben🤲?”
 
-**6**🔢 Solomon👑 answered🗣️, “You🙏 showed💛 great💯 faithful💛 love❤️ to👑 Your🙏 servant🧑 David👑 my👨 father👑, because💭 he👑 walked🚶 before🙏 You👑 with💯 truth✅, justice⚖️, and➕ a🤍 sincere💯 heart❤️.”
+**6**🔢 Solomon👑 answered🗣️, “You🙏 showed💛 great💯 faithful💛 love❤️ to👑 Your🙏 servant🧑 David👑 my👨 father👑, because💭 he👑 walked🚶 before🙏 You👑 in💯 truth✅, righteousness⚖️, and➕ a🤍 heart❤️ fully💯 loyal🤝 to🙏 You👑.”
 
 **7**🔢 “You🙏 kept🤝 that💛 great💯 love❤️ going🔄 and➡️ gave🎁 him👑 a👦 son👑 to🪑 sit👑 on🪑 his👑 throne👑 today📅. Now💬 Yahweh🙏 my🙋 God🙏, You🙏 have💯 made👑 me🙋 king👑 in📍 my👨 father’s👑 place➡️. I🙋 am💭 young🧒, barely🤏 know🧠 how🤔 to🚪 step🚶 out➡️ or🚪 come🏠 back⬅️—mi🙋 deh📍 yah📍, still⏳ learning📚.”
 
 **8**🔢 “Your🙇 servant👑 is💯 right📍 here🏘️ among🤝 Your🙏 people👥, the🌍 people👥 You🙏 chose✅—a💯 huge📈 crowd👥 nobody🚫 can💯 count🔢.”
 
-**9**🔢 “So🙏 give🤲 Your🙇 servant👑 a🫀 wise🧠, listening👂 heart❤️ to⚖️ judge⚖️ Your🙏 people👥 and🧠 tell🔎 good💛 from🆚 evil😈. Who🤷‍♂️ can💪 judge⚖️ this💯 massive🌍 people👥 of🙏 Yours👑? Hikma🧠—wisdom🧠—por🗣️ favor🙏.”
+**9**🔢 “So🙏 give🤲 Your🙇 servant👑 a🫀 wise🧠, listening👂 heart❤️—obi❤️—to⚖️ judge⚖️ Your🙏 people👥 and🧠 tell🔎 good💛 from🆚 evil😈. Who🤷‍♂️ can💪 judge⚖️ this💯 massive🌍 people👥 of🙏 Yours👑? Hikma🧠—sagesse🧠, wisdom🧠—por🗣️ favor🙏.”
 
 **10**🔢 The👑 Lord🙏 was😊 glad💛 Solomon👑 had🙏 asked🗣️ for💬 this📜.
 
@@ -44,7 +44,7 @@
 
 **18**🔢 “Three🔢 days📅 after⏭️ my🙋 baby👶 was🍼 born👶, she👩 gave👶 birth🍼 as🤝 well➕. We👭 were💯 together🏠 in📍 the👤 house🏠; nobody🚫 else👤 was🏠 there📍 with🤝 us👭—just💯 the📍 two🔢 of🙋 us👭.”
 
-**19**🔢 “That👩 woman’s👩 baby👶 died💔 during🌙 the📍 night🌃 because💭 she👩 rolled🛏️ onto📍 him👶.”
+**19**🔢 “That👩 woman’s👩 baby👶 died💔 during🌙 the📍 night🌃 because💭 she👩 had🛏️ lain🛏️ on📍 him👶.”
 
 **20**🔢 “In🕛 the📍 middle🌑 of🌙 the📍 night🌃, she👩 got🚶 up⬆️ while⏳ I🙋 slept💤, took🫴 my👶 son👶 from📍 beside🤝 me🙋, held🫂 him👶 close🤱, and➡️ put🫴 her👩 dead💔 baby👶 in🤱 my🙋 arms🫂.”
 
