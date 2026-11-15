@@ -105,3 +105,5 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | ezekiel 37 | [Ezekiel 37 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+37&version=KJV) | Public domain |
 
 | ezekiel 36 | [Ezekiel 36 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+36&version=KJV) | Public domain |
+
+| ezekiel 35 | [Ezekiel 35 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+35&version=KJV) | Public domain |
