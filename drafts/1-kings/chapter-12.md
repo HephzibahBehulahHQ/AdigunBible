@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 12 (33 verses), checked at https://biblehub.com/web/1_kings/12.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–33 is included. Required code switches are distributed through the chapter: Yoruba (ìjọba), German (Rat), French (léger), Igbo (ndị mmadụ), Hausa (fada), Jamaican Patois (unu), Hebrew (אֱלֹהִים), plus Spanish (vuelvan) and Swahili (ndama). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–33 is included. Required code switches are distributed through the chapter: Yoruba (ìjọba), German (Rat), French (léger), Igbo (ndị mmadụ), Hausa (suka fada), Jamaican Patois (unu), Hebrew (אֱלֹהִים), plus Spanish (vuelvan) and Swahili (ndama wawili). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -12,7 +12,7 @@
 
 **2**🔢 When⏳ Jeroboam👨 son👦 of🌳 Nebat👨 heard👂—he👨 was💯 still⏳ in📍 Egypt🇪🇬, where📍 he👨 had💯 fled🏃 from📍 King👑 Solomon👑—he👨 stayed🏠 there📍 in📍 Egypt🇪🇬.
 
-**3**🔢 The👥 people👥 sent📨 for👨 Jeroboam👨, and➡️ he👨 and➕ all💯 Israel’s🇮🇱 assembly👥 came🚶 to📍 Rehoboam👑. They👥 said🗣️ to👑 him👑,
+**3**🔢 The👥 people👥 sent📨 for👨 Jeroboam👨, and➡️ he👨 and➕ all💯 Israel’s🇮🇱 assembly👥 came🚶 to📍 Rehoboam👑. They👥 said🗣️—suka🗣️ fada🗣️—to👑 him👑,
 
 **4**🔢 “Your👨 father👑 put💪 a💯 harsh💥 yoke🪵 on📍 us🤝. Now🙏 ease🪶 the📦 hard💥 labor⚒️ and➕ heavy📦 yoke🪵 he👨 placed🪵 on📍 us🤝, and➡️ we🙋‍♂️ will💯 serve🤝 you👑”—make🪶 it📦 léger🪶.
 
@@ -46,7 +46,7 @@
 
 **19**🔢 So➡️ Israel🇮🇱 has💯 been💯 in⚔️ rebellion⚔️ against📍 David’s👑 house🏠—ìjọba👑 divided↔️—ever⏳ since📅.
 
-**20**🔢 When⏳ all💯 Israel🇮🇱 heard👂 Jeroboam👨 was💯 back🚶, they👥 called📣 a💯 gathering🤝 and➡️ made👑 him👨 king👑 over📍 all💯 Israel🇮🇱. Only☝️ Judah🏞️ remained⏳ loyal🤝 to👑 David’s👑 family🏠.
+**20**🔢 When⏳ all💯 Israel🇮🇱 heard👂 Jeroboam👨 was💯 back🚶, they👥 called📣 a💯 gathering🤝—ndị👥 mmadụ👥—and➡️ made👑 him👨 king👑 over📍 all💯 Israel🇮🇱. Only☝️ Judah🏞️ remained⏳ loyal🤝 to👑 David’s👑 family🏠.
 
 **21**🔢 Rehoboam👑 arrived🚶 in📍 Jerusalem🏙️ and➡️ gathered🛡️ all💯 Judah🏞️ and➕ Benjamin🏞️—one☝️ hundred🔢 eighty🔢 thousand🔢 chosen✅ warriors⚔️—to⚔️ fight⚔️ Israel🇮🇱 and➡️ bring🔄 the👑 kingdom🏰 back↩️ to👑 Rehoboam👑 son👦 of🌳 Solomon👑.
 
@@ -62,7 +62,7 @@
 
 **27**🔢 “If⚠️ these👥 people👥 keep🚶 going🚶 up⬆️ to🏛️ Yahweh’s🙏 house🏛️ in📍 Jerusalem🏙️ to🙏 offer🫗 sacrifices🫗, their👥 hearts❤️ will💯 turn🔄 back↩️ to📍 their👥 lord👑 Rehoboam👑 king👑 of📍 Judah🏞️. Then➡️ they👥 might💭 kill💀 me🙋 and➡️ return🔄 to👑 Rehoboam👑.”
 
-**28**🔢 So➡️ the👑 king👑 asked💬 advice🧠, then➡️ made🏗️ two🔢 golden🪙 calves🐂. He👑 told🗣️ the👥 people👥, “You👥 have💯 had💯 enough🤏 of🚶 going🚶 up⬆️ to📍 Jerusalem🏙️. Look👀, Israel🇮🇱—here👀 are💯 your👥 gods🙏—אֱלֹהִים🙏—who🚶 brought🚶 you👥 out🚪 of📍 Egypt🇪🇬!”
+**28**🔢 So➡️ the👑 king👑 asked💬 advice🧠, then➡️ made🏗️ two🔢 golden🪙 calves🐂—ndama🐂 wawili🔢. He👑 told🗣️ the👥 people👥, “You👥 have💯 had💯 enough🤏 of🚶 going🚶 up⬆️ to📍 Jerusalem🏙️. Look👀, Israel🇮🇱—here👀 are💯 your👥 gods🙏—אֱלֹהִים🙏—who🚶 brought🚶 you👥 out🚪 of📍 Egypt🇪🇬!”
 
 **29**🔢 He👑 set📍 one☝️ calf🐂 in📍 Bethel🏘️ and➡️ placed📍 the👥 other☝️ in📍 Dan🏘️.
 
