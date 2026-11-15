@@ -57,3 +57,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | joel 3 | [Joel 3 KJV](https://www.biblegateway.com/passage/?search=Joel+3&version=KJV) | Public domain |
 | joel 2 | [Joel 2 KJV](https://www.biblegateway.com/passage/?search=Joel+2&version=KJV) | Public domain |
 | joel 1 | [Joel 1 KJV](https://www.biblegateway.com/passage/?search=Joel+1&version=KJV) | Public domain |
+| hosea 14 | [Hosea 14 KJV](https://www.biblegateway.com/passage/?search=Hosea+14&version=KJV) | Public domain |
