@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible Classic, 1 Kings 19 (21 verses), checked at https://www.ebible.org/eng-web/1KI19.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–21 is included. Required code switches appear in the verse text: Yoruba (ọba), German (Kraft), French (grotte), Igbo (mmiri), Hausa (gida), Jamaican Patois (mi), Hebrew (navi), plus Spanish (viento) and Portuguese (fogo). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–21 is included. Required code switches appear in the verse text: Yoruba (ọba), German (Kraft), French (grotte), Igbo (mmiri), Hausa (ruwa), Jamaican Patois (mi), Hebrew (navi), plus Spanish (viento) and Portuguese (fogo). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -18,7 +18,7 @@
 
 **5**🔢 He👤 lay🛏️ down⬇️ and➡️ fell😴 asleep🛏️ beneath⬇️ the🌳 tree🌳. Suddenly⚡ an👼 angel👼 touched🫳 him👤 and➡️ said🗣️, “Wake⬆️ up🧍 and➡️ eat🍽️.”
 
-**6**🔢 Elijah🧔 looked👀 and➡️ saw👀 a💯 small🤏 cake🍞 baked🔥 on📍 hot🔥 stones🪨, with🤝 a💯 jar🏺 of📍 water💧—mmiri💧—by📍 his👤 head🧠. He👤 ate🍽️, drank🥤, then⏰ lay🛏️ down⬇️ again🔁.
+**6**🔢 Elijah🧔 looked👀 and➡️ saw👀 a💯 small🤏 cake🍞 baked🔥 on📍 hot🔥 stones🪨, with🤝 a💯 jar🏺 of📍 water💧—mmiri💧, ruwa💧—by📍 his👤 head🧠. He👤 ate🍽️, drank🥤, then⏰ lay🛏️ down⬇️ again🔁.
 
 **7**🔢 Yahweh’s🙏 angel👼 came🚶 back↩️ a💯 second2️⃣ time⏳, touched🫳 him👤, and➡️ said🗣️, “Get⬆️ up🧍 and➡️ eat🍽️; this👈 journey🛤️ is💯 too➕ much💯 for📍 you👤.”
 
@@ -36,7 +36,7 @@
 
 **14**🔢 Elijah🧔 answered🗣️ again🔁, “I🙋 have💯 been💯 fiercely🔥 devoted🙏 to📍 Yahweh🙏, God🙏 of📍 Heaven’s🌌 Armies⚔️. Israel🇮🇱 has💯 abandoned🚪 your👤 covenant🤝, smashed💥 your👤 altars🪨, and➡️ killed⚔️ your👤 prophets🕊️ with🤝 swords🗡️. I🙋—mi🙋—am💯 the👈 only💯 one👤 left💯, and➡️ they👥 are💯 hunting🔎 me🙋 to💯 take🫳 my🙋 life💓.”
 
-**15**🔢 Yahweh🙏 told🗣️ him👤, “Go🚶 back↩️ along📍 the👈 road🛤️ to📍 the🌵 wilderness🌵 of📍 Damascus🏜️. When⏰ you👤 arrive📍, anoint🫳 Hazael👑 as💯 Syria’s🇸🇾 king👑.
+**15**🔢 Yahweh🙏 told🗣️ him👤, “Go🚶 back↩️ along📍 the👈 road🛤️ to📍 the🌵 wilderness🌵 of📍 Damascus🏜️. When⏰ you👤 arrive📍, anoint🫳 Hazael👑 as💯 Syria’s🇸🇾 ọba👑—king👑.
 
 **16**🔢 Anoint🫳 Jehu👑 son👦 of📍 Nimshi👨 as💯 Israel’s🇮🇱 king👑; then⏰ anoint🫳 Elisha🧔 son👦 of📍 Shaphat👨, from📍 Abel🏘️ Meholah🏘️, as💯 prophet🕊️ in📍 your👤 place📍—the👈 next➡️ navi🕊️.
 
