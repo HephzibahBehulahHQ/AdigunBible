@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible Classic, 1 Kings 21 (29 verses), checked at https://ebible.org/eng-web/1KI21.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–29 is included. Required code switches appear in the verse text: Yoruba (ọba), German (Garten), French (argent), Igbo (nna), Hausa (gida), Jamaican Patois (mi nuh), Hebrew (navi), plus Spanish (jardín) and Portuguese (herança). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–29 and word-level emoji pairing passed. A verse-by-verse meaning pass against the World English Bible Classic source is complete. The Jamaican Patois phrase was corrected to “mi nah gi up” after a dictionary check. Full language audit, chapter voice, and rendering still need review, so this chapter remains a draft.
 
 ## Verses
 
@@ -12,7 +12,7 @@
 
 **2**🔢 Ahab👑 told🗣️ Naboth👨, “Give🎁 me🙋 your👨 vineyard🍇 so💯 I🙋 can💯 turn🔄 it👈 into📍 a💯 veggie🥬 garden🌱—Garten🌱, jardín🌱—it’s💯 right📍 next➡️ to📍 my👑 house🏠. I🙋 can💯 swap🔄 you👨 for📍 a💯 better💯 vineyard🍇 or🔀 pay💰 what💎 it👈 is💯 worth💰—argent💰.”
 
-**3**🔢 Naboth👨 said🗣️ to📍 Ahab👑, “Yahweh🙏 forbid🚫 I🙋 should💯 hand🤲 over➡️ my👨 family’s👨 inheritance📜—herança📜 from📍 my🙋 nna👨—to📍 you👑! Mi🙋 nuh🚫 giving🎁 it👈 up🙅.”
+**3**🔢 Naboth👨 said🗣️ to📍 Ahab👑, “Yahweh🙏 forbid🚫 I🙋 should💯 hand🤲 over➡️ my👨 family’s👨 inheritance📜—herança📜 from📍 my🙋 nna👨—to📍 you👑! Mi🙋 nah🚫 gi🎁 up⬆️.”
 
 **4**🔢 Ahab👑 went🚶 into📍 his👑 house🏠—gida🏠—sulking😒 and➡️ angry😠 because📍 Naboth👨 had💯 told🗣️ him👑, “I🙋 won’t🚫 give🎁 you👑 my🙋 ancestors’👴 inheritance📜.” Ahab👑 flopped🛏️ onto📍 his👑 bed🛏️, turned↩️ his👑 face👀 away↩️, and➡️ refused🙅 to💯 eat🍞.
 
