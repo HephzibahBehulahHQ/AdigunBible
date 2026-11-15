@@ -4,11 +4,11 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 11 (43 verses), checked at https://biblehub.com/web/1_kings/11.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–43 is included. Required code switches are distributed through the chapter: Yoruba (ìfẹ́), German (Herz), French (colère), Igbo (ala), Hausa (gudu), Jamaican Patois (dem), Hebrew (shem), plus Spanish (reinar) and Swahili (kumi). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–43 is included. Required code switches are distributed through the chapter: Yoruba (ìfẹ́), German (Herz), French (colère), Igbo (ala), Hausa (gudu), Jamaican Patois (dem), Hebrew (shem), plus Spanish (reinar) and Swahili (kumi). Each verse word is paired with an emoji. Meaning review against the World English Bible is complete. Removed an unsupported phrase in verse 1 and corrected the travel details in verse 18, the queen’s family relationship in verse 19, and the weaning detail in verse 20. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
-**1**🔢 King👑 Solomon👑 loved❤️ many💯 foreign🌍 women👩, including➕ Pharaoh’s🇪🇬 daughter👸, Moabite🏞️ women👩, Ammonite🏞️ women👩, Edomite🏞️ women👩, Sidonian🏙️ women👩, and➕ Hittite🏞️ women👩—ìfẹ́❤️ crossed🌍 every💯 border🗺️.
+**1**🔢 King👑 Solomon👑 loved❤️ many💯 foreign🌍 women👩, including➕ Pharaoh’s🇪🇬 daughter👸, Moabite🏞️ women👩, Ammonite🏞️ women👩, Edomite🏞️ women👩, Sidonian🏙️ women👩, and➕ Hittite🏞️ women👩.
 
 **2**🔢 They👥 came🌍 from📍 nations🌍 Yahweh🙏 had💬 warned⚠️ Israel🇮🇱 about📜: “Don’t🚫 marry💍 into🤝 their👥 families🏠, and➕ don’t🚫 bring🤝 them👥 into🤝 yours🏠, because💭 they👥 will💯 pull🫳 your👑 heart❤️ after⏭️ their👥 gods🙏.” But↩️ Solomon👑 stayed🤝 attached❤️ to📍 them👥—dem👥.
 
@@ -42,11 +42,11 @@
 
 **17**🔢 Hadad👶 escaped🏃 with🤝 some💯 of📍 his👨 father’s👑 Edomite🏞️ servants🧑. He👶 was🚼 still⏳ a💯 little🤏 child👶 when⏳ they👥 fled🏃 to📍 Egypt🇪🇬—gudu🏃.
 
-**18**🔢 They👥 left🚶 Midian🏞️, went🚶 to📍 Paran🏜️, gathered👥 more➕ men👥 there📍, then➡️ traveled🚶 to📍 Egypt🇪🇬 and➡️ Pharaoh👑. Pharaoh👑 gave🎁 Hadad👨 a🏠 house🏠, assigned📋 him👨 food🍽️, and➕ gave🎁 him👨 land🌾.
+**18**🔢 They👥 left🚶 Midian🏞️, went🚶 to📍 Paran🏜️, took🫴 more➕ men👥 along🤝 from📍 there📍, then➡️ traveled🚶 to📍 Egypt🇪🇬 and➡️ Pharaoh👑. Pharaoh👑 gave🎁 Hadad👨 a🏠 house🏠, assigned📋 him👨 food🍽️, and➕ gave🎁 him👨 land🌾.
 
-**19**🔢 Hadad👨 found💛 great💯 favor💛 with👑 Pharaoh👑. Pharaoh👑 gave🎁 him👨 a👰 wife👰: the👩 sister👩 of👑 his👑 own👸 wife👰, Tahpenes👸 the👑 queen👑.
+**19**🔢 Hadad👨 gained📈 great💯 favor💛 with🤝 Pharaoh👑. Pharaoh👑 gave🎁 him👨 a💯 wife👰: Tahpenes’s👸 sister👩—Tahpenes👸 was💯 Pharaoh’s👑 own👸 queen👑.
 
-**20**🔢 Tahpenes’s👸 sister👩 gave👶 birth🍼 to👶 Hadad’s👨 son👦 Genubath👶. Tahpenes👸 raised🤱 him👶 in📍 Pharaoh’s👑 palace🏰, and➕ Genubath👦 grew🌱 up⬆️ among🤝 Pharaoh’s👑 sons👦.
+**20**🔢 Tahpenes’s👸 sister👩 gave👶 birth🍼 to👶 Hadad’s👨 son👦 Genubath👶. Tahpenes👸 weaned🍼 him👶 in📍 Pharaoh’s👑 palace🏰, and➡️ Genubath👦 lived🏠 there📍 among🤝 Pharaoh’s👑 sons👦.
 
 **21**🔢 Hadad👨 heard👂 in📍 Egypt🇪🇬 that💬 David👑 had🕊️ died⚰️, and➕ Joab⚔️ the👑 commander👨‍✈️ was💀 dead⚰️ too➕. He👨 told🗣️ Pharaoh👑, “Let🙏 me🙋 go🚶 back↩️ to📍 my👨 own🏞️ country🏞️.”
 
