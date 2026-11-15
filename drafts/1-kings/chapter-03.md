@@ -32,7 +32,7 @@
 
 **12**🔢 “…I🙏 will💯 do✅ what💬 you👑 asked🙏. I🙏 have💯 given🎁 you👑 a🧠 wise💯 and➕ understanding💡 heart❤️. Nobody🚫 before⏮️ you👑 has💯 been🧠 like💯 you👑, and➕ nobody🚫 after⏭️ you👑 will💯 be🧠 like💯 you👑.”
 
-**13**🔢 “I🙏 have💯 also➕ given🎁 you👑 what💬 you👑 didn’t🙅 ask🙏 for: riches💰 and➕ honor🏅. No🚫 other👑 king👑 in📍 your👑 lifetime⏳ will💯 match🏆 you👑.”
+**13**🔢 “I🙏 have💯 also➕ given🎁 you👑 what💬 you👑 didn’t🙅 ask🙏 for🎁: riches💰 and➕ honor🏅. No🚫 other👑 king👑 in📍 your👑 lifetime⏳ will💯 match🏆 you👑.”
 
 **14**🔢 “And➕ if✅ you👑 walk🚶 in📍 My🙏 ways🛤️, keep🧭 My🙏 rules📖 and➕ commands📜 like🤝 your👨 father👑 David👑 did🛤️, I🙋 will💯 extend📈 your👑 life⏳.”
 
@@ -56,7 +56,7 @@
 
 **24**🔢 The👑 king👑 ordered🗣️, “Bring🚶 me🙋 a⚔️ sword🗡️.” They👥 brought🚶 a⚔️ sword🗡️ before👑 him👑.
 
-**25**🔢 He👑 commanded📜, “Cut⚔️ the💚 living👶 child👶 in✂️ two🔢 and➕ give🎁 half½ to📍 one☝️ woman👩 and➕ half½ to📍 the👩 other👩.”
+**25**🔢 He👑 commanded📜, “Cut⚔️ the💚 living👶 child👶 in✂️ two🔢 and➕ give🎁 half🔢 to📍 one☝️ woman👩 and➕ half🔢 to📍 the👩 other👩.”
 
 **26**🔢 The👩 real✅ mother👩 was💔 overwhelmed💔 with❤️ love❤️ for💚 her👶 son👶. She🙋 begged🙏 the👑 king👑, “Please🙏, my🙇 lord👑, give🎁 her👩 the💚 living👶 child👶! Don’t🚫 kill⚔️ him👶!” But↩️ the👩 other👩 woman👩 said🗣️, “If🤷‍♀️ he🚫 can’t🙅 be💚 mine🙋 or🫵 yours👩, cut⚔️ him👶 in✂️ two🔢.”
 
