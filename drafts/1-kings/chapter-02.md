@@ -4,17 +4,17 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 2 (46 verses), checked at https://biblehub.com/web/1_kings/2.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–46 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (stark), French (vrai), Igbo (eze), Hausa (gaskiya), Jamaican Patois (soon come), Hebrew (Adonai), plus Spanish (sí) and Arabic (salām). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–46 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (stark), French (vrai), Igbo (eze), Hausa (gaskiya), Jamaican Patois (mi/yah), Hebrew (Sheol), plus Spanish (sí) and Arabic (salām). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
 **1**🔢 David👑 knew🧠 his👑 final⏳ days📅 were➡️ close🔚, so💬 he👑 gave🤲 his👦 son👑 Solomon👑 these📜 instructions🗣️:
 
-**2**🔢 “I🙋 am🚶 going🛤️ the🌍 way🛣️ everyone👥 on🌎 earth🌍 goes🚶. Be💪 strong🛡️ and➕ stand🧍 tall💯 as👨 a✨ man👨.”
+**2**🔢 “I🙋 am🚶 going🛤️ the🌍 way🛣️ everyone👥 on🌎 earth🌍 goes🚶. Be💪 strong🛡️—stark💪—and➕ stand🧍 tall💯 as👨 a✨ man👨.”
 
-**3**🔢 “Keep🧭 God’s🙏 charge📜: walk🚶 in📍 His🙏 ways🛤️, follow✅ His🙏 rules📖, commands🗣️, decisions⚖️, and💬 reminders📜, just💯 as📜 Moses👨‍🦳’ law📖 says💬. Then✨ you👑 can💪 succeed📈 in💼 what💯 you👑 do🛠️ and➡️ wherever🌍 you👑 go🚶.”
+**3**🔢 “Keep🧭 Olúwa’s🙏 charge📜: walk🚶 in📍 His🙏 ways🛤️, follow✅ His🙏 rules📖, commands🗣️, decisions⚖️, and💬 reminders📜, just💯 as📜 Moses👨‍🦳’ law📖 says💬. Then✨ you👑 can💪 succeed📈 in💼 what💯 you👑 do🛠️ and➡️ wherever🌍 you👑 go🚶.”
 
-**4**🔢 “Then🙏 Yahweh🙏 will💯 keep🤝 His📜 promise🗣️ to🙏 me👑: ‘If✅ your👑 children👨‍👩‍👦 stay👣 on📍 My🙏 path🛤️ and💯 walk🚶 before🙏 Me🙋 faithfully💯, with❤️ all💯 their👥 heart❤️ and➕ soul🕊️, your👑 family🌳 will🚫 always⏳ have👑 someone👨 on🪑 Israel’s🇮🇱 throne👑.’”
+**4**🔢 “Then🙏 Yahweh🙏 will💯 keep🤝 His📜 promise🗣️ to🙏 me👑: ‘If✅ your👑 children👨‍👩‍👦 stay👣 on📍 My🙏 path🛤️ and💯 walk🚶 before🙏 Me🙋 in📍 truth💯—vrai✅—with❤️ all💯 their👥 heart❤️ and➕ soul🕊️, your👑 family🌳 will🚫 always⏳ have👑 someone👨 on🪑 Israel’s🇮🇱 throne👑.’”
 
 **5**🔢 “You👑 already💭 know🧠 what⚠️ Joab⚔️, Zeruiah’s👩 son👦, did🩸 to🩸 me👑: he⚔️ killed💀 two2️⃣ army🛡️ commanders👨‍✈️, Abner⚔️ son👦 of🌳 Ner👨 and➕ Amasa⚔️ son👦 of🌳 Jether👨. He🩸 turned⚔️ peacetime🕊️ into🩸 bloodshed🩸, then➡️ wore🩸 that🩸 blood🩸 on📍 his👨 belt👖 and➕ sandals👡.”
 
@@ -30,9 +30,9 @@
 
 **11**🔢 David👑 ruled👑 Israel🇮🇱 for⏳ forty4️⃣ years📅 total💯: seven7️⃣ years📅 in📍 Hebron🏘️, then➡️ thirty-three3️⃣3️⃣ years📅 in📍 Jerusalem🏙️.
 
-**12**🔢 Solomon👑 took🪑 his👑 father’s👨 throne👑, and➕ his👑 kingdom🏰 became🧱 firmly💪 established✅.
+**12**🔢 Solomon👑, eze👑, took🪑 his👑 father’s👨 throne👑, and➕ his👑 kingdom🏰 became🧱 firmly💪 established✅.
 
-**13**🔢 Later⏳ Adonijah👑, Haggith’s👩 son👦, came🚶 to👑 Bathsheba👑, Solomon’s👑 mother👩. She👑 asked❓, “Are🕊️ you👤 coming🚶 in🕊️ peace🕊️?” He👨 answered💬, “In🕊️ peace🕊️.”
+**13**🔢 Later⏳ Adonijah👑, Haggith’s👩 son👦, came🚶 to👑 Bathsheba👑, Solomon’s👑 mother👩. She👑 asked❓, “Are🕊️ you👤 coming🚶 in🕊️ peace🕊️?” He👨 answered💬, “In🕊️ peace🕊️—sí✅.”
 
 **14**🔢 Then➡️ he👨 said🗣️, “I🙋 have💬 something📜 to🗣️ tell🗣️ you👑.” She👑 replied🗣️, “Go🗣️ ahead➡️.”
 
@@ -60,13 +60,13 @@
 
 **26**🔢 The👑 king👑 told🗣️ Abiathar🙏 the📜 priest⛪, “Go🚶 to📍 Anathoth🏘️, back🏠 to👤 your👨 own🏡 fields🌾. You👨 deserve⚖️ death⚰️, but↩️ I🙋 won’t🙅 kill⚔️ you👨 right⏰ now⏸️. You🤝 carried🫳 the📦 Ark📦 of🙏 the📜 Lord🙏 Yahweh🙏 before👑 my👨 father👑 David👑, and➕ you🫂 shared🤝 every💯 hardship🌧️ my👨 father👑 went🛤️ through⚔️.”
 
-**27**🔢 So⚖️ Solomon👑 removed🚪 Abiathar🙏 from🛑 serving🙏 as📜 Yahweh’s🙏 priest⛪. That💯 fulfilled✅ Yahweh’s🙏 word📜 aboutℹ️ Eli’s👨 family🌳 at📍 Shiloh🏘️.
+**27**🔢 So⚖️ Solomon👑 removed🚪 Abiathar🙏 from🛑 serving🙏 as📜 Yahweh’s🙏 priest⛪. That💯 fulfilled✅ Yahweh’s🙏 word📜 about💭 Eli’s👨 family🌳 at📍 Shiloh🏘️.
 
 **28**🔢 Joab⚔️ heard👂 the📰 news📣. He👨 had🤝 backed🫡 Adonijah👑, even💭 though↩️ he🚫 hadn’t🙅 backed🫡 Absalom👑. When⏳ he👨 heard👂 about💭 Abiathar’s🙏 removal🚪, Joab⚔️ ran🏃 to📍 Yahweh’s🙏 Tent⛺ and🤲 grabbed🫂 the📯 altar’s⛪ horns📯.
 
-**29**🔢 The👥 king’s👑 messengers🧑‍🤝‍🧑 told🗣️ Solomon👑, “Joab⚔️ has🏃 fled🏃‍♂️ to📍 Yahweh’s🙏 Tent⛺ and👀 is📍 standing🧍 by📍 the📯 altar⛪.” So➡️ Solomon👑 sent📨 Benaiah🛡️ son👦 of🌳 Jehoiada👨 with💬 this📜 order📣: “Go🚶 strike⚔️ him👨 down⬇️.”
+**29**🔢 The👥 king’s👑 messengers🧑‍🤝‍🧑 told🗣️ Solomon👑, “Joab⚔️ has🏃 fled🏃‍♂️ to📍 Adonai’s🙏 Tent⛺ and👀 is📍 standing🧍 by📍 the📯 altar⛪.” So➡️ Solomon👑 sent📨 Benaiah🛡️ son👦 of🌳 Jehoiada👨 with💬 this📜 order📣: “Go🚶 strike⚔️ him👨 down⬇️.”
 
-**30**🔢 Benaiah🛡️ went🚶 to📍 Yahweh’s🙏 Tent⛺ and🗣️ told🗣️ Joab⚔️, “The👑 king👑 says📣, ‘Come🚶 out➡️!’” Joab⚔️ answered🗣️, “No🙅; I🙋 will💀 die⚰️ right📍 here📍.” Benaiah🛡️ went🚶 back⬅️ to🗣️ the👑 king👑 and📜 reported🗣️ Joab’s⚔️ words💬 and➕ answer🗣️.
+**30**🔢 Benaiah🛡️ went🚶 to📍 Yahweh’s🙏 Tent⛺ and🗣️ told🗣️ Joab⚔️, “The👑 king👑 says📣, ‘Come🚶 out➡️!’” Joab⚔️ answered🗣️, “Mi🙋 ago💬 die💀 yah📍—I🙋 will💀 die⚰️ here📍.” Benaiah🛡️ went🚶 back⬅️ to🗣️ the👑 king👑 and📜 reported🗣️ Joab’s⚔️ words💬 and➕ answer🗣️.
 
 **31**🔢 The👑 king👑 said🗣️, “Do✅ what💬 Joab⚔️ said🗣️. Strike⚔️ him👨 down⬇️ and➡️ bury⚰️ him👨. That💯 way🧭 you👥 remove🧹 the🩸 innocent🕊️ blood🩸 Joab⚔️ spilled🩸 from🧼 me👑 and➕ my👨 father’s👑 family🏠.”
 
