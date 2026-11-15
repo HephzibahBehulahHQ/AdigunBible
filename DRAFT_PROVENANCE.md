@@ -41,3 +41,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | micah 2 | [Micah 2 KJV](https://www.biblegateway.com/passage/?search=Micah+2&version=KJV) | Public domain |
 | micah 1 | [Micah 1 KJV](https://www.biblegateway.com/passage/?search=Micah+1&version=KJV) | Public domain |
 | jonah 4 | [Jonah 4 KJV](https://www.biblegateway.com/passage/?search=Jonah+4&version=KJV) | Public domain |
+| jonah 3 | [Jonah 3 KJV](https://www.biblegateway.com/passage/?search=Jonah+3&version=KJV) | Public domain |
