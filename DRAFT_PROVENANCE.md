@@ -48,3 +48,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | amos 9 | [Amos 9 KJV](https://www.biblegateway.com/passage/?search=Amos+9&version=KJV) | Public domain |
 | amos 8 | [Amos 8 KJV](https://www.biblegateway.com/passage/?search=Amos+8&version=KJV) | Public domain |
 | amos 7 | [Amos 7 KJV](https://www.biblegateway.com/passage/?search=Amos+7&version=KJV) | Public domain |
+| amos 6 | [Amos 6 KJV](https://www.biblegateway.com/passage/?search=Amos+6&version=KJV) | Public domain |
