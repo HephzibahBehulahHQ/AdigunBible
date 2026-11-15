@@ -16,7 +16,7 @@
 
 **4**🔢 “Then🙏 Yahweh🙏 will💯 keep🤝 His📜 promise🗣️ to🙏 me👑: ‘If✅ your👑 children👨‍👩‍👦 stay👣 on📍 My🙏 path🛤️ and💯 walk🚶 before🙏 Me🙋 in📍 truth💯—vrai✅—with❤️ all💯 their👥 heart❤️ and➕ soul🕊️, your👑 family🌳 will🚫 always⏳ have👑 someone👨 on🪑 Israel’s🇮🇱 throne👑.’”
 
-**5**🔢 “You👑 already💭 know🧠 what⚠️ Joab⚔️, Zeruiah’s👩 son👦, did🩸 to🩸 me👑: he⚔️ killed💀 two2️⃣ army🛡️ commanders👨‍✈️, Abner⚔️ son👦 of🌳 Ner👨 and➕ Amasa⚔️ son👦 of🌳 Jether👨. He🩸 turned⚔️ peacetime🕊️ into🩸 bloodshed🩸, then➡️ wore🩸 that🩸 blood🩸 on📍 his👨 belt👖 and➕ sandals👡.”
+**5**🔢 “You👑 already💭 know🧠 what⚠️ Joab⚔️, Zeruiah’s👩 son👦, did🩸 to🩸 me👑: he⚔️ killed💀 two🔢 army🛡️ commanders👨‍✈️, Abner⚔️ son👦 of🌳 Ner👨 and➕ Amasa⚔️ son👦 of🌳 Jether👨. He🩸 turned⚔️ peacetime🕊️ into🩸 bloodshed🩸, then➡️ wore🩸 that🩸 blood🩸 on📍 his👨 belt👖 and➕ sandals👡.”
 
 **6**🔢 “Use🧠 your👑 judgment⚖️ with🛡️ Joab⚔️; don’t🚫 let🛑 his👴 gray🩶 head👨‍🦳 reach🚶 the⚰️ Sheol🌑—שְׁאוֹל🌑—in🕊️ peace🕊️.”
 
@@ -28,7 +28,7 @@
 
 **10**🔢 Then➡️ David👑 rested🕊️ with🤝 his👑 ancestors👴 and⚰️ was💤 buried⚰️ in📍 David’s🏙️ City🏙️.
 
-**11**🔢 David👑 ruled👑 Israel🇮🇱 for⏳ forty4️⃣ years📅 total💯: seven7️⃣ years📅 in📍 Hebron🏘️, then➡️ thirty-three3️⃣3️⃣ years📅 in📍 Jerusalem🏙️.
+**11**🔢 David👑 ruled👑 Israel🇮🇱 for⏳ forty🔢 years📅 total💯: seven🔢 years📅 in📍 Hebron🏘️, then➡️ thirty-three🔢 years📅 in📍 Jerusalem🏙️.
 
 **12**🔢 Solomon👑, eze👑, took🪑 his👑 father’s👨 throne👑, and➕ his👑 kingdom🏰 became🧱 firmly💪 established✅.
 
@@ -70,7 +70,7 @@
 
 **31**🔢 The👑 king👑 said🗣️, “Do✅ what💬 Joab⚔️ said🗣️. Strike⚔️ him👨 down⬇️ and➡️ bury⚰️ him👨. That💯 way🧭 you👥 remove🧹 the🩸 innocent🕊️ blood🩸 Joab⚔️ spilled🩸 from🧼 me👑 and➕ my👨 father’s👑 family🏠.”
 
-**32**🔢 “Yahweh🙏 will💯 bring🔄 Joab’s⚔️ blood🩸 back🔙 onto📍 his👨 own☝️ head🧠, because💭 he⚔️ killed💀 two2️⃣ men👨 more💯 righteous⚖️ and➕ better🌟 than📏 he👨 was💯. My👨 father👑 David👑 knew🚫 nothing🙈 about💭 it❗: Abner⚔️ son👦 of🌳 Ner👨, Israel’s🇮🇱 army🛡️ commander👨‍✈️, and➕ Amasa⚔️ son👦 of🌳 Jether👨, Judah’s🏞️ army🛡️ commander👨‍✈️.”
+**32**🔢 “Yahweh🙏 will💯 bring🔄 Joab’s⚔️ blood🩸 back🔙 onto📍 his👨 own☝️ head🧠, because💭 he⚔️ killed💀 two🔢 men👨 more💯 righteous⚖️ and➕ better🌟 than📏 he👨 was💯. My👨 father👑 David👑 knew🚫 nothing🙈 about💭 it❗: Abner⚔️ son👦 of🌳 Ner👨, Israel’s🇮🇱 army🛡️ commander👨‍✈️, and➕ Amasa⚔️ son👦 of🌳 Jether👨, Judah’s🏞️ army🛡️ commander👨‍✈️.”
 
 **33**🔢 “Their👥 blood🩸 will💯 come🔄 back🔙 on📍 Joab⚔️ and➕ his👨 descendants👶 forever⏳. But↩️ for🙏 David👑, his👑 descendants👶, his👑 family🏠, and➕ his👑 throne👑, Yahweh🙏 will💯 give🤲 lasting⏳ peace🕊️—salām🕊️.”
 
@@ -84,7 +84,7 @@
 
 **38**🔢 Shimei👨 answered🗣️ the👑 king👑, “That💬 sounds👂 fair✅. I🙋 will💯 do🛠️ exactly💯 what💬 my🙇 lord👑 the📜 king👑 has💬 ordered📜.” So🫶 Shimei👨 stayed🏠 in📍 Jerusalem🏙️ for⏳ a💯 long⏳ time⏳.
 
-**39**🔢 Three3️⃣ years📅 later⏳, two2️⃣ of📍 Shimei’s👨 enslaved⛓️ men👥 ran🏃 away🏃‍♂️ to📍 Gath🏘️, to👑 Achish👑 son👦 of🌳 Maacah👩, Gath’s👑 king👑. Someone👤 told🗣️ Shimei👨, “Your👨 men👥 are📍 in📍 Gath🏘️!”
+**39**🔢 Three3️⃣ years📅 later⏳, two🔢 of📍 Shimei’s👨 enslaved⛓️ men👥 ran🏃 away🏃‍♂️ to📍 Gath🏘️, to👑 Achish👑 son👦 of🌳 Maacah👩, Gath’s👑 king👑. Someone👤 told🗣️ Shimei👨, “Your👨 men👥 are📍 in📍 Gath🏘️!”
 
 **40**🔢 Shimei👨 saddled🐴 his👨 donkey🫏, rode🏇 to📍 Gath🏘️ to🔎 find🔎 Achish👑 and➕ his👨 runaway🏃‍♂️ men👥, then➡️ brought🚶 them👥 back⬅️ from📍 Gath🏘️.
 
