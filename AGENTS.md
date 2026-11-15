@@ -20,6 +20,12 @@ These rules govern work across all 66 books, every chapter, and every verse.
 - Pair a context-fitting emoji with every word in the verse. Use the provided palette: ❤️ 🙏 ✨ 🔥 🫶 🌍 😭 👀 💯 🕊️.
 - Use repeated expressions and recurring emojis when the context fits; vary them when it does not.
 
+## Example: word-level code-switching
+
+This is one AdigunBible verse with words from several languages woven into one sentence. It is not a translation into another language or a separate edition. This example demonstrates the style; distribute required languages across a chapter as the gate directs.
+
+**3**🔢 God🙏 spoke💬: “Light💡, pop✨ into🤏 existence🌍—ìmọ́lẹ̀🌅, Licht🔥, lumière💫, ìhè⚡, haske☀️, di💡 lite🌟, אוֹר🕊️, luz🌞, mwanga✨. Right🫡 now💯.” And💥 boom🔥, light💡 appeared✨—no🚫 cap🧢.
+
 ## Meaning and dialogue
 - Preserve verse order and numbering, people, events, claims, commands, promises, context, and theological meaning.
 - Do not invent speech or change Scripture facts for a joke.
