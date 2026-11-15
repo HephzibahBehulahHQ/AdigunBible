@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 4 (34 verses), checked at https://biblehub.com/web/1_kings/4.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–34 is included. Required code switches are distributed through the chapter: Yoruba (ọba), German (zwölf), French (sagesse), Igbo (ndị), Hausa (abinci), Jamaican Patois (fi), Hebrew (ḥokhmah), plus Swahili (amani) and Spanish (por todos). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–34 is included. Required code switches are distributed through the chapter: Yoruba (ọba), German (zwölf), French (sagesse), Igbo (ndị mmadụ), Hausa (abinci), Jamaican Patois (fi di), Hebrew (ḥokhmah), plus Swahili (amani) and Spanish (por todos). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -20,7 +20,7 @@
 
 **6**🔢 Ahishar👨 ran🗝️ the👑 palace🏰 household🏠, while⏳ Adoniram👨 son👦 of🌳 Abda👨 supervised👀 the⚒️ forced⛓️ labor🧑‍🤝‍🧑.
 
-**7**🔢 Solomon👑 appointed📜 twelve🔢 officers🧑‍💼 over👑 all💯 Israel🇮🇱 to🍞 supply📦 food🍽️ for👑 the📜 king👑 and➕ his👑 household🏠. Each👨 handled📋 one☝️ month📅 of📆 the🌍 year📅.
+**7**🔢 Solomon👑 appointed📜 twelve🔢—zwölf🔢—officers🧑‍💼 over👑 all💯 Israel🇮🇱 to🍞 supply📦 food🍽️ for👑 the📜 king👑 and➕ his👑 household🏠. Each👨 handled📋 one☝️ month📅 of📆 the🌍 year📅.
 
 **8**🔢 Here📜 are💯 their👥 names📛: Ben👨 Hur👨 managed🗺️ the⛰️ hill🌄 country🏞️ of📍 Ephraim🏞️.
 
@@ -46,7 +46,7 @@
 
 **19**🔢 Geber👨 son👦 of🌳 Uri👨 covered🗺️ Gilead🏞️—the🌍 territory🏞️ of📍 Sihon👑 king👑 of📍 the🌍 Amorites🏞️ and➕ Og👑 king👑 of📍 Bashan🏞️. He👨 was💯 the📍 only☝️ district🗺️ officer🧑‍💼 assigned📜 there📍.
 
-**20**🔢 Judah🏞️ and➕ Israel🇮🇱 had💯 people👥 like💯 sand🏖️ along🌊 the📍 seashore🏝️—so💯 many♾️ they👥 couldn’t🙅 be💯 counted🔢. They👥 ate🍽️, drank🥤, and🎉 enjoyed😊 life✨.
+**20**🔢 Judah🏞️ and➕ Israel🇮🇱 had💯 people👥—ndị👥 mmadụ👥—like💯 sand🏖️ along🌊 the📍 seashore🏝️—so💯 many♾️ they👥 couldn’t🙅 be💯 counted🔢. They👥 ate🍽️, drank🥤, and🎉 enjoyed😊 life✨.
 
 **21**🔢 Solomon👑 ruled👑 all💯 the🌍 kingdoms👑 from🌊 the📍 River🌊 to📍 Philistine🏞️ country🏞️ and➡️ the📍 border🗺️ of🌍 Egypt🇪🇬. Those👑 kingdoms🏰 paid💰 tribute🎁 and➕ served🤝 him👑 throughout⏳ his👑 life🌱.
 
@@ -60,11 +60,11 @@
 
 **26**🔢 Solomon👑 had💯 forty🔢 thousand🔢 horse🐎 stalls🏠 for📍 his👑 chariots🛞 and➕ twelve🔢 thousand🔢 horsemen🐎.
 
-**27**🔢 Each👨 officer🧑‍💼 supplied📦 food🍽️ for👑 King👑 Solomon👑 and➕ everyone👥 who🍽️ ate🍽️ at👑 his👑 table🍽️ during⏳ that👤 officer’s👨 month📅. Nothing🚫 ran📉 short📦.
+**27**🔢 Each👨 officer🧑‍💼 supplied📦 food🍽️ for👑 King👑 Solomon👑—food🍽️ fi🍽️ di👑 king👑—and➕ everyone👥 who🍽️ ate🍽️ at👑 his👑 table🍽️ during⏳ that👤 officer’s👨 month📅. Nothing🚫 ran📉 short📦.
 
 **28**🔢 They👥 also➕ delivered📦 barley🌾 and➕ straw🌾 for🐎 the📍 horses🐎 and➕ swift💨 steeds🐎, taking🚚 it👥 to📍 each👨 officer’s🧑‍💼 assigned📍 place🏘️ as📜 required✅.
 
-**29**🔢 God🙏 gave🎁 Solomon👑 a💯 huge📈 measure📏 of🧠 wisdom🧠, insight💡, and➕ understanding🧠 as💯 broad🌊 as📏 sand🏖️ on🌊 the📍 shore🏝️.
+**29**🔢 God🙏 gave🎁 Solomon👑 wisdom🧠—sagesse🧠—in📚 abundance📈, insight💡, and➕ a🧠 broad🌊 mind🧠 as💯 vast🌊 as📏 sand🏖️ on🌊 the📍 shore🏝️.
 
 **30**🔢 Solomon’s👑 wisdom🧠 outshone✨ the🧠 wisdom🧠 of📍 the🌅 eastern🌄 peoples👥 and➕ all💯 Egypt’s🇪🇬 wisdom🧠.
 
@@ -72,6 +72,6 @@
 
 **32**🔢 Solomon👑 spoke🗣️ three🔢 thousand🔢 proverbs📜, and➕ wrote✍️ one☝️ thousand🔢 and➕ five🔢 songs🎶.
 
-**33**🔢 He👑 explained🗣️ plants🌿, from📍 Lebanon’s🏞️ cedar🌲 to📍 the🌿 hyssop🌱 growing🌱 from📍 a🧱 wall🧱. He👑 also➕ talked🗣️ about🌿 animals🐾, birds🐦, small🐜 creatures🐍, and➕ fish🐟—ḥokhmah🧠 in📚 every💯 corner📍 of🌍 creation🌱.
+**33**🔢 He👑 explained🗣️ plants🌿, from📍 Lebanon’s🏞️ cedar🌲 to📍 the🌿 hyssop🌱 growing🌱 from📍 a🧱 wall🧱. He👑 also➕ talked🗣️ about🌿 animals🐾, birds🐦, small🐜 creatures🐍, and➕ fish🐟—ḥokhmah🧠—חָכְמָה🧠—in📚 every💯 corner📍 of🌍 creation🌱.
 
 **34**🔢 People👥 from📍 every💯 nation🌍 came🚶 to👂 hear👂 Solomon’s👑 wisdom🧠. Kings👑 everywhere🌍 sent📨 them👥, because💭 they👥 had💯 heard👂 of📣 his👑 wisdom🧠—por👥 todos🌍.
