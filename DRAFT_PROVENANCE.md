@@ -4,6 +4,7 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 
 | Draft file | Meaning reference | Source status |
 |---|---|---|
+| ezekiel 27 | [Ezekiel 27 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+27&version=KJV) | Public domain |
 | malachi 1 | [Malachi 1 KJV](https://www.biblegateway.com/passage/?search=Malachi+1&version=KJV) | Public domain |
 | malachi 2 | [Malachi 2 KJV](https://www.biblegateway.com/passage/?search=Malachi+2&version=KJV) | Public domain |
 | malachi 3 | [Malachi 3 KJV](https://www.biblegateway.com/passage/?search=Malachi+3&version=KJV) | Public domain |
