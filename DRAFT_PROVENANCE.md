@@ -89,3 +89,5 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | ezekiel 46 | [Ezekiel 46 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+46&version=KJV) | Public domain |
 | ezekiel 45 | [Ezekiel 45 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+45&version=KJV) | Public domain |
 | ezekiel 44 | [Ezekiel 44 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+44&version=KJV) | Public domain |
+
+| ezekiel 43 | [Ezekiel 43 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+43&version=KJV) | Public domain |
