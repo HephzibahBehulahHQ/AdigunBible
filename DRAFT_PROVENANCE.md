@@ -31,3 +31,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | habakkuk 2 | [Habakkuk 2 KJV](https://www.biblegateway.com/passage/?search=Habakkuk+2&version=KJV) | Public domain |
 | habakkuk 1 | [Habakkuk 1 KJV](https://www.biblegateway.com/passage/?search=Habakkuk+1&version=KJV) | Public domain |
 | nahum 3 | [Nahum 3 KJV](https://www.biblegateway.com/passage/?search=Nahum+3&version=KJV) | Public domain |
+| nahum 2 | [Nahum 2 KJV](https://www.biblegateway.com/passage/?search=Nahum+2&version=KJV) | Public domain |
