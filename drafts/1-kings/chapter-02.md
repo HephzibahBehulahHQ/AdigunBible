@@ -18,7 +18,7 @@
 
 **5**🔢 “You👑 already💭 know🧠 what⚠️ Joab⚔️, Zeruiah’s👩 son👦, did🩸 to🩸 me👑: he⚔️ killed💀 two2️⃣ army🛡️ commanders👨‍✈️, Abner⚔️ son👦 of🌳 Ner👨 and➕ Amasa⚔️ son👦 of🌳 Jether👨. He🩸 turned⚔️ peacetime🕊️ into🩸 bloodshed🩸, then➡️ wore🩸 that🩸 blood🩸 on📍 his👨 belt👖 and➕ sandals👡.”
 
-**6**🔢 “Use🧠 your👑 judgment⚖️ with🛡️ Joab⚔️; don’t🚫 let🛑 his👴 gray🩶 head👨‍🦳 reach🚶 the⚰️ grave⚰️ in🕊️ peace🕊️.”
+**6**🔢 “Use🧠 your👑 judgment⚖️ with🛡️ Joab⚔️; don’t🚫 let🛑 his👴 gray🩶 head👨‍🦳 reach🚶 the⚰️ Sheol🌑—שְׁאוֹל🌑—in🕊️ peace🕊️.”
 
 **7**🔢 “But↩️ give🤲 real💯 kindness💛 to🙏 Barzillai’s👴 sons👨, the📍 Gileadites🏞️. Let🍽️ them👥 eat🍞 at🪑 your👑 table🍽️, because💭 they🤝 stood🧍 with👑 me🙋 when⏳ I🏃 ran💨 from🚪 your👬 brother👑 Absalom⚔️.”
 
