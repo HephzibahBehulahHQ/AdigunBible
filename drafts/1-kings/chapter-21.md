@@ -20,7 +20,7 @@
 
 **6**🔢 Ahab👑 said🗣️, “I🙋 asked❓ Naboth👨 to💯 sell💰 his👨 vineyard🍇 or🔀 swap🔄 it👈 for📍 another🔀 one🍇. He👨 told🗣️ me🙋, ‘I🙋 won’t🚫 give🎁 you👑 my🙋 vineyard🍇.’”
 
-**7**🔢 Jezebel👸 said🗣️, “Are❓ you👑 the👑 king👑 of📍 Israel🇮🇱 or🔀 what❓? Get⬆️ up🧍, eat🍽️, and➡️ let🫶 your👑 heart❤️ feel💯 good💚. I🙋 will💯 get🫳 Naboth’s👨 vineyard🍇 for📍 you👑.”
+**7**🔢 Jezebel👸 said🗣️, “Are❓ you👑 the👑 king👑—ọba👑—of📍 Israel🇮🇱 or🔀 what❓? Get⬆️ up🧍, eat🍽️, and➡️ let🫶 your👑 heart❤️ feel💯 good💚. I🙋 will💯 get🫳 Naboth’s👨 vineyard🍇 for📍 you👑.”
 
 **8**🔢 Jezebel👸 wrote✍️ letters📜 in📍 Ahab’s👑 name📛, sealed🔒 them👥 with📍 his👑 seal🔏, and➡️ sent📨 them👥 to📍 the👴 elders👴 and➡️ nobles🎩 of📍 Naboth’s👨 city🏘️, the👥 people👥 who👥 lived🏠 there📍 with🤝 him👨.
 
@@ -40,7 +40,7 @@
 
 **16**🔢 When⏰ Ahab👑 heard👂 Naboth👨 was💯 dead💀, he👑 got⬆️ up🧍 and➡️ went⬇️ down⬇️ to📍 take🫳 possession🏷️ of📍 Naboth’s👨 vineyard🍇.
 
-**17**🔢 Yahweh’s🙏 word📣 came📨 to📍 Elijah🧔 the👨 Tishbite🏞️:
+**17**🔢 Yahweh’s🙏 word📣 came📨 to📍 Elijah🧔 the👨 Tishbite🏞️, the💯 navi🕊️ prophet🕊️:
 
 **18**🔢 “Get⬆️ up🧍 and➡️ go⬇️ meet🤝 Ahab👑, Israel’s🇮🇱 king👑, who👑 lives🏠 in📍 Samaria🏙️. Look👀, he👑 is💯 in📍 Naboth’s👨 vineyard🍇 now⏰, there📍 to💯 take🫳 it👈 over➡️.
 
