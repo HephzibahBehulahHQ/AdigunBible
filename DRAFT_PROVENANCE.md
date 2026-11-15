@@ -38,3 +38,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | micah 5 | [Micah 5 KJV](https://www.biblegateway.com/passage/?search=Micah+5&version=KJV) | Public domain |
 | micah 4 | [Micah 4 KJV](https://www.biblegateway.com/passage/?search=Micah+4&version=KJV) | Public domain |
 | micah 3 | [Micah 3 KJV](https://www.biblegateway.com/passage/?search=Micah+3&version=KJV) | Public domain |
+| micah 2 | [Micah 2 KJV](https://www.biblegateway.com/passage/?search=Micah+2&version=KJV) | Public domain |
