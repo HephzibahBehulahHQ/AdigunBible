@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 8 (66 verses), checked at https://biblehub.com/web/1_kings/8.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–66 is included. Required code switches are distributed through the chapter: Yoruba (àdúrà), German (Wolke), French (gloire), Igbo (ụlọ), Hausa (gafara), Jamaican Patois (wi), Hebrew (shalom), plus Spanish (perdona) and Arabic (raḥma). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–66 is included. Required code switches are distributed through the chapter: Yoruba (àdúrà), German (Wolke), French (gloire), Igbo (ụlọ), Hausa (gafara), Jamaican Patois (wi), Hebrew (shalom), plus Spanish (perdona) and Arabic (raḥma). Each verse word is paired with an emoji. Meaning review against the World English Bible is complete. Verse 11 now distinguishes the cloud from Yahweh’s glory, and verse 65 identifies the feast’s full geographic range as the entrance of Hamath to the Brook of Egypt. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -28,7 +28,7 @@
 
 **10**🔢 As⏳ the👥 priests🙏 came🚶 out↗️ of✨ the📍 Holy💛 Place🏛️, a🌫️ cloud🌫️ filled💨 Yahweh’s🙏 house🏛️—Wolke🌫️.
 
-**11**🔢 The🌫️ cloud🌫️ was💯 so✨ full💨 of🙏 Yahweh’s🙏 glory✨—gloire✨—that💥 the👥 priests🙏 couldn’t🙅 stand🧍 there📍 to🛐 serve🤲. Yahweh’s🙏 glory✨ filled💨 His🙏 house🏛️.
+**11**🔢 The🌫️ cloud🌫️ was💯 so☁️ dense🌫️ that⛔ the👥 priests🙏 couldn’t🙅 stand🧍 to💯 serve🤲, because💭 Yahweh’s🙏 glory✨ filled💨 His🙏 house🏛️—gloire✨.
 
 **12**🔢 Then➡️ Solomon👑 said🗣️, “Yahweh🙏 has💬 said🗣️ He🙏 would💯 dwell🏠 in📍 thick🌑 darkness🌑.”
 
@@ -136,6 +136,6 @@
 
 **64**🔢 That📅 same💯 day📅, the👑 king👑 made✨ the🏛️ middle↔️ of📍 the🏛️ courtyard🏛️ holy✨ before🙏 Yahweh🙏. He👑 offered🫗 the🔥 burnt🔥 offerings🫗, grain🌾 offerings🫗, and➕ fat🥩 from📍 the🕊️ peace🕊️ offerings🫗 there📍, because💭 the🟤 bronze🟤 altar🪨 before🙏 Yahweh🙏 was💯 too🤏 small📏 for📍 all💯 of💯 it👥.
 
-**65**🔢 Solomon👑 and➕ all💯 Israel🇮🇱 held🎉 a💯 huge🎊 feast🎉 before🙏 Yahweh🙏 our👥 God🙏. People👥 came🚶 from📍 Lebo🏘️ Hamath🏘️ all➡️ the💧 way🌍 to📍 Egypt’s🇪🇬 river🌊. They👥 celebrated🎉 seven🔢 days📅, then➡️ seven🔢 more➕—fourteen🔢 days📅 total💯.
+**65**🔢 Solomon👑 and➕ all💯 Israel🇮🇱 held🎉 a💯 huge🎊 feast🎉 before🙏 Yahweh🙏 our👥 God🙏. People👥 came🚶 from📍 the👈 entrance🚪 of📍 Hamath🏞️ all➡️ the💯 way🌍 to📍 the🌊 brook🌊 of📍 Egypt🇪🇬. They👥 celebrated🎉 seven🔢 days📅, then➡️ seven🔢 more➕—fourteen🔢 days📅 total💯.
 
 **66**🔢 On📍 day📅 eight🔢, the👑 king👑 sent🚶 the👥 people👥 home🏠. They👥 blessed🙏 the👑 king👑 and➡️ went🚶 back↩️ to📍 their👥 tents⛺, joyful😄 and➕ happy😊 in📍 their👥 hearts❤️ for💛 all💯 the🤲 goodness💛 Yahweh🙏 had💯 shown👀 David👑 His🙇 servant🧑 and➕ Israel🇮🇱 His🙏 people👥.
