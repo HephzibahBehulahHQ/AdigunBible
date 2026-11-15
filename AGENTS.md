@@ -8,7 +8,7 @@ These rules govern work across all 66 books, every chapter, and every verse.
 - Use the user's supplied chapter drafts as the source when present.
 
 ## Universal verse voice
-- Rewrite every verse in vivid, conversational Gen Z storytelling. Do not leave verse narration in plain formal English.
+- Start from a reliable source verse for meaning, apply the universal voice rules to its full wording, and produce original AdigunBible text. Reword every ordinary source phrase in vivid, conversational Gen Z storytelling; do not leave plain formal English or merely add a slang word.
 - Apply the user's vocabulary bank throughout the full verse, not just as one slang word added to otherwise plain wording:
   - Address: Fam, Bro, Bestie, My dude, Y'all, Friend.
   - Reactions: Hold up!, Wait a minute!, For real?, No way!, That's wild!, Seriously?
@@ -17,7 +17,7 @@ These rules govern work across all 66 books, every chapter, and every verse.
   - Modern expressions: Lowkey., Highkey., That's the vibe., Understood the assignment., That's not it., Let's be real.
   - Shortened forms: TBH., FR., BTW., IMO., IDK.
 - Multiple languages and code-switching within a sentence are allowed when they sound natural.
-- Pair context-fitting emojis throughout the words of every verse. Use the provided palette: ❤️ 🙏 ✨ 🔥 🫶 🌍 😭 👀 💯 🕊️.
+- Pair a context-fitting emoji with every word in the verse. Use the provided palette: ❤️ 🙏 ✨ 🔥 🫶 🌍 😭 👀 💯 🕊️.
 - Use repeated expressions and recurring emojis when the context fits; vary them when it does not.
 
 ## Meaning and dialogue
