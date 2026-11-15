@@ -75,3 +75,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | daniel 12 | [Daniel 12 KJV](https://www.biblegateway.com/passage/?search=Daniel+12&version=KJV) | Public domain |
 | daniel 11 | [Daniel 11 KJV](https://www.biblegateway.com/passage/?search=Daniel+11&version=KJV) | Public domain |
 | daniel 10 | [Daniel 10 KJV](https://www.biblegateway.com/passage/?search=Daniel+10&version=KJV) | Public domain |
+| daniel 9 | [Daniel 9 KJV](https://www.biblegateway.com/passage/?search=Daniel+9&version=KJV) | Public domain |
