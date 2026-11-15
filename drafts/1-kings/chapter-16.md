@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible Updated, 1 Kings 16 (34 verses), checked at https://ebible.org/engwebu/1KI16.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–34 is included. Required code switches appear in the verse text: Yoruba (ọba), German (Feuer), French (trahison), Igbo (eze), Hausa (gida), Jamaican Patois (dem), Hebrew (navi), plus Spanish (mitad) and Portuguese (cidade). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–34 is included. Required code switches appear in the verse text: Yoruba (ọba), German (Feuer), French (trahison), Igbo (eze), Hausa (gida), Jamaican Patois (dem), Hebrew (navi), plus Spanish (mitad) and Portuguese (cidade). Each verse word is paired with an emoji. Meaning review against the World English Bible Updated is complete. Verse 7 now clarifies that Baasha wiped out Jeroboam’s dynasty, and verse 33 names the Asherah without adding an image detail. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -20,7 +20,7 @@
 
 **6**🔢 Baasha👑 died💀 and➡️ was💯 buried⚰️ in📍 Tirzah🏘️. His👑 son👦 Elah👑 took👑 the👑 throne📍 after⏭️ him👑.
 
-**7**🔢 Yahweh’s🙏 message📣 came📨 through📍 Jehu🧔 the🕊️ navi🕊️, Hanani’s👨 son👦, against⚖️ Baasha👑 and➡️ his👑 family🏠. Baasha👑 had💯 done🛠️ evil⚠️ in📍 Yahweh’s🙏 sight👀 and➡️ provoked😠 him🙏 with💢 what💭 he👑 did🛠️. He👑 copied🪞 Jeroboam’s👑 house🏠 and➡️ struck💥 him👤 down💥.
+**7**🔢 Yahweh’s🙏 message📣 came📨 through📍 Jehu🧔 the🕊️ navi🕊️, Hanani’s👨 son👦, against⚖️ Baasha👑 and➡️ his👑 family🏠. Baasha👑 had💯 done🛠️ evil⚠️ in📍 Yahweh’s🙏 sight👀 and➡️ provoked😠 him🙏 with💢 what💭 he👑 did🛠️. He👑 followed🚶 Jeroboam’s👑 evil⚠️ ways🛤️ and➕ wiped🧹 that👈 dynasty🏠 out🚫.
 
 **8**🔢 In📅 Asa’s👑 twenty-sixth🔢 year🗓️ as💯 Judah’s🇮🇱 king👑, Elah👑 son👦 of📍 Baasha👑 began🏁 ruling👑 Israel🇮🇱 from📍 Tirzah🏘️. He👑 ruled👑 for⏳ two🔢 years🗓️.
 
@@ -72,6 +72,6 @@
 
 **32**🔢 Ahab👑 built🧱 Baal’s🪨 temple🛕 in📍 Samaria🏙️ and➡️ set🪨 up⬆️ an💯 altar🛐 for📍 Baal🪨 there📍.
 
-**33**🔢 Ahab👑 also➕ made🛠️ an💯 Asherah🌳 image🗿. He👑 provoked😠 Yahweh🙏, Israel’s🇮🇱 God🙏, even💯 more➕ than💯 all💯 the👈 kings👑 of📍 Israel🇮🇱 before⏮️ him👑.
+**33**🔢 Ahab👑 also➕ made🛠️ an💯 Asherah🌳. He👑 provoked😠 Yahweh🙏, Israel’s🇮🇱 God🙏, even💯 more➕ than💯 all💯 the👈 kings👑 of📍 Israel🇮🇱 before⏮️ him👑.
 
 **34**🔢 During⏳ Ahab’s👑 days🗓️, Hiel👨 from📍 Bethel🏘️ rebuilt🧱 Jericho🏙️. He👨 laid🧱 its👈 foundation🧱 at📍 the👈 cost💔 of📍 Abiram👦, his👨 firstborn👦, and➡️ set🧱 up⬆️ its👈 gates🚪 at📍 the👈 cost💔 of📍 Segub👶, his👨 youngest👦 son👦. It💯 happened✅ just💯 as📜 Yahweh🙏 had💯 spoken🗣️ through📨 Joshua🧔 son👦 of📍 Nun👨.
