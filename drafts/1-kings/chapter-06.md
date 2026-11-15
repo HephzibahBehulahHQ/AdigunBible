@@ -8,7 +8,7 @@
 
 ## Verses
 
-**1**🔢 Four💯 hundred💯 eighty💯 years📅 after⏭️ Israel🇮🇱 left🚪 Egypt🇪🇬, in📍 Solomon’s👑 fourth🔢 year📅 as👑 king👑 over👑 Israel🇮🇱, during📅 Ziv📅—the☝️ second🔢 month🌙—he👑 started🏗️ building🏗️ Yahweh’s🙏 house🏠, the📍 ilé🏠 of🙏 the📜 Lord🙏.
+**1**🔢 Four💯 hundred💯 eighty💯 years📅 after⏭️ Israel🇮🇱 left🚪 Egypt🇪🇬, in📍 Solomon’s👑 fourth🔢 year📅—Jahr📅 as👑 king👑 over👑 Israel🇮🇱, during📅 Ziv📅—the☝️ second🔢 month🌙—he👑 started🏗️ building🏗️ Yahweh’s🙏 house🏠, the📍 ilé🏠 of🙏 the📜 Lord🙏.
 
 **2**🔢 The🏠 house🏛️—bayit🏠—King👑 Solomon👑 built🏗️ for🙏 Yahweh🙏 measured📏 sixty🔢 cubits📐 long📏, twenty🔢 cubits📐 wide↔️, and➕ thirty🔢 cubits📐 high⬆️.
 
@@ -52,7 +52,7 @@
 
 **22**🔢 He👑 covered🪙 the🏛️ whole💯 house🏠 in✨ gold🪙 until⏳ every💯 part📍 was💯 finished✅. He👑 also➕ coated🪙 the⛪ altar🪨 inside💛 the🏛️ sanctuary🏛️ with✨ gold🪙.
 
-**23**🔢 In📍 the💛 inner💛 sanctuary🏛️, he👑 carved🪚 two2️⃣ cherubim🪽 from🌳 olive🌿 wood🪵. Each👼 one☝️ stood🧍 ten🔢 cubits📐 high⬆️.
+**23**🔢 In📍 the💛 inner💛 sanctuary🏛️, he👑 carved🪚 two🔢 cherubim🪽 from🌳 olive🌿 wood🪵. Each👼 one☝️ stood🧍 ten🔢 cubits📐 high⬆️.
 
 **24**🔢 One☝️ cherub’s👼 wing🪽 was💯 five🔢 cubits📐 long📏, and➕ its👼 other🪽 wing🪽 was💯 five🔢 cubits📐 too➕. From↔️ wingtip🪽 to📍 wingtip🪽, it👼 spanned📏 ten🔢 cubits📐.
 
@@ -68,18 +68,18 @@
 
 **30**🔢 He👑 overlaid🪙 the🏠 floor🏠 inside🏠 and➕ outside↗️ with✨ gold🪙.
 
-**31**🔢 For📍 the🚪 entrance🚪 to📍 the💛 inner💛 sanctuary🏛️, he👑 made🛠️ olive🌿 wood🪵 doors🚪. The🚪 lintel🪵 and➕ door🚪 frames🪵 measured📏 one☝️ fifth5️⃣ of📐 the🏛️ wall🧱.
+**31**🔢 For📍 the🚪 entrance🚪 to📍 the💛 inner💛 sanctuary🏛️, he👑 made🛠️ olive🌿 wood🪵 doors🚪. The🚪 lintel🪵 and➕ door🚪 frames🪵 measured📏 one☝️ fifth🔢 of📐 the🏛️ wall🧱.
 
-**32**🔢 He👑 carved🪚 two2️⃣ olive🌿 wood🪵 doors🚪 with👼 cherubim🪽, palm🌴 trees🌴, and➕ open🌼 flowers🌼, then➡️ covered🪙 them🚪 with✨ gold🪙. He👑 spread🖌️ gold🪙 over🪙 the👼 cherubim🪽 and➕ palm🌴 trees🌴.
+**32**🔢 He👑 carved🪚 two🔢 olive🌿 wood🪵 doors🚪 with👼 cherubim🪽, palm🌴 trees🌴, and➕ open🌼 flowers🌼, then➡️ covered🪙 them🚪 with✨ gold🪙. He👑 spread🖌️ gold🪙 over🪙 the👼 cherubim🪽 and➕ palm🌴 trees🌴.
 
 **33**🔢 For📍 the🚪 Temple⛪ entrance🚪, he👑 made🛠️ olive🌿 wood🪵 doorposts🚪 that📏 measured📏 one☝️ fourth🔢 of📐 the🏛️ wall🧱.
 
-**34**🔢 He👑 made🛠️ two2️⃣ doors🚪 from🌲 cypress🌲 wood🪵. Each🚪 door🚪 had💯 two2️⃣ folding🔄 leaves🚪.
+**34**🔢 He👑 made🛠️ two🔢 doors🚪 from🌲 cypress🌲 wood🪵. Each🚪 door🚪 had💯 two🔢 folding🔄 leaves🚪.
 
 **35**🔢 He👑 carved🪚 cherubim🪽, palm🌴 trees🌴, and➕ open🌼 flowers🌼, then➡️ covered🪙 the👼 carved🪚 designs🎨 with✨ gold🪙, carefully🧩 fitted🧩 to📍 each🪵 carving🪚.
 
-**36**🔢 He👑 built🏗️ the🏛️ inner💛 courtyard🏛️ with🪨 three3️⃣ courses📏 of🪨 cut🪨 stone🧱 and➕ one☝️ course📏 of🌲 cedar🌲 beams🪵.
+**36**🔢 He👑 built🏗️ the🏛️ inner💛 courtyard🏛️ with🪨 three🔢 courses📏 of🪨 cut🪨 stone🧱 and➕ one☝️ course📏 of🌲 cedar🌲 beams🪵.
 
-**37**🔢 The🏠 foundation🧱 of🙏 Yahweh’s🙏 house🏛️ was💯 laid🧱 in📍 Solomon’s👑 fourth🔢 year📅, in📍 the📆 month🌙 of🌿 Ziv.
+**37**🔢 The🏠 foundation🧱 of🙏 Yahweh’s🙏 house🏛️ was💯 laid🧱 in📍 Solomon’s👑 fourth🔢 year📅, in📍 the📆 month🌙 of🌿 Ziv📅.
 
 **38**🔢 In📍 Solomon’s👑 eleventh🔢 year📅, in📍 Bul🌙—the☝️ eighth🔢 month🌙—the🏠 house🏛️ was💯 finished✅ down📏 to📍 every💯 last📍 detail🧩, exactly✅ to📏 its👷 specifications📜. The🏗️ build🏛️ took⏳ seven🔢 years📅.
