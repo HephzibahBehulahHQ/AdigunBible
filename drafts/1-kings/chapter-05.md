@@ -24,7 +24,7 @@
 
 **8**🔢 Hiram👑 replied📝 to👑 Solomon👑, “I👑 got📨 your👑 message📜. I🙋 will💯 meet✅ your👑 request💬 for🌲 cedar🌲 logs🌲 and➕ cypress🌲 timber🌲.”
 
-**9**🔢 “My👥 workers🧑‍🤝‍🧑 will💯 bring🚚 the🌲 logs🌲 down⬇️ from📍 Lebanon🏔️ to🌊 the📍 sea🌊. I🙋 will💯 lash🪢 them👥 into🪵 rafts🪵 and🚢 float🚢 them👥 by🌊 sea🌊 to📍 the🌍 place🏝️ you👑 choose✅. There📍 I🙋 will💯 break🪓 the🪵 rafts🪵 apart↔️ for👥 you👑 to🙌 collect📦. In🤝 return🔄, you👑 will💯 provide🍞 food🍽️ for🏠 my👑 household🏠—fi🍽️ di👑 king👑’s👥 house🏠.”
+**9**🔢 “My👥 workers🧑‍🤝‍🧑 will💯 bring🚚 the🌲 logs🌲 down⬇️ from📍 Lebanon🏔️ to🌊 the📍 sea🌊. I🙋 will💯 lash🪢 them👥 into🪵 rafts🪵 and🚢 float🚢 them👥 by🌊 sea🌊 to📍 the🌍 place🏝️ you👑 choose✅. There📍 I🙋 will💯 break🪓 the🪵 rafts🪵 apart↔️ for👥 you👑 to🙌 collect📦. In🤝 return🔄, you👑 will💯 provide🍞 food🍽️ for🏠 my👑 household🏠—fi🍽️ mi🙋 yaad🏠.”
 
 **10**🔢 Hiram👑 supplied📦 Solomon👑 with🌲 cedar🌲 and➕ cypress🌲 timber🌲, all💯 the🌲 wood🪵 he👑 requested✅—Holz🪵.
 
