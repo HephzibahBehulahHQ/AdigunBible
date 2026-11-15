@@ -157,15 +157,50 @@ const genesisFour=[
 "Adam was with his wife again, and she gave birth to a son. She named him Seth, saying, “God has given me another child in place of Abel, whom Cain killed.” ❤️",
 "Seth also had a son and named him Enosh. Around that time, people began calling on the name of the Lord. 🙏"
 ];
+const genesisFive=[
+"Here’s the family line from Adam. When God created humanity, He made people to reflect Him. ✨",
+"God created them male and female, blessed them, and named them “Mankind.”",
+"Adam was 130 when he had a son who looked like him and carried his family line. He named him Seth.",
+"After Seth was born, Adam lived 800 more years and had other sons and daughters.",
+"Adam lived 930 years in all, and then he died.",
+"Seth was 105 when he became the father of Enosh.",
+"After Enosh was born, Seth lived 807 more years and had other sons and daughters.",
+"Seth lived 912 years in all, and then he died.",
+"Enosh was 90 when he became the father of Kenan.",
+"After Kenan was born, Enosh lived 815 more years and had other sons and daughters.",
+"Enosh lived 905 years in all, and then he died.",
+"Kenan was 70 when he became the father of Mahalalel.",
+"After Mahalalel was born, Kenan lived 840 more years and had other sons and daughters.",
+"Kenan lived 910 years in all, and then he died.",
+"Mahalalel was 65 when he became the father of Jared.",
+"After Jared was born, Mahalalel lived 830 more years and had other sons and daughters.",
+"Mahalalel lived 895 years in all, and then he died.",
+"Jared was 162 when he became the father of Enoch.",
+"After Enoch was born, Jared lived 800 more years and had other sons and daughters.",
+"Jared lived 962 years in all, and then he died.",
+"Enoch was 65 when he became the father of Methuselah.",
+"After Methuselah was born, Enoch walked closely with God for 300 years and had other sons and daughters. 🙏",
+"Enoch lived 365 years in all.",
+"Enoch kept walking with God—and then God took him. He was gone from earth. ✨",
+"Methuselah was 187 when he became the father of Lamech.",
+"After Lamech was born, Methuselah lived 782 more years and had other sons and daughters.",
+"Methuselah lived 969 years in all, and then he died.",
+"Lamech was 182 when he became the father of a son.",
+"He named him Noah, saying, “He’ll bring us relief from our hard work and the painful labor of farming this ground the Lord has cursed.” 🌾",
+"After Noah was born, Lamech lived 595 more years and had other sons and daughters.",
+"Lamech lived 777 years in all, and then he died.",
+"When Noah was 500 years old, he became the father of Shem, Ham, and Japheth—the next generation in the family line."
+];
 const chapterMeta={
 1:{title:"In the beginning · The creation story",verses:genesisOne},
 2:{title:"Eden · The first man and woman",verses:genesisTwo},
 3:{title:"The serpent · Choice and consequence",verses:genesisThree},
 4:{title:"Cain and Abel · The first family",verses:genesisFour},
+5:{title:"Adam’s family line · Enoch and Noah",verses:genesisFive},
 };
 let chapter=1,showSaved=false,font=18;
 const list=document.getElementById("verse-list"),grid=document.getElementById("chapter-grid"),toast=document.getElementById("toast");
-for(let n=1;n<=50;n++){const b=document.createElement("button");b.className="chbtn"+(n<=4?" active ready":"");b.textContent=n;b.setAttribute("aria-label",n<=4?"Genesis chapter "+n+", published":"Genesis chapter "+n+", in editorial review");b.onclick=()=>openChapter(n);grid.append(b)}
+for(let n=1;n<=50;n++){const b=document.createElement("button");b.className="chbtn"+(n<=5?" active ready":"");b.textContent=n;b.setAttribute("aria-label",n<=5?"Genesis chapter "+n+", published":"Genesis chapter "+n+", in editorial review");b.onclick=()=>openChapter(n);grid.append(b)}
 function savedSet(){try{return new Set(JSON.parse(localStorage.getItem("adigun-saved")||"[]"))}catch{return new Set()}}
 function showToast(msg){toast.textContent=msg;toast.classList.add("show");setTimeout(()=>toast.classList.remove("show"),1900)}
 function render(){const data=chapterMeta[chapter];document.getElementById("chapter-heading").textContent="Genesis "+chapter;document.getElementById("chapter-subtitle").textContent=data?.title||"This chapter is being written and reviewed";document.getElementById("chapter-progress").textContent=data?data.verses.length+" / "+data.verses.length+" verses · Reviewed":"In editorial review";document.getElementById("chapter-count").textContent="Genesis · Chapter "+chapter+" of 50";document.getElementById("previous").disabled=chapter===1;document.getElementById("next").disabled=chapter===50;document.querySelectorAll(".chbtn").forEach((b,i)=>b.classList.toggle("active",i+1===chapter));
