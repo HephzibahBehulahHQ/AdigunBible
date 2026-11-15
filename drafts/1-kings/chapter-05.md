@@ -14,7 +14,7 @@
 
 **3**🔢 “You👑 know🧠 my👨 father👑 David👑 couldn’t🙅 build🏗️ a🏠 house🏠 for🙏 Yahweh🙏 his👑 God🙏 while⏳ enemies⚔️ were🌍 pressing⚔️ in📍 from↔️ every💯 side↔️. The🛡️ wars⚔️ kept⏳ going⏳ until⏳ Yahweh🙏 put👇 them👥 under⬇️ David’s👑 feet👣.”
 
-**4**🔢 “But↩️ now⏰ Yahweh🙏 my👑 God🙏 has💯 given🎁 me👑 peace🕊️ all↔️ around🌍. There’s🚫 no🚫 enemy⚔️ threatening⚠️ us🤝 and🚫 no🚫 crisis🌪️ breaking💥 out.”
+**4**🔢 “But↩️ now⏰ Yahweh🙏 my👑 God🙏 has💯 given🎁 me👑 peace🕊️ all↔️ around🌍. There’s🚫 no🚫 enemy⚔️ threatening⚠️ us🤝 and🚫 no🚫 crisis🌪️ breaking💥 out💥.”
 
 **5**🔢 “So💡 I👑 plan📋 to🏗️ build🏗️ a🏠 house🏠 for🙏 Yahweh🙏 my👑 God🙏, exactly📜 as💬 He🙏 told🗣️ my👨 father👑 David👑: ‘Your👑 son👦, whom👤 I🙏 place👑 on🪑 your👑 throne🪑 after⏭️ you👑, will💯 build🏗️ a🏠 house🏠 for🙏 My🙏 name📛’—bayit🏠.”
 
