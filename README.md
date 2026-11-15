@@ -9,7 +9,8 @@ AdigunBible is the original Gen Z Bible edition by Hephzibah Behulah Evangelism.
 - Genesis 1 — all 31 verses published.
 - Genesis 2 — all 25 verses published.
 - Genesis 3 — all 24 verses published.
-- Genesis chapters 4–50 — editorial work in progress.
+- Genesis 4 — all 26 verses published.
+- Genesis chapters 5–50 — editorial work in progress.
 
 The reader shows chapter structure without inventing Scripture for chapters that have not yet been reviewed.
 
