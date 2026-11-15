@@ -60,7 +60,7 @@
 
 **26**🔢 Solomon👑 had💯 forty🔢 thousand🔢 horse🐎 stalls🏠 for📍 his👑 chariots🛞 and➕ twelve🔢 thousand🔢 horsemen🐎.
 
-**27**🔢 Each👨 officer🧑‍💼 supplied📦 food🍽️ for👑 King👑 Solomon👑—food🍽️ fi🍽️ di👑 king👑—and➕ everyone👥 who🍽️ ate🍽️ at👑 his👑 table🍽️ during⏳ that👤 officer’s👨 month📅. Nothing🚫 ran📉 short📦.
+**27**🔢 Each👨 officer🧑‍💼 supplied📦 food🍽️—abinci🍽️—for👑 King👑 Solomon👑—food🍽️ fi🍽️ di👑 king👑—and➕ everyone👥 who🍽️ ate🍽️ at👑 his👑 table🍽️ during⏳ that👤 officer’s👨 month📅. Nothing🚫 ran📉 short📦.
 
 **28**🔢 They👥 also➕ delivered📦 barley🌾 and➕ straw🌾 for🐎 the📍 horses🐎 and➕ swift💨 steeds🐎, taking🚚 it👥 to📍 each👨 officer’s🧑‍💼 assigned📍 place🏘️ as📜 required✅.
 
