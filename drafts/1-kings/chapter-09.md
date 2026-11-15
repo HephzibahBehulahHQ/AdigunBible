@@ -10,9 +10,9 @@
 
 **1**🔢 After⏳ Solomon👑 finished✅ building🏗️ Yahweh’s🙏 house🏛️, his👑 palace🏰, and➕ everything💯 else💯 he👑 had💭 wanted🏗️ to🏗️ build🏗️…
 
-**2**🔢 …Yahweh🙏 appeared✨ to👑 Solomon👑 a☝️ second2️⃣ time⏰, just💯 as💬 He🙏 had💯 appeared✨ to👑 him👑 at📍 Gibeon🏘️.
+**2**🔢 …Yahweh🙏 appeared✨ to👑 Solomon👑 a☝️ second🔢 time⏰, just💯 as💬 He🙏 had💯 appeared✨ to👑 him👑 at📍 Gibeon🏘️.
 
-**3**🔢 Yahweh🙏 told🗣️ him👑, “I🙋 heard👂 your🙏 prayer🙏 and➕ plea🙏 before🙏 Me🙋. I🙋 have💯 made✨ this🏛️ house🏠 holy✨. My🙏 name📛—shem📛—will💯 be📍 here📍 forever⏳; My👀 eyes👀 and➕ heart❤️—Herz❤️—will💯 always⏳ be📍 here📍 too➕.”
+**3**🔢 Yahweh🙏 told🗣️ him👑, “I🙋 heard👂 your🙏 prayer🙏 and➕ plea🙏 before🙏 Me🙋. I🙋 have💯 made✨ this🏛️ house🏠 holy✨. My🙏 name📛—shem📛, orúkọ📛—will💯 be📍 here📍 forever⏳; My👀 eyes👀 and➕ heart❤️—Herz❤️—will💯 always⏳ be📍 here📍 too➕.”
 
 **4**🔢 “As👑 for📍 you👑, if✅ you👑 walk🚶 before🙏 Me🙋 as🤝 your👨 father👑 David👑 did🚶, with💯 a💛 faithful✅—fidèle✅—heart❤️ and➕ integrity💯, doing✅ everything💯 I🙋 commanded📜 you👑 and➕ keeping🤝 My🙏 rules📖 and➕ decisions⚖️…”
 
@@ -20,17 +20,17 @@
 
 **6**🔢 “But↩️ if⚠️ you👑 or👶 your👨 children👨‍👩‍👦 turn🔄 away↩️ from🙏 Me🙋, stop🚫 keeping🤝 My🙏 commands📜 and➕ rules📖, and➡️ go🚶 serve🙏 and➕ worship🙇 other👥 gods🙏—dioses🙏…”
 
-**7**🔢 “…then➡️ I🙋 will💯 remove🚪 Israel🇮🇱 from📍 the🌍 land🌍 I🙋 gave🎁 them👥, and➕ push🏛️ this🏛️ house🏛️ I🙋 made✨ holy✨ out🚪 of👀 My🙏 sight👀. Israel🇮🇱 will💯 become🗣️ a💬 proverb📜 and➕ a💬 punchline🗣️ among🤝 all💯 peoples🌍.”
+**7**🔢 “…then➡️ I🙋 will💯 remove🚪 Israel🇮🇱 from📍 the🌍 land🌍 I🙋 gave🎁 them👥, and➕ push🏛️ this🏛️ house🏛️ I🙋 made✨ holy✨ out🚪 of👀 My🙏 sight👀. Israel🇮🇱 will💯 become🗣️ a💬 proverb📜 and➕ an👀 object👀 of⚠️ scorn😔 among🤝 all💯 peoples🌍.”
 
 **8**🔢 “Even⛰️ though🤔 this🏛️ house🏛️ stands⬆️ so💯 high⬆️, everyone👥 passing🚶 by➡️ will💯 stare😮 and➕ hiss😮‍💨. They👥 will💬 ask❓, ‘Why🤔 did🙏 Yahweh🙏 do💥 this👆 to📍 this🏞️ land🏞️ and➕ this🏛️ house🏛️?’”
 
-**9**🔢 “And➡️ the👥 answer🗣️ will💬 be: ‘Because💭 they👥 abandoned🚪 Yahweh🙏 their👥 God🙏, who👑 brought🚶 their👨‍👩‍👧‍👦 ancestors👴 out🚪 of📍 Egypt🇪🇬. They👥 clung🫂 to🙏 other👥 gods🙏, worshiped🙇 them👥, and➕ served🤲 them👥. That’s💭 why🤔 Yahweh🙏 brought💥 all💯 this⚠️ disaster⚠️ on📍 them👥.’”
+**9**🔢 “And➡️ the👥 answer🗣️ will💬 be💯: ‘Because💭 they👥 abandoned🚪 Yahweh🙏 their👥 God🙏, who👑 brought🚶 their👨‍👩‍👧‍👦 ancestors👴 out🚪 of📍 Egypt🇪🇬. They👥 clung🫂 to🙏 other👥 gods🙏, worshiped🙇 them👥, and➕ served🤲 them👥. That’s💭 why🤔 Yahweh🙏 brought💥 all💯 this⚠️ disaster⚠️ on📍 them👥.’”
 
 **10**🔢 It⏳ was💯 after⏳ twenty🔢 years📅—the⌛ time⏳ Solomon👑 spent🏗️ building🏗️ both💯 houses🏛️, Yahweh’s🙏 house🏛️ and➕ the👑 king’s👑 house🏰—
 
 **11**🔢 —that⏳ King👑 Solomon👑 gave🎁 Hiram👑 twenty🔢 cities🏘️ in📍 Galilee🏞️. Hiram👑 king👑 of📍 Tyre🏙️ had💯 supplied📦 Solomon👑 with🌲 cedar🌲, cypress🌲, and➕ gold🪙, everything💯 he👑 wanted💭. Solomon👑 gave🎁 the🏘️ cities🏘️ to👑 Hiram👑.
 
-**12**🔢 Hiram👑 came🚶 out↗️ from📍 Tyre🏙️ to👀 inspect🔎 the🏘️ cities🏘️ Solomon👑 had💯 given🎁 him👑, but🚫 he👑 didn’t🙅 like👍 what👀 he👀 saw👀.
+**12**🔢 Hiram👑 came🚶 out↗️ from📍 Tyre🏙️ to👀 inspect🔎 the🏘️ cities🏘️—gari🏘️—Solomon👑 had💯 given🎁 him👑, but🚫 he👑 didn’t🙅 like👍 what👀 he👀 saw👀.
 
 **13**🔢 He👑 asked❓, “What🤔 kind🏘️ of🏘️ cities🏘️ are💬 these👆 you👑 gave🎁 me🙋, my🤝 brother🤝?” He👑 called📛 that🌍 region🏞️ the💬 land🏞️ of📍 Cabul🏘️, and➡️ people👥 still⏳ call📛 it👆 that📛.
 
@@ -58,7 +58,7 @@
 
 **25**🔢 Three🔢 times📅 each💯 year📅, Solomon👑 offered🙏 burnt🔥 offerings🫗 and➕ peace🕊️ offerings🫗 on📍 the⛪ altar🪨 he👑 had💯 built🏗️ for🙏 Yahweh🙏, burning🔥 incense🌫️ there📍 too➕. That💯 completed✅ the🏛️ house🏛️.
 
-**26**🔢 King👑 Solomon👑 built🏗️ a💯 fleet🚢 of🚢 ships🚢 at📍 Ezion🏘️ Geber🏘️, beside📍 Eloth🏘️ on🌊 the📍 shore🏝️ of🌊 the📍 Red🔴 Sea🌊, in📍 Edom🏜️.
+**26**🔢 King👑 Solomon👑 built🏗️ a💯 fleet🚢—meli🚢—of🚢 ships🚢 at📍 Ezion🏘️ Geber🏘️, beside📍 Eloth🏘️ on🌊 the📍 shore🏝️ of🌊 the📍 Red🔴 Sea🌊, in📍 Edom🏜️.
 
 **27**🔢 Hiram👑 sent📨 his👥 experienced🌊 sailors🚢 out🚢 with🤝 Solomon’s👑 crew🧑‍✈️ in📍 the🚢 fleet🚢—dem👥 together🤝.
 
