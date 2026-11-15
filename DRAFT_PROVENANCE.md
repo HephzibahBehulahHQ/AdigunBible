@@ -99,3 +99,5 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | ezekiel 40 | [Ezekiel 40 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+40&version=KJV) | Public domain |
 
 | ezekiel 39 | [Ezekiel 39 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+39&version=KJV) | Public domain |
+
+| ezekiel 38 | [Ezekiel 38 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+38&version=KJV) | Public domain |
