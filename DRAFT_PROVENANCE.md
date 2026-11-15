@@ -101,3 +101,5 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | ezekiel 39 | [Ezekiel 39 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+39&version=KJV) | Public domain |
 
 | ezekiel 38 | [Ezekiel 38 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+38&version=KJV) | Public domain |
+
+| ezekiel 37 | [Ezekiel 37 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+37&version=KJV) | Public domain |
