@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 4 (34 verses), checked at https://biblehub.com/web/1_kings/4.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–34 is included. Required code switches are distributed through the chapter: Yoruba (ọba), German (zwölf), French (sagesse), Igbo (ndị mmadụ), Hausa (abinci), Jamaican Patois (fi di), Hebrew (ḥokhmah), plus Swahili (amani) and Spanish (por todos). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–34 is included. Required code switches are distributed through the chapter: Yoruba (ọba), German (zwölf), French (sagesse), Igbo (ndị mmadụ), Hausa (abinci), Jamaican Patois (fi di), Hebrew (ḥokhmah), plus Swahili (amani) and Spanish (por todos). Each verse word is paired with an emoji. Meaning review against the World English Bible is complete. Verse 5 no longer adds a district designation, verse 13 clarifies Ben Geber’s district, verse 32 says Solomon’s songs totaled 1,005 rather than claiming he wrote them, and verse 33 now says creeping things and trees as in the source. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -16,7 +16,7 @@
 
 **4**🔢 Benaiah🛡️ son👦 of🌳 Jehoiada👨 led🛡️ the👑 army🛡️; Zadok🙏 and➕ Abiathar🙏 served🛐 as📜 priests⛪.
 
-**5**🔢 Azariah👨, Nathan’s📣 son👦, oversaw👀 the👥 district🗺️ officers🧑‍💼. Zabud👨, also➕ Nathan’s📣 son👦, was💼 chief🔝 minister🧑‍💼 and🤝 a👑 close🤝 friend🫶 of👑 the📜 king👑.
+**5**🔢 Azariah👨, Nathan’s📣 son👦, oversaw👀 the👥 officers🧑‍💼. Zabud👨, also➕ Nathan’s📣 son👦, was💼 chief🔝 minister🧑‍💼 and🤝 a👑 close🤝 friend🫶 of👑 the📜 king👑.
 
 **6**🔢 Ahishar👨 ran🗝️ the👑 palace🏰 household🏠, while⏳ Adoniram👨 son👦 of🌳 Abda👨 supervised👀 the⚒️ forced⛓️ labor🧑‍🤝‍🧑.
 
@@ -70,8 +70,8 @@
 
 **31**🔢 He👑 was💯 wiser🧠 than📏 everyone👥—wiser🧠 than📏 Ethan👨 the📍 Ezrahite🏞️, Heman👨, Calcol👨, and➕ Darda👨, Mahol’s👨 sons👦. His👑 reputation📣 spread🌍 through💯 every💯 nation🌍 around↔️ him👑.
 
-**32**🔢 Solomon👑 spoke🗣️ three🔢 thousand🔢 proverbs📜, and➕ wrote✍️ one☝️ thousand🔢 and➕ five🔢 songs🎶.
+**32**🔢 Solomon👑 spoke🗣️ three🔢 thousand🔢 proverbs📜, and➕ his👑 songs🎶 totaled💯 one☝️ thousand🔢 and➕ five🔢.
 
-**33**🔢 He👑 explained🗣️ plants🌿, from📍 Lebanon’s🏞️ cedar🌲 to📍 the🌿 hyssop🌱 growing🌱 from📍 a🧱 wall🧱. He👑 also➕ talked🗣️ about🌿 animals🐾, birds🐦, small🐜 creatures🐍, and➕ fish🐟—ḥokhmah🧠—חָכְמָה🧠—in📚 every💯 corner📍 of🌍 creation🌱.
+**33**🔢 He👑 described🗣️ trees🌳, from📍 Lebanon’s🏞️ cedar🌲 to📍 the🌿 hyssop🌱 growing🌱 from📍 a🧱 wall🧱. He👑 also➕ talked🗣️ about🌿 animals🐾, birds🐦, creeping🐍 creatures🐜, and➕ fish🐟—ḥokhmah🧠—חָכְמָה🧠—in📚 every💯 corner📍 of🌍 creation🌱.
 
 **34**🔢 People👥 from📍 every💯 nation🌍 came🚶 to👂 hear👂 Solomon’s👑 wisdom🧠. Kings👑 everywhere🌍 sent📨 them👥, because💭 they👥 had💯 heard👂 of📣 his👑 wisdom🧠—por👥 todos🌍.
