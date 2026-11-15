@@ -26,3 +26,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | haggai 1 | [Haggai 1 KJV](https://www.biblegateway.com/passage/?search=Haggai+1&version=KJV) | Public domain |
 | zephaniah 3 | [Zephaniah 3 KJV](https://www.biblegateway.com/passage/?search=Zephaniah+3&version=KJV) | Public domain |
 | zephaniah 2 | [Zephaniah 2 KJV](https://www.biblegateway.com/passage/?search=Zephaniah+2&version=KJV) | Public domain |
+| zephaniah 1 | [Zephaniah 1 KJV](https://www.biblegateway.com/passage/?search=Zephaniah+1&version=KJV) | Public domain |
