@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 13 (34 verses), checked at https://biblehub.com/web/1_kings/13.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–34 is included. Required code switches are distributed through the chapter: Yoruba (sọ), German (Asche), French (signe), Igbo (ekpere), Hausa (gida), Jamaican Patois (mi nah go wid yuh), Hebrew (navi), plus Spanish (mintió) and Swahili (simba). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–34 is included. Required code switches are distributed through the chapter: Yoruba (sọ), German (Asche), French (signe), Igbo (ekpere), Hausa (gida), Jamaican Patois (mi nah go wid yuh), Hebrew (navi), plus Spanish (mintió) and Swahili (simba). Each verse word is paired with an emoji. Meaning review against the World English Bible is complete. Verse 7 retains the invitation to rest, verse 29 specifies the old prophet’s city, and verse 32 preserves the high-place shrines across Samaria’s cities. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -20,7 +20,7 @@
 
 **6**🔢 The👑 king👑 pleaded🙏 with👨 the🧑 man👨 of🙏 God🙏, “Please🙏 ask🙏 Yahweh🙏 your👑 God🙏 to💛 show💛 me🙋 mercy💛. Pray🙏 for🙏 me🙋 so🙏 my👑 hand🤲 can💯 work💪 again.” The🧑 man👨 of🙏 God🙏 pleaded🙏 with🙏 Yahweh🙏—ekpere🙏—and➡️ the👑 king’s👑 hand🤲 was💯 restored🩹, just💯 as💬 it👆 had💯 been💯 before⏪.
 
-**7**🔢 The👑 king👑 said🗣️ to👨 the🧑 man👨 of🙏 God🙏, “Come🚶 to📍 my👑 house🏠—gida🏠—and➕ eat🍞 with🤝 me🙋; I🙋 will💯 give🎁 you👨 a💰 reward🎁.”
+**7**🔢 The👑 king👑 said🗣️ to👨 the🧑 man👨 of🙏 God🙏, “Come🚶 to📍 my👑 house🏠—gida🏠—rest🛋️ and➡️ eat🍞 with🤝 me🙋; I🙋 will💯 give🎁 you👨 a💰 reward🎁.”
 
 **8**🔢 But↩️ the🧑 man👨 of🙏 God🙏 answered🗣️ the👑 king👑, “Even💯 if✅ you👑 gave🎁 me🙋 half🔢 your👑 house🏠, I🙋 would🚫 not🙅 go🚶 inside🏠 with🤝 you👑. I🙋 will🚫 not🙅 eat🍞 or🥤 drink🥤 anything📍 here📍—mi🙋 nah🚫 go🚶 wid🤝 yuh👑.”
 
@@ -64,13 +64,13 @@
 
 **28**🔢 He👴 went🚶 and➡️ found🔎 the⚰️ body⚰️ lying⬇️ on📍 the🛤️ road🛣️, with🤝 the🐴 donkey🫏 and➕ the🦁 lion🦁 standing🧍 beside📍 it⚰️. The🦁 lion🦁 hadn’t🙅 eaten🍽️ the⚰️ body⚰️ or🚫 attacked⚔️ the🐴 donkey🫏.
 
-**29**🔢 The👴 prophet🕊️ lifted🫴 the⚰️ body⚰️ of📍 the🧑 man👨 of🙏 God🙏 onto🫴 the🐴 donkey🫏 and➡️ carried🚶 him👨 back↩️ to📍 town🏘️. He👴 mourned😭 him👨 and➡️ prepared⚰️ to⚰️ bury🪦 him👨.
+**29**🔢 The👴 prophet🕊️ lifted🫴 the⚰️ body⚰️ of📍 the🧑 man👨 of🙏 God🙏 onto🫴 the🐴 donkey🫏 and➡️ carried🚶 him👨 back↩️ to📍 the👈 old👴 prophet’s🕊️ city🏘️. He👴 mourned😭 him👨 and➡️ prepared⚰️ to⚰️ bury🪦 him👨.
 
 **30**🔢 He👴 laid🪦 the⚰️ body⚰️ in📍 his👴 own🏠 grave🪦, and➡️ they👥 mourned😭 over📍 him👨, saying🗣️, “My😭 brother👨, alas😭!”
 
 **31**🔢 After⏳ burying🪦 him👨, the👴 prophet🕊️ told🗣️ his👦 sons👦, “When⏳ I🙋 die⚰️, bury🪦 me🙋 in📍 the💯 same🪦 grave🪦 as👨 the🧑 man👨 of🙏 God🙏. Lay🪦 my👴 bones🦴 beside📍 his👨 bones🦴.”
 
-**32**🔢 “The📜 message🗣️ he👨 declared📣 by📜 Yahweh’s🙏 word📜 against📍 the🪨 altar🪨 in📍 Bethel🏘️ and➕ against📍 every💯 high-place⛩️ shrine⛩️ in📍 Samaria🏞️ will💯 surely💯 happen✅.”
+**32**🔢 “The📜 message🗣️ he👨 declared📣 by📜 Yahweh’s🙏 word📜 against📍 the🪨 altar🪨 in📍 Bethel🏘️ and➕ against📍 all💯 the👈 high-place⛩️ shrines⛩️ across🌍 Samaria’s🏞️ cities🏘️ will💯 surely💯 happen✅.”
 
 **33**🔢 Even⏳ after📍 all💯 this👆, Jeroboam👑 didn’t🙅 turn🔄 away↩️ from📍 his👿 evil😔 path🛤️. He👑 kept🔄 appointing📜 priests🙏 for📍 the⛰️ high⛰️ places⛩️ from📍 among💯 all💯 the👥 people👥. Whoever🙋 wanted💭 the💼 role📜, he👑 ordained🙏 them👨 to💼 serve🙏 at📍 the⛰️ high⛰️ places⛩️.
 
