@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 6 (38 verses), checked at https://biblehub.com/web/1_kings/6.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–38 is included. Required code switches are distributed through the chapter: Yoruba (ilé), German (Jahr), French (or), Igbo (ụlọ), Hausa (gina), Jamaican Patois (dem), Hebrew (bayit), plus Spanish (oro) and Swahili (jenga). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–38 is included. Required code switches are distributed through the chapter: Yoruba (ilé), German (Jahr), French (or), Igbo (ụlọ), Hausa (gina), Jamaican Patois (dem), Hebrew (bayit), plus Spanish (oro) and Swahili (jenga). Each verse word is paired with an emoji. Meaning review against the World English Bible is complete; the source comparison found no meaning corrections necessary. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
