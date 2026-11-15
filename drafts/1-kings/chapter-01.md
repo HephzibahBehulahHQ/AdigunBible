@@ -84,7 +84,7 @@
 
 **38**🔢 Zadok🙏 the📜 priest⛪, Nathan📣 the📜 prophet🕊️, Benaiah🛡️ son👦 of🛡️ Jehoiada👨, and➕ the👑 Cherethites🛡️ and👑 Pelethites🛡️ went🚶 down⬇️. They👥 put🫴 Solomon👑 on🐴 King👑 David’s👑 mule🐴 and➡️ escorted🛡️ him👑 to📍 Gihon💧.
 
-**39**🔢 Zadok🙏 took🫴 the📯 oil🫗 horn📯 from📍 the⛺ Tent⛺ and➡️ anointed🫗 Solomon👑. The👥 trumpet📯 sounded📣, and➡️ everyone👥 shouted📣, “Long⏳ live💚 King👑 Solomon👑!”
+**39**🔢 Zadok🙏 took🫴 the📯 oil🫗 horn📯 from📍 the⛺ Tent⛺ and➡️ anointed🫗 Solomon👑. The👥 trumpet📯 sounded📣, and➡️ everyone👥 shouted📣, “Sarki👑 Solomon👑! Long⏳ live💚 King👑 Solomon👑!”
 
 **40**🔢 All💯 the👥 people👥 followed🏃 Solomon👑, playing🎶 pipes🎼 and🎉 celebrating🥳 with💛 huge📈 joy😊—kwa🌍 furaha🎉—until⏳ the🌍 ground🌍 shook🌎 from🔊 all💯 that🎶 noise📣!
 
