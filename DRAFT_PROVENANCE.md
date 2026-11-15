@@ -27,3 +27,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | zephaniah 3 | [Zephaniah 3 KJV](https://www.biblegateway.com/passage/?search=Zephaniah+3&version=KJV) | Public domain |
 | zephaniah 2 | [Zephaniah 2 KJV](https://www.biblegateway.com/passage/?search=Zephaniah+2&version=KJV) | Public domain |
 | zephaniah 1 | [Zephaniah 1 KJV](https://www.biblegateway.com/passage/?search=Zephaniah+1&version=KJV) | Public domain |
+| habakkuk 3 | [Habakkuk 3 KJV](https://www.biblegateway.com/passage/?search=Habakkuk+3&version=KJV) | Public domain |
