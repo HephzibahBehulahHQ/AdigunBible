@@ -34,3 +34,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | nahum 2 | [Nahum 2 KJV](https://www.biblegateway.com/passage/?search=Nahum+2&version=KJV) | Public domain |
 | nahum 1 | [Nahum 1 KJV](https://www.biblegateway.com/passage/?search=Nahum+1&version=KJV) | Public domain |
 | micah 7 | [Micah 7 KJV](https://www.biblegateway.com/passage/?search=Micah+7&version=KJV) | Public domain |
+| micah 6 | [Micah 6 KJV](https://www.biblegateway.com/passage/?search=Micah+6&version=KJV) | Public domain |
