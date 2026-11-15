@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible British Edition, 1 Kings 17 (24 verses), checked at https://ebible.org/study/content/texts/eng-webbe/K117.html. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–24 is included. Required code switches appear in the verse text: Yoruba (omi), German (Brot), French (pluie), Igbo (nwa), Hausa (ruwa), Jamaican Patois (di), Hebrew (navi), plus Spanish (viuda) and Portuguese (pão). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–24 is included. Required code switches appear in the verse text: Yoruba (omi), German (Brot), French (pluie), Igbo (nwa), Hausa (ruwa), Jamaican Patois (di), Hebrew (navi), plus Spanish (viuda) and Portuguese (pão). Each verse word is paired with an emoji. Meaning review against the World English Bible British Edition is complete; verse 20 now retains Elijah’s “also” question. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -46,7 +46,7 @@
 
 **19**🔢 Elijah🧔 said🗣️, “Give📦 me🙋 your👩 son👦.” He👤 took🫳 the👦 boy👦 from📍 her👩 arms🤱, carried🪜 him👦 upstairs⬆️ to📍 the🛏️ room🏠 where📍 he👤 stayed🏠, and➡️ laid🛏️ him👦 on📍 his👤 own🫵 bed🛏️.
 
-**20**🔢 Then⏰ Elijah🧔 cried😭 out📣 to📍 Yahweh🙏, “Yahweh🙏 my🙋 God🙏, have❓ you👤 brought📨 this⚠️ tragedy😭 on📍 this👩 widow👩 I🙋 stay🏠 with🤝 by💯 letting🫴 her👩 son👦 die💀?”
+**20**🔢 Then⏰ Elijah🧔 cried😭 out📣 to📍 Yahweh🙏, “Yahweh🙏 my🙋 God🙏, have❓ you👤 also💯 brought📨 this⚠️ tragedy😭 on📍 this👩 widow👩 I🙋 stay🏠 with🤝 by💯 letting🫴 her👩 son👦 die💀?”
 
 **21**🔢 He👤 stretched🛏️ himself🧍 over📍 the👦 child👦 three🔢 times🔁, then⏰ cried📣 to📍 Yahweh🙏, “Yahweh🙏 my🙋 God🙏, please🙏 let🫴 this👦 child’s👦 life💓 come↩️ back↩️ into📍 him👦.”
 
