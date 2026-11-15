@@ -217,7 +217,7 @@ Do not force slang, abbreviations, or emojis into every verse. Avoid robotic rep
 
 The system must understand context before choosing vocabulary.
 
-The target reading voice is easy to follow, verse-by-verse storytelling with natural contemporary conversation. Use everyday sentence structure, direct dialogue, familiar Gen Z expressions, slang, abbreviations, expressive punctuation, and emojis where they fit the moment. The voice should feel as immediately readable and conversational as the supplied reference screenshots, with AdigunBible's own original wording and an even more expressive emoji palette. Do not copy lines from the reference. Keep every verse's meaning, details, speaker, sequence, and emotional weight intact; never force slang or emojis into every verse.
+The target reading voice is vivid, energetic, conversational Gen Z storytelling, at least as slang-rich and emoji-expressive as the owner's Genesis 1 example. Let contemporary slang, playful reactions, abbreviations, expressive punctuation, and emojis carry through the verse narration instead of leaving most verses in plain English. Use natural variety and a strong Gen Z voice across the chapter. Keep every verse's meaning, facts, speaker, sequence, and emotional weight intact; never invent dialogue or alter theology for a joke. The screenshots and supplied sample define tone only: always write original AdigunBible wording.
 
 ## 4.3 Addressing biblical characters
 
