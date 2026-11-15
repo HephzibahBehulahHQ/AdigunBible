@@ -8,7 +8,7 @@
 
 ## Verses
 
-**1**🔢 Yahweh’s🙏 message📣 came📨 to📍 Jehu🧔 son👦 of📍 Hanani👨, aimed🎯 at📍 Baasha👑:
+**1**🔢 Yahweh’s🙏 message📣 came📨 to📍 Jehu🧔 son👦 of📍 Hanani👨, aimed🎯 at📍 Baasha👑, Israel’s🇮🇱 ọba👑:
 
 **2**🔢 “I🙋 lifted⬆️ you👑 out🚪 of📍 the🌍 dust🌫️ and➡️ made👑 you👑 leader👑 over📍 my🙏 people👥 Israel🇮🇱. But↩️ you👑 walked🚶 Jeroboam’s👑 road🛤️ and➡️ pushed💨 my🙏 people👥 Israel🇮🇱 into📍 sin⚠️, lighting🔥 my🙏 anger😠 with💢 their👥 sins⚠️.
 
@@ -24,7 +24,7 @@
 
 **8**🔢 In📅 Asa’s👑 twenty-sixth🔢 year🗓️ as💯 Judah’s🇮🇱 king👑, Elah👑 son👦 of📍 Baasha👑 began🏁 ruling👑 Israel🇮🇱 from📍 Tirzah🏘️. He👑 ruled👑 for⏳ two🔢 years🗓️.
 
-**9**🔢 His👑 servant🧑 Zimri👨, captain🎖️ over📍 half½ his👑 chariots🏇, started🏁 plotting🕵️ against⚔️ him👑. Elah👑 was💯 in📍 Tirzah🏘️, drinking🍷 himself👑 drunk🥴 at📍 Arza’s👨 house🏠. Arza👨 ran🏠 the👑 household🏠 there📍.
+**9**🔢 His👑 servant🧑 Zimri👨, captain🎖️ over📍 half🔢 his👑 chariots🏇, started🏁 plotting🕵️ against⚔️ him👑. Elah👑 was💯 in📍 Tirzah🏘️, drinking🍷 himself👑 drunk🥴 at📍 Arza’s👨 house🏠. Arza👨 ran🏠 the👑 household🏠 there📍.
 
 **10**🔢 Zimri👨 walked🚶 in➡️, struck💥 Elah👑 down⬇️, killed💀 him👑, and➡️ grabbed🫳 the👑 throne👑. This📅 went✅ down⬇️ in📅 Asa’s👑 twenty-seventh🔢 year🗓️ as💯 Judah’s🇮🇱 king👑.
 
@@ -42,7 +42,7 @@
 
 **17**🔢 Omri👑 marched🥾 up⬆️ from📍 Gibbethon🏘️, with🤝 all💯 Israel🇮🇱—him👑 and➕ dem👥—and➡️ they👥 surrounded🛡️ Tirzah🏘️.
 
-**18**🔢 Zimri👑 saw👀 the🏙️ city🏘️ was💯 falling📉. He👑 went🚶 into📍 the🛡️ fortified🧱 part📍 of📍 the👑 royal🏰 house🏠—his👑 gida🏠—and➡️ set🔥 the👑 palace🏰 on🔥 fire🔥, trapping🔥 himself👑 inside📍. He👑 died💀 there📍.
+**18**🔢 Zimri👑 saw👀 the🏙️ city🏘️ was💯 falling📉. He👑 went🚶 into📍 the🛡️ fortified🧱 part📍 of📍 the👑 royal🏰 house🏠—his👑 gida🏠—and➡️ set🔥 the👑 palace🏰 on🔥 fire🔥—Feuer🔥—around↔️ himself👑. He👑 died💀 there📍.
 
 **19**🔢 Zimri👑 died💀 because📍 of📍 his👑 sins⚠️: he👑 did🛠️ evil⚠️ in📍 Yahweh’s🙏 sight👀, followed🚶 Jeroboam’s👑 path🛤️, and➡️ repeated🔁 the👈 sin⚠️ that👈 made🛠️ Israel🇮🇱 sin⚠️ too➕.
 
@@ -68,7 +68,7 @@
 
 **30**🔢 Ahab👑 did✅ what👀 Yahweh🙏 called⚠️ evil⚠️—worse📈 than💯 every💯 king👑 before⏮️ him👑.
 
-**31**🔢 Copying🪞 Jeroboam’s👑 sins⚠️ apparently👀 wasn’t🚫 enough💯 for📍 Ahab👑. He👑 married💍 Jezebel👸, Ethbaal’s👑 daughter👧, the👑 Sidonian🇸🇮 king👑. Then⏰ he👑 served🙏 Baal🪨 and➡️ worshiped🙏 him🪨.
+**31**🔢 Copying🪞 Jeroboam’s👑 sins⚠️ apparently👀 wasn’t🚫 enough💯 for📍 Ahab👑. He👑 married💍 Jezebel👸, daughter👧 of📍 Ethbaal👑, who👑 ruled👑 the👥 Sidonians🇸🇮. Then⏰ he👑 served🙏 Baal🪨 and➡️ worshiped🙏 him🪨.
 
 **32**🔢 Ahab👑 built🧱 Baal’s🪨 temple🛕 in📍 Samaria🏙️ and➡️ set🪨 up⬆️ an💯 altar🛐 for📍 Baal🪨 there📍.
 
