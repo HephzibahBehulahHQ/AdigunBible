@@ -224,6 +224,20 @@ Do not use every expression everywhere IN THE MOOD OF CONVAESATION AND TONE
 
 The system must choose expressions naturally.
 
+## UNIVERSAL WORD-CHOICE AND EMOJI BANK
+
+Apply this bank across every book, chapter, and verse. Rewrite ordinary/formal wording into the AdigunBible Gen Z voice throughout the whole verse; do not leave a verse sounding like plain English with one slang word added. Use these expressions where they fit the speaker and context:
+
+ADDRESSING PEOPLE: Fam; Bro; Bestie; My dude; Y'all; Friend.
+REACTIONS: Hold up!; Wait a minute!; For real?; No way!; That's wild!; Seriously?
+EMPHASIS: No cap.; Fr.; Literally.; For real.; Big time.; Absolutely.
+ENCOURAGEMENT: You got this.; Keep going.; Don't give up.; Stay strong.; God hasn't abandoned you.
+MODERN EXPRESSIONS: Lowkey.; Highkey.; That's the vibe.; Understood the assignment.; That's not it.; Let's be real.
+SHORTENED EXPRESSIONS: TBH.; FR.; BTW.; IMO.; IDK.
+EMOJIS: ❤️ 🙏 ✨ 🔥 🫶 🌍 😭 👀 💯 🕊️
+
+Pair expressive, context-fitting emojis with the words throughout the verse text. Use the bank as a voice palette: preserve biblical names, actions, claims, sequence, and theological meaning while rewording the narration. Vary usage to fit context and speaker. Apply this standard to all 66 books, every chapter, and every verse.
+
 ## 4.2 Language quality
 
 The language must sound human, vivid, energetic, and recognizably Gen Z in every book, chapter, and verse. Do not leave verses in plain formal English. Use conversational storytelling, slang, abbreviations, expressive punctuation, and code-switching between languages when it sounds natural. Use punchy reactions and playful social-media energy where the passage supports them.
