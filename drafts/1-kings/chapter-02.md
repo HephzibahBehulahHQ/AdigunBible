@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 2 (46 verses), checked at https://biblehub.com/web/1_kings/2.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–46 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (stark), French (vrai), Igbo (eze), Hausa (gaskiya), Jamaican Patois (mi/yah), Hebrew (Sheol), plus Spanish (sí) and Arabic (salām). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–46 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (stark), French (en vérité), Igbo (eze), Hausa (gaskiya), Jamaican Patois (mi/yah), Hebrew (Sheol), plus Spanish (sí) and Arabic (salām). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -14,7 +14,7 @@
 
 **3**🔢 “Keep🧭 Olúwa’s🙏 charge📜: walk🚶 in📍 His🙏 ways🛤️, follow✅ His🙏 rules📖, commands🗣️, decisions⚖️, and💬 reminders📜, just💯 as📜 Moses👨‍🦳’ law📖 says💬. Then✨ you👑 can💪 succeed📈 in💼 what💯 you👑 do🛠️ and➡️ wherever🌍 you👑 go🚶.”
 
-**4**🔢 “Then🙏 Yahweh🙏 will💯 keep🤝 His📜 promise🗣️ to🙏 me👑: ‘If✅ your👑 children👨‍👩‍👦 stay👣 on📍 My🙏 path🛤️ and💯 walk🚶 before🙏 Me🙋 in📍 truth💯—vrai✅—with❤️ all💯 their👥 heart❤️ and➕ soul🕊️, your👑 family🌳 will🚫 always⏳ have👑 someone👨 on🪑 Israel’s🇮🇱 throne👑.’”
+**4**🔢 “Then🙏 Yahweh🙏 will💯 keep🤝 His📜 promise🗣️ to🙏 me👑: ‘If✅ your👑 children👨‍👩‍👦 stay👣 on📍 My🙏 path🛤️ and💯 walk🚶 before🙏 Me🙋 in📍 truth💯—en💬 vérité💯—with❤️ all💯 their👥 heart❤️ and➕ soul🕊️, your👑 family🌳 will🚫 always⏳ have👑 someone👨 on🪑 Israel’s🇮🇱 throne👑.’”
 
 **5**🔢 “You👑 already💭 know🧠 what⚠️ Joab⚔️, Zeruiah’s👩 son👦, did🩸 to🩸 me👑: he⚔️ killed💀 two🔢 army🛡️ commanders👨‍✈️, Abner⚔️ son👦 of🌳 Ner👨 and➕ Amasa⚔️ son👦 of🌳 Jether👨. He🩸 turned⚔️ peacetime🕊️ into🩸 bloodshed🩸, then➡️ wore🩸 that🩸 blood🩸 on📍 his👨 belt👖 and➕ sandals👡.”
 
@@ -84,7 +84,7 @@
 
 **38**🔢 Shimei👨 answered🗣️ the👑 king👑, “That💬 sounds👂 fair✅. I🙋 will💯 do🛠️ exactly💯 what💬 my🙇 lord👑 the📜 king👑 has💬 ordered📜.” So🫶 Shimei👨 stayed🏠 in📍 Jerusalem🏙️ for⏳ a💯 long⏳ time⏳.
 
-**39**🔢 Three3️⃣ years📅 later⏳, two🔢 of📍 Shimei’s👨 enslaved⛓️ men👥 ran🏃 away🏃‍♂️ to📍 Gath🏘️, to👑 Achish👑 son👦 of🌳 Maacah👩, Gath’s👑 king👑. Someone👤 told🗣️ Shimei👨, “Your👨 men👥 are📍 in📍 Gath🏘️!”
+**39**🔢 Three🔢 years📅 later⏳, two🔢 of📍 Shimei’s👨 enslaved⛓️ men👥 ran🏃 away🏃‍♂️ to📍 Gath🏘️, to👑 Achish👑 son👦 of🌳 Maacah👩, Gath’s👑 king👑. Someone👤 told🗣️ Shimei👨, “Your👨 men👥 are📍 in📍 Gath🏘️!”
 
 **40**🔢 Shimei👨 saddled🐴 his👨 donkey🫏, rode🏇 to📍 Gath🏘️ to🔎 find🔎 Achish👑 and➕ his👨 runaway🏃‍♂️ men👥, then➡️ brought🚶 them👥 back⬅️ from📍 Gath🏘️.
 
