@@ -4,11 +4,11 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 5 (18 verses), checked at https://biblehub.com/web/1_kings/5.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–18 is included. Required code switches are distributed through the chapter: Yoruba (iṣẹ́), German (Holz), French (paix), Igbo (ndị mmadụ), Hausa (biyan kuɗi), Jamaican Patois (fi di), Hebrew (bayit), plus Spanish (paz) and Swahili (kazi). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–18 is included. Required code switches are distributed through the chapter: Yoruba (iṣẹ́), German (Holz), French (paix), Igbo (ndị mmadụ), Hausa (biyan kuɗi), Jamaican Patois (fi di), Hebrew (bayit), plus Spanish (paz) and Swahili (kazi). Each verse word is paired with an emoji. Meaning review against the World English Bible is complete. Verse 1 now identifies Hiram’s emissaries as his servants, matching the source. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
-**1**🔢 Hiram👑, king👑 of📍 Tyre🏙️, sent📨 his👥 messengers🧑‍🤝‍🧑 to👑 Solomon👑. He👨 had💭 heard👂 they👥 had💯 crowned👑 Solomon👑 after⏭️ his👨 father👑, and➡️ Hiram👑 had💛 always⏳ been🤝 close💛 with👑 David👑.
+**1**🔢 Hiram👑, king👑 of📍 Tyre🏙️, sent📨 his👥 servants🧑‍🤝‍🧑 to👑 Solomon👑. He👨 had💭 heard👂 they👥 had💯 crowned👑 Solomon👑 after⏭️ his👨 father👑, and➡️ Hiram👑 had💛 always⏳ been🤝 close💛 with👑 David👑.
 
 **2**🔢 Solomon👑 sent📨 Hiram👑 this📜 message💬:
 
