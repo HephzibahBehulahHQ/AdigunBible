@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 18 (46 verses), checked at https://bible.ontariocommunitychurch.org/web/1-kings/18. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–46 is included. Required code switches appear in the verse text: Yoruba (òjò), German (gut), French (voix), Igbo (mmiri), Hausa (ruwa), Jamaican Patois (mi lord), Hebrew (navi), plus Spanish (fuego) and Portuguese (chuva). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–46 is included. Required code switches appear in the verse text: Yoruba (òjò), German (gut), French (voix), Igbo (mmiri), Hausa (ruwa), Jamaican Patois (mi lord), Hebrew (navi), plus Spanish (fuego) and Portuguese (chuva). Each verse word is paired with an emoji. Meaning review against the World English Bible is complete. The burnt offering in verse 33 and the sound of abundant rain in verse 41 were clarified. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -72,7 +72,7 @@
 
 **32**🔢 Using🛠️ those👉 stones🪨, Elijah🧔 built🧱 Yahweh’s🙏 altar🪨. He👤 dug⛏️ a💯 trench🕳️ around↪️ it👈, big📏 enough💯 to💯 hold📦 two🔢 seahs🌾 of📍 seed🌱.
 
-**33**🔢 He👤 arranged🪵 the🪵 wood🪵, cut🔪 the👈 bull🐂 into📍 pieces🔪, and➡️ laid🪵 it👈 on📍 the🪵 wood🪵. Then⏰ he👤 said🗣️, “Fill🫗 four🔢 jars🏺 with🤝 water💧—mmiri💧, ruwa💧—and➡️ pour🫗 it💧 over⬇️ the👈 offering🙏 and➡️ the🪵 wood🪵.”
+**33**🔢 He👤 arranged🪵 the🪵 wood🪵, cut🔪 the👈 bull🐂 into📍 pieces🔪, and➡️ laid🪵 it👈 on📍 the🪵 wood🪵. Then⏰ he👤 said🗣️, “Fill🫗 four🔢 jars🏺 with🤝 water💧—mmiri💧, ruwa💧—and➡️ pour🫗 it💧 over⬇️ the👈 burnt🔥 offering🙏 and➡️ the🪵 wood🪵.”
 
 **34**🔢 “Do✅ it👈 a💯 second2️⃣ time⏳,” he👤 said🗣️. They👥 did✅ it👈. “Now⏰ do✅ it👈 a💯 third3️⃣ time⏳.” They👥 did✅ that👈 too➕.
 
@@ -88,7 +88,7 @@
 
 **40**🔢 Elijah🧔 ordered📣, “Seize🫴 Baal’s🪨 prophets🕊️! Don’t🚫 let🫴 one👤 get🏃 away🚫!” The👥 people👥 seized🫴 them👥, and➡️ Elijah🧔 took🚶 them👥 down⬇️ to📍 the🌊 Kishon🌊 brook🌊 and➡️ killed💀 them👥 there📍.
 
-**41**🔢 Elijah🧔 told🗣️ Ahab👑, “Get⬆️ up🧍, eat🍽️, and➡️ drink🥤. I🙋 can💯 hear👂 heavy🌧️ rain🌧️ coming🌧️.”
+**41**🔢 Elijah🧔 told🗣️ Ahab👑, “Get⬆️ up🧍, eat🍽️, and➡️ drink🥤. I🙋 can💯 hear👂 it📣: a💯 whole💯 lot📈 of🌧️ rain🌧️ is💯 on📍 the👈 way🚶.”
 
 **42**🔢 Ahab👑 went⬆️ up⬆️ to💯 eat🍽️ and➡️ drink🥤. Elijah🧔 climbed⬆️ to📍 the👈 top⛰️ of📍 Carmel🏔️, bent🧎 down⬇️ to📍 the🌍 ground🌍, and➡️ tucked🫳 his👤 face👤 between↔️ his👤 knees🦵.
 
