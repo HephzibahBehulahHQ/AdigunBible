@@ -38,7 +38,7 @@
 
 **15**🔢 The👑 king👑 refused🙅 to🙉 listen👂 to👥 the📣 people👥. This💭 turn💥 of📜 events📖 came💯 from🙏 Yahweh🙏, to✅ fulfill✅ the📜 message🗣️ Yahweh🙏 had💯 spoken🗣️ through📣 Ahijah🕊️ from📍 Shiloh🏘️ to👨 Jeroboam👨 son👦 of🌳 Nebat👨.
 
-**16**🔢 When⏳ all💯 Israel🇮🇱 saw👀 that💬 the👑 king👑 wouldn’t🙅 listen👂, they👥 answered🗣️ him👑: “What🤷 share📦 do🙋‍♂️ we👥 have🤝 in📍 David’s👑 house🏠? We🙋‍♂️ have🚫 no🚫 inheritance🎁 with📍 Jesse’s👨 son👑. Everyone👥, back🚶 to📍 your👥 tents⛺, Israel🇮🇱! David👑, look👀 after📍 your👑 own🏠 house🏠!” Then➡️ Israel🇮🇱 went🚶 back↩️ home🏠—vuelvan🚶.
+**16**🔢 When⏳ all💯 Israel🇮🇱 saw👀 that💬 the👑 king👑 wouldn’t🙅 listen👂, they👥 answered🗣️ him👑: “What🤷 share📦 do🙋‍♂️ we👥 have🤝 in📍 David’s👑 house🏠? We🙋‍♂️ have🚫 no🚫 inheritance🎁 with📍 Jesse’s👨 son👑. Everyone👥, back🚶 to📍 your👥 tents⛺, Israel🇮🇱—¡vuelvan🚶 a📍 sus👥 tiendas⛺! David👑, look👀 after📍 your👑 own🏠 house🏠!” Then➡️ Israel🇮🇱 went🚶 back↩️ home🏠.
 
 **17**🔢 But↩️ Rehoboam👑 still⏳ ruled👑 over📍 the👥 Israelites🇮🇱 living🏠 in📍 Judah’s🏞️ towns🏘️.
 
