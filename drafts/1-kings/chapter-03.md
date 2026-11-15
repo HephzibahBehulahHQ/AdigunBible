@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 3 (28 verses), checked at https://biblehub.com/web/1_kings/3.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–28 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (geben), French (sagesse), Igbo (obi), Hausa (adalci), Jamaican Patois (fi di), Hebrew (shalom), plus Spanish (por favor) and Arabic (ḥikma). Each verse word is paired with an emoji. Meaning review against the World English Bible is complete. Verse 6 now contains the full report of David’s son succeeding him, verse 7 begins with Solomon’s accession, and an unsupported aside was removed. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–28 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (geben), French (sagesse), Igbo (obi), Hausa (adalci), Jamaican Patois (mi deh yah), Hebrew (shalom), plus Spanish (por favor) and Arabic (ḥikma). Each verse word is paired with an emoji. Meaning review against the World English Bible is complete. Verse 6 now contains the full report of David’s son succeeding him, verse 7 begins with Solomon’s accession, and an unsupported aside was removed. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -22,7 +22,7 @@
 
 **7**🔢 “Now💬 Yahweh🙏 my🙋 God🙏, You🙏 have💯 made👑 me🙋 king👑 in📍 my👨 father’s👑 place➡️. I🙋 am💭 young🧒, barely🤏 know🧠 how🤔 to🚪 step🚶 out➡️ or🚪 come🏠 back⬅️.”
 
-**8**🔢 “Your🙇 servant👑 is💯 right📍 here🏘️ among🤝 Your🙏 people👥, the🌍 people👥 You🙏 chose✅—a💯 huge📈 crowd👥 nobody🚫 can💯 count🔢.”
+**8**🔢 “Your🙇 servant👑 is💯 among🤝 Your🙏 people👥—mi🙋 deh📍 yah📍—the🌍 people👥 You🙏 chose✅, a💯 huge📈 crowd👥 nobody🚫 can💯 count🔢.”
 
 **9**🔢 “So🙏 give🤲 Your🙇 servant👑 a🫀 wise🧠, listening👂 heart❤️—obi❤️—to⚖️ judge⚖️ Your🙏 people👥 and🧠 tell🔎 good💛 from🆚 evil😈. Who🤷‍♂️ can💪 judge⚖️ this💯 massive🌍 people👥 of🙏 Yours👑? Hikma🧠—sagesse🧠, wisdom🧠—por🗣️ favor🙏.”
 
