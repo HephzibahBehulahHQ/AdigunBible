@@ -12,7 +12,7 @@
 
 **2**🔢 The🧑 man👨 of🙏 God🙏 called📣 out🗣️ against📍 the🪨 altar🪨 by📜 Yahweh’s🙏 command📜: “Altar🪨, altar🪨! Yahweh🙏 says🗣️ this📣: ‘A👶 son👦 named📛 Josiah👑 will💯 be👶 born👶 to📍 David’s👑 family🏠. On📍 this🪨 altar🪨, he👑 will💯 sacrifice🫗 the👥 priests🙏 from📍 the⛰️ high⛰️ places⛩️ who🫗 burn🔥 incense🌫️ here📍, and➡️ human🧍 bones🦴 will💯 be🔥 burned🔥 on📍 it👆.’”
 
-**3**🔢 He👨 gave📣 a💯 sign✨ that📅 same💯 day📅: “This📣 is💯 Yahweh’s🙏 sign✨: the🪨 altar🪨 will💥 split💔 apart↔️, and➕ its🪨 ashes⬇️ will💯 spill⬇️ out↘️—Asche⬇️.”
+**3**🔢 He👨 gave📣 a💯 sign✨ that📅 same💯 day📅: “This📣 is💯 Yahweh’s🙏 sign✨—signe✨: the🪨 altar🪨 will💥 split💔 apart↔️, and➕ its🪨 ashes⬇️ will💯 spill⬇️ out↘️—Asche⬇️.”
 
 **4**🔢 When⏳ King👑 Jeroboam👑 heard👂 what💬 the🧑 man👨 of🙏 God🙏 cried📣 against📍 the🪨 altar🪨 at📍 Bethel🏘️, he👑 reached🫳 his👑 hand🤲 out➡️ from📍 the🪨 altar🪨 and🗣️ ordered📣, “Seize🫴 him👨!” The👑 hand🤲 he👑 stretched🫳 toward📍 the🧑 man👨 of🙏 God🙏 dried🥀 up⬆️, and➕ he👑 couldn’t🙅 pull🫳 it👆 back↩️.
 
@@ -20,9 +20,9 @@
 
 **6**🔢 The👑 king👑 pleaded🙏 with👨 the🧑 man👨 of🙏 God🙏, “Please🙏 ask🙏 Yahweh🙏 your👑 God🙏 to💛 show💛 me🙋 mercy💛. Pray🙏 for🙏 me🙋 so🙏 my👑 hand🤲 can💯 work💪 again.” The🧑 man👨 of🙏 God🙏 pleaded🙏 with🙏 Yahweh🙏—ekpere🙏—and➡️ the👑 king’s👑 hand🤲 was💯 restored🩹, just💯 as💬 it👆 had💯 been💯 before⏪.
 
-**7**🔢 The👑 king👑 said🗣️ to👨 the🧑 man👨 of🙏 God🙏, “Come🚶 home🏠 with🤝 me🙋, have🍽️ something🍽️ to🍽️ eat🍞, and➡️ I🙋 will💯 give🎁 you👨 a💰 reward🎁.”
+**7**🔢 The👑 king👑 said🗣️ to👨 the🧑 man👨 of🙏 God🙏, “Come🚶 to📍 my👑 house🏠—gida🏠—and➕ eat🍞 with🤝 me🙋; I🙋 will💯 give🎁 you👨 a💰 reward🎁.”
 
-**8**🔢 But↩️ the🧑 man👨 of🙏 God🙏 answered🗣️ the👑 king👑, “Even💯 if✅ you👑 gave🎁 me🙋 half½ your👑 house🏠, I🙋 would🚫 not🙅 go🚶 inside🏠 with🤝 you👑. I🙋 will🚫 not🙅 eat🍞 or🥤 drink🥤 anything📍 here📍—mi🙋 nah🚫 go🚶 wid🤝 yuh👑.”
+**8**🔢 But↩️ the🧑 man👨 of🙏 God🙏 answered🗣️ the👑 king👑, “Even💯 if✅ you👑 gave🎁 me🙋 half🔢 your👑 house🏠, I🙋 would🚫 not🙅 go🚶 inside🏠 with🤝 you👑. I🙋 will🚫 not🙅 eat🍞 or🥤 drink🥤 anything📍 here📍—mi🙋 nah🚫 go🚶 wid🤝 yuh👑.”
 
 **9**🔢 “Yahweh🙏 gave📜 me🙋 a💯 strict📣 command📜: ‘Don’t🚫 eat🍞 bread🍞, don’t🚫 drink🥤 water💧, and➕ don’t🚫 go🚶 back↩️ by📍 the🛤️ same💯 road🛣️ you🚶 used🛤️ to👣 get🚶 here📍.’”
 
@@ -42,7 +42,7 @@
 
 **17**🔢 “Yahweh’s🙏 word📜 told🗣️ me🙋: ‘Don’t🚫 eat🍞 bread🍞 or🚫 drink🥤 water💧 there📍, and➕ don’t🚫 return🔙 on📍 the🛤️ road🛣️ you🚶 came🚶 by📍.’”
 
-**18**🔢 The👴 prophet🕊️ said🗣️, “I🙋 am💯 a💯 prophet🕊️ too➕, just💯 like💯 you👨. An👼 angel👼 spoke🗣️ to👨 me🙋 by📜 Yahweh’s🙏 word📜 and➡️ told🗣️ me🙋, ‘Bring🚶 him👨 back↩️ to📍 your👴 house🏠 so🙏 he👨 can💯 eat🍞 bread🍞 and➕ drink🥤 water💧.’” But↩️ he👴 was💯 lying🤥—mintió🤥.
+**18**🔢 The👴 prophet🕊️ sọ🗣️, “I🙋 am💯 a💯 prophet🕊️ too➕, just💯 like💯 you👨. An👼 angel👼 spoke🗣️ to👨 me🙋 by📜 Yahweh’s🙏 word📜 and➡️ told🗣️ me🙋, ‘Bring🚶 him👨 back↩️ to📍 your👴 house🏠 so🙏 he👨 can💯 eat🍞 bread🍞 and➕ drink🥤 water💧.’” But↩️ he👴 was💯 lying🤥—mintió🤥.
 
 **19**🔢 So⚠️ the🧑 man👨 of🙏 God🙏 went🚶 back↩️ with🤝 him👴, ate🍞 at📍 his👴 house🏠, and🥤 drank🥤 water💧.
 
