@@ -8,7 +8,7 @@
 
 ## Verses
 
-**1**🔢 In📅 Jeroboam’s👑 eighteenth🔢 year🗓️—Nebat’s👨 son👦—Abijam👑 took👑 the👑 throne👑 over👑 Judah🇮🇱.
+**1**🔢 In📅 Jeroboam’s👑 eighteenth🔢 year🗓️—Nebat’s👨 son👦—Abijam👑 became💯 Judah’s🇮🇱 eze👑.
 
 **2**🔢 Abijam👑 ruled👑 from📍 Jerusalem🏙️ for⏳ three🔢 years🗓️. His👑 mother👸 was💯 Maacah👸, daughter👧 of📍 Abishalom👨.
 
@@ -36,7 +36,7 @@
 
 **14**🔢 The🛕 high📈 worship🛐 places⛰️ stayed💯, though↩️. Even💯 so✅, Asa’s👑 heart❤️ stayed💯 fully💯 with🤝 Yahweh🙏 throughout⏳ his👑 life🗓️.
 
-**15**🔢 Asa👑 brought📦 into📍 Yahweh’s🙏 house🏠 the💯 things💎 his👨 father👑 had💯 dedicated🙏 and➡️ the💎 things💎 he👑 had💯 dedicated🙏 himself🫵: silver🥈, gold🥇, and➕ other🔀 sacred🛐 items📦.
+**15**🔢 Asa👑 brought📦 into📍 Yahweh’s🙏 house🏠—gida🏠—the💯 things💎 his👨 father👑 had💯 dedicated🙏 and➡️ the💎 things💎 he👑 had💯 dedicated🙏 himself🫵: silver🥈, gold🥇, and➕ other🔀 sacred🛐 items📦.
 
 **16**🔢 War⚔️ kept🔁 going⚔️ between📍 Asa👑 and➕ Baasha👑, Israel’s🇮🇱 king👑, all💯 their👑 days🗓️.
 
@@ -44,7 +44,7 @@
 
 **18**🔢 Asa👑 gathered🫳 all💯 the🥈 silver🥈 and➡️ gold🥇 still💯 left📍 in📍 Yahweh’s🙏 house🏠 and➡️ the👑 palace🏰 treasury💰, then⏰ handed🤲 it👈 to📍 his👑 officials👥. He👑 sent📨 them👥 to📍 Ben-Hadad👑, son👦 of📍 Tabrimmon👨, son👦 of📍 Hezion👨, Syria’s🇸🇾 king👑 who👑 lived🏠 in📍 Damascus🏙️.
 
-**19**🔢 Asa👑 sent📨 this📣 message📰: “Make🤝 a💯 brit📜 treaty🤝 with🤝 me🙋, like💯 the👈 one💯 between📍 our👴 fathers👴. I🙋 sent📨 you👑 silver🥈 and➕ Portuguese🇵🇹 ouro🥇 gold🥇 as🎁 a💯 French🇫🇷 cadeau🎁. Break💔 your👑 treaty🤝 with🤝 Baasha👑 so💯 he👑 backs🚶 off🚪 me🙋—end🔚 di🧾 deal🤝.”
+**19**🔢 Asa👑 sent📨 this📣 message📰: “Make🤝 a💯 brit📜 treaty🤝 with🤝 me🙋, like💯 the👈 one💯 between📍 our👴 fathers👴. I🙋 sent📨 you👑 silver🥈 and➕ ouro🥇 gold🥇 as🎁 a💯 cadeau🎁. Break💔 your👑 treaty🤝 with🤝 Baasha👑 so💯 he👑 backs🚶 off🚪 me🙋—end🔚 di🧾 deal🤝.”
 
 **20**🔢 Ben-Hadad👑 took✅ Asa’s👑 offer📨 and➡️ sent📨 his👑 army⚔️ captains👥 against⚔️ Israel’s🇮🇱 towns🏘️. They👥 struck⚔️ Ijon🏙️, Dan🏙️, Abel🏙️ Beth🏘️ Maacah🏘️, all💯 Chinneroth🏘️, and➡️ the👈 whole💯 Naphtali🇮🇱 region🌍.
 
