@@ -36,3 +36,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | micah 7 | [Micah 7 KJV](https://www.biblegateway.com/passage/?search=Micah+7&version=KJV) | Public domain |
 | micah 6 | [Micah 6 KJV](https://www.biblegateway.com/passage/?search=Micah+6&version=KJV) | Public domain |
 | micah 5 | [Micah 5 KJV](https://www.biblegateway.com/passage/?search=Micah+5&version=KJV) | Public domain |
+| micah 4 | [Micah 4 KJV](https://www.biblegateway.com/passage/?search=Micah+4&version=KJV) | Public domain |
