@@ -76,12 +76,40 @@ const genesisOne=[,
 "“And for every wild animal, bird, and creature moving on the ground—for everything with the breath of life—I’m giving every green plant for food.” And that’s exactly what happened.",
 "God looked at everything He had made—and it was very good. Evening came, morning followed—the sixth day. ✨"
 ]
+const genesisTwo=[
+"So the heavens, the earth, and everything in them were finished.",
+"On the seventh day, God finished the work He had been doing. He stopped creating and rested.",
+"God blessed the seventh day and set it apart, because on that day He rested from all His work of creation. 🕊️",
+"This is the account of the heavens and the earth when they were created, when the Lord God made the earth and the heavens.",
+"At that time, no wild plants or crops had grown yet, because the Lord God had not sent rain, and there was no one to work the ground.",
+"But water rose from the earth and watered the whole surface of the ground.",
+"Then the Lord God formed a man from the dust of the ground. He breathed life into his nostrils, and the man became alive—a living person. 🌱",
+"The Lord God planted a garden in Eden, toward the east, and placed the man He had formed there.",
+"God made trees grow from the ground—beautiful to look at and good for food. In the middle of the garden stood the tree of life and the tree that gives knowledge of good and evil.",
+"A river flowed out from Eden to water the garden. From there it split into four rivers.",
+"The first river was named Pishon. It flowed through the whole land of Havilah, where there was gold.",
+"The gold of that land was good. There were also aromatic resin and onyx stone.",
+"The second river was named Gihon. It flowed through the whole land of Cush.",
+"The third river was named Tigris. It ran along the east side of Assyria. The fourth river was the Euphrates.",
+"The Lord God took the man and settled him in the garden of Eden to work it and take care of it.",
+"The Lord God told the man, “You’re free to eat fruit from any tree in the garden,",
+"but you must not eat from the tree of the knowledge of good and evil. The day you eat from it, you will certainly die.”",
+"Then the Lord God said, “It isn’t good for the man to be alone. I’ll make a helper who is right for him.”",
+"The Lord God had formed every wild animal and bird from the ground. He brought them to the man to see what he would name them. Whatever the man called each living creature became its name.",
+"The man named the livestock, the birds in the sky, and all the wild animals. But he didn’t find a helper who was right for him.",
+"So the Lord God made the man fall into a deep sleep. While he slept, God took one of the man’s ribs and closed the place with flesh.",
+"From that rib, the Lord God made a woman and brought her to the man.",
+"The man said, “At last! This one is bone from my bones and flesh from my flesh. She’ll be called Woman, because she was taken from Man.”",
+"That’s why a man leaves his father and mother, joins with his wife, and the two become one.",
+"The man and his wife were both naked, but they felt no shame."
+];
 const chapterMeta={
 1:{title:"In the beginning · The creation story",verses:genesisOne},
+2:{title:"Eden · The first man and woman",verses:genesisTwo},
 };
 let chapter=1,showSaved=false,font=18;
 const list=document.getElementById("verse-list"),grid=document.getElementById("chapter-grid"),toast=document.getElementById("toast");
-for(let n=1;n<=50;n++){const b=document.createElement("button");b.className="chbtn"+(n===1?" active ready":"");b.textContent=n;b.setAttribute("aria-label",n===1?"Genesis chapter 1, published":"Genesis chapter "+n+", in editorial review");b.onclick=()=>openChapter(n);grid.append(b)}
+for(let n=1;n<=50;n++){const b=document.createElement("button");b.className="chbtn"+(n<=2?" active ready":"");b.textContent=n;b.setAttribute("aria-label",n<=2?"Genesis chapter "+n+", published":"Genesis chapter "+n+", in editorial review");b.onclick=()=>openChapter(n);grid.append(b)}
 function savedSet(){try{return new Set(JSON.parse(localStorage.getItem("adigun-saved")||"[]"))}catch{return new Set()}}
 function showToast(msg){toast.textContent=msg;toast.classList.add("show");setTimeout(()=>toast.classList.remove("show"),1900)}
 function render(){const data=chapterMeta[chapter];document.getElementById("chapter-heading").textContent="Genesis "+chapter;document.getElementById("chapter-subtitle").textContent=data?.title||"This chapter is being written and reviewed";document.getElementById("chapter-progress").textContent=data?data.verses.length+" / "+data.verses.length+" verses · Reviewed":"In editorial review";document.getElementById("chapter-count").textContent="Genesis · Chapter "+chapter+" of 50";document.getElementById("previous").disabled=chapter===1;document.getElementById("next").disabled=chapter===50;document.querySelectorAll(".chbtn").forEach((b,i)=>b.classList.toggle("active",i+1===chapter));
