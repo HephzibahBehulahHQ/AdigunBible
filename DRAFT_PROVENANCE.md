@@ -4,6 +4,7 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 
 | Draft file | Meaning reference | Source status |
 |---|---|---|
+| ezekiel 19 | [Ezekiel 19 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+19&version=KJV) | Public domain |
 | ezekiel 20 | [Ezekiel 20 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+20&version=KJV) | Public domain |
 | ezekiel 21 | [Ezekiel 21 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+21&version=KJV) | Public domain |
 | ezekiel 22 | [Ezekiel 22 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+22&version=KJV) | Public domain |
