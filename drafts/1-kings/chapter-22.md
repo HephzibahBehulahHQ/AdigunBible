@@ -38,7 +38,7 @@
 
 **15**🔢 When⏰ Micaiah🧔 came🚶 to📍 the👑 king👑, Ahab👑 asked🗣️, “Should❓ we🙋 fight⚔️ at📍 Ramoth🏘️ Gilead🏘️, or🔀 not🚫?” Micaiah🧔 answered🗣️, “Sure✅, go⬆️ and➡️ win🏆; Yahweh🙏 will💯 hand🤲 it👈 over➡️ to📍 the👑 king👑.” 
 
-**16**🔢 The👑 king👑 said🗣️, “How⏳ many💯 times🔁 must💯 I🙋 make🗣️ you👤 swear🤞 to💯 tell🗣️ me🙋 only💯 the👈 truth✅ in📍 Yahweh’s🙏 name📛—Wahrheit✅?””
+**16**🔢 The👑 king👑 said🗣️, “How⏳ many💯 times🔁 must💯 I🙋 make🗣️ you👤 swear🤞 to💯 tell🗣️ me🙋 only💯 the👈 truth✅ in📍 Yahweh’s🙏 name📛—Wahrheit✅?”
 
 **17**🔢 Micaiah🧔 said🗣️, “I👀 saw👀 Israel🇮🇱 scattered💨 across📍 the⛰️ mountains⛰️, like💯 sheep🐑 with🚫 no🚫 shepherd🧑‍🌾. Yahweh🙏 said🗣️, ‘These👥 people👥 have🚫 no🚫 master👑. Let👥 them👥 each💯 return🚶 to📍 their👥 gida🏠—home🏠—in📍 peace🕊️, paz🕊️.’”
 
@@ -52,7 +52,7 @@
 
 **22**🔢 Yahweh🙏 asked🗣️, ‘How❓?’ The👈 spirit🕊️ answered🗣️, ‘I🙋 will💯 become🔄 a💯 lying🤥 spirit🕊️—a💯 mentira🤥—in📍 the👄 mouths👄 of📍 all💯 his👑 prophets🕊️.’ Yahweh🙏 said🗣️, ‘You👤 can💯 lure🎣 him👑. You👤 will💯 succeed🏆. Go🚶 do✅ it👈.’
 
-**23**🔢 So⚖️ Micaiah🧔 said🗣️, “Yahweh🙏 has💯 put📍 a💯 lying🤥 spirit🕊️ in📍 the👄 mouths👄 of📍 all💯 these👥 prophets🕊️ of📍 yours👑. Yahweh🙏 has💯 declared🗣️ disaster⚡ for📍 you👑—a💯 mentira🤥, a💯 lie🤥, is💯 what💬 they👥 are💯 speaking🗣️.”
+**23**🔢 So⚖️ Micaiah🧔 said🗣️, “Yahweh🙏 has💯 put📍 a💯 lying🤥 spirit🕊️ in📍 the👄 mouths👄 of📍 all💯 these👥 prophets🕊️ of📍 yours👑. Yahweh🙏 has💯 declared🗣️ disaster⚡ for📍 you👑.”
 
 **24**🔢 Zedekiah🧔 son👦 of📍 Chenaanah👨 came🚶 up⬆️ and➡️ slapped🤚 Micaiah🧔 across↔️ the👨 face👨: “Which📍 way🛤️ did💯 Yahweh’s🙏 Spirit🕊️ leave🚪 me🙋 to💯 speak🗣️ with🤝 you👤?”
 
