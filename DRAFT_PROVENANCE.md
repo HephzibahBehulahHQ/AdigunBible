@@ -80,3 +80,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | daniel 7 | [Daniel 7 KJV](https://www.biblegateway.com/passage/?search=Daniel+7&version=KJV) | Public domain |
 | daniel 6 | [Daniel 6 KJV](https://www.biblegateway.com/passage/?search=Daniel+6&version=KJV) | Public domain |
 | daniel 5 | [Daniel 5 KJV](https://www.biblegateway.com/passage/?search=Daniel+5&version=KJV) | Public domain |
+| daniel 4 | [Daniel 4 KJV](https://www.biblegateway.com/passage/?search=Daniel+4&version=KJV) | Public domain |
