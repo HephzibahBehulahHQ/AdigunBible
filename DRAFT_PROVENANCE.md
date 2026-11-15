@@ -18,3 +18,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | zechariah 8 | [Zechariah 8 KJV](https://www.biblegateway.com/passage/?search=Zechariah+8&version=KJV) | Public domain |
 | zechariah 9 | [Zechariah 9 KJV](https://www.biblegateway.com/passage/?search=Zechariah+9&version=KJV) | Public domain |
 | zechariah 10 | [Zechariah 10 KJV](https://www.biblegateway.com/passage/?search=Zechariah+10&version=KJV) | Public domain |
+| zechariah 11 | [Zechariah 11 KJV](https://www.biblegateway.com/passage/?search=Zechariah+11&version=KJV) | Public domain |
