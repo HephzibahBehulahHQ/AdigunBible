@@ -14,7 +14,7 @@
 
 **3**🔢 He👑 had💯 seven🔢 hundred🔢 royal👸 wives👸 and➕ three🔢 hundred🔢 concubines👩‍❤️‍👨. His👥 wives👸 turned🔄 his👑 heart❤️ away↩️.
 
-**4**🔢 When⏳ Solomon👑 got👴 old👴, his👥 wives👸 drew🫳 his👑 heart❤️ after⏭️ other👥 gods🙏. His👑 heart❤️ wasn’t🙅 fully💯 devoted❤️ to🙏 Yahweh🙏 his👑 God🙏 like💯 his👨 father👑 David’s👑 heart❤️ had💯 been—Herz❤️.
+**4**🔢 When⏳ Solomon👑 got👴 old👴, his👥 wives👸 drew🫳 his👑 heart❤️ after⏭️ other👥 gods🙏. His👑 heart❤️ wasn’t🙅 fully💯 devoted❤️ to🙏 Yahweh🙏 his👑 God🙏 like💯 his👨 father👑 David’s👑 heart❤️ had💯 been💛—Herz❤️.
 
 **5**🔢 Solomon👑 followed🚶 Ashtoreth🙏, the👸 goddess🙏 of📍 the🏙️ Sidonians🏙️, and➕ Milcom🙏, the🚫 detestable😔 god🙏 of📍 the🏞️ Ammonites🏞️.
 
@@ -64,7 +64,7 @@
 
 **28**🔢 Jeroboam👨 was💪 a💯 capable💪 man👨. Solomon👑 noticed👀 how💯 hard💪 the👨 young👨 worker👷 worked🛠️, and➡️ put🫴 him👨 in📋 charge👑 of💯 all💯 the⚒️ labor👷 for📍 Joseph’s🏠 household🏠.
 
-**29**🔢 Around📅 that👆 time⏳, when⏳ Jeroboam👨 left🚶 Jerusalem🏙️, the📜 prophet🕊️ Ahijah👨 from📍 Shiloh🏘️ met🤝 him👨 on🛤️ the📍 road🛣️. Ahijah👨 was👘 wearing👘 a💯 new✨ robe👘, and➕ the👥 two2️⃣ of👥 them👨 were💯 alone👤 in📍 an🌾 open🌾 field🌾.
+**29**🔢 Around📅 that👆 time⏳, when⏳ Jeroboam👨 left🚶 Jerusalem🏙️, the📜 prophet🕊️ Ahijah👨 from📍 Shiloh🏘️ met🤝 him👨 on🛤️ the📍 road🛣️. Ahijah👨 was👘 wearing👘 a💯 new✨ robe👘, and➕ the👥 two🔢 of👥 them👨 were💯 alone👤 in📍 an🌾 open🌾 field🌾.
 
 **30**🔢 Ahijah👨 grabbed🫴 the👘 new✨ robe👘 he👨 was💯 wearing👘 and✂️ tore✂️ it👆 into📍 twelve🔢 pieces🧩.
 
@@ -74,7 +74,7 @@
 
 **33**🔢 “‘They👥 abandoned🚪 Me🙋 and➡️ worshiped🙇 Ashtoreth🙏, the🏙️ Sidonian🏙️ goddess🙏; Chemosh🙏, Moab’s🏞️ god🙏; and➕ Milcom🙏, Ammon’s🏞️ god🙏. They👥 didn’t🙅 walk🚶 in📍 My🙏 ways🛤️ or🚶 do✅ what💯 I🙋 consider👀 right✅. They👥 ignored🚫 My🙏 rules📖 and➕ commands📜, unlike↩️ their👨 father👑 David👑.’”
 
-**34**🔢 “‘Even⏸️ so, I🙋 won’t🙅 take✂️ the💯 whole💯 kingdom🏰 out🚪 of📍 Solomon’s👑 hand🤲. I🙋 will💯 let👑 him👨 rule👑 for💯 his👨 whole💯 life🌱 because💛 of🙇 David👑 My🙇 servant🧑, whom👨 I🙋 chose✅, who👨 kept🤝 My🙏 commands📜 and➕ rules📖.’”
+**34**🔢 “‘Even⏸️ so⏸️, I🙋 won’t🙅 take✂️ the💯 whole💯 kingdom🏰 out🚪 of📍 Solomon’s👑 hand🤲. I🙋 will💯 let👑 him👨 rule👑 for💯 his👨 whole💯 life🌱 because💛 of🙇 David👑 My🙇 servant🧑, whom👨 I🙋 chose✅, who👨 kept🤝 My🙏 commands📜 and➕ rules📖.’”
 
 **35**🔢 “‘But↩️ I🙋 will💯 take✂️ the🏰 kingdom🏰 from📍 his👦 son’s👑 hand🤲 and➡️ give🎁 ten🔢 tribes🗺️ to📍 you👨.’”
 
@@ -88,7 +88,7 @@
 
 **40**🔢 Solomon👑 tried⚔️ to🔪 kill💀 Jeroboam👨, but↩️ Jeroboam👨 fled🏃 to📍 Egypt🇪🇬, to👑 Shishak👑 king👑 of📍 Egypt🇪🇬. He👨 stayed🏠 there📍 until⏳ Solomon👑 died⚰️—gudu🏃.
 
-**41**🔢 The📜 rest💯 of👑 Solomon’s👑 story📖, everything💯 he👑 did🛠️, and➕ his👑 wisdom🧠—is📚n’t🙅 it📖 all💯 recorded✍️ in📍 the📚 Book📖 of👑 Solomon’s👑 Acts📜?
+**41**🔢 The📜 rest💯 of👑 Solomon’s👑 story📖, everything💯 he👑 did🛠️, and➕ his👑 wisdom🧠—isn’t📚 it📖 all💯 recorded✍️ in📍 the📚 Book📖 of👑 Solomon’s👑 Acts📜?
 
 **42**🔢 Solomon👑 ruled👑 over👑 all💯 Israel🇮🇱 from📍 Jerusalem🏙️ for⏳ forty🔢 years📅.
 
