@@ -52,3 +52,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | amos 5 | [Amos 5 KJV](https://www.biblegateway.com/passage/?search=Amos+5&version=KJV) | Public domain |
 | amos 4 | [Amos 4 KJV](https://www.biblegateway.com/passage/?search=Amos+4&version=KJV) | Public domain |
 | amos 3 | [Amos 3 KJV](https://www.biblegateway.com/passage/?search=Amos+3&version=KJV) | Public domain |
+| amos 2 | [Amos 2 KJV](https://www.biblegateway.com/passage/?search=Amos+2&version=KJV) | Public domain |
