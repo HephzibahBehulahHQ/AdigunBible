@@ -7,10 +7,10 @@ AdigunBible is the original Gen Z Bible edition by Hephzibah Behulah Evangelism.
 ## Reading progress
 
 - Genesis 1 — 31 verses rewritten to the current AdigunBible voice and validation rules.
-- Genesis 2–12 — existing drafts need review and rebuilding to the current rules.
+- Genesis 2 — 25 verses rewritten to the current AdigunBible voice and validation rules.
+- Genesis 3 — 24 verses rewritten to the current AdigunBible voice and validation rules.
+- Genesis 4–12 — existing drafts need review and rebuilding to the current rules.
 - Genesis 13–50 — not yet written.
-
-The reader shows chapter structure without inventing Scripture for chapters that have not yet been reviewed.
 
 ## Website
 
