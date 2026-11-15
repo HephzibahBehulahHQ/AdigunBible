@@ -61,3 +61,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | hosea 13 | [Hosea 13 KJV](https://www.biblegateway.com/passage/?search=Hosea+13&version=KJV) | Public domain |
 | hosea 12 | [Hosea 12 KJV](https://www.biblegateway.com/passage/?search=Hosea+12&version=KJV) | Public domain |
 | hosea 11 | [Hosea 11 KJV](https://www.biblegateway.com/passage/?search=Hosea+11&version=KJV) | Public domain |
+| hosea 10 | [Hosea 10 KJV](https://www.biblegateway.com/passage/?search=Hosea+10&version=KJV) | Public domain |
