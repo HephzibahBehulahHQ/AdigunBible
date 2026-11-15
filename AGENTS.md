@@ -16,7 +16,7 @@ These rules govern work across all 66 books, every chapter, and every verse.
   - Encouragement: You got this., Keep going., Don't give up., Stay strong., God hasn't abandoned you.
   - Modern expressions: Lowkey., Highkey., That's the vibe., Understood the assignment., That's not it., Let's be real.
   - Shortened forms: TBH., FR., BTW., IMO., IDK.
-- Multiple languages and code-switching within a sentence are allowed when they sound natural.
+- Code-switching is compulsory in every chapter. Include at least one accurate, context-fitting phrase in each core language: Yoruba, Deutsch (German), French, Igbo (also called Ibo), Hausa, Jamaican Patois, and Hebrew. Additional languages rotate from an expandable pool that includes Spanish, Arabic, Portuguese, Swahili, Hindi, Mandarin Chinese, Tagalog, Korean, Japanese, Italian, Dutch, and other languages requested by the owner. Also include at least two additional languages from the expandable pool in every chapter. Spread phrases across verses, keep them understandable, and do not alter Scripture meaning to insert them.
 - Pair a context-fitting emoji with every word in the verse. Use the provided palette: ❤️ 🙏 ✨ 🔥 🫶 🌍 😭 👀 💯 🕊️.
 - Use repeated expressions and recurring emojis when the context fits; vary them when it does not.
 
