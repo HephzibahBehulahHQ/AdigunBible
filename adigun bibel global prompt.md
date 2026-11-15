@@ -31,6 +31,21 @@ A complete, original Gen Z Bible edition and modern Scripture reading platform. 
 
 ---
 
+# UNIVERSAL ADIGUNBIBLE VOICE RULE — ALL 66 BOOKS 📖🔥
+
+This voice rule applies to every book, chapter, heading, and verse in the single canonical AdigunBible edition. Do not apply it only to Genesis or to a sample chapter.
+
+- Write Scripture verse by verse in vivid, conversational Gen Z storytelling. Do not render the verse text as plain formal English.
+- Use natural slang, abbreviations, punchy reactions, and code-switching between languages when it fits.
+- Pair an appropriate emoji with every word in the verse narration. Emojis accompany the words; they never replace Scripture.
+- Keep verse numbers, facts, speakers, event order, commands, promises, and theological meaning intact.
+- Let dialogue sound contemporary while preserving each speaker's authority, compassion, urgency, personality, and intent.
+- Use repeated phrases, matching emojis, and meme-like energy when they fit the context; never let them distort the passage.
+- Never copy wording from the Gen Z Bible reference. All AdigunBible text must be original.
+- These rules govern the entire Bible, not one book or chapter.
+
+---
+
 # 1. UNDERSTAND THE PRODUCT BEFORE WRITING CODE 🧠👀
 
 You are NOT building an ordinary Bible application. 😭🚫
@@ -211,31 +226,22 @@ The system must choose expressions naturally.
 
 ## 4.2 Language quality
 
-The language must sound human.
+The language must sound human, vivid, energetic, and recognizably Gen Z in every book, chapter, and verse. Do not leave verses in plain formal English. Use conversational storytelling, slang, abbreviations, expressive punctuation, and code-switching between languages when it sounds natural. Use punchy reactions and playful social-media energy where the passage supports them.
 
-Do not force slang, abbreviations, or emojis into every verse. Avoid robotic repetition and meme-like phrasing. Choose expressions naturally and only when they improve clarity or voice. Never trivialize suffering, death, judgment, or the crucifixion. Let the tone fit the speaker, passage, and emotional weight while keeping the edition recognizably Gen Z.
+EMOJI DENSITY: Pair an appropriate emoji with every word throughout the AdigunBible verse text. Place emojis beside words or short phrases they fit; emojis must accompany, never replace, the scriptural wording. Keep the text readable and preserve every verse's meaning, facts, speaker, sequence, and emotional weight. Use recurring emojis consistently for matching themes, with context-aware variation when the meaning changes.
 
-The system must understand context before choosing vocabulary.
-
-The target reading voice is vivid, energetic, conversational Gen Z storytelling, at least as slang-rich and emoji-expressive as the owner's Genesis 1 example. Let contemporary slang, playful reactions, abbreviations, expressive punctuation, and emojis carry through the verse narration instead of leaving most verses in plain English. Use natural variety and a strong Gen Z voice across the chapter. Keep every verse's meaning, facts, speaker, sequence, and emotional weight intact; never invent dialogue or alter theology for a joke. The screenshots and supplied sample define tone only: always write original AdigunBible wording.
+The user's supplied Genesis examples set the voice standard for every book and chapter, not Genesis alone. Every verse should feel expressive and slang-rich, not like a standard English Bible with a few slang words added. Keep dialogue faithful to the speaker, never invent dialogue, and never change theology for a joke. The screenshots and supplied samples define tone only: always write original AdigunBible wording.
 
 ## 4.3 Addressing biblical characters
 
-Pay special attention to dialogue.
+Pay special attention to dialogue in every book and chapter.
 
-When God speaks, preserve His authority, meaning and tone LIKE A GENZ FATHER WILL DO T HIS AMRAICA NIGGA CHILDREN 
-
-When Jesus speaks, preserve His teachings, compassion, authority and intent IN VIBE MANNER ..A POP SATR FRIENDLY BOSS WILL DO TO HIS STAFF 
-
-When prophets speak, preserve their warnings and messages IN A VIBE AND GENZY MANNER 
-
-When disciples speak, preserve their personalities and the context of the conversation AS GENZY BADDIE  WILL TALK TO THER PLAYFUL BOSS 
-
-ALWAYS automatically insert expressions such as "bro", "fam" or "bestie" into every biblical dialogue WHEN IT IS NEEDED 
-
-Use GENZ conversational language where it genuinely improves comprehension AND UNDESTANDING 
-
----
+- When God speaks, preserve His authority, meaning, and tone while using clear, contemporary Gen Z speech.
+- When Jesus speaks, preserve His teachings, compassion, authority, and intent in a warm, familiar voice.
+- When prophets speak, keep their warnings urgent and unmistakable in contemporary language.
+- When disciples speak, preserve each speaker's personality and the conversation's context.
+- Use words such as “bro,” “fam,” or “bestie” only where they fit the speaker and moment; never insert them automatically into every dialogue.
+- Keep serious events serious in meaning and emotional weight, even when the wording uses a Gen Z voice.
 
 # 5.WORD AND VERSE EXAMPLE  EXAMPLES AND QUALITY STANDARD 📚💯
 
