@@ -65,3 +65,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | hosea 9 | [Hosea 9 KJV](https://www.biblegateway.com/passage/?search=Hosea+9&version=KJV) | Public domain |
 | hosea 8 | [Hosea 8 KJV](https://www.biblegateway.com/passage/?search=Hosea+8&version=KJV) | Public domain |
 | hosea 7 | [Hosea 7 KJV](https://www.biblegateway.com/passage/?search=Hosea+7&version=KJV) | Public domain |
+| hosea 6 | [Hosea 6 KJV](https://www.biblegateway.com/passage/?search=Hosea+6&version=KJV) | Public domain |
