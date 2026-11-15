@@ -22,3 +22,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | zechariah 12 | [Zechariah 12 KJV](https://www.biblegateway.com/passage/?search=Zechariah+12&version=KJV) | Public domain |
 | zechariah 13 | [Zechariah 13 KJV](https://www.biblegateway.com/passage/?search=Zechariah+13&version=KJV) | Public domain |
 | zechariah 14 | [Zechariah 14 KJV](https://www.biblegateway.com/passage/?search=Zechariah+14&version=KJV) | Public domain |
+| haggai 2 | [Haggai 2 KJV](https://www.biblegateway.com/passage/?search=Haggai+2&version=KJV) | Public domain |
