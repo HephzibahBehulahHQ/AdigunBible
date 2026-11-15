@@ -14,7 +14,7 @@ The reader shows chapter structure without inventing Scripture for chapters that
 
 ## Website
 
-GitHub Pages publishes the root `index.html`. The repository's `CNAME` file sets the custom domain. Content slices are merged progressively so each reviewed chapter can publish as it is ready.
+GitHub Pages publishes the root `index.html`. Scripture content remains in working branches until every verse in all 66 books passes the current AdigunBible rules and whole-corpus validation gate.
 
 ## Editorial rules
 
