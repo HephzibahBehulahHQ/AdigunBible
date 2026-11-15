@@ -27,7 +27,7 @@ https://www.genz-bible.com/
 IMPLEMENTATION AGENT: OPENAI CODEX
 
 PROJECT TYPE:
-Full Bible paraphrase and modern Scripture reading platform.
+A complete, original Gen Z Bible edition and modern Scripture reading platform. AdigunBible is the single canonical Bible edition in this product. It uses its own contemporary Gen Z language, voice, slang, abbreviations, expressive punctuation, emojis and carefully chosen visual energy to communicate Scripture. It is not a plain-English Bible edition and the product does not offer alternate Bible editions.
 
 ---
 
@@ -47,18 +47,9 @@ The product concept is inspired by the Gen Z Bible at:
 
 https://www.genz-bible.com/
 
-Study the reference website, its About page, its complete Bible chapter pages and the way it presents its modern paraphrase alongside traditional Scripture.
+Study the reference website, its About page, and its Bible chapter pages to understand its Gen Z tone, expressive language, content organization, and reading experience. Use it as inspiration only. Do not copy its Scripture wording, branding, protected assets, or implementation.
 
-Understand the difference between:
-
-1. A traditional Bible translation.
-2. A modern paraphrase.
-3. A simplified explanation.
-4. A Bible study commentary.
-
-AdigunBible is primarily a modern, expressive, contemporary-language Bible paraphrase.
-
-The objective is to make the Bible understandable to people who naturally communicate through modern internet culture.
+AdigunBible is its own original Gen Z Bible edition: Scripture expressed in an expressive, contemporary voice for people who naturally communicate through modern internet culture. It is not a plain-English edition, a conventional translation selector, or a separate commentary presented as Bible text. Keep one canonical AdigunBible edition throughout the product. Any explanations or study notes must be clearly labeled as explanations, never as another Bible edition.
 
 Its language should feel:
 
@@ -78,9 +69,7 @@ The result should sound like someone explaining Scripture in the language young 
 
 However, it must preserve the meaning and seriousness of Scripture.
 
-COPY THE GEN Z BIBLE'S ACTUAL PARAPHRASED VERSES  WHERE POSSIBLE AND NESSAARY 
-
-Create original AdigunBible  NEWLY NOT A PARAPHARSE 
+Do not copy the Gen Z Bible's verse wording. Create original AdigunBible wording and style, guided by the reference's expressive Gen Z experience while preserving the meaning, context, and seriousness of Scripture. 
 
 ---
 
@@ -94,7 +83,7 @@ A young person should be able to read the words of Jesus and understand His mess
 
 A new Christian should be able to understand biblical stories and teachings.
 
-An experienced Christian should be able to compare the modern paraphrase with the traditional source text.
+Readers should encounter the single AdigunBible edition, with clear references and surrounding chapter context. Do not provide a second Bible text for comparison.
 
 The application must make Scripture accessible without making Scripture meaningless.
 
@@ -119,9 +108,7 @@ Every chapter must have a complete modern-language ADIGUNBIBLE VIVE TONES
 
 
 
-The engine must randomly generate paraphrases when a user opens a chapter.
-
-ADIGUN BILE TONE  must be IS AUTHOR BY  HEAPHZIBAH BEUHLAH, reviewed, validated and stored as structured content. SO IT S OUR OWN PORPEPERTY . WE ARE NOT TAKING APROVAL OR PWEMIASOSON FROM ANYONE 
+The engine must serve the same reviewed, approved AdigunBible wording every time; never randomly rewrite Scripture when a chapter opens. AdigunBible content is original work authored by Hephzibah Behulah Evangelism, reviewed, validated, and stored as structured content. Track provenance and permissions for any source material used during editorial verification. 
 
 
 
@@ -226,17 +213,7 @@ The system must choose expressions naturally.
 
 The language must sound human.
 
-USE robotic slang.
-
-USE  repetitive expressions WHERE IT IS NECSAARY 
-
-usE  the same emoji in every verse THAT ARE ALIKE 
-
-makE every sentence sound like a CHRISTAIN social-media mem
-
- changE the seriousness of biblical events IN A GENZ VIBE 
-
- introducing modern SERIOUS AND GENZ EXPRESSION  into passages involving suffering, death, judgment or the crucifixion.
+Do not force slang, abbreviations, or emojis into every verse. Avoid robotic repetition and meme-like phrasing. Choose expressions naturally and only when they improve clarity or voice. Never trivialize suffering, death, judgment, or the crucifixion. Let the tone fit the speaker, passage, and emotional weight while keeping the edition recognizably Gen Z.
 
 The system must understand context before choosing vocabulary.
 
@@ -296,7 +273,7 @@ ADIGUNBIBLE STYLE:
 
 These examples demonstrate the intended voice.
 
-NOTE WE ARE ONLY HAVINGH ONE VERSION IN THIS PROJECT WHICH IA ADIGUN BIBLE ..NO OTER VESRION ..NO COMAPRISON ..WE ARE NOT HAVIUNGH A VBERSION ANS ADIGUN BIBLE WILL ONOW BE A PARAPHARASE ...NO PARAPHARASE NO ANOIHTER VERSION ..ONLY ADIGFUN BIBLE 
+CANONICAL EDITION: AdigunBible is the only Bible edition offered in this product. Do not add version selectors, alternate Bible editions, parallel Bible text, or comparison views. AdigunBible has its own original Gen Z voice and complete Scripture content. 
 
 ---
 
@@ -317,7 +294,7 @@ Check:
 - What information must not be omitted?
 - What interpretation must not be introduced?
 
-The paraphrase must not:
+AdigunBible wording must not:
 
 - Change the identity of biblical characters.
 - Change the sequence of events.
@@ -371,9 +348,8 @@ Every verse must support:
 - Personal notes.
 - Copy.
 - Share.
-- Explain this verse.
-- Show original version.
-- Show surrounding context.
+- Explain this verse in a clearly labeled study panel.
+- Show surrounding chapter context.
 
 The interface should make these actions accessible without cluttering the reading experience.
 
@@ -389,7 +365,7 @@ Users should be able to:
 - Select a chapter.
 - Read verse by verse.
 - Navigate forward and backward.
-- Switch between original and paraphrased versions.
+- Read the single canonical AdigunBible edition.
 - Change reading mode.
 - Adjust typography.
 - Change text size.
@@ -558,13 +534,7 @@ The interface should feel youthful and expressive.
 
 However, the reading experience must remain comfortable and readable.
 
-make the interface childish.
-
-use excessive animations.
-
-use slang as decoration in every UI label.
-
-Let the Adigun Bible content carry the personality.
+Keep the interface mature, polished, and readable. Use purposeful motion, icons, expressive symbols, and visual accents to support the AdigunBible identity; respect reduced-motion preferences and avoid distracting animation. Do not force slang into every UI label. Let the Scripture content carry the personality.
 
 ---
 
@@ -574,13 +544,11 @@ Let the Adigun Bible content carry the personality.
 
 ---
 
-# 20. PARAPHRASE GENERATION PIPELINE 🏭⚡
+# 20. ADIGUNBIBLE CONTENT CREATION PIPELINE 🏭⚡
 
-Build an internal workflow capable of generating the complete Bible.
+Build an internal editorial workflow for creating and reviewing the complete AdigunBible edition.
 
-generate all verses in one enormous AI request, TAKE A BIBLE VESRE FROM WHATEVER SOURCE YOU WAN T TRANDSALTE TO GENZY VIBE EMOHIS FI LANGAUAFE , USE AFDIGUN VINE WORDS AND TO ARE DONE WITH THAT VERSE 
-
-Process in controlled batches.
+Create and review Scripture in controlled, resumable batches. Verify each passage against appropriately licensed source material for accuracy; keep source text internal to editorial review and never present it as a second edition. Write original AdigunBible content in the approved Gen Z voice. Do not ingest or copy another Gen Z Bible's wording.
 
 
 
@@ -654,7 +622,7 @@ Test:
 
 Verify that no verse is duplicated or missing.
 
-Verify that  WE ONLY HAVE ADIGUN VERSION AND NO OTHER BIBLE EDIOTN IS COMAOTARE TO IT 
+Verify that the product presents exactly one canonical Bible edition: AdigunBible, with no alternate edition selector or parallel Bible text. 
 
 Test the generation pipeline with interrupted batches and retries.
 
@@ -711,10 +679,9 @@ It is complete when:
 - The complete 66-book structure exists.
 - Every expected chapter exists.
 -
-- The language is consistent.
-- The meaning is preserved.
-- Emojis are used ON ALL WORDS , VESRSE , CVHAPTER 
-- Slang feels natural.
+- The language is consistent and the meaning is preserved.
+- Slang, abbreviations, emojis, expressive punctuation, icons and animations feel natural and context-aware.
+- Visual effects support reading, remain accessible, and never overwhelm Scripture.
 -
 - Users can save and share verses.
 - The editorial system works.
@@ -743,7 +710,7 @@ Understand its central innovation:
 
 THE WORD OF GOD EXPRESSED IN THE LANGUAGE OF A NEW GENERATION.
 
-Create an original AdigunBible identity, original pARAPAGRAPASER , ORIGINAL WORLD , LANGAUAGE , EMOJIS , a consistent linguistic style and a complete Bible reading experience.
+Create the original AdigunBible identity, voice, language, abbreviations, emojis, expressive punctuation, visual elements, and complete reading experience. Keep AdigunBible as the product's one and only Bible edition. Use genz-bible.com as a style and experience reference only; write original AdigunBible wording and never copy its verse text or assets.
 
 The final product must make someone who normally struggles to understand traditional Bible language feel that Scripture is finally speaking a language they understand. 🥹❤️🔥
 
