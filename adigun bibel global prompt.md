@@ -224,6 +224,18 @@ Do not use every expression everywhere IN THE MOOD OF CONVAESATION AND TONE
 
 The system must choose expressions naturally.
 
+## NON-NEGOTIABLE CONTENT RELEASE GATE — ALL AGENTS
+
+Before merging or deploying any verse or chapter, the responsible agent must verify and record that:
+1. Every verse is fully rendered in the AdigunBible Gen Z voice, not plain formal English.
+2. Every word in each verse has an adjacent, fitting emoji; the emoji supplements and never replaces the word.
+3. Every required core language is woven into the chapter sentence/word flow, plus the required additional languages; this remains one AdigunBible text, not a whole-verse translation or parallel edition.
+4. Every foreign-language switch is accurate and contextually faithful.
+5. Verse numbers, source facts, speakers, sequence, claims, commands, promises, and meaning are preserved.
+6. The chapter has the correct complete verse count and renders correctly in the reader.
+
+If any check fails or is unverified, the agent MUST NOT merge or deploy that verse/chapter. This gate applies to every agent and every content release; convenience or schedule never overrides it.
+
 ## UNIVERSAL WORD-CHOICE AND EMOJI BANK
 
 Apply this bank across every book, chapter, and verse. Rewrite ordinary/formal wording into the AdigunBible Gen Z voice throughout the whole verse; do not leave a verse sounding like plain English with one slang word added. Use these expressions where they fit the speaker and context:
