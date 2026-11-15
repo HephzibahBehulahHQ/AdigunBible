@@ -129,14 +129,43 @@ const genesisThree=[
 "So the Lord God sent him out of the garden of Eden to work the ground he had been taken from.",
 "God drove the man out and placed cherubim east of Eden, with a flaming sword flashing back and forth to guard the way to the tree of life. 🔥"
 ]
+const genesisFour=[
+"Adam was with his wife Eve, and she became pregnant. She gave birth to Cain and said, “With the Lord’s help, I’ve brought a man into the world.” 👶",
+"Later she gave birth to Cain’s brother Abel. Abel cared for the sheep; Cain worked the soil. Two brothers, two very different jobs. 🐑🌱",
+"When harvest time came, Cain brought some of the land’s produce as an offering to the Lord.",
+"Abel also brought an offering—the firstborn of his flock and their best portions. The Lord accepted Abel and his offering. 🙏",
+"But the Lord did not accept Cain and his offering. Cain got furious, and his face fell.",
+"The Lord asked Cain, “Why are you angry? Why has your face fallen?”",
+"“If you do what’s right, won’t you be accepted? But if you don’t, sin is waiting at your door, ready to pull you in. It wants to control you—but you must rule over it.”",
+"Cain spoke with his brother Abel. Then, out in the field, Cain attacked him and killed him. This turned deadly. 😔",
+"Then the Lord asked Cain, “Where is your brother Abel?” Cain replied, “I don’t know. Am I supposed to keep track of my brother?”",
+"The Lord said, “What have you done? Listen—your brother’s blood is crying out to Me from the ground.”",
+"“Now you are cursed from the ground, which opened up to receive your brother’s blood from your hand.”",
+"When you work the ground, it won’t give you its strength anymore. You’ll be a restless wanderer on the earth.”",
+"Cain said to the Lord, “This punishment is more than I can carry.",
+"Today You’re driving me away from the land, and I’ll be hidden from Your presence. I’ll wander the earth, and whoever finds me may kill me.”",
+"But the Lord told him, “That won’t happen. Whoever kills Cain will face vengeance seven times over.” Then the Lord put a mark on Cain so no one who found him would kill him. 🛡️",
+"Cain left the Lord’s presence and lived in the land of Nod, east of Eden.",
+"Cain was with his wife, and she became pregnant and gave birth to Enoch. Cain built a city and named it after his son Enoch. 🏙️",
+"Enoch became the father of Irad. Irad became the father of Mehujael; Mehujael became the father of Methushael; Methushael became the father of Lamech.",
+"Lamech married two women. One was named Adah; the other was named Zillah.",
+"Adah gave birth to Jabal. He became the ancestor of people who live in tents and raise livestock. ⛺",
+"Jabal’s brother was Jubal, ancestor of those who play the lyre and the flute. 🎶",
+"Zillah gave birth to Tubal-Cain, who made tools from bronze and iron. Tubal-Cain’s sister was Naamah.",
+"Lamech said to his wives, “Adah and Zillah, listen to me. I killed a man for wounding me, a young man for striking me.”",
+"“If Cain is avenged seven times, then Lamech will be avenged seventy-seven times.”",
+"Adam was with his wife again, and she gave birth to a son. She named him Seth, saying, “God has given me another child in place of Abel, whom Cain killed.” ❤️",
+"Seth also had a son and named him Enosh. Around that time, people began calling on the name of the Lord. 🙏"
+];
 const chapterMeta={
 1:{title:"In the beginning · The creation story",verses:genesisOne},
 2:{title:"Eden · The first man and woman",verses:genesisTwo},
 3:{title:"The serpent · Choice and consequence",verses:genesisThree},
+4:{title:"Cain and Abel · The first family",verses:genesisFour},
 };
 let chapter=1,showSaved=false,font=18;
 const list=document.getElementById("verse-list"),grid=document.getElementById("chapter-grid"),toast=document.getElementById("toast");
-for(let n=1;n<=50;n++){const b=document.createElement("button");b.className="chbtn"+(n<=3?" active ready":"");b.textContent=n;b.setAttribute("aria-label",n<=3?"Genesis chapter "+n+", published":"Genesis chapter "+n+", in editorial review");b.onclick=()=>openChapter(n);grid.append(b)}
+for(let n=1;n<=50;n++){const b=document.createElement("button");b.className="chbtn"+(n<=4?" active ready":"");b.textContent=n;b.setAttribute("aria-label",n<=4?"Genesis chapter "+n+", published":"Genesis chapter "+n+", in editorial review");b.onclick=()=>openChapter(n);grid.append(b)}
 function savedSet(){try{return new Set(JSON.parse(localStorage.getItem("adigun-saved")||"[]"))}catch{return new Set()}}
 function showToast(msg){toast.textContent=msg;toast.classList.add("show");setTimeout(()=>toast.classList.remove("show"),1900)}
 function render(){const data=chapterMeta[chapter];document.getElementById("chapter-heading").textContent="Genesis "+chapter;document.getElementById("chapter-subtitle").textContent=data?.title||"This chapter is being written and reviewed";document.getElementById("chapter-progress").textContent=data?data.verses.length+" / "+data.verses.length+" verses · Reviewed":"In editorial review";document.getElementById("chapter-count").textContent="Genesis · Chapter "+chapter+" of 50";document.getElementById("previous").disabled=chapter===1;document.getElementById("next").disabled=chapter===50;document.querySelectorAll(".chbtn").forEach((b,i)=>b.classList.toggle("active",i+1===chapter));
