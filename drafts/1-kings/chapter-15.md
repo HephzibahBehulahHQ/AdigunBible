@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible Classic, 1 Kings 15 (34 verses), checked at https://www.ebible.org/eng-web/1KI15.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–34 is included. Required code switches appear in the verse text: Yoruba (ọmọ), German (Krieg), French (cadeau), Igbo (eze), Hausa (gida), Jamaican Patois (di), Hebrew (navi), plus Spanish (reina) and Portuguese (ouro). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–34 is included. Required code switches appear in the verse text: Yoruba (ọmọ), German (Krieg), French (cadeau), Igbo (eze), Hausa (gida), Jamaican Patois (di), Hebrew (navi), plus Spanish (reina) and Portuguese (ouro). Each verse word is paired with an emoji. Meaning review against the World English Bible Classic is complete. Verse 4 now identifies Asa as Abijam’s successor, verse 5 clarifies the Uriah reference, and verse 15 names the dedicated utensils. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -14,9 +14,9 @@
 
 **3**🔢 He👑 copied🪞 all💯 the👈 sins⚠️ his👨 father👑 had💯 done🛠️ before⏮️ him👑. His👑 heart❤️ wasn’t🚫 fully💯 true✅ to📍 Yahweh🙏 his👑 God🙏, the👈 way💯 his👴 father👑 David👑 had💯 been✅.
 
-**4**🔢 Still🫶, because📍 of📍 David👑, Yahweh🙏 his👑 God🙏 kept🕯️ a💡 lamp🪔 burning🔥 in📍 Jerusalem🏙️. He🙋 raised⬆️ up⬆️ David’s👑 son👦 after⏭️ him👑 and➡️ held🏗️ Jerusalem🏙️ steady🧱.
+**4**🔢 Because🙏 of📍 David👑, Yahweh🙏 kept🕯️ his👑 family🏠 line🪔 alive🫶 in📍 Jerusalem🏙️—like💡 a💯 lamp🪔 still💯 burning🔥. He🙋 placed🪑 Asa👑, Abijam’s👑 son👦, on📍 the👑 throne🪑 after⏭️ him👑 and➡️ kept🏗️ Jerusalem🏙️ standing🧱.
 
-**5**🔢 David👑 did✅ what👀 Yahweh🙏 called✅ right✅ and➡️ didn’t🚫 turn↩️ away🚫 from📍 anything💯 Yahweh🙏 commanded📜 him👑 during⏳ his👑 whole💯 life🗓️—except👈 the👈 Uriah🧔 the🇮🇱 Hittite👨 situation⚠️.
+**5**🔢 David👑 did✅ what👀 Yahweh🙏 called✅ right✅ and➡️ didn’t🚫 turn↩️ away🚫 from📍 anything💯 Yahweh🙏 commanded📜 him👑 during⏳ his👑 whole💯 life🗓️—except👈 what💭 happened⚠️ with🤝 Uriah🧔 the🇮🇱 Hittite👨.
 
 **6**🔢 War⚔️—Krieg⚔️—kept🔁 going⚔️ between📍 Rehoboam👑 and➕ Jeroboam👑 all💯 through⏳ Rehoboam’s👑 life🗓️.
 
@@ -36,7 +36,7 @@
 
 **14**🔢 The🛕 high📈 worship🛐 places⛰️ stayed💯, though↩️. Even💯 so✅, Asa’s👑 heart❤️ stayed💯 fully💯 with🤝 Yahweh🙏 throughout⏳ his👑 life🗓️.
 
-**15**🔢 Asa👑 brought📦 into📍 Yahweh’s🙏 house🏠—gida🏠—the💯 things💎 his👨 father👑 had💯 dedicated🙏 and➡️ the💎 things💎 he👑 had💯 dedicated🙏 himself🫵: silver🥈, gold🥇, and➕ other🔀 sacred🛐 items📦.
+**15**🔢 Asa👑 brought📦 into📍 Yahweh’s🙏 house🏠—gida🏠—the💯 things💎 his👨 father👑 had💯 dedicated🙏 and➡️ the💎 things💎 he👑 had💯 dedicated🙏 himself🫵: silver🥈, gold🥇, and➕ utensils🏺.
 
 **16**🔢 War⚔️ kept🔁 going⚔️ between📍 Asa👑 and➕ Baasha👑, Israel’s🇮🇱 king👑, all💯 their👑 days🗓️.
 
