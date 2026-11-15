@@ -109,3 +109,5 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | ezekiel 35 | [Ezekiel 35 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+35&version=KJV) | Public domain |
 
 | ezekiel 34 | [Ezekiel 34 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+34&version=KJV) | Public domain |
+
+| ezekiel 33 | [Ezekiel 33 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+33&version=KJV) | Public domain |
