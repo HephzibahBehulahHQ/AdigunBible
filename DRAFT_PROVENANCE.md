@@ -93,3 +93,5 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | ezekiel 43 | [Ezekiel 43 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+43&version=KJV) | Public domain |
 
 | ezekiel 42 | [Ezekiel 42 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+42&version=KJV) | Public domain |
+
+| ezekiel 41 | [Ezekiel 41 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+41&version=KJV) | Public domain |
