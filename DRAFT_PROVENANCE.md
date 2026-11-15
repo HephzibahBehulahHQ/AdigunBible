@@ -86,3 +86,4 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 | daniel 1 | [Daniel 1 KJV](https://www.biblegateway.com/passage/?search=Daniel+1&version=KJV) | Public domain |
 | ezekiel 48 | [Ezekiel 48 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+48&version=KJV) | Public domain |
 | ezekiel 47 | [Ezekiel 47 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+47&version=KJV) | Public domain |
+| ezekiel 46 | [Ezekiel 46 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+46&version=KJV) | Public domain |
