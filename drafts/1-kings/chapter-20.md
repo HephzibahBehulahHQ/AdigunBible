@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible Classic, 1 Kings 20 (43 verses), checked at https://ebible.org/eng-web/1KI20.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–43 is included. Required code switches appear in the verse text: Yoruba (ọba), German (Pferde), French (argent), Igbo (eze), Hausa (sarki), Jamaican Patois (mi cyaan do dat), Hebrew (navi), plus Spanish (hermano) and Portuguese (acordo). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–43 and word-level emoji pairing passed. Meaning was checked verse by verse against the World English Bible Classic source; verse 21 was tightened to preserve its explicit killing. The Jamaican Patois phrase “mi cyaan do dat” was checked against a dictionary. The other declared switch terms appear in the verse text; their full language accuracy, chapter voice, and rendering remain under review, so this chapter remains a draft.
 
 ## Verses
 
@@ -14,7 +14,7 @@
 
 **3**🔢 “Ben-Hadad👑 says🗣️, ‘Your👑 silver🥈—argent🥈—and➡️ gold🥇 are💯 mine🙋. Your👑 wives👸 and➡️ children👦 too➕—especially💯 the👈 best🏆 ones👥—belong💯 to📍 me🙋.’”
 
-**4**🔢 Israel’s🇮🇱 king👑 replied🗣️, “It’s💯 just💯 as💬 you👑 say🗣️, my🙋 lord👑 and➡️ king👑. I🙋 am💯 yours👑, and➡️ everything💯 I🙋 have💯 is💯 yours👑—eze👑, sarki👑.”
+**4**🔢 Israel’s🇮🇱 king👑 replied🗣️, “It’s💯 just💯 as💬 you👑 say🗣️, my🙋 lord👑, O👑 king👑—eze👑, sarki👑. I🙋 am💯 yours👑, and➡️ everything💯 I🙋 have💯 is💯 yours👑—eze👑, sarki👑.”
 
 **5**🔢 The👥 messengers👥 came🚶 back↩️ and➡️ said🗣️, “Ben-Hadad👑 says🗣️, ‘I🙋 already💯 told🗣️ you👑 to💯 hand🤲 over➡️ your👑 silver🥈, gold🥇, wives👸, and➡️ children👦.
 
@@ -48,7 +48,7 @@
 
 **20**🔢 Each👨 man👨 struck⚔️ down⬇️ his👤 opponent⚔️. The👥 Syrians🇸🇾 ran🏃, and➡️ Israel🇮🇱 chased🏃 them👥. Ben-Hadad👑, Syria’s🇸🇾 king👑, escaped🏃 on📍 a💯 horse🐎 with🤝 horsemen🐎 around↪️ him👑.
 
-**21**🔢 Israel’s🇮🇱 king👑 came🚶 out🚪, struck⚔️ the👈 horses🐎 and➡️ chariots🏇, and➡️ inflicted⚔️ a💯 huge💯 defeat📉 on📍 the👥 Syrians🇸🇾.
+**21**🔢 Israel’s🇮🇱 king👑 came🚶 out🚪, struck⚔️ the👈 horses🐎 and➡️ chariots🏇, and➡️ killed💀 the👥 Syrians🇸🇾 in📍 a💯 massive💯 slaughter⚔️.
 
 **22**🔢 The👨 prophet🕊️ came🚶 to📍 Israel’s🇮🇱 king👑 and➡️ said🗣️, “Get🛡️ stronger💪 and➡️ plan🧠 your👑 next➡️ move🛤️. When⏰ the🌅 year🗓️ turns🔁, Syria’s🇸🇾 king👑 will💯 come🚶 back↩️ to⚔️ attack⚔️ you👑.”
 
