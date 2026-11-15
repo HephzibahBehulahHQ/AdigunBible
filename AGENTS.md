@@ -28,6 +28,8 @@ These rules govern work across all 66 books, every chapter, and every verse.
 - Keep the meaning and emotional weight of serious events intact while using the Gen Z voice.
 
 ## Build and publish
+- Before any merge or deployment, verify every verse has the full AdigunBible Gen Z voice, an emoji beside every word, required in-sentence multilingual code-switches, accurate language use, preserved meaning and verse sequence, and a complete correct verse count that renders in the reader. Record these checks.
+- If any check fails or is unverified, MUST NOT merge or deploy the verse/chapter. This gate is mandatory for every agent and cannot be bypassed for convenience or schedule.
 - Phase 3 is Bible content first. Add reviewed content progressively to the reader and publish each verified slice.
 - Never mark an incomplete chapter complete.
 - Verify verse counts, reader navigation, source syntax, and the published result for each slice.
