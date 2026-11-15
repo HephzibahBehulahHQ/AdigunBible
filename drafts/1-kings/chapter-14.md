@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 14 (31 verses), checked at https://bible.somd.com/web/B11C014.shtml. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–31 is included. Required code switches appear in the verse text: Yoruba (ọmọ), German (verkleide dich), French (malade), Igbo (nwa), Hausa (gida), Jamaican Patois (aks, di), Hebrew (navi), plus Spanish (hijo) and Swahili (mwana). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–31 is included. Required code switches appear in the verse text: Yoruba (ọmọ), German (verkleide dich), French (malade), Igbo (nwa), Hausa (gida), Jamaican Patois (aks, di), Hebrew (navi), plus Spanish (hijo) and Swahili (mwana). Each verse word is paired with an emoji. Meaning review against the World English Bible is complete. Removed an added aside in verse 9 that weakened the prophetic rebuke and removed the unsupported “proper” qualifier from verse 13. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -24,7 +24,7 @@
 
 **8**🔢 I🙋 ripped✂️ the👑 kingdom👑 from📍 David’s👑 family🏠 and➡️ handed🎁 it👑 to📍 you👑. Still😐, you👑 didn’t🚫 follow🚶 my🙏 servant🧑 David👑, who👨 kept🔒 my🙏 commands📜 and➡️ followed🚶 me🙏 with💯 his👨 whole💯 heart❤️, doing✅ what👀 I🙋 called✅ right✅.
 
-**9**🔢 Instead↩️, you👑 went🏃 harder📈 into📍 evil⚠️ than💯 everyone👥 before⏮️ you👑. You👑 made🛠️ other🔀 gods🪨 and➡️ cast🫗 metal🔩 idols🗿 to💢 provoke😠 me🙏. Then⏰ you👑 threw🫳 me🙏 behind↩️ your👑 back🔙. That’s⚠️ not🚫 it🛑.
+**9**🔢 Instead↩️, you👑 went🏃 harder📈 into📍 evil⚠️ than💯 everyone👥 before⏮️ you👑. You👑 made🛠️ other🔀 gods🪨 and➡️ cast🫗 metal🔩 idols🗿 to💢 provoke😠 me🙏. Then⏰ you👑 threw🫳 me🙏 behind↩️ your👑 back🔙.
 
 **10**🔢 So⚖️ now⏰, I🙋 am💯 bringing📨 disaster⚡ on📍 Jeroboam’s👑 house🏠. I🙋 will💯 wipe🧹 out🚫 every💯 male👨 in📍 his👑 family🏠 across🌍 Israel🇮🇱—the🔒 ones👥 shut🚪 in➡️ and➕ the👥 ones🏃 out💨 free🕊️. I🙋 will💯 sweep🧹 Jeroboam’s👑 house🏠 away↗️ completely💯, like💯 filth🤢 cleared🧹 off📍 the🛣️ ground🌍.
 
@@ -32,7 +32,7 @@
 
 **12**🔢 Now⏰ get⬆️ up🧍 and➡️ head🚶 home🏠. The🏙️ moment⏱️ your👣 feet👣 step🚶 into📍 the🏙️ city🏘️, your👶 child👦 will💀 die💀.”
 
-**13**🔢 All💯 Israel🇮🇱 will💯 mourn😭 him👶 and➡️ bury⚰️ him👶. He👶, Jeroboam’s👑 hijo👶, alone🧍 from📍 his👑 family🏠 will💯 receive⚰️ a💯 proper✅ burial⚰️, because💯 Yahweh🙏, Israel’s🇮🇱 God🙏, has💯 found🔎 something💯 good💚 in📍 him👶 within📍 Jeroboam’s👑 household🏠.
+**13**🔢 All💯 Israel🇮🇱 will💯 mourn😭 him👶 and➡️ bury⚰️ him👶. He👶, Jeroboam’s👑 hijo👶, alone🧍 from📍 his👑 family🏠 will💯 receive⚰️ a💯 burial⚰️, because💯 Yahweh🙏, Israel’s🇮🇱 God🙏, has💯 found🔎 something💯 good💚 in📍 him👶 within📍 Jeroboam’s👑 household🏠.
 
 **14**🔢 Yahweh🙏 will💯 raise⬆️ up⬆️ a💯 king👑 over📍 Israel🇮🇱, and➡️ that👈 king👑 will💯 cut✂️ Jeroboam’s👑 family🏠 off🚫. And➡️ when⏰ will💯 it💯 happen🗓️? It’s⏰ already✅ starting🏁 now⏱️.
 
