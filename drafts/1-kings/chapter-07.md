@@ -108,4 +108,4 @@
 
 **50**🔢 The🥤 cups🥤, snuffers🕯️, basins💧, spoons🥄, and➕ fire🔥 pans🍳 were💯 all✨ pure💯 gold🪙. Even➕ the🚪 hinges🚪 for📍 the💛 inner💛 doors🚪 of🏛️ the💯 Most✨ Holy💛 Place🏛️, and➕ the🚪 Temple⛪ doors🚪, were🪙 gold🪙.
 
-**51**🔢 That💯 completed✅ all💯 di👥 work⚒️ King👑 Solomon👑 did🏗️ for📍 Yahweh’s🙏 house🏛️. He👑 brought🚶 in➡️ the💎 silver🥈—plata🥈, gold🪙, and➕ vessels🏺 his👨 father👑 David👑 had💝 dedicated🙏, then➡️ stored📦 them👥 in📍 the💰 treasuries🏛️ of🙏 Yahweh’s🙏 house🏛️.
+**51**🔢 That💯 completed✅ all💯 di👥 work⚒️—ọrụ⚒️—King👑 Solomon👑 did🏗️ for📍 Yahweh’s🙏 house🏛️. He👑 brought🚶 in➡️ the💎 silver🥈—plata🥈, gold🪙, and➕ vessels🏺 his👨 father👑 David👑 had💝 dedicated🙏, then➡️ stored📦 them👥 in📍 the💰 treasuries🏛️ of🙏 Yahweh’s🙏 house🏛️.
