@@ -224,17 +224,11 @@ Do not use every expression everywhere IN THE MOOD OF CONVAESATION AND TONE
 
 The system must choose expressions naturally.
 
-## NON-NEGOTIABLE CONTENT RELEASE GATE — ALL AGENTS
+## NON-NEGOTIABLE WHOLE-BIBLE RELEASE GATE — ALL AGENTS
 
-Before merging or deploying any verse or chapter, the responsible agent must verify and record that:
-1. Every verse is fully rendered in the AdigunBible Gen Z voice, not plain formal English.
-2. Every word in each verse has an adjacent, fitting emoji; the emoji supplements and never replaces the word.
-3. Every required core language is woven into the chapter sentence/word flow, plus the required additional languages; this remains one AdigunBible text, not a whole-verse translation or parallel edition.
-4. Every foreign-language switch is accurate and contextually faithful.
-5. Verse numbers, source facts, speakers, sequence, claims, commands, promises, and meaning are preserved.
-6. The chapter has the correct complete verse count and renders correctly in the reader.
+Bible content may be drafted and validated on working branches. No Scripture verse, chapter, or book may be merged into the release branch or deployed until the complete 66-book edition passes every content rule: full Gen Z voice, emoji paired with every word, required multilingual code-switching in each chapter, accurate language use, preserved Scripture meaning and sequence, complete verse counts, and correct reader rendering.
 
-If any check fails or is unverified, the agent MUST NOT merge or deploy that verse/chapter. This gate applies to every agent and every content release; convenience or schedule never overrides it.
+The agent must record whole-corpus validation evidence before release. If any book, chapter, verse, language switch, or check is incomplete or unverified, the agent MUST NOT merge or deploy Scripture content. This rule applies to every agent, with no exceptions for schedule, convenience, or partial progress.
 
 ## UNIVERSAL WORD-CHOICE AND EMOJI BANK
 
