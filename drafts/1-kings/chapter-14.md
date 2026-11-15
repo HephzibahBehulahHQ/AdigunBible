@@ -8,9 +8,9 @@
 
 ## Verses
 
-**1**🔢 Right⏰ then⏰, Abijah👶, Jeroboam’s👑 son👦, got🤒 seriously😟 sick🤒—the🔹 child👶, ọmọ🧒, nwa🧒, that👈 little👶 boy👦, was💯 malade🤒.
+**1**🔢 Right⏰ then⏰, Abijah👶, Jeroboam’s👑 son👦, got🤒 seriously😟 sick🤒—the🔹 child👶, ọmọ🧒, nwa🧒, mwana👶, that👈 little👶 boy👦, was💯 malade🤒.
 
-**2**🔢 Jeroboam👑 told🗣️ his👑 wife👸, “Get⬆️ up🧍 and➡️ disguise🎭 yourself🫵, so🚫 nobody👀 recognizes👀 you👸 as💯 my👑 wife👸. Head🚶 to📍 Shiloh🏘️ and➕ find🔎 Ahijah🧔, the🕊️ navi🕊️—go🚶 aks❓ di🕊️ prophet🕊️ there📍. He🧔 told🗣️ me🙋 I’d👑 become👑 king👑 over👑 these👥 people👥.”
+**2**🔢 Jeroboam👑 told🗣️ his👑 wife👸, “Get⬆️ up🧍 and➡️ disguise🎭 yourself🫵—verkleide🎭 dich🫵—so🚫 nobody👀 recognizes👀 you👸 as💯 my👑 wife👸. Head🚶 to📍 Shiloh🏘️ and➕ find🔎 Ahijah🧔, the🕊️ navi🕊️—go🚶 aks❓ di🕊️ prophet🕊️ there📍. He🧔 told🗣️ me🙋 I’d👑 become👑 king👑 over👑 these👥 people👥.”
 
 **3**🔢 Pack🎒 ten🔟 loaves🍞, some🍪 cakes🍰, and➕ a🍯 jar🏺 of🍯 honey🍯; go🚶 see👀 him🧔. He🧔 will💬 tell🗣️ you👸 what💭 is💯 coming🔮 for📍 the👶 child👦.
 
@@ -32,7 +32,7 @@
 
 **12**🔢 Now⏰ get⬆️ up🧍 and➡️ head🚶 home🏠. The🏙️ moment⏱️ your👣 feet👣 step🚶 into📍 the🏙️ city🏘️, your👶 child👦 will💀 die💀.”
 
-**13**🔢 All💯 Israel🇮🇱 will💯 mourn😭 him👶 and➡️ bury⚰️ him👶. He👶 alone🧍 from📍 Jeroboam’s👑 family🏠 will💯 receive⚰️ a💯 proper✅ burial⚰️, because💯 Yahweh🙏, Israel’s🇮🇱 God🙏, has💯 found🔎 something💯 good💚 in📍 him👶 within📍 Jeroboam’s👑 household🏠.
+**13**🔢 All💯 Israel🇮🇱 will💯 mourn😭 him👶 and➡️ bury⚰️ him👶. He👶, Jeroboam’s👑 hijo👶, alone🧍 from📍 his👑 family🏠 will💯 receive⚰️ a💯 proper✅ burial⚰️, because💯 Yahweh🙏, Israel’s🇮🇱 God🙏, has💯 found🔎 something💯 good💚 in📍 him👶 within📍 Jeroboam’s👑 household🏠.
 
 **14**🔢 Yahweh🙏 will💯 raise⬆️ up⬆️ a💯 king👑 over📍 Israel🇮🇱, and➡️ that👈 king👑 will💯 cut✂️ Jeroboam’s👑 family🏠 off🚫. And➡️ when⏰ will💯 it💯 happen🗓️? It’s⏰ already✅ starting🏁 now⏱️.
 
