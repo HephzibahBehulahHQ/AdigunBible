@@ -56,7 +56,7 @@
 
 **24**🔢 “You🙏 have💯 kept🤝 Your🙏 promise📜 to🤝 my👨 father👑 David👑, Your🙇 servant🧑. You👄 spoke🗣️ it💬, and🖐️ You🙏 have💯 made✅ it💯 real🤲, just💯 like📍 today📅.”
 
-**25**🔢 “So🙏 now⏰, Yahweh🙏, Israel’s🇮🇱 God🙏, keep🤝 this📜 promise📜 to👑 my👨 father👑 David👑, Your🙇 servant🧑: ‘You👑 will🚫 always⏳ have👑 a💯 descendant👶 sitting🪑 before🙏 Me🙋 on🪑 Israel’s🇮🇱 throne👑, if✅ your👑 children👨‍👩‍👦 stay💯 on📍 the🛤️ right💯 path🛤️ and🚶 walk🚶 before🙏 Me🙋 as🤝 you👑 did.’”
+**25**🔢 “So🙏 now⏰, Yahweh🙏, Israel’s🇮🇱 God🙏, keep🤝 this📜 promise📜 to👑 my👨 father👑 David👑, Your🙇 servant🧑: ‘You👑 will🚫 always⏳ have👑 a💯 descendant👶 sitting🪑 before🙏 Me🙋 on🪑 Israel’s🇮🇱 throne👑, if✅ your👑 children👨‍👩‍👦 stay💯 on📍 the🛤️ right💯 path🛤️ and🚶 walk🚶 before🙏 Me🙋 as🤝 you👑 did🛤️.’”
 
 **26**🔢 “So🙏 please🙏, God🙏 of🇮🇱 Israel🇮🇱, confirm✅ the📜 word📜 You🙏 spoke🗣️ to👑 my👨 father👑 David👑, Your🙇 servant🧑.”
 
@@ -86,13 +86,13 @@
 
 **39**🔢 “…then➡️ hear👂 from☁️ heaven☁️, Your🙏 home🏠, and➡️ forgive🙏. Act🛠️ and➡️ give🤲 each💯 person👤 what📏 their👤 way🛤️ deserves⚖️, because💭 You🙏 know🧠 their👥 hearts❤️—You🙏 alone☝️ know🧠 every💯 human👥 heart❤️…”
 
-**40**🔢 “…so🙏 they👥 will💯 honor🙏 You👑 all💯 the📅 days📅 they👥 live🏠 in📍 the🌍 land🌍 You🙏 gave🎁 our👨‍👩‍👧‍👦 ancestors👴.”
+**40**🔢 “…so🙏 they👥 will💯 revere🙏 You👑 all💯 the📅 days📅 they👥 live🏠 in📍 the🌍 land🌍 You🙏 gave🎁 our👨‍👩‍👧‍👦 ancestors👴.”
 
 **41**🔢 “When🌍 a👤 foreigner🌍 who🚫 isn’t🙅 part📍 of🇮🇱 Your🙏 people👥 Israel🇮🇱 comes🚶 from📍 a💯 distant🌎 country🌍 because💭 of🙏 Your🙏 name📛…”
 
 **42**🔢 “…because💭 they👥 have💯 heard👂 about🙏 Your🙏 great💯 name📛, Your💪 mighty💪 hand🤲, and➕ Your💪 outstretched💪 arm🤲, and🚶 they👥 come🚶 pray🙏 toward📍 this🏛️ house🏛️…”
 
-**43**🔢 “…then➡️ hear👂 from☁️ heaven☁️, Your🙏 home🏠, and➡️ do✅ what💬 that👤 foreigner🌍 asks🙏. Then💯 every🌍 people👥 on🌍 earth🌍 will💯 know🧠 Your🙏 name📛 and🙏 honor🙏 You👑, just💯 like🤝 Israel🇮🇱 does. They👥 will💯 know🧠 this🏛️ house🏠 I🙋 built🏗️ carries📛 Your🙏 name📛.”
+**43**🔢 “…then➡️ hear👂 from☁️ heaven☁️, Your🙏 home🏠, and➡️ do✅ what💬 that👤 foreigner🌍 asks🙏. Then💯 every🌍 people👥 on🌍 earth🌍 will💯 know🧠 Your🙏 name📛 and🙏 revere🙏 You👑, just💯 like🤝 Israel🇮🇱 does✅. They👥 will💯 know🧠 this🏛️ house🏠 I🙋 built🏗️ carries📛 Your🙏 name📛.”
 
 **44**🔢 “If⚔️ Your🙏 people👥 go🚶 to⚔️ battle⚔️ against📍 an👿 enemy⚔️ wherever🌍 You🙏 send📨 them👥, and➡️ they🙏 pray🙏 to🙏 Yahweh🙏 toward📍 the🏙️ city🏙️ You🙏 chose✅ and➕ the🏛️ house🏠 I🙋 built🏗️ for🙏 Your🙏 name📛…”
 
@@ -120,7 +120,7 @@
 
 **56**🔢 “Blessed🙏 be🙏 Yahweh🙏, who🙏 gave🎁 His🙏 people👥 Israel🇮🇱 rest🕊️ just💯 as💬 He🙏 promised📜. Not🚫 one☝️ word🗣️ of📜 His🙏 good💛 promise📜 has💯 failed❌—not🚫 one☝️! He🙏 spoke🗣️ them💬 through📖 Moses👨‍🦳 His🙇 servant🧑.”
 
-**57**🔢 “May🙏 Yahweh🙏 our🙋 God🙏 stay🤝 with🙋‍♂️ us👥 like💯 He🙏 stayed🤝 with🤲 our👨‍👩‍👧‍👦 ancestors👴. May🙏 He🙏 never🚫 leave🚪 or🚫 abandon🤲 us👥—wi👥 together🤝.”
+**57**🔢 “May🙏 Yahweh🙏 our🙋 God🙏 stay🤝 with🙋‍♂️ us👥 like💯 He🙏 stayed🤝 with🤲 our👨‍👩‍👧‍👦 ancestors👴. May🙏 He🙏 never🚫 leave🚪 or🚫 abandon🤲 wi👥—us👥.”
 
 **58**🔢 “May🙏 He🙏 turn🔄 our👥 hearts❤️ toward🙏 Him👑, so🙏 we🙋‍♂️ walk🚶 in📍 all💯 His🙏 ways🛤️ and➕ keep🤝 His🙏 commands📜, rules📖, and➕ decisions⚖️ that💬 He🙏 gave📜 our👨‍👩‍👧‍👦 ancestors👴.”
 
