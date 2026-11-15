@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible Classic, 1 Kings 19 (21 verses), checked at https://www.ebible.org/eng-web/1KI19.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–21 is included. Required code switches appear in the verse text: Yoruba (ọba), German (Kraft), French (grotte), Igbo (mmiri), Hausa (ruwa), Jamaican Patois (mi), Hebrew (navi), plus Spanish (viento) and Portuguese (fogo). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–21 is included. Required code switches appear in the verse text: Yoruba (ọba), German (Kraft), French (grotte), Igbo (mmiri), Hausa (ruwa), Jamaican Patois (mi), Hebrew (navi), plus Spanish (viento) and Portuguese (fogo). Each verse word is paired with an emoji. Meaning review against WEB Classic is complete; verses 6 and 19 were corrected to match the coals and the twelve oxen teams. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -18,7 +18,7 @@
 
 **5**🔢 He👤 lay🛏️ down⬇️ and➡️ fell😴 asleep🛏️ beneath⬇️ the🌳 tree🌳. Suddenly⚡ an👼 angel👼 touched🫳 him👤 and➡️ said🗣️, “Wake⬆️ up🧍 and➡️ eat🍽️.”
 
-**6**🔢 Elijah🧔 looked👀 and➡️ saw👀 a💯 small🤏 cake🍞 baked🔥 on📍 hot🔥 stones🪨, with🤝 a💯 jar🏺 of📍 water💧—mmiri💧, ruwa💧—by📍 his👤 head🧠. He👤 ate🍽️, drank🥤, then⏰ lay🛏️ down⬇️ again🔁.
+**6**🔢 Elijah🧔 looked👀 and➡️ saw👀 a💯 small🤏 cake🍞 baked🔥 over📍 hot🔥 coals🔥, with🤝 a💯 jar🏺 of📍 water💧—mmiri💧, ruwa💧—by📍 his👤 head🧠. He👤 ate🍽️, drank🥤, then⏰ lay🛏️ down⬇️ again🔁.
 
 **7**🔢 Yahweh’s🙏 angel👼 came🚶 back↩️ a💯 second2️⃣ time⏳, touched🫳 him👤, and➡️ said🗣️, “Get⬆️ up🧍 and➡️ eat🍽️; this👈 journey🛤️ is💯 too➕ much💯 for📍 you👤.”
 
@@ -44,7 +44,7 @@
 
 **18**🔢 Still💯, I🙋 have💯 kept🛟 seven🔢 thousand🔢 people👥 in📍 Israel🇮🇱 who👥 never🚫 bowed🧎 to📍 Baal🪨. Not🚫 one👤 of📍 their👥 knees🦵 bowed🧎, and➡️ not🚫 one👤 mouth👄 kissed💋 him🪨.”
 
-**19**🔢 Elijah🧔 left🚶 and➡️ found🔎 Elisha🧔 son👦 of📍 Shaphat👨 plowing🌱. Twelve🔢 pairs🔗 of📍 oxen🐂 were💯 ahead➡️ of📍 him👨, and➡️ Elisha👨 was💯 working🌱 with🤝 the👈 twelfth🔢 pair🔗. Elijah🧔 walked🚶 over➡️ and➡️ placed🫳 his👤 cloak🧥 on📍 him👨.
+**19**🔢 Elijah🧔 left🚶 and➡️ found🔎 Elisha🧔 son👦 of📍 Shaphat👨 plowing🌱. Twelve🔢 pairs🔗 of📍 oxen🐂 were💯 plowing🌱, and➡️ Elisha👨 was💯 working🌱 with🤝 the👈 twelfth🔢 pair🔗. Elijah🧔 walked🚶 over➡️ and➡️ placed🫳 his👤 cloak🧥 on📍 him👨.
 
 **20**🔢 Elisha🧔 left🚶 the👈 oxen🐂, ran🏃 after➡️ Elijah🧔, and➡️ said🗣️, “Please🙏 let🫴 me🙋 go🚶 kiss💋 my👨 father👨 and➡️ mother👩 goodbye👋, then⏭️ I🙋 will💯 follow🚶 you👤.” Elijah🧔 replied🗣️, “Go🚶 back↩️; what❓ have💯 I🙋 done🛠️ to📍 you👤?”
 
