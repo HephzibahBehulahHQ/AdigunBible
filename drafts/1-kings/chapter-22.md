@@ -20,7 +20,7 @@
 
 **6**🔢 Israel’s🇮🇱 king👑 gathered🧑‍🤝‍🧑 around↪️ four🔢 hundred🔢 prophets🕊️ and➡️ asked🗣️, “Should❓ I🙋 go🚶 fight⚔️ at📍 Ramoth🏘️ Gilead🏘️, or🔀 should❓ I🙋 hold⏸️ back↩️?” They👥 answered🗣️, “Go⬆️! The👑 Lord🙏 will💯 hand🤲 it👈 over➡️ to📍 the👑 king👑.”
 
-**7**🔢 Jehoshaphat👑 asked🗣️, “Is❓ there📍 no🚫 prophet🕊️ of📍 Yahweh🙏 here📍 we🙋 can💯 ask🙏?” He👑 wanted💭 a💯 true💯 prophet🕊️—prophète🕊️—before📍 deciding⚖️.
+**7**🔢 Jehoshaphat👑 asked🗣️, “Is❓ there📍 no🚫 prophet🕊️ of📍 Yahweh🙏 here📍 we🙋 can💯 ask🙏?” He👑 wanted💭 a💯 true💯 prophet🕊️—prophète🕊️, navi🕊️—before📍 deciding⚖️.
 
 **8**🔢 Israel’s🇮🇱 king👑 told🗣️ Jehoshaphat👑, “There’s💯 still💯 one💯 man👨 we🙋 can💯 ask🙏 Yahweh🙏 through📨: Micaiah🧔, Imlah’s👨 son👦. But↩️ I🙋 can’t🚫 stand🙅 him👨. He👤 never🚫 predicts🔮 anything💯 good💚 for📍 me🙋, only💯 trouble⚠️.” Jehoshaphat👑 said🗣️, “Don’t🚫 talk🗣️ about📍 the👑 king👑 like💯 that👈.”
 
@@ -36,7 +36,7 @@
 
 **14**🔢 Micaiah🧔 answered🗣️, “As⏳ surely💯 as💯 Yahweh🙏 lives🫶, I🙋 will💯 say🗣️—mi🙋 will💯 speak🗣️—only💯 what💬 Yahweh🙏 tells🗣️ me🙋.”
 
-**15**🔢 When⏰ Micaiah🧔 came🚶 to📍 the👑 king👑, Ahab👑 asked🗣️, “Should❓ we🙋 fight⚔️ at📍 Ramoth🏘️ Gilead🏘️, or🔀 not🚫?” Micaiah🧔 answered🗣️, “Sure✅, go⬆️ and➡️ win🏆; Yahweh🙏 will💯 hand🤲 it👈 over➡️ to📍 the👑 king👑.” His👤 tone🎙️ made💯 the👈 sarcasm🙃 pretty💯 clear👀.
+**15**🔢 When⏰ Micaiah🧔 came🚶 to📍 the👑 king👑, Ahab👑 asked🗣️, “Should❓ we🙋 fight⚔️ at📍 Ramoth🏘️ Gilead🏘️, or🔀 not🚫?” Micaiah🧔 answered🗣️, “Sure✅, go⬆️ and➡️ win🏆; Yahweh🙏 will💯 hand🤲 it👈 over➡️ to📍 the👑 king👑.” 
 
 **16**🔢 The👑 king👑 said🗣️, “How⏳ many💯 times🔁 must💯 I🙋 make🗣️ you👤 swear🤞 to💯 tell🗣️ me🙋 only💯 the👈 truth✅ in📍 Yahweh’s🙏 name📛—Wahrheit✅, the👈 real💯 truth✅?”
 
