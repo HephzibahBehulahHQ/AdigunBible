@@ -4,6 +4,7 @@ These working-branch drafts use the King James Version (KJV) as a meaning refere
 
 | Draft file | Meaning reference | Source status |
 |---|---|---|
+| ezekiel 14 | [Ezekiel 14 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+14&version=KJV) | Public domain |
 | ezekiel 15 | [Ezekiel 15 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+15&version=KJV) | Public domain |
 | ezekiel 16 | [Ezekiel 16 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+16&version=KJV) | Public domain |
 | ezekiel 17 | [Ezekiel 17 KJV](https://www.biblegateway.com/passage/?search=Ezekiel+17&version=KJV) | Public domain |
