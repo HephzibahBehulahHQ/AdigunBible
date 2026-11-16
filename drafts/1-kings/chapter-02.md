@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 2 (46 verses), checked at https://biblehub.com/web/1_kings/2.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–46 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (stark), French (en vérité), Igbo (eze), Hausa (gaskiya), Jamaican Patois (mi/yah), Hebrew (Sheol), plus Spanish (sí) and Arabic (salām). Each verse word is paired with an emoji. Meaning review complete against the cited WEB chapter; verse 4 now preserves the promise’s conditional force. Verses 1–3, 8, 10, and 12 received this voice-pass update; full-switch naturalness, final full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–46 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (stark), French (en vérité), Igbo (eze), Hausa (gaskiya), Jamaican Patois (mi/ago/ded/yah), Hebrew (Sheol), plus Spanish (sí) and Arabic (salām). Each verse word is paired with an emoji. Meaning review complete against the cited WEB chapter; verse 4 now preserves the promise’s conditional force. Verses 1–3, 8, 10, 12, 21, 25, 26, 30, 32, and 46 received voice or clarity updates; full-switch naturalness, final full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -48,7 +48,7 @@
 
 **20**🔢 She👑 said🗣️, “I🙋 have🤲 one☝️ small🤏 request🙏. Please🙏 don’t🚫 turn🚪 me🙋 down🙅.” The👑 king👑 answered🗣️, “Ask🗣️ me👑, mother👑; I🙋 won’t🙅 refuse🚫 you👑.”
 
-**21**🔢 She👑 said🗣️, “Let🙏 Abishag🌼 the📍 Shunammite🏘️ become💍 Adonijah’s👑 wife👰.”
+**21**🔢 She👑 said🗣️, “Let🙏 Adonijah👑 marry💍 Abishag🌼 the📍 Shunammite🏘️.”
 
 **22**🔢 King👑 Solomon👑 answered🗣️ his👑 mother👑, “Why🤔 ask🙏 for📍 Abishag🌼 on👑 Adonijah’s👑 behalf🤝? You👑 might🤔 as💯 well💬 ask👑 me🙋 to🤲 hand💺 him👑 the📜 kingdom🏰 too➕! He👑 is👨 my👬 older👨‍🦳 brother👑; he🙋, Abiathar🙏 the📜 priest⛪, and➕ Joab⚔️ son👦 of🌳 Zeruiah👩—that👥 whole💯 crew👥 could🤝 benefit💭.”
 
@@ -56,9 +56,9 @@
 
 **24**🔢 “As💯 surely✅ as🌟 Yahweh🙏 lives💚—the🙏 One🙏 who👑 established🧱 me🙋 and➡️ placed🪑 me👑 on🪑 my👨 father👑 David’s👑 throne👑, and➕ who🏠 built🏗️ my👑 royal🏰 house🏠 just💯 as💭 He🙏 promised📜—Adonijah👑 will💀 die⚰️ today📅.”
 
-**25**🔢 King👑 Solomon👑 sent📨 Benaiah🛡️ son👦 of🌳 Jehoiada👨. Benaiah🛡️ struck⚔️ Adonijah👑 down⬇️, and➕ he👑 died⚰️.
+**25**🔢 King👑 Solomon👑 sent📨 Benaiah🛡️, Jehoiada’s🌳 son👦. Benaiah🛡️ struck⚔️ Adonijah👑 down⬇️, and➕ Adonijah👑 died⚰️.
 
-**26**🔢 The👑 king👑 told🗣️ Abiathar🙏 the📜 priest⛪, “Go🚶 to📍 Anathoth🏘️, back🏠 to👤 your👨 own🏡 fields🌾. You👨 deserve⚖️ death⚰️, but↩️ I🙋 won’t🙅 kill⚔️ you👨 right⏰ now⏸️. You🤝 carried🫳 the📦 Ark📦 of🙏 the📜 Lord🙏 Yahweh🙏 before👑 my👨 father👑 David👑, and➕ you🫂 shared🤝 every💯 hardship🌧️ my👨 father👑 went🛤️ through⚔️.”
+**26**🔢 The👑 king👑 told🗣️ Abiathar🙏 the📜 priest⛪, “Head🚶 back⬅️ to📍 Anathoth🏘️, to📍 your👨 own☝️ fields🌾. You⚖️ deserve💀 death⚰️, but↩️ I🙋 won’t🙅 kill⚔️ you👨 right⏰ now⏸️. You🤝 carried🫳 Yahweh’s🙏 Ark📦 before📍 my👨 father👑 David👑, and➕ faced🌧️ every💯 hardship🌧️ he👨 faced⚔️.”
 
 **27**🔢 So⚖️ Solomon👑 removed🚪 Abiathar🙏 from🛑 serving🙏 as📜 Yahweh’s🙏 priest⛪. That💯 fulfilled✅ Yahweh’s🙏 word📜 about💭 Eli’s👨 family🌳 at📍 Shiloh🏘️.
 
@@ -66,11 +66,11 @@
 
 **29**🔢 The👥 king’s👑 messengers🧑‍🤝‍🧑 told🗣️ Solomon👑, “Joab⚔️ has🏃 fled🏃‍♂️ to📍 Adonai’s🙏 Tent⛺ and👀 is📍 standing🧍 by📍 the📯 altar⛪.” So➡️ Solomon👑 sent📨 Benaiah🛡️ son👦 of🌳 Jehoiada👨 with💬 this📜 order📣: “Go🚶 strike⚔️ him👨 down⬇️.”
 
-**30**🔢 Benaiah🛡️ went🚶 to📍 Yahweh’s🙏 Tent⛺ and🗣️ told🗣️ Joab⚔️, “The👑 king👑 says📣, ‘Come🚶 out➡️!’” Joab⚔️ answered🗣️, “Mi🙋 ago💬 die💀 yah📍—I🙋 will💀 die⚰️ here📍.” Benaiah🛡️ went🚶 back⬅️ to🗣️ the👑 king👑 and📜 reported🗣️ Joab’s⚔️ words💬 and➕ answer🗣️.
+**30**🔢 Benaiah🛡️ went🚶 to📍 Yahweh’s🙏 Tent⛺ and🗣️ told🗣️ Joab⚔️, “The👑 king👑 says📣, ‘Come🚶 out➡️!’” Joab⚔️ answered🗣️, “Mi🙋 ago💬 ded💀 yah📍—I🙋 will💀 die⚰️ here📍.” Benaiah🛡️ went🚶 back⬅️ to🗣️ the👑 king👑 and📜 reported🗣️ Joab’s⚔️ words💬 and➕ answer🗣️.
 
 **31**🔢 The👑 king👑 said🗣️, “Do✅ what💬 Joab⚔️ said🗣️. Strike⚔️ him👨 down⬇️ and➡️ bury⚰️ him👨. That💯 way🧭 you👥 remove🧹 the🩸 innocent🕊️ blood🩸 Joab⚔️ spilled🩸 from🧼 me👑 and➕ my👨 father’s👑 family🏠.”
 
-**32**🔢 “Yahweh🙏 will💯 bring🔄 Joab’s⚔️ blood🩸 back🔙 onto📍 his👨 own☝️ head🧠, because💭 he⚔️ killed💀 two🔢 men👨 more💯 righteous⚖️ and➕ better🌟 than📏 he👨 was💯. My👨 father👑 David👑 knew🚫 nothing🙈 about💭 it❗: Abner⚔️ son👦 of🌳 Ner👨, Israel’s🇮🇱 army🛡️ commander👨‍✈️, and➕ Amasa⚔️ son👦 of🌳 Jether👨, Judah’s🏞️ army🛡️ commander👨‍✈️.”
+**32**🔢 “Yahweh🙏 will💯 bring🔄 Joab’s⚔️ blood🩸 back🔙 onto📍 his👨 own☝️ head🧠, because💭 he⚔️ cut💀 down⬇️ two🔢 men👨 with🗡️ his👨 sword🗡️—men👥 more💯 righteous⚖️ and➕ better🌟 than📏 he👨 was💯. My👨 father👑 David👑 knew🚫 nothing🙈 about💭 it❗: Abner⚔️ son👦 of🌳 Ner👨, Israel’s🇮🇱 army🛡️ commander👨‍✈️, and➕ Amasa⚔️ son👦 of🌳 Jether👨, Judah’s🏞️ army🛡️ commander👨‍✈️.”
 
 **33**🔢 “Their👥 blood🩸 will💯 come🔄 back🔙 on📍 Joab⚔️ and➕ his👨 descendants👶 forever⏳. But↩️ for🙏 David👑, his👑 descendants👶, his👑 family🏠, and➕ his👑 throne👑, Yahweh🙏 will💯 give🤲 lasting⏳ peace🕊️—salām🕊️.”
 
@@ -98,4 +98,4 @@
 
 **45**🔢 “But↩️ King👑 Solomon👑 will💯 be🙏 blessed🙏, and➕ David’s👑 throne👑 will💯 stay🧱 secure✅ before🙏 Yahweh🙏 forever⏳—gaskiya💯, for💯 real💯.”
 
-**46**🔢 Then➡️ the👑 king👑 ordered📣 Benaiah🛡️ son👦 of🌳 Jehoiada👨 to⚔️ act🛠️. Benaiah🛡️ went🚶 out➡️ and⚔️ struck💥 Shimei👨 down⬇️, and➡️ Shimei👨 died⚰️. The🏰 kingdom👑 was💯 now✅ firmly🧱 in📍 Solomon’s👑 hands🤲.
+**46**🔢 Then➡️ the👑 king👑 ordered📣 Benaiah🛡️ son👦 of🌳 Jehoiada👨 to⚔️ execute🗡️ Shimei👨. Benaiah🛡️ went🚶 out➡️ and⚔️ struck💥 Shimei👨 down⬇️, and➡️ Shimei👨 died⚰️. The🏰 kingdom👑 was💯 now✅ firmly🧱 in📍 Solomon’s👑 hands🤲.
