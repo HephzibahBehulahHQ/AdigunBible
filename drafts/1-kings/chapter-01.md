@@ -4,11 +4,11 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 1 (53 verses), checked at https://bibleverses.au/read/1-kings/1. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–53 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (Ja), French (béni soit), Igbo (Chukwu), Hausa (sarki), Jamaican Patois (soon come), Hebrew (אָמֵן), plus Spanish (¡viva!) and Swahili (kwa furaha). Each verse word is paired with an emoji. Meaning review complete against the cited WEB chapter; verses 3, 8, 9, and 10 were recast conversationally, while verses 9, 49, and 50 were checked for source fidelity. Basic meaning of the required multilingual switches has been checked; verse 34 now uses Spanish Salomón, verse 48 French Béni soit, and verse 36 Hebrew אָמֵן. Full-switch naturalness, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–53 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (Ja), French (béni soit), Igbo (Chukwu), Hausa (sarki), Jamaican Patois (soon come), Hebrew (אָמֵן), plus Spanish (¡viva!) and Swahili (kwa furaha). Each verse word is paired with an emoji. Meaning review complete against the cited WEB chapter; verses 1, 3, 8, 9, and 10 were recast conversationally, while verses 9, 49, and 50 were checked for source fidelity. Basic meaning of the required multilingual switches has been checked; verse 34 now uses Spanish Salomón, verse 48 French Béni soit, and verse 36 Hebrew אָמֵן. Full-switch naturalness, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
-**1**🔢 King👑 David👴 was💯 seriously😮‍💨 old🕰️, way📈 along⌛ in🗓️ years📆; they👥 bundled🧥 him🫂 in🧶 clothes👕, but🚫 he🧍 couldn’t🌡️ get☀️ warm🔥.
+**1**🔢 King👑 David👴 was💯 seriously😮‍💨 old🕰️—way📈 up⬆️ there📍 in🗓️ years⌛—and➡️ they👥 wrapped🧥 him👑 in🧶 clothes👕, but↩️ he🧍 still🚫 couldn’t🥶 get🫂 warm🔥.
 
 **2**🔢 His🫅 attendants🧑‍🤝‍🧑 told🗣️ him🫂, “Let🙏’s🔔 find🔎 a👩 young🌱 woman👩, still✨ a🌿 virgin🌸, to🫶 serve🤲 my🙇 lord👑 the📜 king👑. Let🙏 her👩 care🫶 for👥 the🌟 king👑, lie🛏️ close🤝 in🫂 his🫅 embrace🫶, and💬 help🤲 my🙇 lord👑 stay🌡️ warm🔥.”
 
