@@ -74,7 +74,7 @@
 
 **33**🔢 He👑 told🗣️ them👥, “Take🚶‍♂️ my👑 royal👑 servants🧑‍🤝‍🧑 with🤝 you👥. Put🫴 my👦 son👑 Solomon👑 on🐴 my👑 own🐴 mule🐴, then➡️ escort🛡️ him👑 down⬇️ to📍 Gihon💧.”
 
-**34**🔢 “There📍, Zadok🙏 the📜 priest⛪ and➕ Nathan📣 the📜 prophet🕊️ must💯 anoint🫗 him👑 king👑 over👑 Israel🇮🇱. Blow📯 the📣 trumpet📯 and🗣️ announce📣, ‘¡Viva🎉 el👑 rey👑 Salomón👑!’—long⏳ live💚 King👑 Solomon👑!”
+**34**🔢 “There📍, Zadok🙏 the📜 priest⛪ and➕ Nathan📣 the📜 prophet🕊️ must💯 anoint🫗 him👑 king👑 over👑 Israel🇮🇱. Blow📯 the📣 trumpet📯 and🗣️ announce📣, ‘¡Viva🎉 el👑 rey👑 Salomón👑!’”
 
 **35**🔢 “Then➡️ follow🏃 him👑 back⬆️ up🏰 here👑. He👑 will💺 sit👑 on🪑 my👑 throne🪑 and➡️ reign👑 in📍 my👑 place➡️. I🙋 have💯 appointed📜 him👑 ruler👑 over👑 Israel🇮🇱 and➕ Judah🏞️.”
 
