@@ -4,15 +4,15 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 2 (46 verses), checked at https://biblehub.com/web/1_kings/2.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–46 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (stark), French (en vérité), Igbo (eze), Hausa (gaskiya), Jamaican Patois (mi/yah), Hebrew (Sheol), plus Spanish (sí) and Arabic (salām). Each verse word is paired with an emoji. Meaning review complete against the cited WEB chapter; verse 4 now preserves the promise’s conditional force. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–46 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (stark), French (en vérité), Igbo (eze), Hausa (gaskiya), Jamaican Patois (mi/yah), Hebrew (Sheol), plus Spanish (sí) and Arabic (salām). Each verse word is paired with an emoji. Meaning review complete against the cited WEB chapter; verse 4 now preserves the promise’s conditional force. Basic language accuracy and meaning review are recorded. Verses 1–3, 8, 10, and 12 received this voice-pass update; full-switch naturalness, final full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
-**1**🔢 David👑 knew🧠 his👑 final⏳ days📅 were➡️ close🔚, so💬 he👑 gave🤲 his👦 son👑 Solomon👑 these📜 instructions🗣️:
+**1**🔢 David👑 could👀 tell🧠 his👑 time⏳ was💯 nearly⏰ up⬆️, so💬 he👑 gave🤲 Solomon👑, his👦 son👦, one☝️ last⏳ set📜 of🤲 instructions🗣️:
 
-**2**🔢 “I🙋 am🚶 going🛤️ the🌍 way🛣️ everyone👥 on🌎 earth🌍 goes🚶. Be💪 strong🛡️—stark💪—and➕ stand🧍 tall💯 as👨 a✨ man👨.”
+**2**🔢 “I🙋 am💯 heading🛤️ down➡️ the🌍 road🛣️ everyone👥 on🌎 earth🌍 takes🚶. So💬 stay💪 strong🛡️—stark💪—and➕ stand🧍 tall💯 as👨 a✨ man👨.”
 
-**3**🔢 “Keep🧭 Olúwa’s🙏 charge📜: walk🚶 in📍 His🙏 ways🛤️, follow✅ His🙏 rules📖, commands🗣️, decisions⚖️, and💬 reminders📜, just💯 as📜 Moses👨‍🦳’ law📖 says💬. Then✨ you👑 can💪 succeed📈 in💼 what💯 you👑 do🛠️ and➡️ wherever🌍 you👑 go🚶.”
+**3**🔢 “Stay💪 locked🔒 in🧭 with🤝 Olúwa’s🙏 charge📜: walk🚶 His🙏 path🛤️ and➕ keep🤲 His🙏 laws📖, commands🗣️, decisions⚖️, and💬 reminders📜, just💯 like📜 Moses👨‍🦳’ law📖 lays📝 it💯 out➡️. Then✨ what💯 you👑 do🛠️ can💪 go📈 well✅, wherever🌍 you👑 head🚶.”
 
 **4**🔢 “Then🙏 Yahweh🙏 can💯 make🤲 His📜 promise🗣️ to🙏 me👑 stand🧱: ‘If✅ your👑 children👨‍👩‍👦 stay👣 on📍 My🙏 path🛤️ and💯 walk🚶 before🙏 Me🙋 in📍 truth💯—en💬 vérité💯—with❤️ all💯 their👥 heart❤️ and➕ soul🕊️, your👑 family🌳 will🚫 always⏳ have👑 someone👨 on🪑 Israel’s🇮🇱 throne👑.’”
 
@@ -22,15 +22,15 @@
 
 **7**🔢 “But↩️ give🤲 real💯 kindness💛 to🙏 Barzillai’s👴 sons👨, the📍 Gileadites🏞️. Let🍽️ them👥 eat🍞 at🪑 your👑 table🍽️, because💭 they🤝 stood🧍 with👑 me🙋 when⏳ I🏃 ran💨 from🚪 your👬 brother👑 Absalom⚔️.”
 
-**8**🔢 “And➕ Shimei👨 son👦 of🌳 Gera👨 is👀 there📍 with🤝 you👑—that👤 Benjaminite🛡️ from📍 Bahurim🏘️. He🗣️ cursed😡 me👑 viciously💥 when⏳ I🚶 was💨 heading🏃 to📍 Mahanaim🏘️. But↩️ he👨 came🚶 down⬇️ to📍 meet🤝 me👑 at🌊 the📍 Jordan🌊, and➕ I🙋 swore🙏 by🌟 Yahweh🙏 I🚫 wouldn’t🙅 kill⚔️ him👨 with🗡️ the📜 sword🗡️.”
+**8**🔢 “And➕ Shimei👨, Gera’s🌳 son👦 from📍 Bahurim🏘️, is👀 still⏳ around📍 you👑—that👤 Benjaminite🛡️. He💬 unloaded📢 a💥 brutal😡 curse🗣️ on📍 me👑 when⏳ I🏃 headed🧭 for📍 Mahanaim🏘️, but↩️ later⏭️ he👨 came🚶 down⬇️ to🤝 meet🤝 me👑 at📍 the🌊 Jordan🌊. I🙋 swore🙏 by🌟 Yahweh🙏 I🚫 wouldn’t🙅 cut⚔️ him👨 down⬇️ with🗡️ a✨ sword🗡️.”
 
 **9**🔢 “Now⚠️ don’t🚫 let🛑 him👨 off🛡️ as💯 innocent😇. You🧠 are💪 wise🧠; you👑 know🧭 what💬 to🛠️ do⚖️. Make💬 sure✅ his👴 gray🩶 head👨‍🦳 goes⚰️ down⬇️ to🌑 the📍 grave⚰️ with🩸 blood🩸 on📍 him👨.”
 
-**10**🔢 Then➡️ David👑 rested🕊️ with🤝 his👑 ancestors👴 and⚰️ was💤 buried⚰️ in📍 David’s🏙️ City🏙️.
+**10**🔢 Then➡️ David👑 took🕊️ his👑 final⏳ sleep💤 beside🤝 his👑 ancestors👴, and➕ they👥 buried⚰️ him👑 in📍 David’s🏙️ City🏙️.
 
 **11**🔢 David👑 ruled👑 Israel🇮🇱 for⏳ forty🔢 years📅 total💯: seven🔢 years📅 in📍 Hebron🏘️, then➡️ thirty-three🔢 years📅 in📍 Jerusalem🏙️.
 
-**12**🔢 Solomon👑, eze👑, took🪑 his👑 father’s👨 throne👑, and➕ his👑 kingdom🏰 became🧱 firmly💪 established✅.
+**12**🔢 Solomon👑, the👑 new✨ eze👑, took🪑 his👑 father’s👨 throne👑, and➕ the🏰 kingdom👑 was💯 firmly🧱 established✅.
 
 **13**🔢 Later⏳ Adonijah👑, Haggith’s👩 son👦, came🚶 to👑 Bathsheba👑, Solomon’s👑 mother👩. She👑 asked❓, “Are🕊️ you👤 coming🚶 in🕊️ peace🕊️?” He👨 answered💬, “In🕊️ peace🕊️—sí✅.”
 
