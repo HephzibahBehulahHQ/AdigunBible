@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 1 (53 verses), checked at https://bibleverses.au/read/1-kings/1. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–53 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (Ja), French (loué), Igbo (Chukwu), Hausa (sarki), Jamaican Patois (soon come), Hebrew (Adonai/Amen), plus Spanish (¡viva!) and Swahili (kwa furaha). Each verse word is paired with an emoji. Meaning, language accuracy, full-chapter voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–53 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (Ja), French (loué), Igbo (Chukwu), Hausa (sarki), Jamaican Patois (soon come), Hebrew (Adonai/Amen), plus Spanish (¡viva!) and Swahili (kwa furaha). Each verse word is paired with an emoji. Meaning review complete against the cited WEB chapter; verses 9, 49, and 50 were tightened to preserve the invited group and avoid adding a destination or motive. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -24,7 +24,7 @@
 
 **8**🔢 But↩️ Zadok🙏 the📜 priest⛪, Benaiah🛡️ son👦 of🛡️ Jehoiada👨, Nathan📣 the📜 prophet🕊️, Shimei👨, Rei👨, and➕ David’s👑 mighty💪 warriors⚔️ were🚫 not🙅‍♂️ with🤝 Adonijah👑.
 
-**9**🔢 Adonijah👑 sacrificed🐑 sheep🐑, cattle🐂, and➕ choice✨ animals🐄 at📍 Zoheleth’s🪨 stone🪨 near📍 En📍-Rogel💧. He👑 invited📨 all💯 his👬 brothers👨, the👑 king’s👑 sons👦, and➕ Judah’s🏞️ royal👑 officials🧑‍💼.
+**9**🔢 Adonijah👑 sacrificed🐑 sheep🐑, cattle🐂, and➕ choice✨ animals🐄 at📍 Zoheleth’s🪨 stone🪨 near📍 En📍-Rogel💧. He👑 invited📨 all💯 his👬 brothers👨, the👑 king’s👑 sons👦, and➕ all💯 Judah’s🏞️ people👥 serving🤲 the👑 king👑.
 
 **10**🔢 But🚫 he👑 left🚪 out❌ Nathan📣 the📜 prophet🕊️, Benaiah🛡️, the💪 mighty🛡️ warriors⚔️, and➕ his👬 brother👑 Solomon👑.
 
@@ -104,9 +104,9 @@
 
 **48**🔢 “The👑 king👑 also💬 said🗣️, ‘Loué🙏 soit🙏 Yahweh🙏, Chukwu🙏, Israel’s🇮🇱 God🙏, who🤲 has💯 placed🪑 someone👑 on🪑 my👑 throne👑 today📅 while👀 I🙋 am💯 still💚 here👀 to🙏 see👁️ it✅!’”
 
-**49**🔢 When⏱️ Adonijah’s👑 guests🎉 heard👂 that📰, fear😨 hit💥 them👥. They👥 got🏃 up⬆️ and➡️ each👤 one👤 scattered🏃‍♂️ back🏠 home🏠.
+**49**🔢 When⏱️ Adonijah’s👑 guests🎉 heard👂 that📰, fear😨 hit💥 them👥. They👥 got🏃 up⬆️ and➡️ each👤 one👤 went🚶 their👤 own☝️ way🛤️.
 
-**50**🔢 Adonijah👑 panicked😨 because💭 of👑 Solomon👑. He👨 got🏃 up⬆️, ran🏃 over➡️, and➕ grabbed🤲 the📯 horns📯 of👑 the📍 altar⛪ for🛡️ safety🙏.
+**50**🔢 Adonijah👑 panicked😨 because💭 of👑 Solomon👑. He👨 got🏃 up⬆️, ran🏃 over➡️, and➕ clung🫂 to📯 the📍 altar’s⛪ horns📯.
 
 **51**🔢 Someone👤 told🗣️ Solomon👑, “Adonijah👑 is😨 scared😰 of👑 King👑 Solomon👑. He👨 is🤲 clinging🫂 to📯 the📍 altar’s⛪ horns📯 and🙏 begging🗣️, ‘May🙏 King👑 Solomon👑 first⏱️ swear🙏 he🚫 won’t🙅 kill⚔️ his👨 servant🧑 with🗡️ the📜 sword🗡️.’”
 
