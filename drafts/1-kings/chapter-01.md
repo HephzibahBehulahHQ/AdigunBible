@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 1 (53 verses), checked at https://bibleverses.au/read/1-kings/1. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–53 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (Ja), French (béni soit), Igbo (Chukwu), Hausa (sarki), Jamaican Patois (soon come), Hebrew (Adonai/Amen), plus Spanish (¡viva!) and Swahili (kwa furaha). Each verse word is paired with an emoji. Meaning review complete against the cited WEB chapter; verses 9, 49, and 50 were tightened to preserve the invited group and avoid adding a destination or motive. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–53 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (Ja), French (béni soit), Igbo (Chukwu), Hausa (sarki), Jamaican Patois (soon come), Hebrew (אָמֵן), plus Spanish (¡viva!) and Swahili (kwa furaha). Each verse word is paired with an emoji. Meaning review complete against the cited WEB chapter; verses 9, 49, and 50 were tightened to preserve the invited group and avoid adding a destination or motive. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -78,7 +78,7 @@
 
 **35**🔢 “Then➡️ follow🏃 him👑 back⬆️ up🏰 here👑. He👑 will💺 sit👑 on🪑 my👑 throne🪑 and➡️ reign👑 in📍 my👑 place➡️. I🙋 have💯 appointed📜 him👑 ruler👑 over👑 Israel🇮🇱 and➕ Judah🏞️.”
 
-**36**🔢 Benaiah🛡️ son👦 of🛡️ Jehoiada👨 answered🗣️, “Amen🙏—Ja✅, my🙇 lord👑 the📜 king👑! May🙏 Yahweh🙏 your👑 God🙏 make✅ it👑 so💯.”
+**36**🔢 Benaiah🛡️ son👦 of🛡️ Jehoiada👨 answered🗣️, “אָמֵן🙏—Ja✅, my🙇 lord👑 the📜 king👑! May🙏 Yahweh🙏 your👑 God🙏 make✅ it👑 so💯.”
 
 **37**🔢 “As🤝 Yahweh🙏 stayed🤲 with👑 my🙇 lord👑 the📜 king👑, may🙏 He🙏 stay🤲 with👑 Solomon👑 too➕, and➡️ make📈 Solomon’s👑 throne🪑 greater🌟 than📏 the👑 throne🪑 of🏰 my🙇 lord👑 King👑 David👑.”
 
