@@ -31,21 +31,6 @@ A complete, original Gen Z Bible edition and modern Scripture reading platform. 
 
 ---
 
-# UNIVERSAL ADIGUNBIBLE VOICE RULE — ALL 66 BOOKS 📖🔥
-
-This voice rule applies to every book, chapter, heading, and verse in the single canonical AdigunBible edition. Do not apply it only to Genesis or to a sample chapter.
-
-- Take a reliable source verse as the meaning reference, apply these voice rules to its full wording, and produce original AdigunBible text. Reword every ordinary source phrase into vivid, conversational Gen Z storytelling; do not leave the verse as plain formal English or merely add one slang word.
-- CODE-SWITCHING IS COMPULSORY IN EVERY CHAPTER, NOT OPTIONAL. Weave short, accurate words and phrases from Yoruba, Deutsch (German), French, Igbo (also called Ibo), Hausa, Jamaican Patois, and Hebrew directly into AdigunBible sentences. Every chapter must include at least one natural code-switch from each core language, spread through the verse text. Add switches from at least two more languages per chapter, rotating through an expanding pool that includes Spanish, Arabic, Portuguese, Swahili, Hindi, Mandarin Chinese, Tagalog, Korean, Japanese, Italian, Dutch, and other languages requested by the owner. This is code-switching inside the one canonical AdigunBible edition—not a translation of a whole verse or passage, a parallel text, or another edition. Keep each switch accurate, readable, and faithful to Scripture's meaning.
-- Pair an appropriate emoji with every word in the verse narration. Emojis accompany the words; they never replace Scripture.
-- Keep verse numbers, facts, speakers, event order, commands, promises, and theological meaning intact.
-- Let dialogue sound contemporary while preserving each speaker's authority, compassion, urgency, personality, and intent.
-- Use repeated phrases, matching emojis, and meme-like energy when they fit the context; never let them distort the passage.
-- Never copy wording from the Gen Z Bible reference. All AdigunBible text must be original.
-- These rules govern the entire Bible, not one book or chapter.
-
----
-
 # 1. UNDERSTAND THE PRODUCT BEFORE WRITING CODE 🧠👀
 
 You are NOT building an ordinary Bible application. 😭🚫
@@ -220,48 +205,41 @@ Each vocabulary item should have:
 - Approved usage.
 - Review status.
 
-Do not use every expression everywhere IN THE MOOD OF CONVAESATION AND TONE 
-
-The system must choose expressions naturally.
-
-## NON-NEGOTIABLE WHOLE-BIBLE RELEASE GATE — ALL AGENTS
-
-Bible content may be drafted and validated on working branches. No Scripture verse, chapter, or book may be merged into the release branch or deployed until the complete 66-book edition passes every content rule: full Gen Z voice, emoji paired with every word, required multilingual code-switching in each chapter, accurate language use, preserved Scripture meaning and sequence, complete verse counts, and correct reader rendering.
-
-The agent must record whole-corpus validation evidence before release. If any book, chapter, verse, language switch, or check is incomplete or unverified, the agent MUST NOT merge or deploy Scripture content. This rule applies to every agent, with no exceptions for schedule, convenience, or partial progress.
-
-## UNIVERSAL WORD-CHOICE AND EMOJI BANK
-
-Apply this bank across every book, chapter, and verse. Rewrite ordinary/formal wording into the AdigunBible Gen Z voice throughout the whole verse; do not leave a verse sounding like plain English with one slang word added. Use these expressions where they fit the speaker and context:
-
-ADDRESSING PEOPLE: Fam; Bro; Bestie; My dude; Y'all; Friend.
-REACTIONS: Hold up!; Wait a minute!; For real?; No way!; That's wild!; Seriously?
-EMPHASIS: No cap.; Fr.; Literally.; For real.; Big time.; Absolutely.
-ENCOURAGEMENT: You got this.; Keep going.; Don't give up.; Stay strong.; God hasn't abandoned you.
-MODERN EXPRESSIONS: Lowkey.; Highkey.; That's the vibe.; Understood the assignment.; That's not it.; Let's be real.
-SHORTENED EXPRESSIONS: TBH.; FR.; BTW.; IMO.; IDK.
-EMOJIS: ❤️ 🙏 ✨ 🔥 🫶 🌍 😭 👀 💯 🕊️
-
-Pair expressive, context-fitting emojis with the words throughout the verse text. Use the bank as a voice palette: preserve biblical names, actions, claims, sequence, and theological meaning while rewording the narration. Vary usage to fit context and speaker. Apply this standard to all 66 books, every chapter, and every verse.
+Use expressions in a context-aware way. Do not mechanically repeat the same slang phrase; keep the voice vivid, natural, and recognizably Gen Z.
 
 ## 4.2 Language quality
 
-The language must sound human, vivid, energetic, and recognizably Gen Z in every book, chapter, and verse. Do not leave verses in plain formal English. Use conversational storytelling, slang, abbreviations, expressive punctuation, and punchy reactions. CODE-SWITCHING IS COMPULSORY IN EVERY CHAPTER, NOT OPTIONAL. Weave short, accurate words and phrases from Yoruba, Deutsch (German), French, Igbo (also called Ibo), Hausa, Jamaican Patois, and Hebrew directly into AdigunBible sentences. Every chapter must include at least one natural code-switch from each core language, spread through the verse text. Add switches from at least two more languages per chapter, rotating through an expanding pool that includes Spanish, Arabic, Portuguese, Swahili, Hindi, Mandarin Chinese, Tagalog, Korean, Japanese, Italian, Dutch, and other languages requested by the owner. This is code-switching inside the one canonical AdigunBible edition—not a translation of a whole verse or passage, a parallel text, or another edition. Keep each switch accurate, readable, and faithful to Scripture's meaning. Use playful social-media energy where the passage supports it.
+The language must sound human.
 
-EMOJI DENSITY: Pair an appropriate emoji with every word throughout the AdigunBible verse text. Place emojis beside words or short phrases they fit; emojis must accompany, never replace, the scriptural wording. Keep the text readable and preserve every verse's meaning, facts, speaker, sequence, and emotional weight. Use recurring emojis consistently for matching themes, with context-aware variation when the meaning changes.
+**AdigunBible’s owner-approved examples and the binding rules below override any conflicting wording elsewhere in this document.** AdigunBible is a Gen Z Bible edition, never plain-English Bible text with a few slang words added. Every verse must sound conversational, lively, and naturally Gen Z, with fitting slang, abbreviations, expressive punctuation, and emojis. Add at least one fitting emoji immediately after every word, including names and code-switched words. Keep words readable; do not insert emoji inside a word. Every chapter must naturally code-switch across multiple verses, including Yoruba, German (Deutsch), French, Igbo, Hausa, Jamaican Patois, Hebrew, and at least two additional languages. Mix short words or phrases into the same verse text; never create a parallel translation, language selector, or separate edition. Code-switching must preserve the source meaning and must not imply a changed fact or speaker. Use varied, context-appropriate choices; do not force a switch into every verse or insert a fixed phrase into unrelated scenes. Preserve the gravity of suffering, death, judgment, and the crucifixion while retaining the requested Gen Z voice.
 
-The user's supplied Genesis examples set the voice standard for every book and chapter, not Genesis alone. Every verse should feel expressive and slang-rich, not like a standard English Bible with a few slang words added. Keep dialogue faithful to the speaker, never invent dialogue, and never change theology for a joke. The screenshots and supplied samples define tone only: always write original AdigunBible wording.
+The system must understand context before choosing vocabulary.
+
+The target reading voice is vivid, energetic, conversational Gen Z storytelling, at least as slang-rich and emoji-expressive as the owner's Genesis 1 example. Let contemporary slang, playful reactions, abbreviations, expressive punctuation, and emojis carry through the verse narration instead of leaving most verses in plain English. Use natural variety and a strong Gen Z voice across the chapter. Keep every verse's meaning, facts, speaker, sequence, and emotional weight intact; never invent dialogue or alter theology for a joke. The screenshots and supplied sample define tone only: always write original AdigunBible wording.
+
+### Binding release gate — applies to every verse, chapter, and book
+
+The complete canon is one edition: AdigunBible. **Temporary existing-inventory rule, owner-approved 2026-11-16:** Do not add or save new Scripture books or chapters locally while the existing inventory is audited. For the first batch only, waive only the requirement that the repository contain all 66 books; audit and fix the Scripture already present, then merge only eligible complete books that pass every other check below. This exception does not waive expected chapter or verse completeness, faithful meaning, unmistakable Gen Z wording, emoji-after-every-word rendering, natural required code-switches in every chapter, rights-cleared provenance, technical checks, or human editorial review. The tracked inventory is Genesis 1–50, Exodus 1–40, and Leviticus 1–24; paused Leviticus 25 is excluded, and Leviticus cannot be included until chapters 25–27 are present and pass. Keep ineligible books on the working branch. After this one eligible batch is merged, restore the normal rule: no later Scripture merge or deployment until all 66 books pass every check. Do not open or merge partial batches book-by-book as editing progresses.
+
+Before a release, verify every verse for (1) complete expected numbering and no omissions, (2) faithful meaning, facts, speaker, sequence, and context against a rights-cleared source, (3) clearly Gen Z wording rather than plain English, (4) at least one fitting emoji immediately following every word, and (5) no misleading, invented, or disrespectful content. Verify that the required languages are naturally code-switched across multiple verses in every chapter, along with at least two additional languages. Check source provenance and rights for every book in the proposed release batch. Automated word/emoji and language-presence checks support human review; they do not replace it. Mark each chapter unapproved until both checks pass. Under the one-time existing-inventory exception, the first eligible complete books may be merged only after all their verses pass every check and human review; every later merge or deployment requires all 66 books to pass.
 
 ## 4.3 Addressing biblical characters
 
-Pay special attention to dialogue in every book and chapter.
+Pay special attention to dialogue.
 
-- When God speaks, preserve His authority, meaning, and tone while using clear, contemporary Gen Z speech.
-- When Jesus speaks, preserve His teachings, compassion, authority, and intent in a warm, familiar voice.
-- When prophets speak, keep their warnings urgent and unmistakable in contemporary language.
-- When disciples speak, preserve each speaker's personality and the conversation's context.
-- Use words such as “bro,” “fam,” or “bestie” only where they fit the speaker and moment; never insert them automatically into every dialogue.
-- Keep serious events serious in meaning and emotional weight, even when the wording uses a Gen Z voice.
+When God speaks, preserve His authority, meaning, and tone. Express the words in a clear, contemporary Gen Z voice without weakening their force or adding disrespectful slang.
+
+When Jesus speaks, preserve His teachings, compassion, authority, and intent in a warm, direct, relatable voice.
+
+When prophets speak, preserve the urgency and seriousness of their warnings and messages in vivid, understandable Gen Z language.
+
+When disciples speak, preserve their individual personalities and the context of each conversation, using natural Gen Z phrasing where it fits.
+
+Use addresses such as “bro,” “fam,” or “bestie” only when they fit the speaker, relationship, and moment. Never insert them mechanically.
+
+Use conversational Gen Z language to improve comprehension while retaining meaning and emotional weight.
+
+---
 
 # 5.WORD AND VERSE EXAMPLE  EXAMPLES AND QUALITY STANDARD 📚💯
 

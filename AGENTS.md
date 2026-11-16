@@ -1,41 +1,18 @@
-# AdigunBible Agent Rules
+# AdigunBible contributor rules
 
-These rules govern work across all 66 books, every chapter, and every verse.
+Read `adigun bibel global prompt.md` before editing Scripture or release guidance.
 
-## Canonical edition
-- AdigunBible is the product's one and only Bible edition.
-- Write original AdigunBible Scripture wording. The Gen Z Bible reference is a style reference; do not copy its verse wording.
-- Use the user's supplied chapter drafts as the source when present.
+## Binding editorial rules
 
-## Universal verse voice
-- Start from a reliable source verse for meaning, apply the universal voice rules to its full wording, and produce original AdigunBible text. Reword every ordinary source phrase in vivid, conversational Gen Z storytelling; do not leave plain formal English or merely add a slang word.
-- Apply the user's vocabulary bank throughout the full verse, not just as one slang word added to otherwise plain wording:
-  - Address: Fam, Bro, Bestie, My dude, Y'all, Friend.
-  - Reactions: Hold up!, Wait a minute!, For real?, No way!, That's wild!, Seriously?
-  - Emphasis: No cap., Fr., Literally., For real., Big time., Absolutely.
-  - Encouragement: You got this., Keep going., Don't give up., Stay strong., God hasn't abandoned you.
-  - Modern expressions: Lowkey., Highkey., That's the vibe., Understood the assignment., That's not it., Let's be real.
-  - Shortened forms: TBH., FR., BTW., IMO., IDK.
-- Code-switching is compulsory in every chapter. Weave short, accurate words and phrases from Yoruba, Deutsch (German), French, Igbo (Ibo), Hausa, Jamaican Patois, and Hebrew directly into AdigunBible sentences; include at least one natural switch from each core language in every chapter, spread across verses. Add switches from at least two more languages per chapter, rotating among Spanish, Arabic, Portuguese, Swahili, Hindi, Mandarin Chinese, Tagalog, Korean, Japanese, Italian, Dutch, and other owner-requested languages. This is code-switching within the one canonical AdigunBible edition, not whole-verse translation, parallel text, or another edition. Keep switches accurate and faithful to Scripture.
-- Pair a context-fitting emoji with every word in the verse. Use the provided palette: ❤️ 🙏 ✨ 🔥 🫶 🌍 😭 👀 💯 🕊️.
-- Use repeated expressions and recurring emojis when the context fits; vary them when it does not.
+- AdigunBible is the sole canonical Bible edition and must read as a vivid, conversational Gen Z Bible, never as plain English with a few slang insertions.
+- Preserve the source passage’s meaning, facts, speaker, sequence, and emotional weight. Write original wording; verify against rights-cleared sources.
+- Add at least one fitting emoji immediately after every word (including names and code-switched words). Keep words intact and readable.
+- Every chapter must include natural code-switches across multiple verses: Yoruba, Deutsch, French, Igbo, Hausa, Jamaican Patois, Hebrew, and at least two other languages. Mix short words or phrases into the canonical verse text; do not make parallel translations or another edition. Place switches where they fit instead of forcing one into every verse.
+- Code-switch terms must fit the local meaning. Verify unfamiliar terms and preserve correct spelling, diacritics, and script. Never insert language merely to satisfy a counter when it misleads the reader.
+- Keep slang and emojis context-aware. Do not trivialize suffering, death, judgment, or the crucifixion.
 
-## Example: word-level code-switching
+## Whole-canon release gate
 
-This is one AdigunBible verse with words from several languages woven into one sentence. It is not a translation into another language or a separate edition. This example demonstrates the style; distribute required languages across a chapter as the gate directs.
+**Temporary existing-inventory rule, owner-approved 2026-11-16:** Do not add or save new Scripture books or chapters locally while the existing inventory is being audited. For the first batch only, waive the requirement that the repository already contain all 66 books. Audit and fix the Scripture already present, then merge only eligible complete books that pass every other gate. This exception changes only the 66-book total; it does not waive chapter or verse completeness, meaning preservation, Gen Z voice, word-level emoji, multilingual code-switching, rights/provenance, technical checks, or human editorial review. The first tracked inventory is Genesis 1–50, Exodus 1–40, and Leviticus 1–24; paused Leviticus 25 is excluded. Leviticus is not eligible as a complete book until chapters 25–27 are present and pass review. Keep failed or incomplete books on the working branch. Once the first eligible batch is merged, resume the normal rule: no later Scripture merge or deployment until all 66 books pass every gate. A machine check is evidence, not a replacement for human review.
 
-**3**🔢 God🙏 spoke💬: “Light💡, pop✨ into🤏 existence🌍—ìmọ́lẹ̀🌅, Licht🔥, lumière💫, ìhè⚡, haske☀️, di💡 lite🌟, אוֹר🕊️, luz🌞, mwanga✨. Right🫡 now💯.” And💥 boom🔥, light💡 appeared✨—no🚫 cap🧢.
-
-## Meaning and dialogue
-- Preserve verse order and numbering, people, events, claims, commands, promises, context, and theological meaning.
-- Do not invent speech or change Scripture facts for a joke.
-- God’s words retain authority; Jesus’ words retain compassion, authority, and intent; prophets’ warnings remain urgent; disciples keep their distinct personalities.
-- Use “bro,” “fam,” “bestie,” and similar address only where it fits the speaker and scene.
-- Keep the meaning and emotional weight of serious events intact while using the Gen Z voice.
-
-## Build and publish
-- Phase 3 is Bible content first. Draft and validate all chapters on working branches.
-- Do not merge or deploy any Scripture content until every verse in all 66 books has passed the universal voice, word-level emoji, multilingual code-switch, meaning, completeness, and rendering checks.
-- Record whole-corpus validation evidence before any Scripture release.
-- Never mark an incomplete chapter or book complete.
-- Verify verse counts, reader navigation, source syntax, language accuracy, and reader rendering for the complete corpus before release.
+Do not call any chapter approved or published before it passes. Keep reader labels and progress indicators accurate.
