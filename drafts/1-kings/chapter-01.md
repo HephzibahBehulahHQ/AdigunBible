@@ -12,7 +12,7 @@
 
 **2**🔢 His🫅 attendants🧑‍🤝‍🧑 told🗣️ him🫂, “Let🙏’s🔔 find🔎 a👩 young🌱 woman👩, still✨ a🌿 virgin🌸, to🫶 serve🤲 my🙇 lord👑 the📜 king👑. Let🙏 her👩 care🫶 for👥 the🌟 king👑, lie🛏️ close🤝 in🫂 his🫅 embrace🫶, and💬 help🤲 my🙇 lord👑 stay🌡️ warm🔥.”
 
-**3**🔢 So🫶 they👥 searched🔎 throughout🌍 Israel🇮🇱 for🔍 a✨ beautiful🌼 young🌱 woman👩, found📍 Abishag👩 the🌿 Shunammite🏘️, and➡️ brought🚶 her👩 to👑 the🏰 king👑.
+**3**🔢 So🫶 the👥 search🔎 crew🧑‍🤝‍🧑 scoured🔍 Israel🇮🇱 for🔎 a✨ beautiful🌼 young🌱 woman👩. They👥 found📍 Abishag👩 the🌿 Shunammite🏘️ and➡️ brought🚶 her👩 straight➡️ to👑 the🏰 king👑.
 
 **4**🔢 She🌼 was💯 truly✨ beautiful🌸; she👩 cared🫶 for👑 the📜 king👑 and🛎️ served🤲 him🫅, but🚫 the👑 king👀 did🚫 not🙅‍♀️ sleep🛏️ with💞 her👩.
 
@@ -22,11 +22,11 @@
 
 **7**🔢 He🤝 teamed👥 up🤝 with🛡️ Joab⚔️, Zeruiah’s👩 son👦, and➕ Abiathar🙏 the📜 priest⛪; they👥 backed🫡 Adonijah👑 and➡️ helped🤲 him👑.
 
-**8**🔢 But↩️ Zadok🙏 the📜 priest⛪, Benaiah🛡️ son👦 of🛡️ Jehoiada👨, Nathan📣 the📜 prophet🕊️, Shimei👨, Rei👨, and➕ David’s👑 mighty💪 warriors⚔️ were🚫 not🙅‍♂️ with🤝 Adonijah👑.
+**8**🔢 But🚫 these👥 key🔑 people👥—Zadok🙏 the📜 priest⛪, Benaiah🛡️ son👦 of🛡️ Jehoiada👨, Nathan📣 the📜 prophet🕊️, Shimei👨, Rei👨, and➕ David’s👑 mighty💪 warriors⚔️—weren’t🚫 riding🏇 with🤝 Adonijah👑.
 
-**9**🔢 Adonijah👑 sacrificed🐑 sheep🐑, cattle🐂, and➕ choice✨ animals🐄 at📍 Zoheleth’s🪨 stone🪨 near📍 En📍-Rogel💧. He👑 invited📨 all💯 his👬 brothers👨, the👑 king’s👑 sons👦, and➕ all💯 Judah’s🏞️ people👥 serving🤲 the👑 king👑.
+**9**🔢 Adonijah👑 staged🎬 a💯 sacrifice🙏 at📍 Zoheleth’s🪨 Stone🪨 beside📍 En📍-Rogel💧. He🩸 slaughtered🔪 sheep🐑, cattle🐂, and➕ prime✨ animals🐄, then➡️ called📣 all💯 his👬 brothers👨, the👑 king’s👑 sons👦, and➕ the💯 people👥 of📍 Judah🏞️ serving🤲 the👑 king👑.
 
-**10**🔢 But🚫 he👑 left🚪 out❌ Nathan📣 the📜 prophet🕊️, Benaiah🛡️, the💪 mighty🛡️ warriors⚔️, and➕ his👬 brother👑 Solomon👑.
+**10**🔢 But🚫 Nathan📣 the📜 prophet🕊️, Benaiah🛡️, David’s👑 mighty💪 warriors⚔️, and➕ Solomon👑—his👑 own☝️ brother👬—got🚫 left📍 off🚫 the📋 invite📨 list📜.
 
 **11**🔢 Nathan📣 went🏃 to👩 Bathsheba👑, Solomon’s👑 mother👩, and🗣️ said💬, “Haven’t❓ you👀 heard👂? Adonijah👑, Haggith’s👩 son👦, is👑 acting🎭 like💯 king👑, and➡️ our🤝 lord👑 David👑 doesn’t🙈 even✨ know🧠!”
 
