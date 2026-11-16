@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 1 (53 verses), checked at https://bibleverses.au/read/1-kings/1. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–53 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (Ja), French (béni soit), Igbo (Chukwu), Hausa (sarki), Jamaican Patois (soon come), Hebrew (אָמֵן), plus Spanish (¡viva!) and Swahili (kwa furaha). Each verse word is paired with an emoji. Meaning review complete against the cited WEB chapter; verses 1, 3, 8, 9, and 10 were recast conversationally, while verses 9, 49, and 50 were checked for source fidelity. Basic meaning of the required multilingual switches has been checked; verse 34 now uses Spanish Salomón, verse 48 French Béni soit, and verse 36 Hebrew אָמֵן. Full-switch naturalness, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–53 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (Ja), French (béni soit), Igbo (Chukwu), Hausa (sarki), Jamaican Patois (soon come), Hebrew (אָמֵן), plus Spanish (¡viva!) and Swahili (kwa furaha). Each verse word is paired with an emoji. Meaning review complete against the cited WEB chapter; verses 1, 3, 8, 9, and 10 were recast conversationally, while verses 9, 49, and 50 were checked for source fidelity. Basic meaning of the required multilingual switches has been checked; verse 34 now uses Spanish Salomón, verse 48 French Béni soit, and verse 36 Hebrew אָמֵן. Full-switch naturalness and rendering still need review before this chapter can be marked complete; the first full-chapter Gen Z voice pass is recorded, with final voice verification still pending.
 
 ## Verses
 
@@ -90,7 +90,7 @@
 
 **41**🔢 Adonijah👑 and➕ all💯 his👥 guests🎉 heard👂 the🔊 commotion📣 just⏱️ as🍽️ they👥 finished✅ eating🍖. When⏳ Joab⚔️ heard👂 the📯 trumpet📯, he👨 asked❓, “Why🤔 is🌆 the🏙️ city🌆 making📣 such💥 a📢 racket🔊?”
 
-**42**🔢 While⏳ he👨 was💬 still⏸️ talking🗣️, Jonathan👨, Abiathar’s🙏 priest⛪ son👦, arrived🚪. Adonijah👑 said🗣️, “Come🚪 in➡️! You🤝 are💯 a✨ solid💯 man👨; you🫵 must💯 have📰 good✨ news📣.”
+**42**🔢 While⏳ he👨 was💬 still⏸️ talking🗣️, Jonathan👨—the👨 son👦 of📍 Abiathar🙏 the📜 priest⛪—showed🚪 up⬆️. Adonijah👑 said🗣️, “Come🚪 in➡️! You🤝 are💯 a✨ solid💯 man👨; you🫵 must💯 have📰 good✨ news📣.”
 
 **43**🔢 Jonathan👨 replied🗣️, “For💯 real💯, our🤝 lord👑 King👑 David👑 has💯 made👑 Solomon👑 king👑.”
 
@@ -106,7 +106,7 @@
 
 **49**🔢 When⏱️ Adonijah’s👑 guests🎉 heard👂 that📰, fear😨 hit💥 them👥. They👥 got🏃 up⬆️ and➡️ each👤 one👤 went🚶 their👤 own☝️ way🛤️.
 
-**50**🔢 Adonijah👑 panicked😨 because💭 of👑 Solomon👑. He👨 got🏃 up⬆️, ran🏃 over➡️, and➕ clung🫂 to📯 the📍 altar’s⛪ horns📯.
+**50**🔢 Adonijah👑 panicked😨 because💭 of👑 Solomon👑. He👨 got💪 up⬆️, went🚶 over➡️, and➕ clung🫂 to📯 the📍 altar’s⛪ horns📯.
 
 **51**🔢 Someone👤 told🗣️ Solomon👑, “Adonijah👑 is😨 scared😰 of👑 King👑 Solomon👑. He👨 is🤲 clinging🫂 to📯 the📍 altar’s⛪ horns📯 and🙏 begging🗣️, ‘May🙏 King👑 Solomon👑 first⏱️ swear🙏 he🚫 won’t🙅 kill⚔️ his👨 servant🧑 with🗡️ the📜 sword🗡️.’”
 
