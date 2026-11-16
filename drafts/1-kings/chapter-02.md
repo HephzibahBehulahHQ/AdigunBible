@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 2 (46 verses), checked at https://biblehub.com/web/1_kings/2.htm. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–46 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (stark), French (en vérité), Igbo (eze), Hausa (gaskiya), Jamaican Patois (mi/yah), Hebrew (Sheol), plus Spanish (sí) and Arabic (salām). Each verse word is paired with an emoji. Meaning review complete against the cited WEB chapter; verse 4 now preserves the promise’s conditional force. Basic language accuracy and meaning review are recorded. Verses 1–3, 8, 10, and 12 received this voice-pass update; full-switch naturalness, final full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–46 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (stark), French (en vérité), Igbo (eze), Hausa (gaskiya), Jamaican Patois (mi/yah), Hebrew (Sheol), plus Spanish (sí) and Arabic (salām). Each verse word is paired with an emoji. Meaning review complete against the cited WEB chapter; verse 4 now preserves the promise’s conditional force. Meaning review remains recorded against the cited WEB chapter. Verses 1–3, 8, 10, and 12 received this voice-pass update; full-switch naturalness, final full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
