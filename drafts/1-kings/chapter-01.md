@@ -4,7 +4,7 @@
 
 **Source for meaning and verse count:** World English Bible, 1 Kings 1 (53 verses), checked at https://bibleverses.au/read/1-kings/1. Original AdigunBible wording below; source wording is not reproduced.
 
-**Chapter checks:** Verse numbering 1–53 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (Ja), French (loué), Igbo (Chukwu), Hausa (sarki), Jamaican Patois (soon come), Hebrew (Adonai/Amen), plus Spanish (¡viva!) and Swahili (kwa furaha). Each verse word is paired with an emoji. Meaning review complete against the cited WEB chapter; verses 9, 49, and 50 were tightened to preserve the invited group and avoid adding a destination or motive. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
+**Chapter checks:** Verse numbering 1–53 is included. Required code switches are distributed through the chapter: Yoruba (Olúwa), German (Ja), French (béni soit), Igbo (Chukwu), Hausa (sarki), Jamaican Patois (soon come), Hebrew (Adonai/Amen), plus Spanish (¡viva!) and Swahili (kwa furaha). Each verse word is paired with an emoji. Meaning review complete against the cited WEB chapter; verses 9, 49, and 50 were tightened to preserve the invited group and avoid adding a destination or motive. Language accuracy, full-chapter Gen Z voice, and rendering still need review before this chapter can be marked complete.
 
 ## Verses
 
@@ -102,7 +102,7 @@
 
 **47**🔢 “The👑 king’s👑 servants🧑‍🤝‍🧑 came🚶 to🙏 bless🙏 our🤝 lord👑 King👑 David👑, saying🗣️, ‘May🙏 your👑 God🙏 make📈 Solomon’s👑 name📛 greater🌟 than📏 yours👑, and➕ his👑 throne🪑 greater🌟 than📏 yours👑!’ Then➡️ the👑 king👑 bowed🙇‍♂️ on🛏️ his👑 bed🛏️.”
 
-**48**🔢 “The👑 king👑 also💬 said🗣️, ‘Loué🙏 soit🙏 Yahweh🙏, Chukwu🙏, Israel’s🇮🇱 God🙏, who🤲 has💯 placed🪑 someone👑 on🪑 my👑 throne👑 today📅 while👀 I🙋 am💯 still💚 here👀 to🙏 see👁️ it✅!’”
+**48**🔢 “The👑 king👑 also💬 said🗣️, ‘Béni🙏 soit🙏 Yahweh🙏, Chukwu🙏, Israel’s🇮🇱 God🙏, who🤲 has💯 placed🪑 someone👑 on🪑 my👑 throne👑 today📅 while👀 I🙋 am💯 still💚 here👀 to🙏 see👁️ it✅!’”
 
 **49**🔢 When⏱️ Adonijah’s👑 guests🎉 heard👂 that📰, fear😨 hit💥 them👥. They👥 got🏃 up⬆️ and➡️ each👤 one👤 went🚶 their👤 own☝️ way🛤️.
 
