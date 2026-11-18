@@ -34,13 +34,9 @@ This is one AdigunBible verse with words from several languages woven into one s
 - Keep the meaning and emotional weight of serious events intact while using the Gen Z voice.
 
 ## Build and publish
-- Phase 3 is Bible content first. Draft and validate all chapters on working branches.
-- Do not call this project finish untill  all 66 books has passed the universal voice, word-level emoji, multilingual code-switch, meaning, completeness, and rendering checks.
-- merge chapter by chapter and book by book . do not wait untill you have all the 66 books before you merge.
-- do not skip book , chapter or verse. do not jump to another verse. chapter or book untill you are done with one
-- start from genesis and continue like that untill revelation.
-- once you are done with Genesis chpater 1  , deploy and merge , then move to Genesis chapter 2 , merge and deploy , then to the next chapter , untill revelation
-- deploy and merge chapter by chapter , book by book 
-- Record whole-corpus validation evidence before any Scripture release.
-- Never mark an incomplete chapter or book complete.
-- Verify verse counts, reader navigation, source syntax, language accuracy, and reader rendering for the complete corpus before release.
+
+- Phase 3 is Bible content first. Work locally on a branch and validate one complete chapter at a time in canonical order from Genesis through Revelation.
+- Before merging a chapter, record evidence for original Gen Z voice, every word paired with an emoji from the palette, required and accurate code-switches, faithful meaning, complete and ordered verses, source syntax, reader navigation, and rendering.
+- Push the chapter branch, merge through a pull request to main, and verify the GitHub Actions Pages deployment before beginning the next chapter.
+- Never mark an incomplete chapter or book complete. Close out each book after its final chapter has passed and deployed.
+- Record whole-corpus validation before marking the 66-book edition complete. Verify verse counts, reader navigation, source syntax, language accuracy, and reader rendering across the complete corpus.
