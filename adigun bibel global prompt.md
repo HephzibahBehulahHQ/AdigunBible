@@ -228,6 +228,8 @@ The system must choose expressions naturally.
 
 Work locally on a chapter branch in canonical order. Before pushing the chapter for review, record validation for original Gen Z voice, a palette emoji paired with every word, the required accurate code-switches, faithful Scripture meaning, complete and ordered verses, source syntax, reader navigation, and rendering.
 
+Read each verse without emojis to verify that the full phrasing, rhythm, slang, and emotion carry the AdigunBible voice. Every verse must include Nigerian Pidgin English, Yoruba, German (Deutsch), and Hebrew. Use these four frequently, retain the wider language mix across the chapter, and give every switched word or phrase a contextual hover meaning. Verify every gloss in the reader. Any incomplete or unverified check blocks the merge.
+
 Push the branch and merge through a pull request to main after the chapter passes. Verify that the GitHub Actions Pages deployment succeeds before starting the next chapter. Record whole-corpus validation before declaring the 66-book edition complete.
 
 ## UNIVERSAL WORD-CHOICE AND EMOJI BANK
