@@ -35,7 +35,12 @@ This is one AdigunBible verse with words from several languages woven into one s
 
 ## Build and publish
 - Phase 3 is Bible content first. Draft and validate all chapters on working branches.
-- Do not merge or deploy any Scripture content until every verse in all 66 books has passed the universal voice, word-level emoji, multilingual code-switch, meaning, completeness, and rendering checks.
+- Do not call this project finish untill  all 66 books has passed the universal voice, word-level emoji, multilingual code-switch, meaning, completeness, and rendering checks.
+- merge chapter by chapter and book by book . do not wait untill you have all the 66 books before you merge.
+- do not skip book , chapter or verse. do not jump to another verse. chapter or book untill you are done with one
+- start from genesis and continue like that untill revelation.
+- once you are done with Genesis chpater 1  , deploy and merge , then move to Genesis chapter 2 , merge and deploy , then to the next chapter , untill revelation
+- deploy and merge chapter by chapter , book by book 
 - Record whole-corpus validation evidence before any Scripture release.
 - Never mark an incomplete chapter or book complete.
 - Verify verse counts, reader navigation, source syntax, language accuracy, and reader rendering for the complete corpus before release.
