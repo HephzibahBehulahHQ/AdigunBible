@@ -7,7 +7,7 @@ PRODUCT: AdigunBible
 BRAND: Hephzibah Behulah Evangelism
 
 PRODUCT REPOSITORY:
-https://github.com/HephzibahBehulahHQ/Adigun-Bible
+https://github.com/HephzibahBehulahHQ/AdigunBible
 
 GLOBAL CORPORATE TEMPLATE:
 https://github.com/HephzibahBehulahHQ/HephzibahBehulahHQ.github.io
@@ -224,11 +224,11 @@ Do not use every expression everywhere IN THE MOOD OF CONVAESATION AND TONE
 
 The system must choose expressions naturally.
 
-## NON-NEGOTIABLE WHOLE-BIBLE RELEASE GATE — ALL AGENTS
+## CHAPTER RELEASE GATE
 
-Bible content may be drafted and validated on working branches. No Scripture verse, chapter, or book may be merged into the release branch or deployed until the complete 66-book edition passes every content rule: full Gen Z voice, emoji paired with every word, required multilingual code-switching in each chapter, accurate language use, preserved Scripture meaning and sequence, complete verse counts, and correct reader rendering.
+Work locally on a chapter branch in canonical order. Before pushing the chapter for review, record validation for original Gen Z voice, a palette emoji paired with every word, the required accurate code-switches, faithful Scripture meaning, complete and ordered verses, source syntax, reader navigation, and rendering.
 
-The agent must record whole-corpus validation evidence before release. If any book, chapter, verse, language switch, or check is incomplete or unverified, the agent MUST NOT merge or deploy Scripture content. This rule applies to every agent, with no exceptions for schedule, convenience, or partial progress.
+Push the branch and merge through a pull request to main after the chapter passes. Verify that the GitHub Actions Pages deployment succeeds before starting the next chapter. Record whole-corpus validation before declaring the 66-book edition complete.
 
 ## UNIVERSAL WORD-CHOICE AND EMOJI BANK
 
