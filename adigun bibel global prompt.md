@@ -656,45 +656,15 @@ Test the generation pipeline with interrupted batches and retries.
 
 ---
 
-# 23. IMPLEMENTATION PRIORITY 🗺️🚀
+# 23. IMPLEMENTATION PRIORITY
 
-PHASE 1:
-Repository inspection and architecture discovery.
+## Current phase — Build the Bible
 
-PHASE 2:
-Brand integration and product foundation.
+Use the Bible source files already saved in the local project folder and the owner's supplied drafts where available. Work through all 66 books in canonical order, starting with Genesis. Write, validate, merge, and verify the Pages deployment of each chapter under the chapter release gate before starting the next. Use the existing reader for chapter validation and make only the reader and deployment changes needed to publish and verify Scripture. Finish this phase after recording whole-corpus validation.
 
-PHASE 3:
-Bible source ingestion and canonical data structure.
+## Next phase — Build the rest of the product
 
-PHASE 4:
-AdigunBible language guide and vocabulary engine.
-
-PHASE 5:
-Verse-by-verse ADIGUN BIBLE GENERATION 
-FROM OLD TESTAMNET TO THE NEW TESTASMNET 
-
-PHASE 7:
-Complete Bible reading interface.
-
-
-PHASE 9:
-Mood discovery and daily Vibe Check.
-
-PHASE 10:
-Devotionals and Bible stories.
-
-PHASE 11:
-Adigun AI.
-
-PHASE 12:
-User accounts and personal Bible features.
-
-PHASE 13:
-Administrative editorial workspace.
-
-PHASE 14:
-Complete testing and deployment.
+After the Bible phase passes, build the rest of the AdigunBible app and website. This includes the full reading experience, design and brand integration, search, personal features, mood discovery, devotionals, stories, Adigun AI, and editorial tools. The feature requirements elsewhere in this prompt describe this next phase.
 
 ---
 
