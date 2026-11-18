@@ -38,6 +38,9 @@ This is one AdigunBible verse with words from several languages woven into one s
 - Phase 3 is Bible content first. Work locally on a branch and validate one complete chapter at a time in canonical order from Genesis through Revelation.
 - Before merging a chapter, record evidence for original Gen Z voice, every word paired with an emoji from the palette, required and accurate code-switches, faithful meaning, complete and ordered verses, source syntax, reader navigation, and rendering.
 - Read every verse without its emojis as part of voice review. Rewrite any line that still sounds like plain or formal English. Check the phrasing, rhythm, and mood across the whole verse while preserving the speaker, meaning, and emotional weight.
+- Never merge any verse, chapter, or book until its full Gen Z voice, slang, mood, emotional weight, word-level emoji coverage, multilingual code-switching, Scripture meaning, completeness, and reader rendering all pass. An incomplete or unverified check blocks the merge.
+- Code-switch as many words as naturally fit each verse while keeping the meaning clear. Favor Nigerian Pidgin, Yoruba, German, and Hebrew, and retain every required core and rotating language. Pair every word, including switched words, with a context-fitting palette emoji.
+- Every switched word or phrase must show its contextual meaning on mouse hover in the reader. Verify the glosses and their rendering before merging.
 - Push the chapter branch, merge through a pull request to main, and verify the GitHub Actions Pages deployment before beginning the next chapter.
 - Never mark an incomplete chapter or book complete. Close out each book after its final chapter has passed and deployed.
 - Record whole-corpus validation before marking the 66-book edition complete. Verify verse counts, reader navigation, source syntax, language accuracy, and reader rendering across the complete corpus.
