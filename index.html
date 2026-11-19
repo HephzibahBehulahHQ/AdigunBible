@@ -48,6 +48,7 @@
 <script src="Matthew/chapter-2.js"></script>
 <script src="Matthew/chapter-3.js"></script>
 <script src="Matthew/chapter-4.js"></script>
+<script src="Matthew/chapter-5.js"></script>
 <script src="Matthew/render-verse.js"></script>
 <script>
 const genesisOne=[
@@ -2334,7 +2335,7 @@ const verseGlosses={
   }
 };
 let book="Genesis",chapter=1,showSaved=false,font=18;
-const matthewChapters={1:matthewChapterOne,2:matthewChapterTwo,3:matthewChapterThree,4:matthewChapterFour};
+const matthewChapters={1:matthewChapterOne,2:matthewChapterTwo,3:matthewChapterThree,4:matthewChapterFour,5:matthewChapterFive};
 const readerBooks={Genesis:{code:"GEN",count:50,chapters:chapterMeta},Matthew:{code:"MAT",count:28,chapters:Object.fromEntries(Object.entries(matthewChapters).map(([number,data])=>[number,{title:data.title,verses:data.verses.map(v=>v.text)}]))}};
 const verseKey=(n)=>readerBooks[book].code+"."+chapter+"."+n;
 const list=document.getElementById("verse-list"),grid=document.getElementById("chapter-grid"),toast=document.getElementById("toast");
