@@ -70,6 +70,7 @@
 <script src="Matthew/chapter-24.js"></script>
 <script src="Matthew/chapter-25.js"></script>
 <script src="Matthew/chapter-26.js"></script>
+<script src="Matthew/chapter-27.js"></script>
 <script src="Matthew/render-verse.js"></script>
 <script>
 const genesisOne=[
@@ -2356,7 +2357,7 @@ const verseGlosses={
   }
 };
 let book="Genesis",chapter=1,showSaved=false,font=18;
-const matthewChapters={1:matthewChapterOne,2:matthewChapterTwo,3:matthewChapterThree,4:matthewChapterFour,5:matthewChapterFive,6:matthewChapterSix,7:matthewChapterSeven,8:matthewChapterEight,9:matthewChapterNine,10:matthewChapterTen,11:matthewChapterEleven,12:matthewChapterTwelve,13:matthewChapterThirteen,14:matthewChapterFourteen,15:matthewChapterFifteen,16:matthewChapterSixteen,17:matthewChapterSeventeen,18:matthewChapterEighteen,19:matthewChapterNineteen,20:matthewChapterTwenty,21:matthewChapterTwentyOne,22:matthewChapterTwentyTwo,23:matthewChapterTwentyThree,24:matthewChapterTwentyFour,25:matthewChapterTwentyFive,26:matthewChapterTwentySix};
+const matthewChapters={1:matthewChapterOne,2:matthewChapterTwo,3:matthewChapterThree,4:matthewChapterFour,5:matthewChapterFive,6:matthewChapterSix,7:matthewChapterSeven,8:matthewChapterEight,9:matthewChapterNine,10:matthewChapterTen,11:matthewChapterEleven,12:matthewChapterTwelve,13:matthewChapterThirteen,14:matthewChapterFourteen,15:matthewChapterFifteen,16:matthewChapterSixteen,17:matthewChapterSeventeen,18:matthewChapterEighteen,19:matthewChapterNineteen,20:matthewChapterTwenty,21:matthewChapterTwentyOne,22:matthewChapterTwentyTwo,23:matthewChapterTwentyThree,24:matthewChapterTwentyFour,25:matthewChapterTwentyFive,26:matthewChapterTwentySix,27:matthewChapterTwentySeven};
 const readerBooks={Genesis:{code:"GEN",count:50,chapters:chapterMeta},Matthew:{code:"MAT",count:28,chapters:Object.fromEntries(Object.entries(matthewChapters).map(([number,data])=>[number,{title:data.title,verses:data.verses.map(v=>v.text)}]))}};
 const verseKey=(n)=>readerBooks[book].code+"."+chapter+"."+n;
 const list=document.getElementById("verse-list"),grid=document.getElementById("chapter-grid"),toast=document.getElementById("toast");
