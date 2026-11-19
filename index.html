@@ -93,6 +93,7 @@
 <script src="Luke/chapter-3.js"></script>
 <script src="Luke/chapter-4.js"></script>
 <script src="Luke/chapter-5.js"></script>
+<script src="Luke/chapter-6.js"></script>
 <script src="Matthew/render-verse.js"></script>
 <script>
 const genesisOne=[
@@ -2381,7 +2382,7 @@ const verseGlosses={
 let book="Genesis",chapter=1,showSaved=false,font=18;
 const matthewChapters={1:matthewChapterOne,2:matthewChapterTwo,3:matthewChapterThree,4:matthewChapterFour,5:matthewChapterFive,6:matthewChapterSix,7:matthewChapterSeven,8:matthewChapterEight,9:matthewChapterNine,10:matthewChapterTen,11:matthewChapterEleven,12:matthewChapterTwelve,13:matthewChapterThirteen,14:matthewChapterFourteen,15:matthewChapterFifteen,16:matthewChapterSixteen,17:matthewChapterSeventeen,18:matthewChapterEighteen,19:matthewChapterNineteen,20:matthewChapterTwenty,21:matthewChapterTwentyOne,22:matthewChapterTwentyTwo,23:matthewChapterTwentyThree,24:matthewChapterTwentyFour,25:matthewChapterTwentyFive,26:matthewChapterTwentySix,27:matthewChapterTwentySeven,28:matthewChapterTwentyEight};
 const markChapters={1:markChapterOne,2:markChapterTwo,3:markChapterThree,4:markChapterFour,5:markChapterFive,6:markChapterSix,7:markChapterSeven,8:markChapterEight,9:markChapterNine,10:markChapterTen,11:markChapterEleven,12:markChapterTwelve,13:markChapterThirteen,14:markChapterFourteen,15:markChapterFifteen,16:markChapterSixteen};
-const lukeChapters={1:lukeChapterOne,2:lukeChapterTwo,3:lukeChapterThree,4:lukeChapterFour,5:lukeChapterFive};
+const lukeChapters={1:lukeChapterOne,2:lukeChapterTwo,3:lukeChapterThree,4:lukeChapterFour,5:lukeChapterFive,6:lukeChapterSix};
 const annotatedChapters={Matthew:matthewChapters,Mark:markChapters,Luke:lukeChapters};
 const readerBooks={Genesis:{code:"GEN",count:50,chapters:chapterMeta},Matthew:{code:"MAT",count:28,chapters:Object.fromEntries(Object.entries(matthewChapters).map(([number,data])=>[number,{title:data.title,verses:data.verses.map(v=>v.text)}]))},Mark:{code:"MRK",count:16,chapters:Object.fromEntries(Object.entries(markChapters).map(([number,data])=>[number,{title:data.title,verses:data.verses.map(v=>v.text)}]))},Luke:{code:"LUK",count:24,chapters:Object.fromEntries(Object.entries(lukeChapters).map(([number,data])=>[number,{title:data.title,verses:data.verses.map(v=>v.text)}]))}};
 const verseKey=(n)=>readerBooks[book].code+"."+chapter+"."+n;
