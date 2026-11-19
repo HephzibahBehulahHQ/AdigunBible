@@ -24,15 +24,15 @@
 </section>
 <main class="layout">
 <aside class="sidebar" aria-label="Book and chapter navigation">
-<div class="sidecard"><div class="sidehead"><h2>Old Testament</h2><span>Book 01 / 39</span></div>
-<div class="bookpill"><div class="bookicon">✦</div><div><strong>Genesis</strong><small>The beginning of the story</small></div></div>
+<div class="sidecard"><div class="sidehead"><h2>Old Testament</h2><span id="book-position">Book 01 / 39</span></div>
+<label for="book-select">Book</label> <select id="book-select"><option value="GEN">Genesis</option><option value="EXO">Exodus</option></select><div class="bookpill"><div class="bookicon">✦</div><div><strong id="book-name">Genesis</strong></div></div>
 <p class="mobilechap">Choose a chapter</p><div class="chaptergrid" id="chapter-grid" aria-label="Genesis chapters"></div>
-<div class="sidefoot"><b>Genesis · 50 chapters</b><br>Chapter 1 is published with all 31 verses. The remaining chapters are being written and reviewed.</div>
+<div class="sidefoot"><b id="book-summary">Genesis · 50 chapters</b></div>
 </div>
 </aside>
 <section class="reader-wrap" id="reader" aria-label="Bible reader">
 <article class="reader-card">
-<div class="reader-head"><div class="crumb">ADIGUNBIBLE <span> / </span> OLD TESTAMENT <span> / </span> <b>GENESIS</b></div>
+<div class="reader-head"><div class="crumb">ADIGUNBIBLE <span> / </span> OLD TESTAMENT <span> / </span> <b id="book-crumb">Genesis</b></div>
 <div class="chaptertitle"><div><h2 id="chapter-heading">Genesis 1</h2><p id="chapter-subtitle">In the beginning · The creation story</p></div><div class="progress"><i class="dot"></i><span id="chapter-progress">31 / 31 verses · Reviewed</span></div></div>
 </div>
 <div class="toolbar"><label class="search"><input id="search" type="search" placeholder="Find a word in this chapter…" aria-label="Search this chapter"></label><button class="toolbtn" id="bookmarks">♡ Saved</button><button class="toolbtn" id="font-size">A− &nbsp; Text</button></div>
@@ -1713,6 +1713,2024 @@ const genesisFifty=[
 "Joseph✨ come✨ make✨ dem✨ swear✨, vayyashba✨ Yosef✨, ließ✨ sie✨ schwören✨, ó✨ mú✨ wọn✨ búra✨, os✨ benei✨ Yisrael✨, die✨ Söhne✨ Israels✨, àwọn✨ ọmọ✨ Ísírẹ́lì✨. “God🙏 go✨ surely✨ come✨ for✨ una✨, paqod✨ yifqod✨ Elohim✨ etkhem✨, Gott✨ wird✨ sich✨ eurer✨ gewiss✨ annehmen✨, dájúdájú✨ Ọlọ́run✨ yóò✨ bẹ̀✨ yín✨ wò✨. Make✨ una✨ carry✨ my✨ bones✨ comot✨ from✨ here✨, veha’alitem✨ et✨ atsmotai✨ mizzeh✨, tragt✨ meine✨ Gebeine✨ von✨ hier✨ hinauf✨, ẹ✨ gbé✨ egungun✨ mi✨ gòkè✨ kúrò✨ níbí✨.”",
 "Na✨ so✨ Joseph✨ die✨, vayyamot✨ Yosef✨, Josef✨ starb✨, Jósẹ́fù✨ kú✨, when✨ e✨ reach✨ ben✨ me’ah✨ va’eser✨ shanim✨, hundertzehn✨ Jahre✨ alt✨, ọmọ✨ ọdún✨ ọgọ́rùn-ún✨ àti✨ mẹ́wàá✨. Dem✨ come✨ embalm✨ am✨, vayyachantu✨ oto✨, sie✨ balsamierten✨ ihn✨ ein✨, wọ́n✨ tọ́jú✨ òkú✨ rẹ̀✨. Dem✨ put✨ am✨ in✨ wani✨ aron✨, in✨ einen✨ Sarg✨, sínú✨ pósí✨, beMitsrayim✨, ní✨ Íjíbítì✨."
 ];
+
+const exodusFirst=[
+  "Na✨ these✨ names✨ des✨ benei🫶 Yisrael✨, die✨ Söhne🫶 Israels✨, àwọn✨ ọmọ🫶 Ísírẹ́lì✨, wey✨ come✨ enter✨ Mitsraymah🌍, nach✨ Ägypten🌍, sí✨ Íjíbítì🌍, et✨ Yaakov✨, mit✨ Jakob✨, pẹ̀lú✨ Jékọ́bù✨. Each✨ man✨ carry✨ ish✨ uveito✨, seinen✨ Haushalt✨, ilé✨ tirẹ̀✨. Dem✨ come✨ together✨.",
+  "Na✨ these✨ names✨ come✨ first✨: Re’uven✨, Ruben✨, Rúbẹ́nì✨, then✨ we✨ get✨ Shimon✨, Simeon✨, Síméónì✨. For✨ the✨ same✨ list✨ we✨ get✨ Levi✨, darunter✨, Léfì✨, and✨ then✨ Yehudah✨, Juda✨, Júdà✨.",
+  "Next✨ for✨ the✨ list✨, Yissakhar✨, als✨ Nächster✨, Ísákárì✨. We✨ still✨ get✨ Zevulun✨, Sebulon✨, Sébúlúnì✨. And✨ for✨ this✨ group✨, uVinyamin✨, und✨ Benjamin✨, àti✨ Bẹ́ńjámínì✨, na✨ the✨ last✨ name✨, Binyamin✨, zuletzt✨, Bẹ́ńjámínì✨.",
+  "For✨ the✨ next✨ names✨, Dan✨, danach✨, Dánì✨, and✨ then✨ Naftali✨, Naftali✨, Náfútálì✨. We✨ still✨ get✨ Gad✨, außerdem✨, Gádì✨, plus✨ the✨ last✨ name✨ veAsher✨, Asser✨, Áṣérì✨.",
+  "If✨ you✨ count✨ dem✨ all✨, kol✨ nefesh✨ wey✨ come✨ from✨ Jacob✨, yotse’ei✨ yerekh✨ Yaakov✨, Jakobs✨ Nachkommen✨, àwọn✨ àtọmọdá🫶 Jékọ́bù✨, na✨ seventy✨, shiv’im✨ nafesh✨, siebzig✨ Personen🫶, ènìyàn✨ àádọ́rin✨. Josef✨ dey✨ there✨ already✨, Yosef✨ hayah✨ veMitsrayim🌍, Josef✨ war✨ schon✨ dort✨, Jósẹ́fù✨ ti✨ wà✨ níbẹ̀✨, in✨ Ägypten🌍, ní✨ Íjíbítì🌍.",
+  "Joseph✨ come✨ die😭, vayyamot✨ Yosef✨, Josef✨ starb😭, Jósẹ́fù✨ kú😭. Im✨ brothers✨ too✨, vechol✨ echav✨, auch✨ seine✨ Brüder✨, gbogbo✨ àwọn✨ arákùnrin✨ rẹ̀✨, dem✨ all✨ die😭, starben😭 ebenfalls✨. Na✨ that✨ whole✨ generation✨, vekhol✨ haddor✨, hahu✨, die😭 ganze✨ Generation✨, gbogbo✨ ìran✨ náà✨ kọjá✨.",
+  "Waɗannan✨ benei✨ Yisrael✨ come✨ get✨ plenty✨ children✨, paru✨, hatten✨ viele✨ Kinder✨, wọ́n✨ bí✨ ọmọ✨ púpọ̀✨. Dem✨ plenty✨ well✨ well✨, vayyishretsu✨, nahmen✨ stark✨ zu✨, wọ́n✨ pọ̀✨ gan-an✨. Dem✨ grow✨ strong✨, vayyirbu✨ vayya’atsmu✨, wurden✨ sehr✨ mächtig✨, wọ́n✨ lágbára✨ gidigidi✨. Dem✨ full✨ the✨ whole✨ land🌍, vattimmale✨ haarets✨ otam✨, das✨ Land🌍 war✨ voll✨ von✨ ihnen✨, wọ́n✨ kún✨ ilẹ̀✨ náà✨.",
+  "New✨ king✨ come✨ rise✨, vayyaqom✨, melekh✨ chadash✨, ein✨ neuer✨ König✨, ọba✨ tuntun✨. Na✨ for✨ Egypt🌍 e✨ reign✨, al✨ Mitsrayim🌍, über✨ Ägypten✨, lórí✨ Íjíbítì✨, but✨ e✨ no✨ know✨ Joseph✨, asher✨ lo✨ yada✨ et✨ Yosef✨, der✨ Josef✨ nicht✨ kannte✨, kò✨ mọ✨ Jósẹ́fù✨. E✨ no✨ know✨ am✨, er✨ kannte✨ ihn✨ nicht✨, kò✨ mọ̀✨ ọ́n✨.",
+  "Sarkin✨ Masar✨ come✨ tell✨ im✨ people✨, vayyomer✨ el✨ ammo✨, sagte✨ zu✨ seinem✨ Volk✨, ó✨ sọ✨ fún✨ àwọn✨ ènìyàn✨ rẹ̀✨, “See✨ as✨ e✨ be✨, hinneh✨, the✨ am✨ benei✨ Yisrael✨, das✨ Volk✨ Israel✨, àwọn✨ ènìyàn✨ Ísírẹ́lì✨, don✨ plenty✨ pass✨ us✨, rav✨ mimmennu✨, zahlreicher✨ als✨ wir✨, wọ́n✨ pọ̀✨ ju✨ wa✨ lọ✨. Dem✨ strong✨ pass✨ us✨ too✨, ve’atsum✨, stärker✨ als✨ wir✨, wọ́n✨ lágbára✨ ju✨ wa✨ lọ✨.”",
+  "“Make✨ we✨ use✨ sense✨, havah✨ nitchakkemah✨ lo✨, lasst✨ uns✨ klug✨ gegen✨ sie✨ vorgehen✨, ẹ✨ jẹ́✨ ká✨ fi✨ ọgbọ́n✨ bá✨ wọn✨ lò✨. Make✨ dem✨ no✨ plenty✨ pass✨, pen✨ yirbeh✨, damit✨ sie✨ sich✨ nicht✨ vermehren✨, kí✨ wọ́n✨ má✨ bàa✨ pọ̀✨ sí✨ i✨. Ọ✨ bụrụ✨ na✨ war✨ come✨ break✨ out✨, milchamah✨, wenn✨ Krieg✨ ausbricht✨, tí✨ ogun✨ bá✨ bẹ̀rẹ̀✨, dem✨ fit✨ join✨ our✨ enemies✨, al✨ son’enu✨, sich✨ mit✨ unseren✨ Feinden✨ verbünden✨, dara✨ pọ̀✨ mọ́✨ àwọn✨ ọ̀tá✨ wa✨. Dem✨ go✨ fight✨ us✨, venilcham✨ banu✨, puis✨ comot✨ from✨ this✨ land🌍, ve’alah✨ min✨ haarets🌍.”",
+  "Na✨ so✨ dem✨ put✨ sarei✨ missim✨, Aufseher✨ für✨ die✨ Zwangsarbeit✨, àwọn✨ alábòójútó✨ iṣẹ́✨ àfipá✨, over✨ dem✨. Dem✨ use✨ heavy✨ work✨ press✨ dem✨, lema’an✨ annoto✨ besivlotam✨, mit✨ schweren✨ Lasten✨, pẹ̀lú✨ ẹrù✨ wíwúwo✨. Israel✨ come✨ build✨ arei✨ miskenot✨ lePharaoh✨, Vorratsstädte✨ für✨ den✨ Pharao✨, àwọn✨ ìlú✨ ìpamọ́✨ fún✨ Fáráò✨, Pitom✨ ve’et✨ Raamses✨, Pitom✨ und✨ Ramses✨, Pítómù✨ àti✨ Rámésésì✨.",
+  "Mais✨ the✨ more✨ dem✨ press✨ Israel✨, ka’asher✨ ye’annu✨ oto✨, je✨ mehr✨ sie✨ sie✨ bedrückten✨, bí✨ wọ́n✨ ṣe✨ ń✨ pọ́n✨ wọn✨ lójú✨ sí✨ i✨, na✨ so✨ dem✨ plenty✨ reach✨, ken✨ yirbeh✨, desto✨ mehr✨ vermehrten✨ sie✨ sich✨, bẹ́ẹ̀✨ ni✨ wọ́n✨ ń✨ pọ̀✨ sí✨ i✨, an✨ dem✨ spread✨ more✨, vechen✨ yifrots✨, breiteten✨ sich✨ weiter✨ aus✨, wọ́n✨ sì✨ tàn✨ káàkiri✨. Egypt✨ come✨ dey✨ dread✨ the✨ benei✨ Yisrael✨, die✨ Israeliten✨, àwọn✨ ọmọ✨ Ísírẹ́lì✨.",
+  "Mutanen✨ Mitsrayim✨ come✨ force✨ dem✨, vayya’avidu✨, zwangen✨ sie✨ zur✨ Arbeit✨, wọ́n✨ fi✨ ipá✨ mú✨ wọn✨ ṣiṣẹ́✨. Na✨ Israel✨ people✨, et✨ benei✨ Yisrael✨, die✨ Israeliten✨, àwọn✨ ọmọ✨ Ísírẹ́lì✨, wey✨ dem✨ make✨ work✨, hart✨ arbeiten✨, ṣiṣẹ́✨ takuntakun✨. Dem✨ no✨ show✨ mercy✨, befarekh✨, rücksichtslos✨, láìṣàánú✨.",
+  "Dem✨ make✨ life✨ bitter😭 for✨ dem✨, vayemareru✨ et✨ chayyeihem✨, sie✨ machten✨ ihnen✨ das✨ Leben✨ bitter😭, wọ́n✨ mú✨ kí✨ ayé✨ wọn✨ korò😭, da✨ avodah✨ qashah✨, mit✨ harter✨ Arbeit✨, pẹ̀lú✨ iṣẹ́✨ líle✨. Dem✨ work✨ with✨ mortar✨, bechomer✨, and✨ dem✨ make✨ bricks✨, uvilvenim✨, mit✨ Ziegeln✨, pẹ̀lú✨ bíríkì✨. Dem✨ do✨ all✨ kain✨ work✨ bassadeh✨, auf✨ dem✨ Feld✨, ní✨ oko🌍. Evri✨ wok✨ they✨ forced✨ on✨ them✨ was✨ befarekh✨.",
+  "The✨ melekh✨ Mitsrayim✨ come✨ talk✨ to✨ the✨ meyalledot✨, zu✨ den✨ Hebammen✨, sí✨ àwọn✨ agbẹ̀bí✨, ha’ivriyyot✨, hebräische✨ Geburtshelferinnen✨, ará✨ Hébérù✨. One✨ of✨ dem✨ dem✨ dey✨ call✨ Shifrah✨, die✨ eine✨ hieß✨ Schifra✨, orúkọ✨ ọ̀kan✨ ni✨ Ṣífúrà✨. The✨ other✨ one✨ bụ✨ Puah✨, die✨ andere✨ hieß✨ Pua✨, orúkọ✨ èkejì✨ ni✨ Púà✨.",
+  "“When✨ una✨ dey✨ help✨ the✨ ivriyyot✨ give✨ birth🫶, bei✨ der✨ Geburt✨, nígbà✨ ìbímọ✨, make✨ una✨ look✨ at✨ the✨ ovnayim✨, auf✨ den✨ Gebärstühlen✨, lórí✨ ìjókòó✨ ìbímọ✨. If✨ na✨ boy✨, im✨ ben✨ hu✨, wenn✨ es✨ ein✨ Junge✨ ist✨, tí✨ ó✨ bá✨ jẹ́✨ ọmọkùnrin🫶, make✨ una✨ kill😭 am✨, vahamitten✨ oto✨. If✨ na✨ girl🫶, ve’im✨ bat✨ hi✨, wenn✨ es✨ ein✨ Mädchen✨ ist✨, tí✨ ó✨ bá✨ jẹ́✨ ọmọbìnrin🫶, make✨ she✨ live✨, vachayah✨.”",
+  "Bot✨ the✨ meyalledot✨ fear✨ God🙏, vatir’ena✨ et✨ haElohim🙏, fürchteten✨ Gott✨, wọ́n✨ bẹ̀rù✨ Ọlọ́run🙏. Dem✨ no✨ do✨ am✨, velo✨ asu✨, sie✨ taten✨ es✨ nicht✨, wọn✨ kò✨ ṣe✨ bẹ́ẹ̀✨, as✨ the✨ king✨ order✨ dem✨, ka’asher✨ dibber✨ aleihen✨ melekh✨ Mitsrayim✨, wie✨ der✨ König✨ befohlen✨ hatte✨, bí✨ ọba✨ Íjíbítì✨ ti✨ pàṣẹ✨ fún✨ wọn✨. Dem✨ keep✨ the✨ boys🫶 alive✨, vattechayyena✨ et✨ hayeladim✨, sie✨ ließen✨ die✨ Jungen✨ leben✨, wọ́n✨ dá✨ àwọn✨ ọmọkùnrin🫶 náà✨ sí✨.",
+  "Le✨ melekh✨ Mitsrayim✨ come✨ call✨ for✨ the✨ meyalledot✨, rief✨ die✨ Hebammen✨ zu✨ sich✨, ó✨ pe✨ àwọn✨ agbẹ̀bí✨. E✨ come✨ ask✨ dem✨, vayyomer✨ lahen✨, fragte✨ er✨ sie✨, ó✨ bi✨ wọ́n✨ pé✨, “Why✨ una✨ do✨ this✨, maddua✨ asiten✨ haddavar✨ hazzeh✨, warum✨ habt✨ ihr✨ das✨ getan✨, kí✨ ló✨ dé✨ tí✨ ẹ✨ ṣe✨ èyí✨? Why✨ una✨ keep✨ the✨ boys🫶 alive✨, vattechayyena✨ et✨ hayeladim✨, die✨ Jungen✨ am✨ Leben✨ gelassen✨, ẹ✨ dá✨ àwọn✨ ọmọkùnrin🫶 sí✨?”",
+  "Di✨ meyalledot✨ come✨ tell✨ Pharaoh✨, el✨ Pharaoh✨, sagten✨ zum✨ Pharao✨, wọ́n✨ sọ✨ fún✨ Fáráò✨, “Hebrew✨ women✨ no✨ be✨ like✨ the✨ Mitsriyyot✨, die✨ ägyptischen✨ Frauen✨, àwọn✨ obìnrin✨ ará✨ Íjíbítì✨. Dem✨ strong✨ and✨ quick✨, chayot✨ hennah✨, sie✨ sind✨ kräftig✨, wọ́n✨ lágbára✨. Dem✨ don✨ born✨ already✨ beterem✨ tavo✨ aleihen✨ hammeyalledet✨, bevor✨ die✨ Hebamme✨ bei✨ ihnen✨ ankommt✨, kí✨ agbẹ̀bí✨ tó✨ dé✨ ọ̀dọ̀✨ wọn✨.”",
+  "Na✨ so✨ God🙏 Elohim🙏 do✨ dem✨ good✨, vayyetev✨, Gott✨ tat✨ ihnen✨ Gutes✨, Ọlọ́run🙏 ṣe✨ rere✨ sí✨ wọn✨, the✨ meyalledot✨, den✨ Hebammen✨, fún✨ àwọn✨ agbẹ̀bí✨. El✨ pueblo✨ come✨ plenty✨ more✨, vayyirev✨ ha’am✨, das✨ Volk✨ vermehrte✨ sich✨, àwọn✨ ènìyàn✨ náà✨ pọ̀✨ sí✨ i✨. Dem✨ grow✨ strong✨ well✨ well✨, vayya’atsmu✨ me’od✨, wurden✨ sehr✨ mächtig✨, wọ́n✨ lágbára✨ gidigidi✨.",
+  "Na✨ because✨ ndị✨ meyalledot✨ fear✨ God🙏, yare’u✨ et✨ haElohim🙏, die✨ Hebammen✨ fürchteten✨ Gott✨, àwọn✨ agbẹ̀bí✨ bẹ̀rù✨ Ọlọ́run🙏, that✨ God✨ give✨ dem✨ families✨ of✨ their✨ own✨, vayya’as✨ battim✨, gründete✨ ihnen✨ Familien✨, ó✨ dá✨ ilé✨ sílẹ̀✨ fún✨ wọn✨. Na✨ their✨ own✨ households✨, lahem✨, eigene✨ Häuser✨, ilé✨ tiwọn✨, für✨ sie✨, fún✨ wọn✨.",
+  "Faraó✨ come✨ give✨ order✨ vayetsav✨ Pharaoh✨ to✨ lekhol✨ ammo✨, seinem✨ ganzen✨ Volk✨, fún✨ gbogbo✨ ènìyàn✨ rẹ̀✨. “Every✨ boy✨ wey✨ dem✨ born✨, kol✨ habben✨ hayyillod✨, jeden✨ neugeborenen✨ Jungen✨, gbogbo✨ ọmọkùnrin🫶 tí✨ a✨ bí✨, make✨ una✨ throw✨ am✨ haye’orah✨, in✨ den✨ Nil🌍, sínú✨ odò✨ Náílì🌍. Make✨ all✨ the✨ girls🫶 live✨, vekhol✨ habbat✨ techayyun✨, jedes✨ Mädchen✨ soll✨ leben✨, ẹ✨ jẹ́✨ kí✨ gbogbo✨ ọmọbìnrin🫶 wà✨ láàyè✨.”"
+];
+const exodusVerseGlosses={
+  "1": {
+    "1": [
+      [
+        "Na these names",
+        "here are the names",
+        "pcm"
+      ],
+      [
+        "benei Yisrael",
+        "children of Israel",
+        "he"
+      ],
+      [
+        "die Söhne Israels",
+        "the sons of Israel",
+        "de"
+      ],
+      [
+        "àwọn ọmọ Ísírẹ́lì",
+        "the children of Israel",
+        "yo"
+      ],
+      [
+        "wey come enter",
+        "who came into",
+        "pcm"
+      ],
+      [
+        "Mitsraymah",
+        "Egypt",
+        "he"
+      ],
+      [
+        "nach Ägypten",
+        "to Egypt",
+        "de"
+      ],
+      [
+        "sí Íjíbítì",
+        "to Egypt",
+        "yo"
+      ],
+      [
+        "et Yaakov",
+        "with Jacob",
+        "he"
+      ],
+      [
+        "mit Jakob",
+        "with Jacob",
+        "de"
+      ],
+      [
+        "pẹ̀lú Jékọ́bù",
+        "with Jacob",
+        "yo"
+      ],
+      [
+        "Each man carry",
+        "each man brought",
+        "pcm"
+      ],
+      [
+        "ish uveito",
+        "each man and his household",
+        "he"
+      ],
+      [
+        "seinen Haushalt",
+        "his household",
+        "de"
+      ],
+      [
+        "ilé tirẹ̀",
+        "his household",
+        "yo"
+      ],
+      [
+        "Dem come together",
+        "they came together",
+        "pcm"
+      ],
+      [
+        "des",
+        "of the",
+        "fr"
+      ]
+    ],
+    "2": [
+      [
+        "Na these names come first",
+        "these names came first",
+        "pcm"
+      ],
+      [
+        "Re’uven",
+        "Reuben",
+        "he"
+      ],
+      [
+        "Ruben",
+        "Reuben",
+        "de"
+      ],
+      [
+        "Rúbẹ́nì",
+        "Reuben",
+        "yo"
+      ],
+      [
+        "then we get",
+        "then there was",
+        "pcm"
+      ],
+      [
+        "Shimon",
+        "Simeon",
+        "he"
+      ],
+      [
+        "Simeon",
+        "Simeon",
+        "de"
+      ],
+      [
+        "Síméónì",
+        "Simeon",
+        "yo"
+      ],
+      [
+        "For the same list",
+        "on the same list",
+        "pcm"
+      ],
+      [
+        "Levi",
+        "Levi",
+        "he"
+      ],
+      [
+        "darunter",
+        "among them",
+        "de"
+      ],
+      [
+        "Léfì",
+        "Levi",
+        "yo"
+      ],
+      [
+        "and then",
+        "and",
+        "pcm"
+      ],
+      [
+        "Yehudah",
+        "Judah",
+        "he"
+      ],
+      [
+        "Juda",
+        "Judah",
+        "de"
+      ],
+      [
+        "Júdà",
+        "Judah",
+        "yo"
+      ]
+    ],
+    "3": [
+      [
+        "Next for the list",
+        "next on the list",
+        "pcm"
+      ],
+      [
+        "Yissakhar",
+        "Issachar",
+        "he"
+      ],
+      [
+        "als Nächster",
+        "next in order",
+        "de"
+      ],
+      [
+        "Ísákárì",
+        "Issachar",
+        "yo"
+      ],
+      [
+        "We still get",
+        "there was also",
+        "pcm"
+      ],
+      [
+        "Zevulun",
+        "Zebulun",
+        "he"
+      ],
+      [
+        "Sebulon",
+        "Zebulun",
+        "de"
+      ],
+      [
+        "Sébúlúnì",
+        "Zebulun",
+        "yo"
+      ],
+      [
+        "And for this group",
+        "and in this group",
+        "pcm"
+      ],
+      [
+        "uVinyamin",
+        "and Benjamin",
+        "he"
+      ],
+      [
+        "und Benjamin",
+        "and Benjamin",
+        "de"
+      ],
+      [
+        "àti Bẹ́ńjámínì",
+        "and Benjamin",
+        "yo"
+      ],
+      [
+        "na the last name",
+        "that is the final name here",
+        "pcm"
+      ],
+      [
+        "Binyamin",
+        "Benjamin",
+        "he"
+      ],
+      [
+        "zuletzt",
+        "last",
+        "de"
+      ],
+      [
+        "Bẹ́ńjámínì",
+        "Benjamin",
+        "yo"
+      ]
+    ],
+    "4": [
+      [
+        "For the next names",
+        "for the next names",
+        "pcm"
+      ],
+      [
+        "Dan",
+        "Dan",
+        "he"
+      ],
+      [
+        "danach",
+        "after that",
+        "de"
+      ],
+      [
+        "Dánì",
+        "Dan",
+        "yo"
+      ],
+      [
+        "and then",
+        "and",
+        "pcm"
+      ],
+      [
+        "Naftali",
+        "Naphtali",
+        "he"
+      ],
+      [
+        "Naftali",
+        "Naphtali",
+        "de"
+      ],
+      [
+        "Náfútálì",
+        "Naphtali",
+        "yo"
+      ],
+      [
+        "We still get",
+        "there was also",
+        "pcm"
+      ],
+      [
+        "Gad",
+        "Gad",
+        "he"
+      ],
+      [
+        "außerdem",
+        "also",
+        "de"
+      ],
+      [
+        "Gádì",
+        "Gad",
+        "yo"
+      ],
+      [
+        "plus the last name",
+        "and the final name",
+        "pcm"
+      ],
+      [
+        "veAsher",
+        "and Asher",
+        "he"
+      ],
+      [
+        "Asser",
+        "Asher",
+        "de"
+      ],
+      [
+        "Áṣérì",
+        "Asher",
+        "yo"
+      ]
+    ],
+    "5": [
+      [
+        "If you count dem all",
+        "count them all",
+        "pcm"
+      ],
+      [
+        "kol nefesh",
+        "all the people",
+        "he"
+      ],
+      [
+        "wey come from Jacob",
+        "who descended from Jacob",
+        "pcm"
+      ],
+      [
+        "yotse’ei yerekh Yaakov",
+        "Jacob’s direct descendants",
+        "he"
+      ],
+      [
+        "Jakobs Nachkommen",
+        "Jacob’s descendants",
+        "de"
+      ],
+      [
+        "àwọn àtọmọdá Jékọ́bù",
+        "Jacob’s descendants",
+        "yo"
+      ],
+      [
+        "na seventy",
+        "there were seventy",
+        "pcm"
+      ],
+      [
+        "shiv’im nafesh",
+        "seventy people",
+        "he"
+      ],
+      [
+        "siebzig Personen",
+        "seventy people",
+        "de"
+      ],
+      [
+        "ènìyàn àádọ́rin",
+        "seventy people",
+        "yo"
+      ],
+      [
+        "dey there already",
+        "was already there",
+        "pcm"
+      ],
+      [
+        "Yosef hayah veMitsrayim",
+        "Joseph was already in Egypt",
+        "he"
+      ],
+      [
+        "Josef war schon dort",
+        "Joseph was already there",
+        "de"
+      ],
+      [
+        "Jósẹ́fù ti wà níbẹ̀",
+        "Joseph was already there",
+        "yo"
+      ],
+      [
+        "in Ägypten",
+        "in Egypt",
+        "de"
+      ],
+      [
+        "ní Íjíbítì",
+        "in Egypt",
+        "yo"
+      ],
+      [
+        "Josef",
+        "Joseph",
+        "ig"
+      ]
+    ],
+    "6": [
+      [
+        "come die",
+        "died",
+        "pcm"
+      ],
+      [
+        "vayyamot Yosef",
+        "Joseph died",
+        "he"
+      ],
+      [
+        "Josef starb",
+        "Joseph died",
+        "de"
+      ],
+      [
+        "Jósẹ́fù kú",
+        "Joseph died",
+        "yo"
+      ],
+      [
+        "Im brothers too",
+        "his brothers too",
+        "pcm"
+      ],
+      [
+        "vechol echav",
+        "and all his brothers",
+        "he"
+      ],
+      [
+        "auch seine Brüder",
+        "his brothers too",
+        "de"
+      ],
+      [
+        "gbogbo àwọn arákùnrin rẹ̀",
+        "all his brothers",
+        "yo"
+      ],
+      [
+        "dem all die",
+        "they all died",
+        "pcm"
+      ],
+      [
+        "starben ebenfalls",
+        "died as well",
+        "de"
+      ],
+      [
+        "Na that whole generation",
+        "it was that whole generation",
+        "pcm"
+      ],
+      [
+        "vekhol haddor",
+        "and the whole generation",
+        "he"
+      ],
+      [
+        "hahu",
+        "that one",
+        "he"
+      ],
+      [
+        "die ganze Generation",
+        "the whole generation",
+        "de"
+      ],
+      [
+        "gbogbo ìran náà",
+        "that whole generation",
+        "yo"
+      ],
+      [
+        "kọjá",
+        "passed away",
+        "yo"
+      ]
+    ],
+    "7": [
+      [
+        "benei Yisrael",
+        "children of Israel",
+        "he"
+      ],
+      [
+        "come get plenty children",
+        "became fruitful",
+        "pcm"
+      ],
+      [
+        "paru",
+        "were fruitful",
+        "he"
+      ],
+      [
+        "hatten viele Kinder",
+        "had many children",
+        "de"
+      ],
+      [
+        "wọ́n bí ọmọ púpọ̀",
+        "they had many children",
+        "yo"
+      ],
+      [
+        "Dem plenty well well",
+        "they increased abundantly",
+        "pcm"
+      ],
+      [
+        "vayyishretsu",
+        "they teemed",
+        "he"
+      ],
+      [
+        "nahmen stark zu",
+        "increased greatly",
+        "de"
+      ],
+      [
+        "wọ́n pọ̀ gan-an",
+        "they increased greatly",
+        "yo"
+      ],
+      [
+        "Dem grow strong",
+        "they grew strong",
+        "pcm"
+      ],
+      [
+        "vayyirbu vayya’atsmu",
+        "they multiplied and grew strong",
+        "he"
+      ],
+      [
+        "wurden sehr mächtig",
+        "grew very powerful",
+        "de"
+      ],
+      [
+        "wọ́n lágbára gidigidi",
+        "they grew very strong",
+        "yo"
+      ],
+      [
+        "Dem full the whole land",
+        "they filled the land",
+        "pcm"
+      ],
+      [
+        "vattimmale haarets otam",
+        "the land was filled with them",
+        "he"
+      ],
+      [
+        "das Land war voll von ihnen",
+        "the land was full of them",
+        "de"
+      ],
+      [
+        "wọ́n kún ilẹ̀ náà",
+        "they filled the land",
+        "yo"
+      ],
+      [
+        "Waɗannan",
+        "these",
+        "ha"
+      ]
+    ],
+    "8": [
+      [
+        "New king come rise",
+        "a new king arose",
+        "pcm"
+      ],
+      [
+        "vayyaqom",
+        "and he arose",
+        "he"
+      ],
+      [
+        "melekh chadash",
+        "a new king",
+        "he"
+      ],
+      [
+        "ein neuer König",
+        "a new king",
+        "de"
+      ],
+      [
+        "ọba tuntun",
+        "a new king",
+        "yo"
+      ],
+      [
+        "Na for Egypt e reign",
+        "he reigned over Egypt",
+        "pcm"
+      ],
+      [
+        "al Mitsrayim",
+        "over Egypt",
+        "he"
+      ],
+      [
+        "über Ägypten",
+        "over Egypt",
+        "de"
+      ],
+      [
+        "lórí Íjíbítì",
+        "over Egypt",
+        "yo"
+      ],
+      [
+        "but e no know Joseph",
+        "but he didn’t know Joseph",
+        "pcm"
+      ],
+      [
+        "asher lo yada et Yosef",
+        "who did not know Joseph",
+        "he"
+      ],
+      [
+        "der Josef nicht kannte",
+        "who did not know Joseph",
+        "de"
+      ],
+      [
+        "kò mọ Jósẹ́fù",
+        "he did not know Joseph",
+        "yo"
+      ],
+      [
+        "E no know am",
+        "he didn’t know him",
+        "pcm"
+      ],
+      [
+        "er kannte ihn nicht",
+        "he didn't know him",
+        "de"
+      ],
+      [
+        "kò mọ̀ ọ́n",
+        "he didn’t know him",
+        "yo"
+      ]
+    ],
+    "9": [
+      [
+        "come tell im people",
+        "then told his people",
+        "pcm"
+      ],
+      [
+        "vayyomer el ammo",
+        "he spoke to his people",
+        "he"
+      ],
+      [
+        "sagte zu seinem Volk",
+        "said to his people",
+        "de"
+      ],
+      [
+        "ó sọ fún àwọn ènìyàn rẹ̀",
+        "he told his people",
+        "yo"
+      ],
+      [
+        "See as e be",
+        "look at what is happening",
+        "pcm"
+      ],
+      [
+        "hinneh",
+        "look",
+        "he"
+      ],
+      [
+        "am benei Yisrael",
+        "people of Israel",
+        "he"
+      ],
+      [
+        "das Volk Israel",
+        "the people of Israel",
+        "de"
+      ],
+      [
+        "àwọn ènìyàn Ísírẹ́lì",
+        "the people of Israel",
+        "yo"
+      ],
+      [
+        "don plenty pass us",
+        "now outnumber us",
+        "pcm"
+      ],
+      [
+        "rav mimmennu",
+        "more numerous than us",
+        "he"
+      ],
+      [
+        "zahlreicher als wir",
+        "more numerous than us",
+        "de"
+      ],
+      [
+        "wọ́n pọ̀ ju wa lọ",
+        "they outnumber us",
+        "yo"
+      ],
+      [
+        "Dem strong pass us too",
+        "they are stronger too",
+        "pcm"
+      ],
+      [
+        "ve’atsum",
+        "and mightier",
+        "he"
+      ],
+      [
+        "stärker als wir",
+        "stronger than us",
+        "de"
+      ],
+      [
+        "wọ́n lágbára ju wa lọ",
+        "they are stronger than us",
+        "yo"
+      ],
+      [
+        "Sarkin Masar",
+        "the king of Egypt",
+        "ha"
+      ]
+    ],
+    "10": [
+      [
+        "Make we use sense",
+        "let’s act shrewdly",
+        "pcm"
+      ],
+      [
+        "havah nitchakkemah lo",
+        "let’s deal shrewdly with them",
+        "he"
+      ],
+      [
+        "lasst uns klug gegen sie vorgehen",
+        "let’s deal shrewdly with them",
+        "de"
+      ],
+      [
+        "ẹ jẹ́ ká fi ọgbọ́n bá wọn lò",
+        "let us deal shrewdly with them",
+        "yo"
+      ],
+      [
+        "Make dem no plenty pass",
+        "lest they grow more numerous",
+        "pcm"
+      ],
+      [
+        "pen yirbeh",
+        "lest they multiply",
+        "he"
+      ],
+      [
+        "damit sie sich nicht vermehren",
+        "so they do not multiply",
+        "de"
+      ],
+      [
+        "kí wọ́n má bàa pọ̀ sí i",
+        "lest they multiply",
+        "yo"
+      ],
+      [
+        "war come break out",
+        "war breaks out",
+        "pcm"
+      ],
+      [
+        "milchamah",
+        "war",
+        "he"
+      ],
+      [
+        "wenn Krieg ausbricht",
+        "if war breaks out",
+        "de"
+      ],
+      [
+        "tí ogun bá bẹ̀rẹ̀",
+        "if war breaks out",
+        "yo"
+      ],
+      [
+        "dem fit join our enemies",
+        "they could join our enemies",
+        "pcm"
+      ],
+      [
+        "al son’enu",
+        "with our enemies",
+        "he"
+      ],
+      [
+        "sich mit unseren Feinden verbünden",
+        "join forces with our enemies",
+        "de"
+      ],
+      [
+        "dara pọ̀ mọ́ àwọn ọ̀tá wa",
+        "join our enemies",
+        "yo"
+      ],
+      [
+        "Dem go fight us",
+        "they could fight us",
+        "pcm"
+      ],
+      [
+        "venilcham banu",
+        "and fight against us",
+        "he"
+      ],
+      [
+        "comot from this land",
+        "leave this country",
+        "pcm"
+      ],
+      [
+        "ve’alah min haarets",
+        "and go up out of the land",
+        "he"
+      ],
+      [
+        "puis",
+        "then",
+        "fr"
+      ],
+      [
+        "Ọ bụrụ na",
+        "if",
+        "ig"
+      ]
+    ],
+    "11": [
+      [
+        "Na so dem put",
+        "so they appointed",
+        "pcm"
+      ],
+      [
+        "sarei missim",
+        "overseers of forced labor",
+        "he"
+      ],
+      [
+        "Aufseher für die Zwangsarbeit",
+        "overseers for forced labor",
+        "de"
+      ],
+      [
+        "àwọn alábòójútó iṣẹ́ àfipá",
+        "overseers of forced labor",
+        "yo"
+      ],
+      [
+        "over dem",
+        "over them",
+        "pcm"
+      ],
+      [
+        "Dem use heavy work press dem",
+        "they oppressed them with hard labor",
+        "pcm"
+      ],
+      [
+        "lema’an annoto besivlotam",
+        "to oppress them under their burdens",
+        "he"
+      ],
+      [
+        "mit schweren Lasten",
+        "with heavy burdens",
+        "de"
+      ],
+      [
+        "pẹ̀lú ẹrù wíwúwo",
+        "with heavy burdens",
+        "yo"
+      ],
+      [
+        "come build",
+        "then built",
+        "pcm"
+      ],
+      [
+        "arei miskenot",
+        "store cities",
+        "he"
+      ],
+      [
+        "lePharaoh",
+        "for Pharaoh",
+        "he"
+      ],
+      [
+        "Vorratsstädte für den Pharao",
+        "store cities for Pharaoh",
+        "de"
+      ],
+      [
+        "àwọn ìlú ìpamọ́ fún Fáráò",
+        "storage cities for Pharaoh",
+        "yo"
+      ],
+      [
+        "Pitom ve’et Raamses",
+        "Pithom and Raamses",
+        "he"
+      ],
+      [
+        "Pitom und Ramses",
+        "Pithom and Raamses",
+        "de"
+      ],
+      [
+        "Pítómù àti Rámésésì",
+        "Pithom and Raamses",
+        "yo"
+      ]
+    ],
+    "12": [
+      [
+        "the more dem press Israel",
+        "the more they oppressed Israel",
+        "pcm"
+      ],
+      [
+        "ka’asher ye’annu oto",
+        "the more they oppressed them",
+        "he"
+      ],
+      [
+        "je mehr sie sie bedrückten",
+        "the more they oppressed them",
+        "de"
+      ],
+      [
+        "bí wọ́n ṣe ń pọ́n wọn lójú sí i",
+        "the more they oppressed them",
+        "yo"
+      ],
+      [
+        "na so dem plenty reach",
+        "that’s how much more they multiplied",
+        "pcm"
+      ],
+      [
+        "ken yirbeh",
+        "so they multiplied",
+        "he"
+      ],
+      [
+        "desto mehr vermehrten sie sich",
+        "the more they multiplied",
+        "de"
+      ],
+      [
+        "bẹ́ẹ̀ ni wọ́n ń pọ̀ sí i",
+        "so they multiplied",
+        "yo"
+      ],
+      [
+        "dem spread more",
+        "they spread further",
+        "pcm"
+      ],
+      [
+        "vechen yifrots",
+        "and so they spread",
+        "he"
+      ],
+      [
+        "breiteten sich weiter aus",
+        "spread further",
+        "de"
+      ],
+      [
+        "wọ́n sì tàn káàkiri",
+        "and they spread out",
+        "yo"
+      ],
+      [
+        "come dey dread",
+        "grew to dread",
+        "pcm"
+      ],
+      [
+        "benei Yisrael",
+        "children of Israel",
+        "he"
+      ],
+      [
+        "die Israeliten",
+        "the Israelites",
+        "de"
+      ],
+      [
+        "àwọn ọmọ Ísírẹ́lì",
+        "the children of Israel",
+        "yo"
+      ],
+      [
+        "Mais",
+        "but",
+        "fr"
+      ],
+      [
+        "an",
+        "and",
+        "jam"
+      ]
+    ],
+    "13": [
+      [
+        "Mitsrayim",
+        "Egyptians",
+        "he"
+      ],
+      [
+        "come force dem",
+        "forced them",
+        "pcm"
+      ],
+      [
+        "vayya’avidu",
+        "made them serve",
+        "he"
+      ],
+      [
+        "zwangen sie zur Arbeit",
+        "forced them to work",
+        "de"
+      ],
+      [
+        "wọ́n fi ipá mú wọn ṣiṣẹ́",
+        "they forced them to work",
+        "yo"
+      ],
+      [
+        "Na Israel people",
+        "it was the people of Israel",
+        "pcm"
+      ],
+      [
+        "et benei Yisrael",
+        "the children of Israel",
+        "he"
+      ],
+      [
+        "die Israeliten",
+        "the Israelites",
+        "de"
+      ],
+      [
+        "àwọn ọmọ Ísírẹ́lì",
+        "the children of Israel",
+        "yo"
+      ],
+      [
+        "wey dem make work",
+        "whom they made work",
+        "pcm"
+      ],
+      [
+        "hart arbeiten",
+        "work hard",
+        "de"
+      ],
+      [
+        "ṣiṣẹ́ takuntakun",
+        "work strenuously",
+        "yo"
+      ],
+      [
+        "Dem no show mercy",
+        "they showed no mercy",
+        "pcm"
+      ],
+      [
+        "befarekh",
+        "ruthlessly",
+        "he"
+      ],
+      [
+        "rücksichtslos",
+        "ruthlessly",
+        "de"
+      ],
+      [
+        "láìṣàánú",
+        "without mercy",
+        "yo"
+      ],
+      [
+        "Mutanen",
+        "the people of",
+        "ha"
+      ]
+    ],
+    "14": [
+      [
+        "Dem make life bitter for dem",
+        "they made life bitter for them",
+        "pcm"
+      ],
+      [
+        "vayemareru et chayyeihem",
+        "they embittered their lives",
+        "he"
+      ],
+      [
+        "sie machten ihnen das Leben bitter",
+        "they made their lives bitter",
+        "de"
+      ],
+      [
+        "wọ́n mú kí ayé wọn korò",
+        "they made their lives bitter",
+        "yo"
+      ],
+      [
+        "avodah qashah",
+        "hard labor",
+        "he"
+      ],
+      [
+        "mit harter Arbeit",
+        "with hard labor",
+        "de"
+      ],
+      [
+        "pẹ̀lú iṣẹ́ líle",
+        "with hard labor",
+        "yo"
+      ],
+      [
+        "Dem work with mortar",
+        "they worked with mortar",
+        "pcm"
+      ],
+      [
+        "bechomer",
+        "with mortar",
+        "he"
+      ],
+      [
+        "dem make bricks",
+        "they worked with bricks",
+        "pcm"
+      ],
+      [
+        "uvilvenim",
+        "and with bricks",
+        "he"
+      ],
+      [
+        "mit Ziegeln",
+        "with bricks",
+        "de"
+      ],
+      [
+        "pẹ̀lú bíríkì",
+        "with bricks",
+        "yo"
+      ],
+      [
+        "Dem do all kain work",
+        "they did every kind of work",
+        "pcm"
+      ],
+      [
+        "bassadeh",
+        "in the field",
+        "he"
+      ],
+      [
+        "auf dem Feld",
+        "in the field",
+        "de"
+      ],
+      [
+        "ní oko",
+        "in the field",
+        "yo"
+      ],
+      [
+        "befarekh",
+        "ruthless",
+        "he"
+      ],
+      [
+        "da",
+        "with",
+        "ha"
+      ],
+      [
+        "Evri wok",
+        "every job",
+        "jam"
+      ]
+    ],
+    "15": [
+      [
+        "melekh Mitsrayim",
+        "king of Egypt",
+        "he"
+      ],
+      [
+        "come talk to",
+        "spoke to",
+        "pcm"
+      ],
+      [
+        "meyalledot",
+        "midwives",
+        "he"
+      ],
+      [
+        "zu den Hebammen",
+        "to the midwives",
+        "de"
+      ],
+      [
+        "sí àwọn agbẹ̀bí",
+        "to the midwives",
+        "yo"
+      ],
+      [
+        "ha’ivriyyot",
+        "the Hebrew women",
+        "he"
+      ],
+      [
+        "ará Hébérù",
+        "Hebrew",
+        "yo"
+      ],
+      [
+        "One of dem",
+        "one of them",
+        "pcm"
+      ],
+      [
+        "dem dey call",
+        "was named",
+        "pcm"
+      ],
+      [
+        "Shifrah",
+        "Shiphrah",
+        "he"
+      ],
+      [
+        "die eine hieß Schifra",
+        "one was named Shiphrah",
+        "de"
+      ],
+      [
+        "orúkọ ọ̀kan ni Ṣífúrà",
+        "one was named Shiphrah",
+        "yo"
+      ],
+      [
+        "The other one",
+        "the other one",
+        "pcm"
+      ],
+      [
+        "Puah",
+        "Puah",
+        "he"
+      ],
+      [
+        "die andere hieß Pua",
+        "the other was named Puah",
+        "de"
+      ],
+      [
+        "orúkọ èkejì ni Púà",
+        "the other was named Puah",
+        "yo"
+      ],
+      [
+        "bụ",
+        "was",
+        "ig"
+      ],
+      [
+        "hebräische Geburtshelferinnen",
+        "Hebrew midwives",
+        "de"
+      ]
+    ],
+    "16": [
+      [
+        "When una dey help",
+        "when you help",
+        "pcm"
+      ],
+      [
+        "ivriyyot",
+        "Hebrew women",
+        "he"
+      ],
+      [
+        "bei der Geburt",
+        "at childbirth",
+        "de"
+      ],
+      [
+        "nígbà ìbímọ",
+        "at childbirth",
+        "yo"
+      ],
+      [
+        "make una look",
+        "look",
+        "pcm"
+      ],
+      [
+        "ovnayim",
+        "birthstools",
+        "he"
+      ],
+      [
+        "auf den Gebärstühlen",
+        "on the birthstools",
+        "de"
+      ],
+      [
+        "lórí ìjókòó ìbímọ",
+        "on the birthstools",
+        "yo"
+      ],
+      [
+        "If na boy",
+        "if it’s a boy",
+        "pcm"
+      ],
+      [
+        "im ben hu",
+        "if it is a son",
+        "he"
+      ],
+      [
+        "wenn es ein Junge ist",
+        "if it is a boy",
+        "de"
+      ],
+      [
+        "tí ó bá jẹ́ ọmọkùnrin",
+        "if it is a boy",
+        "yo"
+      ],
+      [
+        "make una kill am",
+        "kill him",
+        "pcm"
+      ],
+      [
+        "vahamitten oto",
+        "you shall kill him",
+        "he"
+      ],
+      [
+        "If na girl",
+        "if it’s a girl",
+        "pcm"
+      ],
+      [
+        "ve’im bat hi",
+        "but if it is a daughter",
+        "he"
+      ],
+      [
+        "wenn es ein Mädchen ist",
+        "if it is a girl",
+        "de"
+      ],
+      [
+        "tí ó bá jẹ́ ọmọbìnrin",
+        "if it is a girl",
+        "yo"
+      ],
+      [
+        "make she live",
+        "let her live",
+        "pcm"
+      ],
+      [
+        "vachayah",
+        "and she shall live",
+        "he"
+      ]
+    ],
+    "17": [
+      [
+        "meyalledot",
+        "midwives",
+        "he"
+      ],
+      [
+        "fear God",
+        "feared God",
+        "pcm"
+      ],
+      [
+        "vatir’ena et haElohim",
+        "and they feared God",
+        "he"
+      ],
+      [
+        "fürchteten Gott",
+        "feared God",
+        "de"
+      ],
+      [
+        "wọ́n bẹ̀rù Ọlọ́run",
+        "they feared God",
+        "yo"
+      ],
+      [
+        "Dem no do am",
+        "they did not do it",
+        "pcm"
+      ],
+      [
+        "velo asu",
+        "and they did not do",
+        "he"
+      ],
+      [
+        "sie taten es nicht",
+        "they did not do it",
+        "de"
+      ],
+      [
+        "wọn kò ṣe bẹ́ẹ̀",
+        "they did not do so",
+        "yo"
+      ],
+      [
+        "as the king order dem",
+        "as the king had ordered them",
+        "pcm"
+      ],
+      [
+        "ka’asher dibber aleihen melekh Mitsrayim",
+        "as the king of Egypt told them",
+        "he"
+      ],
+      [
+        "wie der König befohlen hatte",
+        "as the king had ordered",
+        "de"
+      ],
+      [
+        "bí ọba Íjíbítì ti pàṣẹ fún wọn",
+        "as the king of Egypt ordered them",
+        "yo"
+      ],
+      [
+        "Dem keep the boys alive",
+        "they kept the boys alive",
+        "pcm"
+      ],
+      [
+        "vattechayyena et hayeladim",
+        "and they let the boys live",
+        "he"
+      ],
+      [
+        "sie ließen die Jungen leben",
+        "they let the boys live",
+        "de"
+      ],
+      [
+        "wọ́n dá àwọn ọmọkùnrin náà sí",
+        "they spared the boys",
+        "yo"
+      ],
+      [
+        "Bot",
+        "but",
+        "jam"
+      ]
+    ],
+    "18": [
+      [
+        "melekh Mitsrayim",
+        "king of Egypt",
+        "he"
+      ],
+      [
+        "come call for",
+        "then summoned",
+        "pcm"
+      ],
+      [
+        "meyalledot",
+        "midwives",
+        "he"
+      ],
+      [
+        "rief die Hebammen zu sich",
+        "summoned the midwives",
+        "de"
+      ],
+      [
+        "ó pe àwọn agbẹ̀bí",
+        "he called the midwives",
+        "yo"
+      ],
+      [
+        "E come ask dem",
+        "he asked them",
+        "pcm"
+      ],
+      [
+        "vayyomer lahen",
+        "he said to them",
+        "he"
+      ],
+      [
+        "fragte er sie",
+        "he asked them",
+        "de"
+      ],
+      [
+        "ó bi wọ́n pé",
+        "he asked them",
+        "yo"
+      ],
+      [
+        "Why una do this",
+        "why did you do this",
+        "pcm"
+      ],
+      [
+        "maddua asiten haddavar hazzeh",
+        "why have you done this",
+        "he"
+      ],
+      [
+        "warum habt ihr das getan",
+        "why have you done this",
+        "de"
+      ],
+      [
+        "kí ló dé tí ẹ ṣe èyí",
+        "why did you do this",
+        "yo"
+      ],
+      [
+        "Why una keep the boys alive",
+        "why did you let the boys live",
+        "pcm"
+      ],
+      [
+        "vattechayyena et hayeladim",
+        "and you let the boys live",
+        "he"
+      ],
+      [
+        "die Jungen am Leben gelassen",
+        "let the boys live",
+        "de"
+      ],
+      [
+        "ẹ dá àwọn ọmọkùnrin sí",
+        "you spared the boys",
+        "yo"
+      ],
+      [
+        "Le",
+        "the",
+        "fr"
+      ]
+    ],
+    "19": [
+      [
+        "meyalledot",
+        "midwives",
+        "he"
+      ],
+      [
+        "come tell Pharaoh",
+        "then told Pharaoh",
+        "pcm"
+      ],
+      [
+        "el Pharaoh",
+        "to Pharaoh",
+        "he"
+      ],
+      [
+        "sagten zum Pharao",
+        "said to Pharaoh",
+        "de"
+      ],
+      [
+        "wọ́n sọ fún Fáráò",
+        "they told Pharaoh",
+        "yo"
+      ],
+      [
+        "Hebrew women no be like",
+        "Hebrew women aren’t like",
+        "pcm"
+      ],
+      [
+        "Mitsriyyot",
+        "Egyptian women",
+        "he"
+      ],
+      [
+        "die ägyptischen Frauen",
+        "the Egyptian women",
+        "de"
+      ],
+      [
+        "àwọn obìnrin ará Íjíbítì",
+        "the Egyptian women",
+        "yo"
+      ],
+      [
+        "Dem strong and quick",
+        "they are vigorous",
+        "pcm"
+      ],
+      [
+        "chayot hennah",
+        "they are vigorous",
+        "he"
+      ],
+      [
+        "sie sind kräftig",
+        "they are vigorous",
+        "de"
+      ],
+      [
+        "wọ́n lágbára",
+        "they are strong",
+        "yo"
+      ],
+      [
+        "Dem don born already",
+        "they have already given birth",
+        "pcm"
+      ],
+      [
+        "beterem tavo aleihen hammeyalledet",
+        "before the midwife comes to them",
+        "he"
+      ],
+      [
+        "bevor die Hebamme bei ihnen ankommt",
+        "before the midwife arrives",
+        "de"
+      ],
+      [
+        "kí agbẹ̀bí tó dé ọ̀dọ̀ wọn",
+        "before the midwife reaches them",
+        "yo"
+      ],
+      [
+        "Di",
+        "the",
+        "jam"
+      ]
+    ],
+    "20": [
+      [
+        "Na so God",
+        "so God",
+        "pcm"
+      ],
+      [
+        "Elohim",
+        "God",
+        "he"
+      ],
+      [
+        "do dem good",
+        "dealt well with them",
+        "pcm"
+      ],
+      [
+        "vayyetev",
+        "and he dealt well",
+        "he"
+      ],
+      [
+        "Gott tat ihnen Gutes",
+        "God did them good",
+        "de"
+      ],
+      [
+        "Ọlọ́run ṣe rere sí wọn",
+        "God did them good",
+        "yo"
+      ],
+      [
+        "meyalledot",
+        "midwives",
+        "he"
+      ],
+      [
+        "den Hebammen",
+        "to the midwives",
+        "de"
+      ],
+      [
+        "fún àwọn agbẹ̀bí",
+        "to the midwives",
+        "yo"
+      ],
+      [
+        "come plenty more",
+        "then multiplied",
+        "pcm"
+      ],
+      [
+        "vayyirev ha’am",
+        "and the people multiplied",
+        "he"
+      ],
+      [
+        "das Volk vermehrte sich",
+        "the people multiplied",
+        "de"
+      ],
+      [
+        "àwọn ènìyàn náà pọ̀ sí i",
+        "the people grew in number",
+        "yo"
+      ],
+      [
+        "Dem grow strong well well",
+        "they grew very strong",
+        "pcm"
+      ],
+      [
+        "vayya’atsmu me’od",
+        "they grew very mighty",
+        "he"
+      ],
+      [
+        "wurden sehr mächtig",
+        "became very powerful",
+        "de"
+      ],
+      [
+        "wọ́n lágbára gidigidi",
+        "they grew very strong",
+        "yo"
+      ],
+      [
+        "El pueblo",
+        "the people",
+        "es"
+      ]
+    ],
+    "21": [
+      [
+        "Na because",
+        "it was because",
+        "pcm"
+      ],
+      [
+        "meyalledot",
+        "midwives",
+        "he"
+      ],
+      [
+        "fear God",
+        "feared God",
+        "pcm"
+      ],
+      [
+        "yare’u et haElohim",
+        "they feared God",
+        "he"
+      ],
+      [
+        "die Hebammen fürchteten Gott",
+        "the midwives feared God",
+        "de"
+      ],
+      [
+        "àwọn agbẹ̀bí bẹ̀rù Ọlọ́run",
+        "the midwives feared God",
+        "yo"
+      ],
+      [
+        "vayya’as battim",
+        "he made households",
+        "he"
+      ],
+      [
+        "gründete ihnen Familien",
+        "gave them families",
+        "de"
+      ],
+      [
+        "ó dá ilé sílẹ̀ fún wọn",
+        "he established households for them",
+        "yo"
+      ],
+      [
+        "Na their own households",
+        "they were their own households",
+        "pcm"
+      ],
+      [
+        "lahem",
+        "for them",
+        "he"
+      ],
+      [
+        "eigene Häuser",
+        "households of their own",
+        "de"
+      ],
+      [
+        "ilé tiwọn",
+        "households of their own",
+        "yo"
+      ],
+      [
+        "für sie",
+        "for them",
+        "de"
+      ],
+      [
+        "fún wọn",
+        "for them",
+        "yo"
+      ],
+      [
+        "ndị",
+        "the people who",
+        "ig"
+      ],
+      [
+        "God give dem families of their own",
+        "God established families for them",
+        "pcm"
+      ]
+    ],
+    "22": [
+      [
+        "come give order",
+        "then gave an order",
+        "pcm"
+      ],
+      [
+        "vayetsav Pharaoh",
+        "Pharaoh commanded",
+        "he"
+      ],
+      [
+        "lekhol ammo",
+        "all his people",
+        "he"
+      ],
+      [
+        "seinem ganzen Volk",
+        "to all his people",
+        "de"
+      ],
+      [
+        "fún gbogbo ènìyàn rẹ̀",
+        "to all his people",
+        "yo"
+      ],
+      [
+        "Every boy wey dem born",
+        "every boy who is born",
+        "pcm"
+      ],
+      [
+        "kol habben hayyillod",
+        "every newborn son",
+        "he"
+      ],
+      [
+        "jeden neugeborenen Jungen",
+        "every newborn boy",
+        "de"
+      ],
+      [
+        "gbogbo ọmọkùnrin tí a bí",
+        "every boy who is born",
+        "yo"
+      ],
+      [
+        "make una throw am",
+        "throw him",
+        "pcm"
+      ],
+      [
+        "haye’orah",
+        "into the river",
+        "he"
+      ],
+      [
+        "in den Nil",
+        "into the Nile",
+        "de"
+      ],
+      [
+        "sínú odò Náílì",
+        "into the Nile",
+        "yo"
+      ],
+      [
+        "Make all the girls live",
+        "let every girl live",
+        "pcm"
+      ],
+      [
+        "vekhol habbat techayyun",
+        "and let every daughter live",
+        "he"
+      ],
+      [
+        "jedes Mädchen soll leben",
+        "every girl shall live",
+        "de"
+      ],
+      [
+        "ẹ jẹ́ kí gbogbo ọmọbìnrin wà láàyè",
+        "let every girl live",
+        "yo"
+      ],
+      [
+        "Faraó",
+        "Pharaoh",
+        "pt"
+      ]
+    ]
+  }
+};
 
 const chapterMeta={
 1:{title:"Creation · Light, sky, land, and life 🌅✨",verses:genesisOne},
@@ -3401,16 +5419,43 @@ const verseGlosses={
     26:[["Na so Joseph die","so Joseph died","pcm"],["vayyamot Yosef","and Joseph died","he"],["Josef starb","Joseph died","de"],["Jósẹ́fù kú","Joseph died","yo"],["when e reach","when he reached","pcm"],["ben me’ah va’eser shanim","one hundred ten years old","he"],["hundertzehn Jahre alt","one hundred ten years old","de"],["Dem come embalm am","they embalmed him","pcm"],["vayyachantu oto","and they embalmed him","he"],["sie balsamierten ihn ein","they embalmed him","de"],["wọ́n tọ́jú òkú rẹ̀","they prepared his body for burial","yo"],["Dem put am in","they put him in","pcm"],["aron","coffin","he"],["in einen Sarg","into a coffin","de"],["sínú pósí","into a coffin","yo"],["beMitsrayim","in Egypt","he"],["ní Íjíbítì","in Egypt","yo"],["ọmọ ọdún ọgọ́rùn-ún àti mẹ́wàá","one hundred ten years old","yo"],["wani","a","ha"]]
   }
 };
-let chapter=1,showSaved=false,font=18;
+const books={
+ GEN:{name:"Genesis",count:50,position:"01",chapters:chapterMeta,glosses:verseGlosses},
+ EXO:{name:"Exodus",count:40,position:"02",chapters:{1:{title:"Israel in Egypt",verses:exodusFirst}},glosses:exodusVerseGlosses}
+};
+let book="GEN",chapter=1,showSaved=false,font=18;
+const bookSelect=document.getElementById("book-select");
 const list=document.getElementById("verse-list"),grid=document.getElementById("chapter-grid"),toast=document.getElementById("toast");
-for(let n=1;n<=50;n++){const b=document.createElement("button");b.className="chbtn"+(chapterMeta[n]?" ready":"");b.textContent=n;b.setAttribute("aria-label",chapterMeta[n]?"Genesis chapter "+n+", published":"Genesis chapter "+n+", in editorial review");b.onclick=()=>openChapter(n);grid.append(b)}
+function buildChapterGrid(){
+ const current=books[book];
+ grid.replaceChildren();
+ grid.setAttribute("aria-label",current.name+" chapters");
+ for(let n=1;n<=current.count;n++){
+  const button=document.createElement("button");
+  const ready=Boolean(current.chapters[n]);
+  button.className="chbtn"+(ready?" ready":"");
+  button.textContent=n;
+  button.setAttribute("aria-label",current.name+" chapter "+n+(ready?", published":", in editorial review"));
+  button.onclick=()=>openChapter(n);
+  grid.append(button);
+ }
+ document.getElementById("book-name").textContent=current.name;
+ document.getElementById("book-crumb").textContent=current.name;
+ document.getElementById("book-position").textContent="Book "+current.position+" / 39";
+ document.getElementById("book-summary").textContent=current.name+" · "+current.count+" chapters";
+}
+bookSelect.onchange=()=>openChapter(1,bookSelect.value);
 function savedSet(){try{return new Set(JSON.parse(localStorage.getItem("adigun-saved")||"[]"))}catch{return new Set()}}
 function showToast(msg){toast.textContent=msg;toast.classList.add("show");setTimeout(()=>toast.classList.remove("show"),1900)}
-function render(){const data=chapterMeta[chapter];document.getElementById("chapter-heading").textContent="Genesis "+chapter;document.getElementById("chapter-subtitle").textContent=data?.title||"This chapter is being written and reviewed";document.getElementById("chapter-progress").textContent=data?data.verses.length+" / "+data.verses.length+" verses · Reviewed":"In editorial review";document.getElementById("chapter-count").textContent="Genesis · Chapter "+chapter+" of 50";document.getElementById("previous").disabled=chapter===1;document.getElementById("next").disabled=chapter===50;document.querySelectorAll(".chbtn").forEach((b,i)=>b.classList.toggle("active",i+1===chapter));
-if(!data){list.className="empty";list.innerHTML='<div class="emptyicon">📝</div><h3>We’re writing this chapter with care.</h3><p>Genesis '+chapter+' is part of the book’s 50-chapter structure. Its AdigunBible verses will appear here after they’re written and reviewed. No placeholder Scripture, no rushed lines.</p><div class="note">Now live: Genesis 1–12 · original Gen Z edition</div>';return}
-list.className="verses";const q=document.getElementById("search").value.trim().toLowerCase(),saved=savedSet();const items=data.verses.map((text,i)=>({text,n:i+1})).filter(v=>(!q||v.text.toLowerCase().includes(q))&&(!showSaved||saved.has("GEN."+chapter+"."+v.n)));
+function render(){const current=books[book],data=current.chapters[chapter];document.getElementById("chapter-heading").textContent=current.name+" "+chapter;document.title="AdigunBible — "+current.name+" "+chapter;document.getElementById("chapter-subtitle").textContent=data?.title||"This chapter is being written and reviewed";document.getElementById("chapter-progress").textContent=data?data.verses.length+" / "+data.verses.length+" verses · Reviewed":"In editorial review";document.getElementById("chapter-count").textContent=current.name+" · Chapter "+chapter+" of "+current.count;document.getElementById("previous").disabled=book==="GEN"&&chapter===1;document.getElementById("next").disabled=book==="EXO"&&chapter===current.count;document.querySelectorAll(".chbtn").forEach((b,i)=>b.classList.toggle("active",i+1===chapter));
+if(!data){
+ list.className="empty";
+ list.innerHTML='<h3>'+current.name+' '+chapter+' is in editorial review.</h3>';
+ return;
+}
+list.className="verses";const q=document.getElementById("search").value.trim().toLowerCase(),saved=savedSet();const items=data.verses.map((text,i)=>({text,n:i+1})).filter(v=>(!q||v.text.toLowerCase().includes(q))&&(!showSaved||saved.has(book+"."+chapter+"."+v.n)));
 if(!items.length){list.innerHTML='<div class="empty"><div class="emptyicon">🔎</div><h3>No verses found</h3><p>Try a different word'+(showSaved?' or save a verse first.':' in this chapter.')+'</p></div>';return}
-list.innerHTML=items.map(v=>'<div class="verse" id="v'+v.n+'"><span class="vnum">'+v.n+'</span><p class="vtext">'+renderVerseText(v.text,verseGlosses[chapter]?.[v.n])+'</p><button class="vaction '+(saved.has("GEN."+chapter+"."+v.n)?"saved":"")+'" title="Save verse" aria-label="Save Genesis '+chapter+":"+v.n+'" data-num="'+v.n+'">'+(saved.has("GEN."+chapter+"."+v.n)?"♥":"♡")+'</button></div>').join("");
+list.innerHTML=items.map(v=>'<div class="verse" id="v'+v.n+'"><span class="vnum">'+v.n+'</span><p class="vtext">'+renderVerseText(v.text,current.glosses[chapter]?.[v.n])+'</p><button class="vaction '+(saved.has(book+"."+chapter+"."+v.n)?"saved":"")+'" title="Save verse" aria-label="Save '+current.name+' '+chapter+":"+v.n+'" data-num="'+v.n+'">'+(saved.has(book+"."+chapter+"."+v.n)?"♥":"♡")+'</button></div>').join("");
 list.querySelectorAll(".vaction").forEach(btn=>btn.onclick=()=>toggleSave(+btn.dataset.num));
 }
 function escapeHtml(s){return s.replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
@@ -3437,14 +5482,17 @@ function renderVerseText(text, glosses){
   }
   return result+escapeHtml(text.slice(cursor));
 }
-function openChapter(n){chapter=n;showSaved=false;document.getElementById("bookmarks").textContent="♡ Saved";document.getElementById("search").value="";render();document.getElementById("reader").scrollIntoView({behavior:"smooth",block:"start"})}
-function toggleSave(n){const k="GEN."+chapter+"."+n,s=savedSet();s.has(k)?s.delete(k):s.add(k);localStorage.setItem("adigun-saved",JSON.stringify([...s]));showToast(s.has(k)?"Verse saved ♥":"Verse removed");render()}
+function openChapter(n,selected=book){
+ if(selected!==book){book=selected;bookSelect.value=book;buildChapterGrid();}
+ chapter=n;showSaved=false;document.getElementById("bookmarks").textContent="♡ Saved";document.getElementById("search").value="";render();document.getElementById("reader").scrollIntoView({behavior:"smooth",block:"start"})}
+function toggleSave(n){const k=book+"."+chapter+"."+n,s=savedSet();s.has(k)?s.delete(k):s.add(k);localStorage.setItem("adigun-saved",JSON.stringify([...s]));showToast(s.has(k)?"Verse saved ♥":"Verse removed");render()}
 document.getElementById("search").addEventListener("input",render);
 document.getElementById("bookmarks").onclick=()=>{showSaved=!showSaved;document.getElementById("bookmarks").textContent=showSaved?"♥ Saved":"♡ Saved";render()};
-document.getElementById("previous").onclick=()=>chapter>1&&openChapter(chapter-1);
-document.getElementById("next").onclick=()=>chapter<50&&openChapter(chapter+1);
+document.getElementById("previous").onclick=()=>{if(chapter>1)openChapter(chapter-1);else if(book==="EXO")openChapter(books.GEN.count,"GEN");};
+document.getElementById("next").onclick=()=>{if(chapter<books[book].count)openChapter(chapter+1);else if(book==="GEN")openChapter(1,"EXO");};
 document.getElementById("font-size").onclick=()=>{font=font>=22?16:font+2;document.querySelectorAll(".vtext").forEach(e=>e.style.fontSize=font+"px");showToast("Text size "+font+"px")};
 document.getElementById("theme").onclick=()=>{const light=document.body.dataset.theme!=="light";document.body.dataset.theme=light?"light":"dark";document.documentElement.style.setProperty("--bg",light?"#f2f2ed":"#0c1017");document.documentElement.style.setProperty("--panel",light?"#fff":"#121925");document.documentElement.style.setProperty("--panel2",light?"#e9ece5":"#182130");document.documentElement.style.setProperty("--ink",light?"#17202a":"#f3f5f7");document.documentElement.style.setProperty("--muted",light?"#596574":"#98a4b5");document.documentElement.style.setProperty("--line",light?"#d7dcd4":"#263142");document.querySelectorAll(".vtext").forEach(e=>e.style.color=light?"#1f2933":"#e9ebee");document.getElementById("theme").textContent=light?"☾":"☼"};
+buildChapterGrid();
 render();
 </script>
 </body>
