@@ -17637,9 +17637,2343 @@ const verseGlosses={
     26:[["Na so Joseph die","so Joseph died","pcm"],["vayyamot Yosef","and Joseph died","he"],["Josef starb","Joseph died","de"],["Jósẹ́fù kú","Joseph died","yo"],["when e reach","when he reached","pcm"],["ben me’ah va’eser shanim","one hundred ten years old","he"],["hundertzehn Jahre alt","one hundred ten years old","de"],["Dem come embalm am","they embalmed him","pcm"],["vayyachantu oto","and they embalmed him","he"],["sie balsamierten ihn ein","they embalmed him","de"],["wọ́n tọ́jú òkú rẹ̀","they prepared his body for burial","yo"],["Dem put am in","they put him in","pcm"],["aron","coffin","he"],["in einen Sarg","into a coffin","de"],["sínú pósí","into a coffin","yo"],["beMitsrayim","in Egypt","he"],["ní Íjíbítì","in Egypt","yo"],["ọmọ ọdún ọgọ́rùn-ún àti mẹ́wàá","one hundred ten years old","yo"],["wani","a","ha"]]
   }
 };
+const exodusSeventh=[
+  "Adonai🙏 come✨ tell✨ Mósè✨ direkt✨: “See👀 am✨, netattikha✨ ní✨ an✨ elohim🙏 für✨ Par’oh✨. Àti✨ your✨ own✨ bro🫶 Aharon✨ go✨ be✨ dein✨ wòlíì✨ dabei✨.”",
+  "“Make✨ you✨ tedabber✨ alles✨ wey✨ mo✨ tell✨ you✨ als✨ my✨ mitsvah✨. Then✨ your✨ bro🫶 Aharon✨ go✨ talk✨ sí✨ Par’oh✨, damit✨ e✨ go✨ send✨ àwọn🫶 ọmọ🫶 Yisrael✨ comot✨ aus✨ his✨ ilẹ̀🌍.”",
+  "“I✨ go✨ aqsheh🔥 das✨ lev✨ ti✨ Par’oh✨. Then✨ I✨ go✨ noch✨ mehr✨ make✨ my✨ otot👀 àti✨ my✨ moftim🔥 plenty✨ dort✨ ní✨ the✨ Land🌍 ti✨ Egypt🌍.”",
+  "“Aber✨ Par’oh✨ no✨ go✨ fetí✨ auf✨ una✨. So✨ I✨ go✨ lay✨ my✨ yad✨ lórí✨ Mitsrayim🌍. Then✨ I✨ go✨ jagoranci✨ my✨ troupes✨ out🕊️, my✨ own✨ ammi✨, the✨ ọmọ🫶 Yisrael✨, aus✨ Egypt🌍 durch✨ ìdájọ́🔥 dat✨ hit✨ hard✨.”",
+  "“Dem✨ go✨ yade’u✨, àwọn✨ ará✨ Mitsrayim🌍, sey✨ ani✨ be✨ der✨ LORD🙏, nígbà✨ I✨ go✨ stretch✨ my✨ yad✨ aus✨ lórí✨ Egypt🌍 und✨ bring✨ Israel’s✨ children🫶 comot🕊️ aus✨ àárín✨ them✨.”",
+  "Na✨ so✨ Moshe✨ àti✨ Aharon✨ take✨ do✨ am✨. Genau✨ wetin✨ Adonai🙏 pàṣẹ✨ ihnen✨, na✨ that✨ wọ́n✨ asu✨, so✨ gan-an✨ wie✨ befohlen✨.",
+  "See✨ am✨: Moshe✨ don✨ reach✨ achtzig✨ shanim✨ nígbà✨ they✨ come✨ talk✨ mit✨ Par’oh✨. Àti✨ Aharon✨ war✨ for✨ ọgọ́rin✨ plus✨ mẹ́ta✨ afọ✨.",
+  "Adonai🙏 come✨ sprach✨ fún✨ Moshe✨ und✨ Aharon✨. Na✨ so✨ ó✨ take✨ talk✨, hier✨ are✨ the✨ ọ̀rọ̀✨ here✨, rẹ̀✨, as✨ e✨ be✨ genau✨, lemor✨:",
+  "“If✨ e✨ reach✨ ìgbà✨ wey✨ Par’oh✨ go✨ tell✨ una✨, ‘Zeigt✨ us✨ a✨ mofet✨ pour✨ preuve✨,’ dann✨ sọ✨ zu✨ Aharon✨, ‘Make✨ you✨ take✨ your✨ matteh✨, fling✨ it✨ vor✨ Pharaoh✨, níwájú✨ of✨ him✨, and✨ it✨ go✨ turn✨ di✨ a✨ tannin✨.’”",
+  "Moshe✨ àti✨ Aharon✨ come✨ go✨ hinein✨ sí✨ Par’oh✨. Dem✨ do✨ am✨ genau✨ as✨ Adonai🙏 tell✨ dem✨. Aaron✨ fling✨ am✨ down✨, his✨ matteh✨, vor✨ Pharaoh✨ pẹ̀lú✨ his✨ Dienern✨. E✨ tun✨ di✨ a✨ tannin✨.",
+  "Par’oh✨ come✨ call✨ the✨ chachamim✨ àti✨ the✨ Zauberer✨. Na✨ so✨ the✨ chartumim✨ ti✨ Mitsrayim🌍 take✨ do✨ haka✨, auch✨, pẹ̀lú✨ their✨ eigenen✨ ìdán✨ wey✨ dem✨ use✨ dafür✨.",
+  "Each✨ man✨ ju✨ his✨ matteh✨ runter✨, and✨ dem✨ all✨ di✨ tanninim✨. Aber✨ Aharon✨ get✨ ọ̀pá✨ wey✨ einfach✨ loro✨ their✨ mattot✨ mọ́✨ komplett✨, all✨ of✨ dem✨.",
+  "Par’oh✨ come✨ get✨ ein✨ ọkàn✨ wey✨ chazaq✨. E✨ wollte✨ no✨ fetí✨ auf✨ wọn✨. Na✨ so✨ Adonai🙏 es✨ ti✨ dibber✨ antes✨.",
+  "Adonai🙏 come✨ tell✨ Mósè✨ direkt✨: “El✨ lev✨ ti✨ Par’oh✨ don✨ hart✨ strong✨, gan-an✨. E✨ no✨ gree✨ das✨ am✨ gehen✨ zu✨ lassen✨ jáde✨.”",
+  "“Go✨ meet✨ Par’oh✨ morgens✨. See✨ am✨, ó✨ go✨ come✨ out🕊️ zum✨ mayim✨. Make✨ you✨ stand✨ ní✨ etí✨ the✨ ye’or✨ und✨ dúró✨ fi✨ him✨. Nimm✨ the✨ matteh✨ wey✨ turn✨ di✨ a✨ nachash✨ in✨ your✨ hand✨.”",
+  "“Tell✨ am✨, ‘Adonai🙏, der✨ Elohei✨ the✨ àwọn✨ Ivrim✨, na✨ him✨ rán✨ me✨ zu✨ you✨ pẹ̀lú✨ queste✨ parole✨. Let✨ my✨ ammi✨ comot🕊️ damit✨ dem✨ fit✨ sìn✨ me✨ in✨ the✨ midbar✨. But✨ bis✨ jetzt✨ you✨ no✨ gree✨ gbọ́✨.’”",
+  "“Na✨ so✨ Adonai🙏 spricht✨: ‘Ní✨ this✨ you✨ go✨ teda✨ pé✨ ani✨ be✨ the✨ LORD🙏. See✨ am✨, mit✨ the✨ matteh✨ ní✨ my✨ yad✨, I✨ go✨ golpear✨ auf✨ the✨ mayim✨ im✨ river✨, and✨ dem✨ go✨ di✨ dam✨.’”",
+  "“Die✨ dagah✨ wey✨ dey✨ nú✨ the✨ ye’or✨ go✨ die✨. Odò✨ go✨ stinken✨, and✨ Mitsrayim🌍 no✨ go✨ fit✨ stand✨ to✨ mú✨ the✨ mayim✨ aus✨ inú✨ dem✨ river✨.’”",
+  "Adonai🙏 come✨ tell✨ Mósè✨, “Tell✨ Aharon✨ say✨: ‘Nimm✨ your✨ matteh✨ and✨ nà✨ your✨ yad✨ lórí✨ Egypt’s✨ waters✨, über✨ their✨ streams✨, fiumi🌍, agamim✨, àti✨ evri✨ pool✨ where✨ water✨ dey✨ gather✨. Make✨ dem✨ turn✨ zu✨ dam✨. Blood✨ go✨ dey✨ überall✨ ní✨ Egypt🌍, even✨ inside✨ récipients✨ of✨ igi✨ and✨ dutse✨.’”",
+  "Moshe✨ àti✨ Aharon✨ come✨ do✨ am✨ genau✨ as✨ Adonai🙏 tell✨ dem✨. Aaron✨ raise✨ am✨, the✨ matteh✨, y✨ golpeó✨ the✨ water✨ nínú✨ the✨ river✨, vor✨ Pharaoh✨ and✨ àwọn✨ serviteurs✨ of✨ his✨. Das✨ ganze✨ mayim✨ come✨ turn✨ di✨ dam✨ dort✨.",
+  "Dagah✨ wey✨ dey✨ nínú✨ the✨ ye’or✨ starben✨. Di✨ osimiri🌍 come✨ stank✨. Mitsrayim🌍 no✨ fit✨ mú✨ water✨ aus✨ odò✨, and✨ dam✨ dey✨ überall✨ ní✨ Egitto🌍.",
+  "Chartumim✨ ti✨ Mitsrayim🌍 come✨ do✨ the✨ same✨ mit✨ their✨ ìdán✨. But✨ e✨ be✨ say✨ Par’oh✨ still✨ get✨ ọkàn✨ wey✨ hart✨ finish✨. E✨ no✨ listen✨ auf✨ wọn✨, just✨ as✨ Adonai🙏 vorher✨ said✨.",
+  "Par’oh✨ come✨ turn✨ um✨ àti✨ he✨ waka✨ in✨ bayit✨ rẹ̀✨. So✨ e✨ kò✨ carry✨ auch✨ wannan✨ davar✨ zu✨ libbo✨ rárá✨.",
+  "Na✨ kol✨ the✨ people✨ ti✨ Mitsrayim🌍 wey✨ chafru✨ rund✨ etí✨ the✨ ye’or✨ nach✨ mayim✨ láti✨ ṅụọ✨. Dem✨ no✨ fit✨ trinken✨ láti✨ inú✨ the✨ river✨, as✨ e✨ be✨ dort✨.",
+  "Adonai🙏 don✨ hikkah✨ den✨ ye’or✨. Na✨ shiv’ah✨ ọjọ́✨ temimim✨ wey✨ danach✨ kún✨, reach✨ one✨ intera✨ Woche✨, ní✨ voller✨ ìwọ̀n✨."
+];
+const exodusSeventhGlosses={
+  "1": [
+    [
+      "Adonai",
+      "the LORD",
+      "he"
+    ],
+    [
+      "come tell",
+      "then told",
+      "pcm"
+    ],
+    [
+      "Mósè",
+      "Moses",
+      "yo"
+    ],
+    [
+      "direkt",
+      "directly",
+      "de"
+    ],
+    [
+      "See am",
+      "Look here",
+      "pcm"
+    ],
+    [
+      "netattikha",
+      "I have made you",
+      "he"
+    ],
+    [
+      "ní",
+      "into",
+      "yo"
+    ],
+    [
+      "elohim",
+      "god",
+      "he"
+    ],
+    [
+      "für",
+      "to",
+      "de"
+    ],
+    [
+      "Par’oh",
+      "Pharaoh",
+      "he"
+    ],
+    [
+      "Àti",
+      "And",
+      "yo"
+    ],
+    [
+      "your own bro",
+      "your brother",
+      "pcm"
+    ],
+    [
+      "Aharon",
+      "Aaron",
+      "he"
+    ],
+    [
+      "go be",
+      "will be",
+      "pcm"
+    ],
+    [
+      "dein",
+      "your",
+      "de"
+    ],
+    [
+      "wòlíì",
+      "prophet",
+      "yo"
+    ],
+    [
+      "dabei",
+      "in this",
+      "de"
+    ]
+  ],
+  "2": [
+    [
+      "Make you",
+      "You must",
+      "pcm"
+    ],
+    [
+      "tedabber",
+      "speak",
+      "he"
+    ],
+    [
+      "alles",
+      "everything",
+      "de"
+    ],
+    [
+      "wey",
+      "that",
+      "pcm"
+    ],
+    [
+      "mo",
+      "I",
+      "yo"
+    ],
+    [
+      "als",
+      "as",
+      "de"
+    ],
+    [
+      "mitsvah",
+      "command",
+      "he"
+    ],
+    [
+      "your bro",
+      "your brother",
+      "pcm"
+    ],
+    [
+      "Aharon",
+      "Aaron",
+      "he"
+    ],
+    [
+      "go talk",
+      "will speak",
+      "pcm"
+    ],
+    [
+      "sí",
+      "to",
+      "yo"
+    ],
+    [
+      "Par’oh",
+      "Pharaoh",
+      "he"
+    ],
+    [
+      "damit",
+      "so that",
+      "de"
+    ],
+    [
+      "àwọn ọmọ",
+      "the children of",
+      "yo"
+    ],
+    [
+      "Yisrael",
+      "Israel",
+      "he"
+    ],
+    [
+      "comot",
+      "out",
+      "pcm"
+    ],
+    [
+      "aus",
+      "from",
+      "de"
+    ],
+    [
+      "ilẹ̀",
+      "land",
+      "yo"
+    ]
+  ],
+  "3": [
+    [
+      "I go",
+      "I will",
+      "pcm"
+    ],
+    [
+      "aqsheh",
+      "harden",
+      "he"
+    ],
+    [
+      "das",
+      "the",
+      "de"
+    ],
+    [
+      "lev",
+      "heart",
+      "he"
+    ],
+    [
+      "ti",
+      "of",
+      "yo"
+    ],
+    [
+      "Par’oh",
+      "Pharaoh",
+      "he"
+    ],
+    [
+      "Then I go",
+      "Then I will",
+      "pcm"
+    ],
+    [
+      "noch mehr",
+      "even more",
+      "de"
+    ],
+    [
+      "make",
+      "cause",
+      "pcm"
+    ],
+    [
+      "otot",
+      "signs",
+      "he"
+    ],
+    [
+      "àti",
+      "and",
+      "yo"
+    ],
+    [
+      "moftim",
+      "wonders",
+      "he"
+    ],
+    [
+      "plenty",
+      "increase",
+      "pcm"
+    ],
+    [
+      "dort",
+      "there",
+      "de"
+    ],
+    [
+      "ní",
+      "in",
+      "yo"
+    ],
+    [
+      "Land",
+      "land",
+      "de"
+    ],
+    [
+      "ti",
+      "of",
+      "yo"
+    ]
+  ],
+  "4": [
+    [
+      "Aber",
+      "But",
+      "de"
+    ],
+    [
+      "Par’oh",
+      "Pharaoh",
+      "he"
+    ],
+    [
+      "no go",
+      "will not",
+      "pcm"
+    ],
+    [
+      "fetí",
+      "listen",
+      "yo"
+    ],
+    [
+      "auf",
+      "to",
+      "de"
+    ],
+    [
+      "una",
+      "you both",
+      "pcm"
+    ],
+    [
+      "I go",
+      "I will",
+      "pcm"
+    ],
+    [
+      "yad",
+      "hand",
+      "he"
+    ],
+    [
+      "lórí",
+      "upon",
+      "yo"
+    ],
+    [
+      "Mitsrayim",
+      "Egypt",
+      "he"
+    ],
+    [
+      "Then I go",
+      "Then I will",
+      "pcm"
+    ],
+    [
+      "ammi",
+      "people",
+      "he"
+    ],
+    [
+      "ọmọ",
+      "children of",
+      "yo"
+    ],
+    [
+      "Yisrael",
+      "Israel",
+      "he"
+    ],
+    [
+      "aus",
+      "out of",
+      "de"
+    ],
+    [
+      "durch",
+      "through",
+      "de"
+    ],
+    [
+      "ìdájọ́",
+      "judgments",
+      "yo"
+    ],
+    [
+      "troupes",
+      "troops",
+      "fr"
+    ],
+    [
+      "jagoranci",
+      "lead",
+      "ha"
+    ],
+    [
+      "dat hit hard",
+      "that hit hard",
+      "jam"
+    ]
+  ],
+  "5": [
+    [
+      "Dem go",
+      "They will",
+      "pcm"
+    ],
+    [
+      "yade’u",
+      "know",
+      "he"
+    ],
+    [
+      "àwọn ará",
+      "the people of",
+      "yo"
+    ],
+    [
+      "Mitsrayim",
+      "Egypt",
+      "he"
+    ],
+    [
+      "sey",
+      "that",
+      "pcm"
+    ],
+    [
+      "ani",
+      "I",
+      "he"
+    ],
+    [
+      "der",
+      "the",
+      "de"
+    ],
+    [
+      "nígbà",
+      "when",
+      "yo"
+    ],
+    [
+      "I go",
+      "I will",
+      "pcm"
+    ],
+    [
+      "yad",
+      "hand",
+      "he"
+    ],
+    [
+      "aus",
+      "out",
+      "de"
+    ],
+    [
+      "lórí",
+      "over",
+      "yo"
+    ],
+    [
+      "und",
+      "and",
+      "de"
+    ],
+    [
+      "comot",
+      "out",
+      "pcm"
+    ],
+    [
+      "aus",
+      "from",
+      "de"
+    ],
+    [
+      "àárín",
+      "among",
+      "yo"
+    ],
+    [
+      "be",
+      "am",
+      "pcm"
+    ]
+  ],
+  "6": [
+    [
+      "Na so",
+      "That is how",
+      "pcm"
+    ],
+    [
+      "Moshe",
+      "Moses",
+      "he"
+    ],
+    [
+      "àti",
+      "and",
+      "yo"
+    ],
+    [
+      "Aharon",
+      "Aaron",
+      "he"
+    ],
+    [
+      "take do am",
+      "did it",
+      "pcm"
+    ],
+    [
+      "Genau",
+      "Exactly",
+      "de"
+    ],
+    [
+      "wetin",
+      "what",
+      "pcm"
+    ],
+    [
+      "Adonai",
+      "the LORD",
+      "he"
+    ],
+    [
+      "pàṣẹ",
+      "commanded",
+      "yo"
+    ],
+    [
+      "ihnen",
+      "them",
+      "de"
+    ],
+    [
+      "na that",
+      "that is what",
+      "pcm"
+    ],
+    [
+      "wọ́n",
+      "they",
+      "yo"
+    ],
+    [
+      "asu",
+      "did",
+      "he"
+    ],
+    [
+      "so",
+      "just so",
+      "de"
+    ],
+    [
+      "gan-an",
+      "indeed",
+      "yo"
+    ],
+    [
+      "wie befohlen",
+      "as commanded",
+      "de"
+    ]
+  ],
+  "7": [
+    [
+      "See am",
+      "Here it is",
+      "pcm"
+    ],
+    [
+      "Moshe",
+      "Moses",
+      "he"
+    ],
+    [
+      "don reach",
+      "had reached",
+      "pcm"
+    ],
+    [
+      "achtzig",
+      "eighty",
+      "de"
+    ],
+    [
+      "shanim",
+      "years",
+      "he"
+    ],
+    [
+      "nígbà",
+      "when",
+      "yo"
+    ],
+    [
+      "come talk",
+      "spoke",
+      "pcm"
+    ],
+    [
+      "mit",
+      "with",
+      "de"
+    ],
+    [
+      "Par’oh",
+      "Pharaoh",
+      "he"
+    ],
+    [
+      "Àti",
+      "And",
+      "yo"
+    ],
+    [
+      "Aharon",
+      "Aaron",
+      "he"
+    ],
+    [
+      "war",
+      "was",
+      "de"
+    ],
+    [
+      "for",
+      "at",
+      "pcm"
+    ],
+    [
+      "ọgọ́rin",
+      "eighty",
+      "yo"
+    ],
+    [
+      "plus",
+      "plus",
+      "de"
+    ],
+    [
+      "mẹ́ta",
+      "three",
+      "yo"
+    ],
+    [
+      "afọ",
+      "years",
+      "ig"
+    ]
+  ],
+  "8": [
+    [
+      "Adonai",
+      "the LORD",
+      "he"
+    ],
+    [
+      "come",
+      "then",
+      "pcm"
+    ],
+    [
+      "sprach",
+      "spoke",
+      "de"
+    ],
+    [
+      "fún",
+      "to",
+      "yo"
+    ],
+    [
+      "Moshe",
+      "Moses",
+      "he"
+    ],
+    [
+      "und",
+      "and",
+      "de"
+    ],
+    [
+      "Aharon",
+      "Aaron",
+      "he"
+    ],
+    [
+      "Na so",
+      "This is how",
+      "pcm"
+    ],
+    [
+      "ó",
+      "he",
+      "yo"
+    ],
+    [
+      "take talk",
+      "spoke",
+      "pcm"
+    ],
+    [
+      "hier",
+      "here",
+      "de"
+    ],
+    [
+      "ọ̀rọ̀",
+      "words",
+      "yo"
+    ],
+    [
+      "rẹ̀",
+      "his",
+      "yo"
+    ],
+    [
+      "as e be",
+      "as given",
+      "pcm"
+    ],
+    [
+      "genau",
+      "exactly",
+      "de"
+    ],
+    [
+      "lemor",
+      "saying",
+      "he"
+    ]
+  ],
+  "9": [
+    [
+      "If e reach",
+      "When it comes to",
+      "pcm"
+    ],
+    [
+      "ìgbà",
+      "the time",
+      "yo"
+    ],
+    [
+      "wey",
+      "when",
+      "pcm"
+    ],
+    [
+      "Par’oh",
+      "Pharaoh",
+      "he"
+    ],
+    [
+      "go tell una",
+      "tells you both",
+      "pcm"
+    ],
+    [
+      "Zeigt",
+      "Show",
+      "de"
+    ],
+    [
+      "mofet",
+      "miracle",
+      "he"
+    ],
+    [
+      "dann",
+      "then",
+      "de"
+    ],
+    [
+      "sọ",
+      "say",
+      "yo"
+    ],
+    [
+      "zu",
+      "to",
+      "de"
+    ],
+    [
+      "Aharon",
+      "Aaron",
+      "he"
+    ],
+    [
+      "Make you",
+      "You must",
+      "pcm"
+    ],
+    [
+      "matteh",
+      "staff",
+      "he"
+    ],
+    [
+      "vor",
+      "before",
+      "de"
+    ],
+    [
+      "níwájú",
+      "in front",
+      "yo"
+    ],
+    [
+      "go turn",
+      "will turn",
+      "pcm"
+    ],
+    [
+      "di",
+      "into",
+      "yo"
+    ],
+    [
+      "tannin",
+      "serpent",
+      "he"
+    ],
+    [
+      "pour preuve",
+      "as proof",
+      "fr"
+    ]
+  ],
+  "10": [
+    [
+      "Moshe",
+      "Moses",
+      "he"
+    ],
+    [
+      "àti",
+      "and",
+      "yo"
+    ],
+    [
+      "Aharon",
+      "Aaron",
+      "he"
+    ],
+    [
+      "come go",
+      "went in",
+      "pcm"
+    ],
+    [
+      "hinein",
+      "inside",
+      "de"
+    ],
+    [
+      "sí",
+      "to",
+      "yo"
+    ],
+    [
+      "Par’oh",
+      "Pharaoh",
+      "he"
+    ],
+    [
+      "Dem do am",
+      "They did it",
+      "pcm"
+    ],
+    [
+      "genau",
+      "exactly",
+      "de"
+    ],
+    [
+      "Adonai",
+      "the LORD",
+      "he"
+    ],
+    [
+      "tell dem",
+      "told them",
+      "pcm"
+    ],
+    [
+      "fling am down",
+      "threw it down",
+      "pcm"
+    ],
+    [
+      "matteh",
+      "staff",
+      "he"
+    ],
+    [
+      "vor",
+      "before",
+      "de"
+    ],
+    [
+      "pẹ̀lú",
+      "along with",
+      "yo"
+    ],
+    [
+      "Dienern",
+      "servants",
+      "de"
+    ],
+    [
+      "di",
+      "into the form of",
+      "yo"
+    ],
+    [
+      "tannin",
+      "serpent",
+      "he"
+    ],
+    [
+      "tun",
+      "turned",
+      "jam"
+    ]
+  ],
+  "11": [
+    [
+      "Par’oh",
+      "Pharaoh",
+      "he"
+    ],
+    [
+      "come call",
+      "then summoned",
+      "pcm"
+    ],
+    [
+      "chachamim",
+      "wise men",
+      "he"
+    ],
+    [
+      "àti",
+      "and",
+      "yo"
+    ],
+    [
+      "Zauberer",
+      "sorcerers",
+      "de"
+    ],
+    [
+      "Na so",
+      "And so",
+      "pcm"
+    ],
+    [
+      "chartumim",
+      "magicians",
+      "he"
+    ],
+    [
+      "ti",
+      "of",
+      "yo"
+    ],
+    [
+      "Mitsrayim",
+      "Egypt",
+      "he"
+    ],
+    [
+      "take do",
+      "did",
+      "pcm"
+    ],
+    [
+      "auch",
+      "too",
+      "de"
+    ],
+    [
+      "pẹ̀lú",
+      "with",
+      "yo"
+    ],
+    [
+      "eigenen",
+      "own",
+      "de"
+    ],
+    [
+      "ìdán",
+      "magic",
+      "yo"
+    ],
+    [
+      "wey dem use",
+      "that they performed",
+      "pcm"
+    ],
+    [
+      "dafür",
+      "for it",
+      "de"
+    ],
+    [
+      "haka",
+      "the same way",
+      "ha"
+    ]
+  ],
+  "12": [
+    [
+      "Each man",
+      "Each one",
+      "pcm"
+    ],
+    [
+      "ju",
+      "threw",
+      "yo"
+    ],
+    [
+      "matteh",
+      "staff",
+      "he"
+    ],
+    [
+      "runter",
+      "down",
+      "de"
+    ],
+    [
+      "and dem",
+      "and they",
+      "pcm"
+    ],
+    [
+      "di",
+      "became",
+      "yo"
+    ],
+    [
+      "tanninim",
+      "serpents",
+      "he"
+    ],
+    [
+      "Aber",
+      "But",
+      "de"
+    ],
+    [
+      "Aharon",
+      "Aaron",
+      "he"
+    ],
+    [
+      "ọ̀pá",
+      "a staff",
+      "yo"
+    ],
+    [
+      "wey",
+      "that",
+      "pcm"
+    ],
+    [
+      "einfach",
+      "straight up",
+      "de"
+    ],
+    [
+      "mattot",
+      "staffs",
+      "he"
+    ],
+    [
+      "mọ́",
+      "up",
+      "yo"
+    ],
+    [
+      "komplett",
+      "completely",
+      "de"
+    ],
+    [
+      "all of dem",
+      "all of them",
+      "pcm"
+    ],
+    [
+      "loro",
+      "swallowed",
+      "ig"
+    ]
+  ],
+  "13": [
+    [
+      "Par’oh",
+      "Pharaoh",
+      "he"
+    ],
+    [
+      "come get",
+      "then got",
+      "pcm"
+    ],
+    [
+      "ein",
+      "a",
+      "de"
+    ],
+    [
+      "ọkàn",
+      "heart",
+      "yo"
+    ],
+    [
+      "chazaq",
+      "hardened",
+      "he"
+    ],
+    [
+      "E",
+      "He",
+      "pcm"
+    ],
+    [
+      "wollte",
+      "would",
+      "de"
+    ],
+    [
+      "no",
+      "not",
+      "pcm"
+    ],
+    [
+      "fetí",
+      "listen",
+      "yo"
+    ],
+    [
+      "auf",
+      "to",
+      "de"
+    ],
+    [
+      "wọn",
+      "them",
+      "yo"
+    ],
+    [
+      "Na so",
+      "That is how",
+      "pcm"
+    ],
+    [
+      "Adonai",
+      "the LORD",
+      "he"
+    ],
+    [
+      "es",
+      "it",
+      "de"
+    ],
+    [
+      "ti",
+      "had",
+      "yo"
+    ],
+    [
+      "dibber",
+      "spoken",
+      "he"
+    ],
+    [
+      "antes",
+      "before",
+      "es"
+    ]
+  ],
+  "14": [
+    [
+      "Adonai",
+      "the LORD",
+      "he"
+    ],
+    [
+      "come tell",
+      "then told",
+      "pcm"
+    ],
+    [
+      "Mósè",
+      "Moses",
+      "yo"
+    ],
+    [
+      "direkt",
+      "directly",
+      "de"
+    ],
+    [
+      "lev",
+      "heart",
+      "he"
+    ],
+    [
+      "ti",
+      "of",
+      "yo"
+    ],
+    [
+      "Par’oh",
+      "Pharaoh",
+      "he"
+    ],
+    [
+      "don",
+      "has",
+      "pcm"
+    ],
+    [
+      "hart",
+      "hard",
+      "de"
+    ],
+    [
+      "strong",
+      "become firm",
+      "pcm"
+    ],
+    [
+      "gan-an",
+      "indeed",
+      "yo"
+    ],
+    [
+      "E no gree",
+      "He refuses",
+      "pcm"
+    ],
+    [
+      "das",
+      "the",
+      "de"
+    ],
+    [
+      "am",
+      "people",
+      "he"
+    ],
+    [
+      "gehen zu lassen",
+      "to let go",
+      "de"
+    ],
+    [
+      "jáde",
+      "out",
+      "yo"
+    ],
+    [
+      "El",
+      "the",
+      "es"
+    ]
+  ],
+  "15": [
+    [
+      "Go meet",
+      "Go to",
+      "pcm"
+    ],
+    [
+      "Par’oh",
+      "Pharaoh",
+      "he"
+    ],
+    [
+      "morgens",
+      "in the morning",
+      "de"
+    ],
+    [
+      "See am",
+      "Watch",
+      "pcm"
+    ],
+    [
+      "ó",
+      "he",
+      "yo"
+    ],
+    [
+      "go come out",
+      "will go out",
+      "pcm"
+    ],
+    [
+      "zum",
+      "to the",
+      "de"
+    ],
+    [
+      "mayim",
+      "water",
+      "he"
+    ],
+    [
+      "Make you",
+      "You must",
+      "pcm"
+    ],
+    [
+      "ní etí",
+      "at the edge of",
+      "yo"
+    ],
+    [
+      "ye’or",
+      "Nile",
+      "he"
+    ],
+    [
+      "und",
+      "and",
+      "de"
+    ],
+    [
+      "dúró",
+      "wait",
+      "yo"
+    ],
+    [
+      "Nimm",
+      "Take",
+      "de"
+    ],
+    [
+      "matteh",
+      "staff",
+      "he"
+    ],
+    [
+      "di",
+      "into",
+      "yo"
+    ],
+    [
+      "nachash",
+      "snake",
+      "he"
+    ],
+    [
+      "fi him",
+      "for him",
+      "jam"
+    ]
+  ],
+  "16": [
+    [
+      "Tell am",
+      "Tell him",
+      "pcm"
+    ],
+    [
+      "Adonai",
+      "the LORD",
+      "he"
+    ],
+    [
+      "der",
+      "the",
+      "de"
+    ],
+    [
+      "Elohei",
+      "God of",
+      "he"
+    ],
+    [
+      "àwọn",
+      "people called",
+      "yo"
+    ],
+    [
+      "Ivrim",
+      "Hebrews",
+      "he"
+    ],
+    [
+      "na him",
+      "he is the one who",
+      "pcm"
+    ],
+    [
+      "rán",
+      "sent",
+      "yo"
+    ],
+    [
+      "zu",
+      "to",
+      "de"
+    ],
+    [
+      "pẹ̀lú",
+      "with",
+      "yo"
+    ],
+    [
+      "ammi",
+      "people",
+      "he"
+    ],
+    [
+      "comot",
+      "leave",
+      "pcm"
+    ],
+    [
+      "damit",
+      "so that",
+      "de"
+    ],
+    [
+      "sìn",
+      "serve",
+      "yo"
+    ],
+    [
+      "midbar",
+      "wilderness",
+      "he"
+    ],
+    [
+      "bis jetzt",
+      "up to now",
+      "de"
+    ],
+    [
+      "you no gree",
+      "you refuse",
+      "pcm"
+    ],
+    [
+      "gbọ́",
+      "to listen",
+      "yo"
+    ],
+    [
+      "queste parole",
+      "these words",
+      "it"
+    ]
+  ],
+  "17": [
+    [
+      "Na so",
+      "This is how",
+      "pcm"
+    ],
+    [
+      "Adonai",
+      "the LORD",
+      "he"
+    ],
+    [
+      "spricht",
+      "speaks",
+      "de"
+    ],
+    [
+      "Ní",
+      "By",
+      "yo"
+    ],
+    [
+      "you go",
+      "you will",
+      "pcm"
+    ],
+    [
+      "teda",
+      "know",
+      "he"
+    ],
+    [
+      "pé",
+      "that",
+      "yo"
+    ],
+    [
+      "ani",
+      "I",
+      "he"
+    ],
+    [
+      "See am",
+      "Watch",
+      "pcm"
+    ],
+    [
+      "mit",
+      "with",
+      "de"
+    ],
+    [
+      "matteh",
+      "staff",
+      "he"
+    ],
+    [
+      "ní",
+      "in",
+      "yo"
+    ],
+    [
+      "yad",
+      "hand",
+      "he"
+    ],
+    [
+      "I go",
+      "I will",
+      "pcm"
+    ],
+    [
+      "auf",
+      "upon",
+      "de"
+    ],
+    [
+      "mayim",
+      "waters",
+      "he"
+    ],
+    [
+      "im",
+      "in the",
+      "de"
+    ],
+    [
+      "di",
+      "turn into",
+      "yo"
+    ],
+    [
+      "dam",
+      "blood",
+      "he"
+    ],
+    [
+      "golpear",
+      "strike",
+      "es"
+    ],
+    [
+      "be",
+      "am",
+      "pcm"
+    ]
+  ],
+  "18": [
+    [
+      "Die",
+      "The",
+      "de"
+    ],
+    [
+      "dagah",
+      "fish",
+      "he"
+    ],
+    [
+      "wey dey",
+      "that are",
+      "pcm"
+    ],
+    [
+      "nú",
+      "in",
+      "yo"
+    ],
+    [
+      "ye’or",
+      "Nile",
+      "he"
+    ],
+    [
+      "go die",
+      "will die",
+      "pcm"
+    ],
+    [
+      "Odò",
+      "The river",
+      "yo"
+    ],
+    [
+      "go",
+      "will",
+      "pcm"
+    ],
+    [
+      "stinken",
+      "stink",
+      "de"
+    ],
+    [
+      "Mitsrayim",
+      "the Egyptians",
+      "he"
+    ],
+    [
+      "no go fit stand",
+      "will loathe",
+      "pcm"
+    ],
+    [
+      "mú",
+      "drink",
+      "yo"
+    ],
+    [
+      "mayim",
+      "water",
+      "he"
+    ],
+    [
+      "aus",
+      "from",
+      "de"
+    ],
+    [
+      "inú",
+      "inside",
+      "yo"
+    ],
+    [
+      "dem",
+      "the",
+      "de"
+    ]
+  ],
+  "19": [
+    [
+      "Adonai",
+      "the LORD",
+      "he"
+    ],
+    [
+      "come tell",
+      "then told",
+      "pcm"
+    ],
+    [
+      "Mósè",
+      "Moses",
+      "yo"
+    ],
+    [
+      "Tell",
+      "tell",
+      "pcm"
+    ],
+    [
+      "Aharon",
+      "Aaron",
+      "he"
+    ],
+    [
+      "Nimm",
+      "Take",
+      "de"
+    ],
+    [
+      "matteh",
+      "staff",
+      "he"
+    ],
+    [
+      "nà",
+      "stretch",
+      "yo"
+    ],
+    [
+      "yad",
+      "hand",
+      "he"
+    ],
+    [
+      "lórí",
+      "over",
+      "yo"
+    ],
+    [
+      "über",
+      "over",
+      "de"
+    ],
+    [
+      "agamim",
+      "ponds",
+      "he"
+    ],
+    [
+      "àti",
+      "and",
+      "yo"
+    ],
+    [
+      "Make dem",
+      "Let them",
+      "pcm"
+    ],
+    [
+      "zu",
+      "to",
+      "de"
+    ],
+    [
+      "dam",
+      "blood",
+      "he"
+    ],
+    [
+      "überall",
+      "everywhere",
+      "de"
+    ],
+    [
+      "ní",
+      "in",
+      "yo"
+    ],
+    [
+      "even inside",
+      "including in",
+      "pcm"
+    ],
+    [
+      "igi",
+      "wood",
+      "yo"
+    ],
+    [
+      "récipients",
+      "containers",
+      "fr"
+    ],
+    [
+      "dutse",
+      "stone",
+      "ha"
+    ],
+    [
+      "evri pool",
+      "every pool",
+      "jam"
+    ],
+    [
+      "fiumi",
+      "rivers",
+      "it"
+    ],
+    [
+      "say",
+      "that",
+      "pcm"
+    ]
+  ],
+  "20": [
+    [
+      "Moshe",
+      "Moses",
+      "he"
+    ],
+    [
+      "àti",
+      "and",
+      "yo"
+    ],
+    [
+      "Aharon",
+      "Aaron",
+      "he"
+    ],
+    [
+      "come do am",
+      "did it",
+      "pcm"
+    ],
+    [
+      "genau",
+      "exactly",
+      "de"
+    ],
+    [
+      "Adonai",
+      "the LORD",
+      "he"
+    ],
+    [
+      "tell dem",
+      "commanded them",
+      "pcm"
+    ],
+    [
+      "raise am",
+      "lifted it",
+      "pcm"
+    ],
+    [
+      "matteh",
+      "staff",
+      "he"
+    ],
+    [
+      "nínú",
+      "in",
+      "yo"
+    ],
+    [
+      "vor",
+      "in front of",
+      "de"
+    ],
+    [
+      "àwọn",
+      "the plural marker",
+      "yo"
+    ],
+    [
+      "Das ganze",
+      "All the",
+      "de"
+    ],
+    [
+      "mayim",
+      "water",
+      "he"
+    ],
+    [
+      "come turn",
+      "turned",
+      "pcm"
+    ],
+    [
+      "di",
+      "into",
+      "yo"
+    ],
+    [
+      "dam",
+      "blood",
+      "he"
+    ],
+    [
+      "dort",
+      "there",
+      "de"
+    ],
+    [
+      "serviteurs",
+      "servants",
+      "fr"
+    ],
+    [
+      "y golpeó",
+      "and struck",
+      "es"
+    ]
+  ],
+  "21": [
+    [
+      "Dagah",
+      "The fish",
+      "he"
+    ],
+    [
+      "wey dey",
+      "that were",
+      "pcm"
+    ],
+    [
+      "nínú",
+      "in",
+      "yo"
+    ],
+    [
+      "ye’or",
+      "Nile",
+      "he"
+    ],
+    [
+      "starben",
+      "died",
+      "de"
+    ],
+    [
+      "Di",
+      "The",
+      "pcm"
+    ],
+    [
+      "come",
+      "then",
+      "pcm"
+    ],
+    [
+      "stank",
+      "stank",
+      "de"
+    ],
+    [
+      "Mitsrayim",
+      "The Egyptians",
+      "he"
+    ],
+    [
+      "no fit",
+      "could not",
+      "pcm"
+    ],
+    [
+      "mú",
+      "drink",
+      "yo"
+    ],
+    [
+      "aus",
+      "from",
+      "de"
+    ],
+    [
+      "odò",
+      "the river",
+      "yo"
+    ],
+    [
+      "dam",
+      "blood",
+      "he"
+    ],
+    [
+      "dey",
+      "was",
+      "pcm"
+    ],
+    [
+      "überall",
+      "everywhere",
+      "de"
+    ],
+    [
+      "ní",
+      "in",
+      "yo"
+    ],
+    [
+      "osimiri",
+      "river",
+      "ig"
+    ],
+    [
+      "Egitto",
+      "Egypt",
+      "it"
+    ]
+  ],
+  "22": [
+    [
+      "Chartumim",
+      "The magicians",
+      "he"
+    ],
+    [
+      "ti",
+      "of",
+      "yo"
+    ],
+    [
+      "Mitsrayim",
+      "Egypt",
+      "he"
+    ],
+    [
+      "come do",
+      "did",
+      "pcm"
+    ],
+    [
+      "mit",
+      "with",
+      "de"
+    ],
+    [
+      "ìdán",
+      "spells",
+      "yo"
+    ],
+    [
+      "But e be say",
+      "But",
+      "pcm"
+    ],
+    [
+      "Par’oh",
+      "Pharaoh",
+      "he"
+    ],
+    [
+      "ọkàn",
+      "a heart",
+      "yo"
+    ],
+    [
+      "wey",
+      "that",
+      "pcm"
+    ],
+    [
+      "hart",
+      "hard",
+      "de"
+    ],
+    [
+      "E no",
+      "He did not",
+      "pcm"
+    ],
+    [
+      "auf",
+      "to",
+      "de"
+    ],
+    [
+      "wọn",
+      "them",
+      "yo"
+    ],
+    [
+      "Adonai",
+      "the LORD",
+      "he"
+    ],
+    [
+      "vorher",
+      "beforehand",
+      "de"
+    ]
+  ],
+  "23": [
+    [
+      "Par’oh",
+      "Pharaoh",
+      "he"
+    ],
+    [
+      "come turn",
+      "turned away",
+      "pcm"
+    ],
+    [
+      "um",
+      "around",
+      "de"
+    ],
+    [
+      "àti",
+      "and",
+      "yo"
+    ],
+    [
+      "waka",
+      "went",
+      "pcm"
+    ],
+    [
+      "in",
+      "into",
+      "de"
+    ],
+    [
+      "bayit",
+      "house",
+      "he"
+    ],
+    [
+      "rẹ̀",
+      "his",
+      "yo"
+    ],
+    [
+      "So e",
+      "And he",
+      "pcm"
+    ],
+    [
+      "kò",
+      "did not",
+      "yo"
+    ],
+    [
+      "carry",
+      "take",
+      "pcm"
+    ],
+    [
+      "auch",
+      "even",
+      "de"
+    ],
+    [
+      "davar",
+      "matter",
+      "he"
+    ],
+    [
+      "zu",
+      "to",
+      "de"
+    ],
+    [
+      "libbo",
+      "his heart",
+      "he"
+    ],
+    [
+      "rárá",
+      "at all",
+      "yo"
+    ],
+    [
+      "wannan",
+      "this",
+      "ha"
+    ]
+  ],
+  "24": [
+    [
+      "Na",
+      "It was",
+      "pcm"
+    ],
+    [
+      "kol",
+      "all",
+      "he"
+    ],
+    [
+      "ti",
+      "of",
+      "yo"
+    ],
+    [
+      "Mitsrayim",
+      "Egypt",
+      "he"
+    ],
+    [
+      "wey",
+      "who",
+      "pcm"
+    ],
+    [
+      "chafru",
+      "dug",
+      "he"
+    ],
+    [
+      "rund",
+      "around",
+      "de"
+    ],
+    [
+      "etí",
+      "the bank of",
+      "yo"
+    ],
+    [
+      "ye’or",
+      "Nile",
+      "he"
+    ],
+    [
+      "nach",
+      "in search of",
+      "de"
+    ],
+    [
+      "mayim",
+      "water",
+      "he"
+    ],
+    [
+      "láti",
+      "to",
+      "yo"
+    ],
+    [
+      "Dem no fit",
+      "They could not",
+      "pcm"
+    ],
+    [
+      "trinken",
+      "drink",
+      "de"
+    ],
+    [
+      "láti inú",
+      "from inside",
+      "yo"
+    ],
+    [
+      "as e be",
+      "in that state",
+      "pcm"
+    ],
+    [
+      "dort",
+      "there",
+      "de"
+    ],
+    [
+      "ṅụọ",
+      "drink",
+      "ig"
+    ]
+  ],
+  "25": [
+    [
+      "Adonai",
+      "The LORD",
+      "he"
+    ],
+    [
+      "don",
+      "had",
+      "pcm"
+    ],
+    [
+      "hikkah",
+      "struck",
+      "he"
+    ],
+    [
+      "ye’or",
+      "Nile",
+      "he"
+    ],
+    [
+      "Na",
+      "It was",
+      "pcm"
+    ],
+    [
+      "shiv’ah",
+      "seven",
+      "he"
+    ],
+    [
+      "ọjọ́",
+      "days",
+      "yo"
+    ],
+    [
+      "temimim",
+      "complete",
+      "he"
+    ],
+    [
+      "wey",
+      "that",
+      "pcm"
+    ],
+    [
+      "danach",
+      "after that",
+      "de"
+    ],
+    [
+      "kún",
+      "ran their full course",
+      "yo"
+    ],
+    [
+      "reach",
+      "adding up to",
+      "pcm"
+    ],
+    [
+      "Woche",
+      "week",
+      "de"
+    ],
+    [
+      "ní",
+      "in",
+      "yo"
+    ],
+    [
+      "voller",
+      "full",
+      "de"
+    ],
+    [
+      "ìwọ̀n",
+      "measure",
+      "yo"
+    ],
+    [
+      "intera",
+      "whole",
+      "it"
+    ],
+    [
+      "den",
+      "the",
+      "de"
+    ]
+  ]
+};
 const books={
  GEN:{name:"Genesis",count:50,position:"01",chapters:chapterMeta,glosses:verseGlosses},
- EXO:{name:"Exodus",count:40,position:"02",chapters:{1:{title:"Israel in Egypt",verses:exodusFirst},2:{title:"Moses in Egypt and Midian",verses:exodusSecond},3:{title:"The Burning Bush",verses:exodusThird},4:{title:"Moses Returns to Egypt",verses:exodusFourth},5:{title:"Bricks Without Straw",verses:exodusFifth},6:{title:"God Reaffirms His Promise",verses:exodusSixth}},glosses:{...exodusVerseGlosses,2:exodusSecondGlosses,3:exodusThirdGlosses,4:exodusFourthGlosses,5:exodusFifthGlosses,6:exodusSixthGlosses}}
+ EXO:{name:"Exodus",count:40,position:"02",chapters:{1:{title:"Israel in Egypt",verses:exodusFirst},2:{title:"Moses in Egypt and Midian",verses:exodusSecond},3:{title:"The Burning Bush",verses:exodusThird},4:{title:"Moses Returns to Egypt",verses:exodusFourth},5:{title:"Bricks Without Straw",verses:exodusFifth},6:{title:"God Reaffirms His Promise",verses:exodusSixth},7:{title:"The Nile Turns to Blood",verses:exodusSeventh}},glosses:{...exodusVerseGlosses,2:exodusSecondGlosses,3:exodusThirdGlosses,4:exodusFourthGlosses,5:exodusFifthGlosses,6:exodusSixthGlosses,7:exodusSeventhGlosses}}
 };
 let book="GEN",chapter=1,showSaved=false,font=18;
 const bookSelect=document.getElementById("book-select");
