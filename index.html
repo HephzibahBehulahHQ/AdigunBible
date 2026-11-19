@@ -45,6 +45,7 @@
 </div><div class="toast" id="toast" role="status"></div>
 <style>.words-of-jesus{color:#ff7777}body[data-theme="light"] .words-of-jesus{color:#a41623}</style>
 <script src="Matthew/chapter-1.js"></script>
+<script src="Matthew/chapter-2.js"></script>
 <script src="Matthew/render-verse.js"></script>
 <script>
 const genesisOne=[
@@ -2331,7 +2332,8 @@ const verseGlosses={
   }
 };
 let book="Genesis",chapter=1,showSaved=false,font=18;
-const readerBooks={Genesis:{code:"GEN",count:50,chapters:chapterMeta},Matthew:{code:"MAT",count:28,chapters:{1:{title:matthewChapterOne.title,verses:matthewChapterOne.verses.map(v=>v.text)}}}};
+const matthewChapters={1:matthewChapterOne,2:matthewChapterTwo};
+const readerBooks={Genesis:{code:"GEN",count:50,chapters:chapterMeta},Matthew:{code:"MAT",count:28,chapters:Object.fromEntries(Object.entries(matthewChapters).map(([number,data])=>[number,{title:data.title,verses:data.verses.map(v=>v.text)}]))}};
 const verseKey=(n)=>readerBooks[book].code+"."+chapter+"."+n;
 const list=document.getElementById("verse-list"),grid=document.getElementById("chapter-grid"),toast=document.getElementById("toast");
 function renderChapterGrid(){
@@ -2355,7 +2357,7 @@ function render(){const {count,chapters}=readerBooks[book];const data=chapters[c
 if(!data){list.className="empty";list.innerHTML='<div class="emptyicon">📝</div><h3>We’re writing this chapter with care.</h3><p>Genesis '+chapter+' is part of the book’s 50-chapter structure. Its AdigunBible verses will appear here after they’re written and reviewed. No placeholder Scripture, no rushed lines.</p><div class="note">Now live: Genesis 1–12 · original Gen Z edition</div>';return}
 list.className="verses";const q=document.getElementById("search").value.trim().toLowerCase(),saved=savedSet();const items=data.verses.map((text,i)=>({text,n:i+1})).filter(v=>(!q||v.text.toLowerCase().includes(q))&&(!showSaved||saved.has(verseKey(v.n))));
 if(!items.length){list.innerHTML='<div class="empty"><div class="emptyicon">🔎</div><h3>No verses found</h3><p>Try a different word'+(showSaved?' or save a verse first.':' in this chapter.')+'</p></div>';return}
-list.innerHTML=items.map(v=>'<div class="verse" id="v'+v.n+'"><span class="vnum">'+v.n+'</span><p class="vtext">'+(book==="Matthew"?renderMatthewVerse(matthewChapterOne.verses[v.n-1],escapeHtml):renderVerseText(v.text,verseGlosses[chapter]?.[v.n]))+'</p><button class="vaction '+(saved.has(verseKey(v.n))?"saved":"")+'" title="Save verse" aria-label="Save '+book+' '+chapter+":"+v.n+'" data-num="'+v.n+'">'+(saved.has(verseKey(v.n))?"♥":"♡")+'</button></div>').join("");
+list.innerHTML=items.map(v=>'<div class="verse" id="v'+v.n+'"><span class="vnum">'+v.n+'</span><p class="vtext">'+(book==="Matthew"?renderMatthewVerse(matthewChapters[chapter].verses[v.n-1],escapeHtml):renderVerseText(v.text,verseGlosses[chapter]?.[v.n]))+'</p><button class="vaction '+(saved.has(verseKey(v.n))?"saved":"")+'" title="Save verse" aria-label="Save '+book+' '+chapter+":"+v.n+'" data-num="'+v.n+'">'+(saved.has(verseKey(v.n))?"♥":"♡")+'</button></div>').join("");
 list.querySelectorAll(".vaction").forEach(btn=>btn.onclick=()=>toggleSave(+btn.dataset.num));
 }
 function escapeHtml(s){return s.replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
