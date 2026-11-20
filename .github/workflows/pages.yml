@@ -1,21 +1,39 @@
 name: Deploy AdigunBible to GitHub Pages
 
 on:
+  pull_request:
+    branches: [main]
   push:
     branches: [main]
   workflow_dispatch:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: github-pages
-  cancel-in-progress: true
 
 jobs:
+  editorial-status:
+    name: Check chapter editorial status
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the site
+        uses: actions/checkout@v4
+      - name: Check for chapters in editorial review
+        shell: node {0}
+        run: |
+          const reader = require('node:fs').readFileSync('index.html', 'utf8');
+          if (/\binReview\s*:\s*true\b/.test(reader)) {
+            throw new Error('Resolve all chapter editorial reviews before releasing the reader.');
+          }
   deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: editorial-status
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    concurrency:
+      group: github-pages
+      cancel-in-progress: true
     env:
       PAGES_ARTIFACT_NAME: github-pages-${{ github.run_attempt }}
     environment:
