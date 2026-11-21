@@ -11,11 +11,11 @@ function renderMatthewVerse(verse, escapeHtml) {
 
   for (let i = 0; i < words.length;) {
     const word = words[i];
-    const speech = verse.wordsOfJesus?.some(([start, end]) => i >= start && i < end) ?? false;
+    const speech = verse.wordsOfJesus?.some(([start, end]) => word.index >= start && word.index < end) ?? false;
     const gloss = glosses.find(({parts}) => parts.every((part, j) =>
       words[i + j]?.[0].startsWith(part) &&
       words[i + j][0].replace(/(?:❤️|🙏|✨|🔥|🫶|🌍|😭|👀|💯|🕊️)$/u, "") === part &&
-      (verse.wordsOfJesus?.some(([start, end]) => i + j >= start && i + j < end) ?? false) === speech
+      (verse.wordsOfJesus?.some(([start, end]) => words[i + j].index >= start && words[i + j].index < end) ?? false) === speech
     ));
     const length = gloss?.parts.length ?? 1;
     const last = words[i + length - 1];

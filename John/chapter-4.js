@@ -2,7 +2,8 @@ const johnChapterFour = {
   "book": "John",
   "chapter": 4,
   "title": "The Samaritan Woman and the Official’s Son",
-  "inReview": true,
+  "inReview": false,
+  "publicationNotice": "Published at owner direction; editorial and visual review remains incomplete.",
   "verses": [
     {
       "number": 1,
@@ -586,12 +587,7 @@ const johnChapterFour = {
           "de"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          41,
-          59
-        ]
-      ]
+      "wordsOfJesus": [[301,420]]
     },
     {
       "number": 8,
@@ -877,12 +873,7 @@ const johnChapterFour = {
           "de"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          11,
-          77
-        ]
-      ]
+      "wordsOfJesus": [[71,533]]
     },
     {
       "number": 11,
@@ -1133,12 +1124,7 @@ const johnChapterFour = {
           "de"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          11,
-          40
-        ]
-      ]
+      "wordsOfJesus": [[68,286]]
     },
     {
       "number": 14,
@@ -1240,12 +1226,7 @@ const johnChapterFour = {
           "he"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          0,
-          85
-        ]
-      ]
+      "wordsOfJesus": [[1,581]]
     },
     {
       "number": 15,
@@ -1369,12 +1350,7 @@ const johnChapterFour = {
           "de"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          3,
-          30
-        ]
-      ]
+      "wordsOfJesus": [[20,213]]
     },
     {
       "number": 17,
@@ -1446,12 +1422,7 @@ const johnChapterFour = {
           "de"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          21,
-          51
-        ]
-      ]
+      "wordsOfJesus": [[146,351]]
     },
     {
       "number": 18,
@@ -1538,12 +1509,7 @@ const johnChapterFour = {
           "de"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          0,
-          70
-        ]
-      ]
+      "wordsOfJesus": [[1,495]]
     },
     {
       "number": 19,
@@ -1704,12 +1670,7 @@ const johnChapterFour = {
           "de"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          3,
-          37
-        ]
-      ]
+      "wordsOfJesus": [[23,300]]
     },
     {
       "number": 22,
@@ -1766,12 +1727,7 @@ const johnChapterFour = {
           "de"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          0,
-          49
-        ]
-      ]
+      "wordsOfJesus": [[1,353]]
     },
     {
       "number": 23,
@@ -1848,12 +1804,7 @@ const johnChapterFour = {
           "pcm"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          0,
-          55
-        ]
-      ]
+      "wordsOfJesus": [[1,413]]
     },
     {
       "number": 24,
@@ -1900,12 +1851,7 @@ const johnChapterFour = {
           "de"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          0,
-          33
-        ]
-      ]
+      "wordsOfJesus": [[1,253]]
     },
     {
       "number": 25,
@@ -1989,12 +1935,7 @@ const johnChapterFour = {
           "de"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          3,
-          25
-        ]
-      ]
+      "wordsOfJesus": [[31,171]]
     },
     {
       "number": 27,
@@ -2326,12 +2267,7 @@ const johnChapterFour = {
           "de"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          3,
-          35
-        ]
-      ]
+      "wordsOfJesus": [[23,235]]
     },
     {
       "number": 33,
@@ -2415,12 +2351,7 @@ const johnChapterFour = {
           "de"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          3,
-          48
-        ]
-      ]
+      "wordsOfJesus": [[23,340]]
     },
     {
       "number": 35,
@@ -2477,12 +2408,7 @@ const johnChapterFour = {
           "he"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          0,
-          47
-        ]
-      ]
+      "wordsOfJesus": [[1,356]]
     },
     {
       "number": 36,
@@ -2549,12 +2475,7 @@ const johnChapterFour = {
           "de"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          0,
-          44
-        ]
-      ]
+      "wordsOfJesus": [[1,338]]
     },
     {
       "number": 37,
@@ -2606,12 +2527,7 @@ const johnChapterFour = {
           "de"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          3,
-          30
-        ]
-      ]
+      "wordsOfJesus": [[23,239]]
     },
     {
       "number": 38,
@@ -2678,12 +2594,7 @@ const johnChapterFour = {
           "de"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          0,
-          63
-        ]
-      ]
+      "wordsOfJesus": [[1,477]]
     },
     {
       "number": 39,
@@ -3035,12 +2946,7 @@ const johnChapterFour = {
           "fr"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          6,
-          41
-        ]
-      ]
+      "wordsOfJesus": [[46,293]]
     },
     {
       "number": 45,
@@ -3273,12 +3179,7 @@ const johnChapterFour = {
           "pcm"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          3,
-          27
-        ]
-      ]
+      "wordsOfJesus": [[24,234]]
     },
     {
       "number": 49,
@@ -3367,12 +3268,7 @@ const johnChapterFour = {
           "pcm"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          3,
-          28
-        ]
-      ]
+      "wordsOfJesus": [[22,202]]
     },
     {
       "number": 51,
@@ -3568,12 +3464,7 @@ const johnChapterFour = {
           "jam"
         ]
       ],
-      "wordsOfJesus": [
-        [
-          11,
-          24
-        ]
-      ]
+      "wordsOfJesus": [[77,174]]
     },
     {
       "number": 54,
