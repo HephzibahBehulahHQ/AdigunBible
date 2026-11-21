@@ -27,5 +27,13 @@
     "hoverGlosses": "pass",
     "readerNavigation": "pass",
     "readerRendering": "pending"
+  },
+  "verseReviews": {
+    "1": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pending",
+      "rendering": "pending"
+    }
   }
 }

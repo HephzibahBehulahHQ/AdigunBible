@@ -182,6 +182,14 @@ function auditChapter(evidence, { requirePublished = true } = {}) {
     for (const check of requiredManualChecks) {
       if (evidence.checks?.[check] !== "pass") fail(`${book} ${chapter}: manual check “${check}” has not passed`);
     }
+    for (let number = 1; number <= verses.length; number += 1) {
+      const review = evidence.verseReviews?.[String(number)];
+      for (const check of ["voice", "meaning", "languages", "rendering"]) {
+        if (review?.[check] !== "pass") {
+          fail(`${book} ${chapter}:${number}: verse review “${check}” has not passed`);
+        }
+      }
+    }
   }
   console.log(`PASS ${book} ${chapter}: ${verses.length} verses, emoji coverage, language thresholds, and rendered glosses`);
 }
