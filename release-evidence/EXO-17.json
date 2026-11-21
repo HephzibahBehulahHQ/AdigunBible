@@ -10,12 +10,12 @@
   "reviewedAt": null,
   "languageReferences": {
     "pcm": "https://www.britishcouncil.org/voices-magazine/nigerian-pidgin-words-phrases",
-    "yo": "https://www.biblica.com/bible/niv/exodus/17/oycb/",
-    "de": "https://www.bibeltv.de/bibelthek/LUT/2-mose-17-4",
+    "yo": "https://ebible.org/pdf/yor/yor_EXO.pdf",
+    "de": "https://www.bibeltv.de/bibelthek/2-mose/kapitel-17/vers-2",
     "ig": "https://biblics.com/ig/bible/bible-nso/agba-ochie/opupu/17/6",
     "ha": "https://www.bible.com/fr/bible/71/EXO.17.HAU",
-    "jam": "https://patwapartner.com/grammar/",
-    "he": "https://freely-given.org/OBD/ref/HebWrd/JOSc24v27w7.htm",
+    "jam": "https://patoispal.com/dictionary/mek",
+    "he": "https://freely-given.org/OBD/ref/HebWrd/EXOc17v2w14.htm",
     "fr": "https://www.larousse.fr/dictionnaires/francais/jaillir/"
   },
   "checks": {
@@ -30,6 +30,12 @@
   },
   "verseReviews": {
     "1": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "pending"
+    },
+    "2": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
