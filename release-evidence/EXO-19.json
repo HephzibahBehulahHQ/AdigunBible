@@ -1,0 +1,186 @@
+{
+  "gateVersion": 1,
+  "book": "EXO",
+  "chapter": 19,
+  "versesVar": "exodusNineteenth",
+  "glossesVar": "exodusNineteenthGlosses",
+  "expectedVerseCount": 25,
+  "sourceFile": "Exodus/Chapter 19.txt",
+  "status": "in_progress",
+  "reviewer": "",
+  "reviewedAt": null,
+  "languageReferences": {
+    "pcm": "https://www.britishcouncil.org/voices-magazine/nigerian-pidgin-words-phrases",
+    "yo": "https://ebible.org/yor/EXO19.htm",
+    "de": "https://www.bibleserver.com/LUT/2.Mose19",
+    "he": "https://www.sefaria.org/Exodus.19?aliyot=0&lang=en",
+    "fr": "https://www.larousse.fr/dictionnaires/francais/",
+    "ig": "https://www.bible.com/bible/1624/EXO.19.BIU",
+    "ha": "https://www.bible.com/bible/71/EXO.19.14.HAU",
+    "jam": "https://patoispal.com/dictionary/haffi",
+    "es": "https://www.bible.com/bible/149/EXO.19.RVR1960",
+    "sw": "https://ebible.org/pdf/swhonen/swhonen_EXO.pdf"
+  },
+  "checks": {
+    "universalVoice": "pending",
+    "scriptureMeaning": "pending",
+    "completenessAndOrder": "pending",
+    "multilingualAccuracy": "pending",
+    "sourceSyntax": "pending",
+    "hoverGlosses": "pending",
+    "readerNavigation": "pending",
+    "readerRendering": "pending"
+  },
+  "verseReviews": {
+    "1": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "2": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "3": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "4": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "5": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "6": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "7": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "8": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "9": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "10": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "11": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "12": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "13": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "14": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "15": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "16": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "17": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "18": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "19": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "20": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "21": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "22": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "23": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "24": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    },
+    "25": {
+      "voice": "pending",
+      "meaning": "pending",
+      "languages": "pending",
+      "rendering": "pending"
+    }
+  }
+}
