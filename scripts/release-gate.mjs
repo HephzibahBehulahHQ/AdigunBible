@@ -73,8 +73,8 @@ const canonicalBookChapters = {
 const canonicalChapterTotal = Object.values(canonicalBookChapters).reduce((sum, count) => sum + count, 0);
 const canonicalSequence = Object.entries(canonicalBookChapters)
   .flatMap(([book, count]) => Array.from({ length: count }, (_, index) => `${book}-${index + 1}`));
-// Main was already published through Exodus 16 before this evidence gate existed.
-const releaseBaseline = canonicalSequence.indexOf("EXO-16");
+// Earlier published chapters still need to pass the current rules in canonical order.
+const releaseBaseline = -1;
 
 const renderStart = reader.indexOf("function renderVerseText(");
 const renderEnd = reader.indexOf("\nfunction openChapter", renderStart);
