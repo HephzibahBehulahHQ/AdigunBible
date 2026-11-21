@@ -1,0 +1,29 @@
+{
+  "gateVersion": 1,
+  "book": "GEN",
+  "chapter": 1,
+  "versesVar": "genesisOne",
+  "glossesVar": "verseGlosses",
+  "expectedVerseCount": 31,
+  "status": "in_progress",
+  "reviewer": "",
+  "reviewedAt": null,
+  "checks": {
+    "universalVoice": "pending",
+    "scriptureMeaning": "pending",
+    "completenessAndOrder": "pending",
+    "multilingualAccuracy": "pending",
+    "sourceSyntax": "pending",
+    "hoverGlosses": "pending",
+    "readerNavigation": "pending",
+    "readerRendering": "pending"
+  },
+  "verseReviews": {
+    "1": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pending",
+      "rendering": "pending"
+    }
+  }
+}
