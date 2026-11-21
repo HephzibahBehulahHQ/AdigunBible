@@ -71,6 +71,10 @@ const canonicalBookChapters = {
   "3JN":1, JUD:1, REV:22,
 };
 const canonicalChapterTotal = Object.values(canonicalBookChapters).reduce((sum, count) => sum + count, 0);
+const canonicalSequence = Object.entries(canonicalBookChapters)
+  .flatMap(([book, count]) => Array.from({ length: count }, (_, index) => `${book}-${index + 1}`));
+// Main was already published through Exodus 16 before this evidence gate existed.
+const releaseBaseline = canonicalSequence.indexOf("EXO-16");
 
 const renderStart = reader.indexOf("function renderVerseText(");
 const renderEnd = reader.indexOf("\nfunction openChapter", renderStart);
@@ -84,7 +88,7 @@ if (!reader.includes("data.verses.map((text,i)=>({text,n:i+1}))") ||
 function auditChapter(evidence, { requirePublished = true } = {}) {
   if (!evidence || typeof evidence !== "object") fail("Release evidence must be a JSON object");
   const { book, chapter, versesVar, glossesVar, expectedVerseCount } = evidence;
-  if (!/^[A-Z]{3}$/.test(book ?? "")) fail("Evidence book must be a three-letter uppercase code");
+  if (!/^[A-Z0-9]{3}$/.test(book ?? "") || !(book in canonicalBookChapters)) fail("Evidence book must be a canonical three-character code");
   if (!Number.isInteger(chapter) || chapter < 1) fail("Evidence chapter must be a positive integer");
   if (!Number.isInteger(expectedVerseCount) || expectedVerseCount < 1) fail("Evidence needs the verified verse count");
   if (!/^[A-Za-z_$][\w$]*$/.test(versesVar ?? "")) fail("Evidence versesVar is invalid");
@@ -202,7 +206,7 @@ function evidenceFiles() {
   const directory = path.join(root, "release-evidence");
   try {
     return readdirSync(directory)
-      .filter((name) => /^[A-Z]{3}-\d+\.json$/.test(name))
+      .filter((name) => /^[A-Z0-9]{3}-\d+\.json$/.test(name))
       .map((name) => path.join(directory, name));
   } catch {
     return [];
@@ -222,7 +226,7 @@ try {
     if (!base) fail("GITHUB_BASE_REF is required for pull request validation");
     const changedFiles = execFileSync("git", ["diff", "--name-only", `origin/${base}...HEAD`], { encoding: "utf8" })
       .split(/\r?\n/).filter(Boolean);
-    const changedEvidence = changedFiles.filter((file) => /^release-evidence\/[A-Z]{3}-\d+\.json$/.test(file));
+    const changedEvidence = changedFiles.filter((file) => /^release-evidence\/[A-Z0-9]{3}-\d+\.json$/.test(file));
     if (changedEvidence.length !== 1) fail(`A chapter release PR must change exactly one evidence file; found ${changedEvidence.length}`);
     if (!changedFiles.includes("index.html")) fail("A chapter release PR must update the reader content in index.html");
     const allowed = new Set([
@@ -236,6 +240,18 @@ try {
     const evidence = readEvidence(path.join(root, changedEvidence[0]));
     if (path.basename(changedEvidence[0]) !== `${evidence.book}-${evidence.chapter}.json`) {
       fail(`${changedEvidence[0]}: evidence filename must match its book and chapter`);
+    }
+    const baseEvidence = execFileSync("git", ["ls-tree", "-r", "--name-only", `origin/${base}`, "--", "release-evidence"], { encoding: "utf8" })
+      .split(/\r?\n/).filter((file) => /^release-evidence\/[A-Z0-9]{3}-\d+\.json$/.test(file))
+      .map((file) => path.basename(file, ".json"));
+    const released = new Set(baseEvidence);
+    let lastReleased = releaseBaseline;
+    while (released.has(canonicalSequence[lastReleased + 1])) lastReleased += 1;
+    const outOfOrder = baseEvidence.find((id) => canonicalSequence.indexOf(id) > lastReleased);
+    if (outOfOrder) fail(`Published chapter evidence has a gap before ${outOfOrder}`);
+    const expected = canonicalSequence[lastReleased + 1];
+    if (`${evidence.book}-${evidence.chapter}` !== expected) {
+      fail(`Next chapter release must be ${expected}; found ${evidence.book}-${evidence.chapter}`);
     }
     const baseReader = execFileSync("git", ["show", `origin/${base}:index.html`], { encoding: "utf8", maxBuffer: 16 * 1024 * 1024 });
     const beforeVerses = extractOptionalDeclaration(evidence.versesVar, "\n];", baseReader);
