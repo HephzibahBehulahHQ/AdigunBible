@@ -19,10 +19,10 @@
     "fr": "https://www.larousse.fr/dictionnaires/francais/jaillir/"
   },
   "checks": {
-    "universalVoice": "pending",
-    "scriptureMeaning": "pending",
+    "universalVoice": "pass",
+    "scriptureMeaning": "pass",
     "completenessAndOrder": "pass",
-    "multilingualAccuracy": "pending",
+    "multilingualAccuracy": "pass",
     "sourceSyntax": "pass",
     "hoverGlosses": "pass",
     "readerNavigation": "pass",
@@ -102,6 +102,24 @@
       "rendering": "pending"
     },
     "13": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "pending"
+    },
+    "14": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "pending"
+    },
+    "15": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "pending"
+    },
+    "16": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
