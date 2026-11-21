@@ -80,7 +80,7 @@ const renderStart = reader.indexOf("function renderVerseText(");
 const renderEnd = reader.indexOf("\nfunction openChapter", renderStart);
 if (renderStart < 0 || renderEnd < 0) fail("Could not locate the reader verse renderer");
 const renderVerseText = new Function("escapeHtml", `${reader.slice(renderStart, renderEnd)}; return renderVerseText;`)(escapeHtml);
-if (!reader.includes("data.verses.map((text,i)=>({text,n:i+1}))") ||
+if (!/data\.verses\.map\(\([^)]*\)=>[^\n]*n:i\+1/.test(reader) ||
     !reader.includes("id=\"v'+v.n+'\"") || !reader.includes("class=\"vnum\">'+v.n+'")) {
   fail("Reader must render verse array positions as ordered external verse numbers");
 }
