@@ -8,6 +8,7 @@ const readerPath = path.join(root, "index.html");
 const reader = readFileSync(readerPath, "utf8");
 const event = process.argv[2];
 const auditOnly = event === "--audit-only";
+const skipManualReview = auditOnly || event === "--pr-draft";
 
 for (const [, attributes, source] of reader.matchAll(/<script\b([^>]*)>([\s\S]*?)<\/script\s*>/giu)) {
   if (/\bsrc\s*=/iu.test(attributes)) continue;
@@ -178,7 +179,7 @@ function auditChapter(evidence, { requirePublished = true } = {}) {
     }
   }
 
-  if (!auditOnly) {
+  if (!skipManualReview) {
     if (evidence.gateVersion !== 1) fail(`${book} ${chapter}: gateVersion must be 1`);
     if (evidence.status !== "passed") fail(`${book} ${chapter}: evidence status must be passed`);
     if (typeof evidence.reviewer !== "string" || !evidence.reviewer.trim()) fail(`${book} ${chapter}: reviewer is required`);
@@ -221,7 +222,7 @@ try {
     const evidence = files.map(readEvidence).find((item) => item.book === book && item.chapter === Number(chapterText));
     if (!evidence) fail(`No evidence manifest for ${book} ${chapterText}; provide a temporary JSON manifest to run --audit-only`);
     auditChapter(evidence, { requirePublished: false });
-  } else if (event === "--pr") {
+  } else if (event === "--pr" || event === "--pr-draft") {
     const base = process.env.GITHUB_BASE_REF;
     if (!base) fail("GITHUB_BASE_REF is required for pull request validation");
     const changedFiles = execFileSync("git", ["diff", "--name-only", `origin/${base}...HEAD`], { encoding: "utf8" })
@@ -261,7 +262,7 @@ try {
     if (JSON.stringify(beforeVerses) === JSON.stringify(afterVerses) || JSON.stringify(beforeGlosses) === JSON.stringify(afterGlosses)) {
       fail(`${evidence.book} ${evidence.chapter}: PR must change the target chapter text and glossary`);
     }
-    auditChapter(evidence);
+    auditChapter(evidence, { requirePublished: event === "--pr" });
   } else if (event === "--main") {
     const files = evidenceFiles();
     if (!files.length) fail("main has no chapter release evidence; refusing to deploy without a recorded chapter validation");
@@ -292,7 +293,7 @@ try {
     }
     console.log(`PASS whole corpus: all 66 books and ${canonicalChapterTotal} chapters validated`);
   } else {
-    fail("Usage: node scripts/release-gate.mjs --pr | --main | --corpus | --audit-only <BOOK> <CHAPTER>");
+    fail("Usage: node scripts/release-gate.mjs --pr | --pr-draft | --main | --corpus | --audit-only <BOOK> <CHAPTER>");
   }
 } catch (error) {
   console.error(`RELEASE GATE FAILED: ${error.message}`);

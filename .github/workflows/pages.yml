@@ -3,6 +3,7 @@ name: Deploy AdigunBible to GitHub Pages
 on:
   pull_request:
     branches: [main]
+    types: [opened, synchronize, reopened, ready_for_review, converted_to_draft]
   push:
     branches: [main]
   workflow_dispatch:
@@ -19,8 +20,13 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Validate chapter pull request
-        if: github.event_name == 'pull_request'
+      - name: Audit draft chapter pull request
+        if: github.event_name == 'pull_request' && github.event.pull_request.draft
+        env:
+          GITHUB_BASE_REF: ${{ github.base_ref }}
+        run: node scripts/release-gate.mjs --pr-draft
+      - name: Validate chapter pull request for release
+        if: github.event_name == 'pull_request' && !github.event.pull_request.draft
         env:
           GITHUB_BASE_REF: ${{ github.base_ref }}
         run: node scripts/release-gate.mjs --pr
