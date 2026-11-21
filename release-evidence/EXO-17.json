@@ -1,0 +1,31 @@
+{
+  "gateVersion": 1,
+  "book": "EXO",
+  "chapter": 17,
+  "versesVar": "exodusSeventeenth",
+  "glossesVar": "exodusSeventeenthGlosses",
+  "expectedVerseCount": 16,
+  "status": "in_progress",
+  "reviewer": "",
+  "reviewedAt": null,
+  "languageReferences": {
+    "pcm": "https://www.britishcouncil.org/voices-magazine/nigerian-pidgin-words-phrases",
+    "yo": "https://www.biblica.com/bible/niv/exodus/17/oycb/",
+    "de": "https://www.bibeltv.de/bibelthek/LUT/2-mose-17-4",
+    "ig": "https://biblics.com/ig/bible/bible-nso/agba-ochie/opupu/17/6",
+    "ha": "https://www.bible.com/fr/bible/71/EXO.17.HAU",
+    "jam": "https://patwapartner.com/grammar/",
+    "he": "https://freely-given.org/OBD/ref/HebWrd/JOSc24v27w7.htm",
+    "fr": "https://www.larousse.fr/dictionnaires/francais/jaillir/"
+  },
+  "checks": {
+    "universalVoice": "pending",
+    "scriptureMeaning": "pending",
+    "completenessAndOrder": "pass",
+    "multilingualAccuracy": "pending",
+    "sourceSyntax": "pass",
+    "hoverGlosses": "pass",
+    "readerNavigation": "pass",
+    "readerRendering": "pending"
+  }
+}

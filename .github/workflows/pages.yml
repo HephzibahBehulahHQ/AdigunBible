@@ -12,18 +12,21 @@ permissions:
 
 jobs:
   editorial-status:
-    name: Check chapter editorial status
+    name: Validate chapter release evidence
     runs-on: ubuntu-latest
     steps:
       - name: Check out the site
         uses: actions/checkout@v4
-      - name: Check for chapters in editorial review
-        shell: node {0}
-        run: |
-          const reader = require('node:fs').readFileSync('index.html', 'utf8');
-          if (/\binReview\s*:\s*true\b/.test(reader)) {
-            throw new Error('Resolve all chapter editorial reviews before releasing the reader.');
-          }
+        with:
+          fetch-depth: 0
+      - name: Validate chapter pull request
+        if: github.event_name == 'pull_request'
+        env:
+          GITHUB_BASE_REF: ${{ github.base_ref }}
+        run: node scripts/release-gate.mjs --pr
+      - name: Validate published chapter evidence
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+        run: node scripts/release-gate.mjs --main
   deploy:
     if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
     needs: editorial-status
