@@ -8,6 +8,12 @@
   "status": "in_progress",
   "reviewer": "",
   "reviewedAt": null,
+  "languageReferences": {
+    "yo": "https://www.bible.com/bible/207/GEN.1.1",
+    "de": "https://www.biblegateway.com/passage/?search=Genesis+1%3A1&version=LUTH1545",
+    "he": "https://www.hebrewaramaic.org/biblical-hebrew/hebrew-tanakh/index.php?book=genesis1",
+    "pcm": "https://www.britishcouncil.org/voices-magazine/nigerian-pidgin-words-phrases"
+  },
   "checks": {
     "universalVoice": "pending",
     "scriptureMeaning": "pending",
@@ -22,7 +28,7 @@
     "1": {
       "voice": "pass",
       "meaning": "pass",
-      "languages": "pending",
+      "languages": "pass",
       "rendering": "pending"
     }
   }
