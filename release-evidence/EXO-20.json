@@ -1,0 +1,197 @@
+{
+  "gateVersion": 1,
+  "book": "EXO",
+  "chapter": 20,
+  "versesVar": "exodusTwentieth",
+  "glossesVar": "exodusTwentiethGlosses",
+  "expectedVerseCount": 26,
+  "sourceFile": "Exodus/Chapter 20.txt",
+  "status": "passed_with_visual_deferral",
+  "reviewer": "Codex",
+  "reviewedAt": "2026-11-21T18:39:55Z",
+  "languageReferences": {
+    "pcm": "https://ebible.org/pcm/EXO20.htm",
+    "yo": "https://ebible.org/yor/EXO20.htm",
+    "de": "https://www.bibleserver.com/LUT/2.Mose20",
+    "fr": "https://icotb.org/wp-content/uploads/2025/04/BIBLE-20-Bible-Louis-Segond-2020.pdf",
+    "ig": "https://www.jw.org/ig/ihe-baibul-na-akuzi/amaokwu-baibul/opupu-20-12/",
+    "ha": "https://ebible.org/study/content/texts/hausa/EX20.html",
+    "sw": "https://ebible.org/swhulb/EXO20.htm",
+    "es": "https://ebible.org/spabes/EXO20.htm",
+    "jam": "https://patwapartner.com/lesson/kingston-4-weh-it-deh-city-places/",
+    "he": "https://www.sefaria.org/Exodus.20?lang2=en&with=Navigation"
+  },
+  "checks": {
+    "universalVoice": "pass",
+    "scriptureMeaning": "pass",
+    "completenessAndOrder": "pass",
+    "multilingualAccuracy": "pass",
+    "sourceSyntax": "pass",
+    "hoverGlosses": "pass",
+    "readerNavigation": "pass",
+    "readerRendering": "deferred"
+  },
+  "verseReviews": {
+    "1": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "2": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "3": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "4": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "5": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "6": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "7": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "8": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "9": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "10": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "11": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "12": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "13": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "14": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "15": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "16": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "17": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "18": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "19": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "20": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "21": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "22": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "23": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "24": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "25": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "26": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    }
+  },
+  "visualDeferral": {
+    "approvedBy": "owner",
+    "approvedAt": "2026-11-21",
+    "approvalReference": "Owner approved pending reader visual evidence and continuing chapter work in the Codex chat on 2026-11-21."
+  }
+}

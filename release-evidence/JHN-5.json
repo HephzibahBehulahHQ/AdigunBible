@@ -1,0 +1,14 @@
+{
+  "book": "JHN",
+  "chapter": 5,
+  "chapterModule": "John/chapter-5.js",
+  "chapterVar": "johnChapterFive",
+  "expectedVerseCount": 47,
+  "sourceFile": "John/Chapter 5 - AdigunBible draft.txt",
+  "supportingFiles": [
+    "John/Chapter 5 - AdigunBible draft.txt",
+    "John/Chapter 5 - Gate Evidence.md",
+    "John/Chapter 5 - Supplementary Language Glosses.md"
+  ],
+  "status": "in_review"
+}

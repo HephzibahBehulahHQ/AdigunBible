@@ -1,0 +1,2451 @@
+{
+  "book": "EXO",
+  "chapter": 21,
+  "status": "draft",
+  "glosses": {
+    "1": [
+      [
+        "Make you lay am out before dem",
+        "you shall set them before the people",
+        "pcm"
+      ],
+      [
+        "Àwọn òfin wọ̀nyí ni kí ìwọ gbé sí iwájú wọn",
+        "these are the laws you shall set before them",
+        "yo"
+      ],
+      [
+        "diese Rechtsordnungen sollst du ihnen vorlegen",
+        "you shall present these legal rulings to them",
+        "de"
+      ],
+      [
+        "mishpatim",
+        "judgments",
+        "he"
+      ],
+      [
+        "dinim",
+        "rulings",
+        "he"
+      ],
+      [
+        "lifneihem",
+        "before them",
+        "he"
+      ],
+      [
+        "am",
+        "people",
+        "he"
+      ],
+      [
+        "ces lois devant eux",
+        "these laws before them",
+        "fr"
+      ]
+    ],
+    "2": [
+      [
+        "make e serve",
+        "let him serve",
+        "pcm"
+      ],
+      [
+        "e go waka",
+        "he will leave",
+        "pcm"
+      ],
+      [
+        "no pay",
+        "pay nothing",
+        "pcm"
+      ],
+      [
+        "Bí ìwọ bá yá ọkùnrin Heberu ní ìwẹ̀fà",
+        "if you hire a Hebrew man as a servant",
+        "yo"
+      ],
+      [
+        "ọdún mẹ́fà ni yóò sìn",
+        "he shall serve six years",
+        "yo"
+      ],
+      [
+        "im siebenten Jahr soll er ohne Lösegeld frei werden",
+        "in the seventh year he shall be freed without ransom",
+        "de"
+      ],
+      [
+        "eved",
+        "male servant",
+        "he"
+      ],
+      [
+        "Ivri",
+        "Hebrew man",
+        "he"
+      ],
+      [
+        "shesh",
+        "six",
+        "he"
+      ],
+      [
+        "shanim",
+        "years",
+        "he"
+      ],
+      [
+        "shevi’it",
+        "the seventh",
+        "he"
+      ],
+      [
+        "chofshi",
+        "free",
+        "he"
+      ],
+      [
+        "kesef",
+        "money; silver",
+        "he"
+      ]
+    ],
+    "3": [
+      [
+        "on e own",
+        "on his own",
+        "pcm"
+      ],
+      [
+        "e go",
+        "he will",
+        "pcm"
+      ],
+      [
+        "she go waka out with am",
+        "she will leave with him",
+        "pcm"
+      ],
+      [
+        "Bí ó bá wá ní òun nìkan",
+        "if he came alone",
+        "yo"
+      ],
+      [
+        "òun nìkan ni yóò lọ",
+        "he alone shall leave",
+        "yo"
+      ],
+      [
+        "ist er mit seiner Frau gekommen",
+        "if he came with his wife",
+        "de"
+      ],
+      [
+        "soll sie mit ihm gehen",
+        "she shall leave with him",
+        "de"
+      ],
+      [
+        "eved",
+        "male servant",
+        "he"
+      ],
+      [
+        "levado",
+        "alone",
+        "he"
+      ],
+      [
+        "levado",
+        "alone",
+        "he"
+      ],
+      [
+        "yatsa",
+        "go out",
+        "he"
+      ],
+      [
+        "ishah",
+        "woman; wife",
+        "he"
+      ]
+    ],
+    "4": [
+      [
+        "If na oga give am wife",
+        "if the master gave him a wife",
+        "pcm"
+      ],
+      [
+        "dem no go leave together",
+        "they shall not leave together",
+        "pcm"
+      ],
+      [
+        "Bí olówó rẹ bá fún un ní aya",
+        "if his master gave him a wife",
+        "yo"
+      ],
+      [
+        "aya àti ọmọ rẹ yóò jẹ́ ti olówó rẹ",
+        "the wife and children shall belong to his master",
+        "yo"
+      ],
+      [
+        "Frau und Kinder gehören dem Herrn",
+        "wife and children belong to the master",
+        "de"
+      ],
+      [
+        "er geht allein",
+        "he leaves alone",
+        "de"
+      ],
+      [
+        "adon",
+        "master",
+        "he"
+      ],
+      [
+        "eved",
+        "male servant",
+        "he"
+      ],
+      [
+        "ishah",
+        "woman; wife",
+        "he"
+      ],
+      [
+        "banim",
+        "sons",
+        "he"
+      ],
+      [
+        "banot",
+        "daughters",
+        "he"
+      ],
+      [
+        "yatsa",
+        "go out",
+        "he"
+      ]
+    ],
+    "5": [
+      [
+        "I no wan go",
+        "I do not want to leave",
+        "pcm"
+      ],
+      [
+        "Hear am clear",
+        "hear it plainly",
+        "pcm"
+      ],
+      [
+        "e choose to stay",
+        "he chooses to stay",
+        "pcm"
+      ],
+      [
+        "Bí ẹrú náà bá wí ní gbangba pé mo fẹ́ràn olúwa mi",
+        "if the servant plainly says I love my master",
+        "yo"
+      ],
+      [
+        "ìyàwó mi àti àwọn ọmọ mi",
+        "my wife and my children",
+        "yo"
+      ],
+      [
+        "ich liebe meinen Herrn",
+        "I love my master",
+        "de"
+      ],
+      [
+        "meine Frau und meine Kinder",
+        "my wife and my children",
+        "de"
+      ],
+      [
+        "ich will nicht frei werden",
+        "I do not want to become free",
+        "de"
+      ],
+      [
+        "eved",
+        "male servant",
+        "he"
+      ],
+      [
+        "adoni",
+        "my master",
+        "he"
+      ],
+      [
+        "ishati",
+        "my wife",
+        "he"
+      ],
+      [
+        "banai",
+        "my children",
+        "he"
+      ],
+      [
+        "chofshi",
+        "free",
+        "he"
+      ]
+    ],
+    "6": [
+      [
+        "Make oga carry am go meet judges",
+        "let the master take him before the judges",
+        "pcm"
+      ],
+      [
+        "wọ́n mú un lọ sí ẹnu-ọ̀nà tàbí ọ̀wọ̀n",
+        "they bring him to the door or post",
+        "yo"
+      ],
+      [
+        "wọ́n fi ìlu lu etí rẹ",
+        "they pierce his ear with an awl",
+        "yo"
+      ],
+      [
+        "vor die Richter",
+        "before the judges",
+        "de"
+      ],
+      [
+        "an Tür oder Pfosten",
+        "to the door or post",
+        "de"
+      ],
+      [
+        "das Ohr durchbohren",
+        "pierce the ear",
+        "de"
+      ],
+      [
+        "für immer dienen",
+        "serve forever",
+        "de"
+      ],
+      [
+        "adon",
+        "master",
+        "he"
+      ],
+      [
+        "eved",
+        "male servant",
+        "he"
+      ],
+      [
+        "ha-elohim",
+        "the judges before God",
+        "he"
+      ],
+      [
+        "delet",
+        "door",
+        "he"
+      ],
+      [
+        "mezuzah",
+        "doorpost",
+        "he"
+      ],
+      [
+        "martzea",
+        "awl",
+        "he"
+      ],
+      [
+        "ozno",
+        "his ear",
+        "he"
+      ],
+      [
+        "le’olam",
+        "forever",
+        "he"
+      ]
+    ],
+    "7": [
+      [
+        "If man sell en daughter",
+        "if a man sells his daughter",
+        "pcm"
+      ],
+      [
+        "her release no follow the men own",
+        "her release does not follow the men’s rule",
+        "pcm"
+      ],
+      [
+        "Bí ọkùnrin kan bá ta ọmọbìnrin rẹ bí ìwẹ̀fà",
+        "if a man sells his daughter as a servant",
+        "yo"
+      ],
+      [
+        "kò ní jáde bí ti ọmọkùnrin",
+        "she shall not leave as male servants do",
+        "yo"
+      ],
+      [
+        "verkauft jemand seine Tochter als Sklavin",
+        "if someone sells his daughter as a servant",
+        "de"
+      ],
+      [
+        "gilt nicht dieselbe Entlassung wie für Männer",
+        "the same release as for men does not apply",
+        "de"
+      ],
+      [
+        "ish",
+        "man",
+        "he"
+      ],
+      [
+        "bito",
+        "his daughter",
+        "he"
+      ],
+      [
+        "amah",
+        "female servant",
+        "he"
+      ],
+      [
+        "yatsa",
+        "go out",
+        "he"
+      ],
+      [
+        "avadim",
+        "male servants",
+        "he"
+      ]
+    ],
+    "8": [
+      [
+        "He no fit sell",
+        "he cannot sell",
+        "pcm"
+      ],
+      [
+        "If e no keep that promise",
+        "if he does not keep that promise",
+        "pcm"
+      ],
+      [
+        "make dem redeem her",
+        "let them redeem her",
+        "pcm"
+      ],
+      [
+        "Bí olówó rẹ kò bá fẹ́ ẹ́",
+        "if her master does not want her",
+        "yo"
+      ],
+      [
+        "kí wọ́n rà á padà",
+        "let them redeem her",
+        "yo"
+      ],
+      [
+        "er soll sie auslösen lassen und darf sie nicht an Fremde verkaufen",
+        "he must allow her redemption and may not sell her to foreigners",
+        "de"
+      ],
+      [
+        "adon",
+        "master",
+        "he"
+      ],
+      [
+        "ya’adah",
+        "he betrothed her",
+        "he"
+      ],
+      [
+        "padah",
+        "redeem",
+        "he"
+      ],
+      [
+        "nochri",
+        "foreign",
+        "he"
+      ],
+      [
+        "bagad",
+        "act unfaithfully",
+        "he"
+      ]
+    ],
+    "9": [
+      [
+        "Make e treat am like en own daughter",
+        "let him treat her as his own daughter",
+        "pcm"
+      ],
+      [
+        "no downgrade",
+        "do not reduce her standing",
+        "pcm"
+      ],
+      [
+        "Bí ó bá fẹ́ ẹ́ fún ọmọkùnrin rẹ",
+        "if he betroths her to his son",
+        "yo"
+      ],
+      [
+        "ó gbọdọ̀ ṣe sí i gẹ́gẹ́ bí ọmọbìnrin",
+        "he must treat her as a daughter",
+        "yo"
+      ],
+      [
+        "für seinen Sohn bestimmt",
+        "assigned to his son",
+        "de"
+      ],
+      [
+        "soll er sie wie eine Tochter behandeln",
+        "he shall treat her like a daughter",
+        "de"
+      ],
+      [
+        "ya’adenna",
+        "he betroths her",
+        "he"
+      ],
+      [
+        "beno",
+        "his son",
+        "he"
+      ],
+      [
+        "mishpat",
+        "customary rule",
+        "he"
+      ],
+      [
+        "banot",
+        "daughters",
+        "he"
+      ]
+    ],
+    "10": [
+      [
+        "he no go reduce",
+        "he shall not reduce",
+        "pcm"
+      ],
+      [
+        "Bí ó bá fẹ́ obìnrin mìíràn",
+        "if he takes another woman",
+        "yo"
+      ],
+      [
+        "kò gbọdọ̀ dín oúnjẹ",
+        "he must not reduce food",
+        "yo"
+      ],
+      [
+        "aṣọ tàbí ojúṣe ìgbéyàwó kù",
+        "clothing or marital duties",
+        "yo"
+      ],
+      [
+        "nimmt er eine andere Frau",
+        "if he takes another wife",
+        "de"
+      ],
+      [
+        "darf er Nahrung",
+        "he may not diminish food",
+        "de"
+      ],
+      [
+        "Kleidung und eheliches Recht nicht mindern",
+        "not reduce clothing and marital rights",
+        "de"
+      ],
+      [
+        "acheret",
+        "another woman",
+        "he"
+      ],
+      [
+        "she’erah",
+        "her food",
+        "he"
+      ],
+      [
+        "kesutah",
+        "her clothing",
+        "he"
+      ],
+      [
+        "onatah",
+        "her marital rights",
+        "he"
+      ]
+    ],
+    "11": [
+      [
+        "Dem no fit charge her",
+        "they may not charge her",
+        "pcm"
+      ],
+      [
+        "for her freedom",
+        "for her release",
+        "pcm"
+      ],
+      [
+        "Bí ó bá kùnà nínú àwọn mẹ́ta wọ̀nyí",
+        "if he fails in these three things",
+        "yo"
+      ],
+      [
+        "ó lọ ní òmìnira láìsan owó",
+        "she leaves free without paying",
+        "yo"
+      ],
+      [
+        "erfüllt er die drei Pflichten nicht",
+        "if he does not fulfill the three duties",
+        "de"
+      ],
+      [
+        "wird sie ohne Lösegeld frei",
+        "she becomes free without ransom",
+        "de"
+      ],
+      [
+        "shalosh",
+        "three",
+        "he"
+      ],
+      [
+        "yatsa",
+        "go out",
+        "he"
+      ],
+      [
+        "chinnam",
+        "without payment",
+        "he"
+      ],
+      [
+        "kesef",
+        "money; silver",
+        "he"
+      ]
+    ],
+    "12": [
+      [
+        "If e hit pesin till e die",
+        "if he strikes someone until they die",
+        "pcm"
+      ],
+      [
+        "dem go put am to death",
+        "he shall be put to death",
+        "pcm"
+      ],
+      [
+        "Ẹnikẹ́ni tí ó bá lu ènìyàn pa",
+        "whoever strikes a person dead",
+        "yo"
+      ],
+      [
+        "pípa ni a ó pa á",
+        "he shall be put to death",
+        "yo"
+      ],
+      [
+        "wer einen Menschen schlägt",
+        "whoever strikes a person",
+        "de"
+      ],
+      [
+        "sodass er stirbt",
+        "so that he dies",
+        "de"
+      ],
+      [
+        "soll sterben",
+        "shall die",
+        "de"
+      ],
+      [
+        "makeh",
+        "one who strikes",
+        "he"
+      ],
+      [
+        "ish",
+        "man",
+        "he"
+      ],
+      [
+        "met",
+        "dies",
+        "he"
+      ],
+      [
+        "mot",
+        "death",
+        "he"
+      ],
+      [
+        "yumat",
+        "shall be put to death",
+        "he"
+      ]
+    ],
+    "13": [
+      [
+        "If e no plan am",
+        "if he did not plan it",
+        "pcm"
+      ],
+      [
+        "I go give am a place to run",
+        "I will provide a place to flee",
+        "pcm"
+      ],
+      [
+        "Bí kò bá mọ̀ọ́mọ̀ pa á",
+        "if he did not kill intentionally",
+        "yo"
+      ],
+      [
+        "èmi yóò yàn ibi fún un",
+        "I will appoint a place for him",
+        "yo"
+      ],
+      [
+        "hat er nicht aufgelauert",
+        "he did not lie in wait",
+        "de"
+      ],
+      [
+        "bestimme ich ihm einen Ort zur Flucht",
+        "I appoint him a place to flee",
+        "de"
+      ],
+      [
+        "tzadah",
+        "lie in wait",
+        "he"
+      ],
+      [
+        "Elohim",
+        "God",
+        "he"
+      ],
+      [
+        "makom",
+        "place",
+        "he"
+      ],
+      [
+        "yanus",
+        "he may flee",
+        "he"
+      ]
+    ],
+    "14": [
+      [
+        "If e plan the killing",
+        "if he planned the killing",
+        "pcm"
+      ],
+      [
+        "no go shield am",
+        "will not shield him",
+        "pcm"
+      ],
+      [
+        "Bí ó bá fi ẹ̀tàn pa ẹnìkejì rẹ",
+        "if he kills his neighbor with guile",
+        "yo"
+      ],
+      [
+        "ẹ mú un kúrò ní pẹpẹ Mi",
+        "take him from my altar",
+        "yo"
+      ],
+      [
+        "wer seinen Nächsten mit Hinterlist tötet",
+        "who kills his neighbor by deceit",
+        "de"
+      ],
+      [
+        "den holt man vom Altar",
+        "take him from the altar",
+        "de"
+      ],
+      [
+        "zid",
+        "act deliberately",
+        "he"
+      ],
+      [
+        "re’ehu",
+        "his neighbor",
+        "he"
+      ],
+      [
+        "ormah",
+        "deceit",
+        "he"
+      ],
+      [
+        "mizbechi",
+        "my altar",
+        "he"
+      ],
+      [
+        "mot",
+        "death",
+        "he"
+      ]
+    ],
+    "15": [
+      [
+        "If pesin beat en papa or mama",
+        "if someone strikes father or mother",
+        "pcm"
+      ],
+      [
+        "the sentence na death",
+        "the sentence is death",
+        "pcm"
+      ],
+      [
+        "Ẹnikẹ́ni tí ó bá lu baba tàbí ìyá rẹ",
+        "whoever strikes father or mother",
+        "yo"
+      ],
+      [
+        "pípa ni a ó pa á",
+        "shall be put to death",
+        "yo"
+      ],
+      [
+        "wer Vater oder Mutter schlägt",
+        "who strikes father or mother",
+        "de"
+      ],
+      [
+        "soll des Todes sterben",
+        "shall die",
+        "de"
+      ],
+      [
+        "makeh",
+        "one who strikes",
+        "he"
+      ],
+      [
+        "aviv",
+        "his father",
+        "he"
+      ],
+      [
+        "imo",
+        "his mother",
+        "he"
+      ],
+      [
+        "mot",
+        "death",
+        "he"
+      ],
+      [
+        "yumat",
+        "shall be put to death",
+        "he"
+      ]
+    ],
+    "16": [
+      [
+        "Kidnap pesin and sell am",
+        "kidnap a person and sell him",
+        "pcm"
+      ],
+      [
+        "or still hold am",
+        "or still hold him",
+        "pcm"
+      ],
+      [
+        "the sentence na death",
+        "the sentence is death",
+        "pcm"
+      ],
+      [
+        "Ẹnikẹ́ni tí ó bá jí ènìyàn gbé tí ó sì tà á",
+        "whoever kidnaps and sells a person",
+        "yo"
+      ],
+      [
+        "tàbí tí wọ́n bá rí i lọ́wọ́ rẹ",
+        "or the person is found in his possession",
+        "yo"
+      ],
+      [
+        "pípa ni a ó pa á",
+        "shall be put to death",
+        "yo"
+      ],
+      [
+        "wer einen Menschen raubt und verkauft oder festhält",
+        "who kidnaps and sells or holds a person",
+        "de"
+      ],
+      [
+        "soll sterben",
+        "shall die",
+        "de"
+      ],
+      [
+        "gonev",
+        "one who steals",
+        "he"
+      ],
+      [
+        "ish",
+        "man",
+        "he"
+      ],
+      [
+        "makhro",
+        "sells him",
+        "he"
+      ],
+      [
+        "nimtsa",
+        "found",
+        "he"
+      ],
+      [
+        "mot",
+        "death",
+        "he"
+      ],
+      [
+        "yumat",
+        "shall be put to death",
+        "he"
+      ],
+      [
+        "Onye tọrọ mmadụ ibe ya",
+        "one who abducts another person",
+        "ig"
+      ]
+    ],
+    "17": [
+      [
+        "If pesin curse en papa or mama",
+        "if someone curses father or mother",
+        "pcm"
+      ],
+      [
+        "the judgment na death",
+        "the judgment is death",
+        "pcm"
+      ],
+      [
+        "Ẹnikẹ́ni tí ó bá ṣépè fún baba tàbí ìyá rẹ",
+        "whoever curses father or mother",
+        "yo"
+      ],
+      [
+        "pípa ni a ó pa á",
+        "shall be put to death",
+        "yo"
+      ],
+      [
+        "wer Vater oder Mutter verflucht",
+        "who curses father or mother",
+        "de"
+      ],
+      [
+        "soll des Todes sterben",
+        "shall die",
+        "de"
+      ],
+      [
+        "mekalel",
+        "one who curses",
+        "he"
+      ],
+      [
+        "aviv",
+        "his father",
+        "he"
+      ],
+      [
+        "imo",
+        "his mother",
+        "he"
+      ],
+      [
+        "mot",
+        "death",
+        "he"
+      ],
+      [
+        "yumat",
+        "shall be put to death",
+        "he"
+      ]
+    ],
+    "18": [
+      [
+        "dey quarrel and one strikes another",
+        "they quarrel and one strikes another",
+        "pcm"
+      ],
+      [
+        "no die",
+        "does not die",
+        "pcm"
+      ],
+      [
+        "Bí ọkùnrin méjì bá ń jà",
+        "if two men fight",
+        "yo"
+      ],
+      [
+        "ọ̀kan lu ẹnìkejì pẹ̀lú òkúta tàbí ìkùùkuu",
+        "one strikes the other with stone or fist",
+        "yo"
+      ],
+      [
+        "ó sì dùbúlẹ̀",
+        "he becomes bedridden",
+        "yo"
+      ],
+      [
+        "streiten Männer und einer schlägt den andern mit Stein oder Faust",
+        "men fight and one hits the other with a stone or fist",
+        "de"
+      ],
+      [
+        "sodass er bettlägerig wird",
+        "so that he is bedridden",
+        "de"
+      ],
+      [
+        "anashim",
+        "men",
+        "he"
+      ],
+      [
+        "even",
+        "stone",
+        "he"
+      ],
+      [
+        "egrof",
+        "fist",
+        "he"
+      ],
+      [
+        "met",
+        "dies",
+        "he"
+      ],
+      [
+        "mishkav",
+        "bed",
+        "he"
+      ]
+    ],
+    "19": [
+      [
+        "If e stand waka again",
+        "if he can stand and walk again",
+        "pcm"
+      ],
+      [
+        "make the hitter pay en lost time and treatment",
+        "let the hitter pay for lost time and treatment",
+        "pcm"
+      ],
+      [
+        "Bí ẹni tí a lù bá dìde rìn pẹ̀lú ọ̀pá",
+        "if the injured one rises and walks with a staff",
+        "yo"
+      ],
+      [
+        "ẹni tí ó lù ú san owó ìtọ́jú àti àkókò tí ó sọnù",
+        "the striker pays medical costs and lost time",
+        "yo"
+      ],
+      [
+        "steht er wieder auf und geht am Stock",
+        "he rises again and walks with a staff",
+        "de"
+      ],
+      [
+        "zahlt der Täter Verdienstausfall und Arztgeld",
+        "the offender pays lost earnings and medical bills",
+        "de"
+      ],
+      [
+        "yakum",
+        "he rises",
+        "he"
+      ],
+      [
+        "mishanto",
+        "his staff",
+        "he"
+      ],
+      [
+        "venikka",
+        "is cleared",
+        "he"
+      ],
+      [
+        "shivto",
+        "lost time",
+        "he"
+      ],
+      [
+        "rapo",
+        "healing",
+        "he"
+      ]
+    ],
+    "20": [
+      [
+        "If oga beat man or woman servant and dem die there",
+        "if a master beats a male or female servant who dies then",
+        "pcm"
+      ],
+      [
+        "dem must punish am",
+        "they must punish him",
+        "pcm"
+      ],
+      [
+        "Bí olówó bá fi ọ̀pá lu ẹrú ọkùnrin tàbí obìnrin tó sì kú",
+        "if a master strikes a male or female servant with a rod and the servant dies",
+        "yo"
+      ],
+      [
+        "a ó fi ìyà jẹ ẹ́",
+        "he shall be punished",
+        "yo"
+      ],
+      [
+        "schlägt ein Herr einen Sklaven oder eine Sklavin mit einem Stock tot",
+        "if a master beats a male or female servant to death with a rod",
+        "de"
+      ],
+      [
+        "muss er bestraft werden",
+        "he must be punished",
+        "de"
+      ],
+      [
+        "adon",
+        "master",
+        "he"
+      ],
+      [
+        "eved",
+        "male servant",
+        "he"
+      ],
+      [
+        "amah",
+        "female servant",
+        "he"
+      ],
+      [
+        "shevet",
+        "rod",
+        "he"
+      ],
+      [
+        "met",
+        "dies",
+        "he"
+      ],
+      [
+        "naqom",
+        "punishment",
+        "he"
+      ],
+      [
+        "dole a hukunta shi",
+        "he must be punished",
+        "ha"
+      ]
+    ],
+    "21": [
+      [
+        "If dem last one or two days",
+        "if they survive one or two days",
+        "pcm"
+      ],
+      [
+        "owner no go face that punishment",
+        "the owner will not be punished",
+        "pcm"
+      ],
+      [
+        "Bí ẹrú bá wà láàyè fún ọjọ́ kan tàbí méjì",
+        "if the servant lives a day or two",
+        "yo"
+      ],
+      [
+        "a kò ní fi ìyà jẹ olówó nítorí dúkìá rẹ ni",
+        "the master is not punished because the servant is his property",
+        "yo"
+      ],
+      [
+        "lebt der Sklave noch einen oder zwei Tage",
+        "the servant remains alive one or two days",
+        "de"
+      ],
+      [
+        "wird der Herr nicht bestraft",
+        "the master is not punished",
+        "de"
+      ],
+      [
+        "denn er ist sein Geld",
+        "because the servant is his money",
+        "de"
+      ],
+      [
+        "eved",
+        "male servant",
+        "he"
+      ],
+      [
+        "amah",
+        "female servant",
+        "he"
+      ],
+      [
+        "yom",
+        "day",
+        "he"
+      ],
+      [
+        "yomayim",
+        "two days",
+        "he"
+      ],
+      [
+        "adon",
+        "master",
+        "he"
+      ],
+      [
+        "lo",
+        "not",
+        "he"
+      ],
+      [
+        "yuqqam",
+        "punished",
+        "he"
+      ],
+      [
+        "kespo",
+        "his money",
+        "he"
+      ]
+    ],
+    "22": [
+      [
+        "If fight hit woman wey get belle",
+        "if the fight strikes a pregnant woman",
+        "pcm"
+      ],
+      [
+        "pikin come early",
+        "the child comes out early",
+        "pcm"
+      ],
+      [
+        "if no more harm",
+        "if no further harm follows",
+        "pcm"
+      ],
+      [
+        "court set the fine",
+        "the court determines the fine",
+        "pcm"
+      ],
+      [
+        "Bí àwọn ọkùnrin bá ń jà tí wọ́n sì lu aboyún",
+        "if men fight and strike a pregnant woman",
+        "yo"
+      ],
+      [
+        "ọmọ rẹ jáde ṣáájú àsìkò",
+        "her child comes out before time",
+        "yo"
+      ],
+      [
+        "ọkọ rẹ àti onídàájọ́ pinnu ìtanràn",
+        "her husband and the judges determine the penalty",
+        "yo"
+      ],
+      [
+        "streiten Männer und verletzen eine Schwangere",
+        "men fight and injure a pregnant woman",
+        "de"
+      ],
+      [
+        "kommt ihr Kind vorzeitig zur Welt",
+        "her child comes out early",
+        "de"
+      ],
+      [
+        "bestimmen Mann und Richter die Geldstrafe",
+        "husband and judges determine the fine",
+        "de"
+      ],
+      [
+        "anashim",
+        "men",
+        "he"
+      ],
+      [
+        "ishah",
+        "woman; wife",
+        "he"
+      ],
+      [
+        "harah",
+        "pregnant",
+        "he"
+      ],
+      [
+        "yeladeha",
+        "her children",
+        "he"
+      ],
+      [
+        "ason",
+        "harm",
+        "he"
+      ],
+      [
+        "baal",
+        "husband",
+        "he"
+      ],
+      [
+        "pelilim",
+        "judges",
+        "he"
+      ]
+    ],
+    "23": [
+      [
+        "If real harm follow",
+        "if serious harm follows",
+        "pcm"
+      ],
+      [
+        "the judgment go answer life with life",
+        "the judgment answers life with life",
+        "pcm"
+      ],
+      [
+        "Bí ìpalára bá sì tẹ̀lé",
+        "if harm follows",
+        "yo"
+      ],
+      [
+        "ẹ fi ẹ̀mí dípò ẹ̀mí",
+        "give life for life",
+        "yo"
+      ],
+      [
+        "folgt aber ein Schaden",
+        "if harm follows",
+        "de"
+      ],
+      [
+        "gilt Leben um Leben",
+        "life for life applies",
+        "de"
+      ],
+      [
+        "ason",
+        "harm",
+        "he"
+      ],
+      [
+        "natan",
+        "give",
+        "he"
+      ],
+      [
+        "nefesh",
+        "life",
+        "he"
+      ],
+      [
+        "tachat",
+        "in place of",
+        "he"
+      ],
+      [
+        "nefesh",
+        "life",
+        "he"
+      ]
+    ],
+    "24": [
+      [
+        "Na equal measure for each injury",
+        "the measure is proportionate to each injury",
+        "pcm"
+      ],
+      [
+        "Ojú dípò ojú",
+        "eye for eye",
+        "yo"
+      ],
+      [
+        "eyín dípò eyín",
+        "tooth for tooth",
+        "yo"
+      ],
+      [
+        "ọwọ́ dípò ọwọ́",
+        "hand for hand",
+        "yo"
+      ],
+      [
+        "ẹsẹ̀ dípò ẹsẹ̀",
+        "foot for foot",
+        "yo"
+      ],
+      [
+        "Auge um Auge",
+        "eye for eye",
+        "de"
+      ],
+      [
+        "Zahn um Zahn",
+        "tooth for tooth",
+        "de"
+      ],
+      [
+        "Hand um Hand",
+        "hand for hand",
+        "de"
+      ],
+      [
+        "Fuß um Fuß",
+        "foot for foot",
+        "de"
+      ],
+      [
+        "Ayin",
+        "eye",
+        "he"
+      ],
+      [
+        "tachat",
+        "in place of",
+        "he"
+      ],
+      [
+        "ayin",
+        "eye",
+        "he"
+      ],
+      [
+        "shen",
+        "tooth",
+        "he"
+      ],
+      [
+        "tachat",
+        "in place of",
+        "he"
+      ],
+      [
+        "shen",
+        "tooth",
+        "he"
+      ],
+      [
+        "yad",
+        "hand",
+        "he"
+      ],
+      [
+        "tachat",
+        "in place of",
+        "he"
+      ],
+      [
+        "yad",
+        "hand",
+        "he"
+      ],
+      [
+        "regel",
+        "foot",
+        "he"
+      ],
+      [
+        "tachat",
+        "in place of",
+        "he"
+      ],
+      [
+        "regel",
+        "foot",
+        "he"
+      ],
+      [
+        "jicho kwa jicho",
+        "eye for eye",
+        "sw"
+      ],
+      [
+        "jino kwa jino",
+        "tooth for tooth",
+        "sw"
+      ]
+    ],
+    "25": [
+      [
+        "Na matching measure dem go count for every hurt",
+        "the matching measure applies to every injury",
+        "pcm"
+      ],
+      [
+        "Ìjóná fún ìjóná",
+        "burn for burn",
+        "yo"
+      ],
+      [
+        "ọgbẹ́ fún ọgbẹ́",
+        "wound for wound",
+        "yo"
+      ],
+      [
+        "ìnà fún ìnà",
+        "stripe for stripe",
+        "yo"
+      ],
+      [
+        "Brandmal um Brandmal",
+        "burn for burn",
+        "de"
+      ],
+      [
+        "Wunde um Wunde",
+        "wound for wound",
+        "de"
+      ],
+      [
+        "Beule um Beule",
+        "bruise for bruise",
+        "de"
+      ],
+      [
+        "Kviya",
+        "burn",
+        "he"
+      ],
+      [
+        "tachat",
+        "in place of",
+        "he"
+      ],
+      [
+        "kviya",
+        "burn",
+        "he"
+      ],
+      [
+        "petza",
+        "wound",
+        "he"
+      ],
+      [
+        "tachat",
+        "in place of",
+        "he"
+      ],
+      [
+        "petza",
+        "wound",
+        "he"
+      ],
+      [
+        "chabura",
+        "bruise",
+        "he"
+      ],
+      [
+        "tachat",
+        "in place of",
+        "he"
+      ],
+      [
+        "chabura",
+        "bruise",
+        "he"
+      ]
+    ],
+    "26": [
+      [
+        "If oga damage servant eye",
+        "if the master damages the servant’s eye",
+        "pcm"
+      ],
+      [
+        "make e free am",
+        "let him free the servant",
+        "pcm"
+      ],
+      [
+        "no bargain",
+        "without bargaining",
+        "pcm"
+      ],
+      [
+        "Bí olówó bá lu ẹrú ní ojú tí ojú náà fọ́",
+        "if a master strikes a servant’s eye and destroys it",
+        "yo"
+      ],
+      [
+        "ó jẹ́ kí ẹrú lọ ní òmìnira",
+        "he lets the servant leave free",
+        "yo"
+      ],
+      [
+        "zerstört er das Auge eines Sklaven",
+        "if he destroys a servant’s eye",
+        "de"
+      ],
+      [
+        "muss er ihn freilassen",
+        "he must free the servant",
+        "de"
+      ],
+      [
+        "adon",
+        "master",
+        "he"
+      ],
+      [
+        "ayin",
+        "eye",
+        "he"
+      ],
+      [
+        "eved",
+        "male servant",
+        "he"
+      ],
+      [
+        "amah",
+        "female servant",
+        "he"
+      ],
+      [
+        "shichet",
+        "destroy",
+        "he"
+      ],
+      [
+        "chofshi",
+        "free",
+        "he"
+      ]
+    ],
+    "27": [
+      [
+        "If oga knock servant tooth comot",
+        "if the master knocks out a servant’s tooth",
+        "pcm"
+      ],
+      [
+        "e must free am",
+        "he must free the servant",
+        "pcm"
+      ],
+      [
+        "Bí olówó bá lu eyín ẹrú rẹ jáde",
+        "if the master knocks out the servant’s tooth",
+        "yo"
+      ],
+      [
+        "ó jẹ́ kí ó lọ ní òmìnira",
+        "he lets the servant leave free",
+        "yo"
+      ],
+      [
+        "schlägt er einem Sklaven einen Zahn aus",
+        "if he knocks out a servant’s tooth",
+        "de"
+      ],
+      [
+        "muss er ihn freilassen",
+        "he must free the servant",
+        "de"
+      ],
+      [
+        "shen",
+        "tooth",
+        "he"
+      ],
+      [
+        "eved",
+        "male servant",
+        "he"
+      ],
+      [
+        "amah",
+        "female servant",
+        "he"
+      ],
+      [
+        "yatsa",
+        "go out",
+        "he"
+      ],
+      [
+        "chofshi",
+        "free",
+        "he"
+      ]
+    ],
+    "28": [
+      [
+        "If ox gore pesin die",
+        "if an ox gores someone to death",
+        "pcm"
+      ],
+      [
+        "dem stone am",
+        "they stone it",
+        "pcm"
+      ],
+      [
+        "nobody chop the meat",
+        "no one eats the meat",
+        "pcm"
+      ],
+      [
+        "owner no face charge",
+        "the owner is not held liable",
+        "pcm"
+      ],
+      [
+        "Bí akọ màlúù bá kan ọkùnrin tàbí obìnrin pa",
+        "if an ox gores a man or woman to death",
+        "yo"
+      ],
+      [
+        "a sọ ọ́ ní òkúta pa",
+        "it is stoned to death",
+        "yo"
+      ],
+      [
+        "a kò jẹ ẹran rẹ",
+        "its meat is not eaten",
+        "yo"
+      ],
+      [
+        "stößt ein Rind einen Mann oder eine Frau tot",
+        "if an ox gores a man or woman to death",
+        "de"
+      ],
+      [
+        "wird es gesteinigt und nicht gegessen",
+        "it is stoned and not eaten",
+        "de"
+      ],
+      [
+        "shor",
+        "ox",
+        "he"
+      ],
+      [
+        "ish",
+        "man",
+        "he"
+      ],
+      [
+        "ishah",
+        "woman; wife",
+        "he"
+      ],
+      [
+        "sakal",
+        "stone",
+        "he"
+      ],
+      [
+        "basar",
+        "flesh",
+        "he"
+      ],
+      [
+        "baal",
+        "owner",
+        "he"
+      ],
+      [
+        "naki",
+        "innocent",
+        "he"
+      ]
+    ],
+    "29": [
+      [
+        "Dem don warn oga",
+        "they warned the owner",
+        "pcm"
+      ],
+      [
+        "e no tie the ox",
+        "he did not restrain the ox",
+        "pcm"
+      ],
+      [
+        "now pesin die",
+        "now someone died",
+        "pcm"
+      ],
+      [
+        "Bí akọ màlúù bá ti máa ń kan ènìyàn tí a sì kìlọ̀ fún olówó rẹ",
+        "if the ox had gored before and its owner was warned",
+        "yo"
+      ],
+      [
+        "a pa màlúù náà àti olówó rẹ",
+        "the ox and its owner are put to death",
+        "yo"
+      ],
+      [
+        "war das Rind schon stößig und der Besitzer gewarnt",
+        "if the ox was known to gore and its owner warned",
+        "de"
+      ],
+      [
+        "sterben Rind und Besitzer",
+        "the ox and owner die",
+        "de"
+      ],
+      [
+        "shor",
+        "ox",
+        "he"
+      ],
+      [
+        "nagach",
+        "gore",
+        "he"
+      ],
+      [
+        "baal",
+        "owner",
+        "he"
+      ],
+      [
+        "shamar",
+        "restrain",
+        "he"
+      ],
+      [
+        "ish",
+        "man",
+        "he"
+      ],
+      [
+        "ishah",
+        "woman; wife",
+        "he"
+      ],
+      [
+        "sakal",
+        "stone",
+        "he"
+      ],
+      [
+        "mot",
+        "death",
+        "he"
+      ],
+      [
+        "yumat",
+        "shall be put to death",
+        "he"
+      ]
+    ],
+    "30": [
+      [
+        "If dem set ransom for am",
+        "if a ransom is imposed on him",
+        "pcm"
+      ],
+      [
+        "make e pay the full amount to keep his life",
+        "he must pay the full amount for his life",
+        "pcm"
+      ],
+      [
+        "Bí wọ́n bá gbé owó ìràpadà lé e lórí",
+        "if a ransom is laid on him",
+        "yo"
+      ],
+      [
+        "ó san gbogbo iye tí wọ́n béèrè",
+        "he pays the whole amount asked",
+        "yo"
+      ],
+      [
+        "wird ein Lösegeld auferlegt",
+        "if a ransom is imposed",
+        "de"
+      ],
+      [
+        "soll er alles zahlen",
+        "he must pay it all",
+        "de"
+      ],
+      [
+        "um sein Leben auszulösen",
+        "to redeem his life",
+        "de"
+      ],
+      [
+        "kofer",
+        "ransom",
+        "he"
+      ],
+      [
+        "baal",
+        "owner",
+        "he"
+      ],
+      [
+        "natan",
+        "give",
+        "he"
+      ],
+      [
+        "kesef",
+        "money; silver",
+        "he"
+      ],
+      [
+        "pidyon",
+        "redemption",
+        "he"
+      ],
+      [
+        "nefesh",
+        "life",
+        "he"
+      ],
+      [
+        "rescate por su vida",
+        "ransom for his life",
+        "es"
+      ]
+    ],
+    "31": [
+      [
+        "If ox hit pikin boy or girl",
+        "if an ox gores a son or daughter",
+        "pcm"
+      ],
+      [
+        "dem go judge the owner by this same rule",
+        "the owner is judged by the same rule",
+        "pcm"
+      ],
+      [
+        "Bí akọ màlúù bá kan ọmọkùnrin tàbí ọmọbìnrin",
+        "if an ox gores a son or daughter",
+        "yo"
+      ],
+      [
+        "òfin yìí náà ni a lò",
+        "this same law applies",
+        "yo"
+      ],
+      [
+        "stößt das Rind einen Sohn oder eine Tochter",
+        "if an ox gores a son or daughter",
+        "de"
+      ],
+      [
+        "gilt dieselbe Rechtsordnung",
+        "the same law applies",
+        "de"
+      ],
+      [
+        "shor",
+        "ox",
+        "he"
+      ],
+      [
+        "nagach",
+        "gore",
+        "he"
+      ],
+      [
+        "ben",
+        "son",
+        "he"
+      ],
+      [
+        "bat",
+        "daughter",
+        "he"
+      ],
+      [
+        "mishpat",
+        "customary rule",
+        "he"
+      ],
+      [
+        "baal",
+        "owner",
+        "he"
+      ]
+    ],
+    "32": [
+      [
+        "If ox gore servant",
+        "if an ox gores a servant",
+        "pcm"
+      ],
+      [
+        "owner go pay thirty silver shekels to the master",
+        "the owner pays thirty silver shekels to the master",
+        "pcm"
+      ],
+      [
+        "then dem stone the ox",
+        "then the ox is stoned",
+        "pcm"
+      ],
+      [
+        "Bí màlúù bá kan ẹrú",
+        "if an ox gores a servant",
+        "yo"
+      ],
+      [
+        "olówó rẹ san ọgbọ̀n ṣékélì fàdákà fún ọ̀gá ẹrú",
+        "its owner pays thirty silver shekels to the servant’s master",
+        "yo"
+      ],
+      [
+        "a sọ màlúù ní òkúta",
+        "the ox is stoned",
+        "yo"
+      ],
+      [
+        "stößt das Rind einen Sklaven",
+        "if an ox gores a servant",
+        "de"
+      ],
+      [
+        "zahlt der Besitzer dreißig Schekel Silber",
+        "the owner pays thirty shekels of silver",
+        "de"
+      ],
+      [
+        "das Rind wird gesteinigt",
+        "the ox is stoned",
+        "de"
+      ],
+      [
+        "shor",
+        "ox",
+        "he"
+      ],
+      [
+        "eved",
+        "male servant",
+        "he"
+      ],
+      [
+        "amah",
+        "female servant",
+        "he"
+      ],
+      [
+        "baal",
+        "owner",
+        "he"
+      ],
+      [
+        "sheloshim",
+        "thirty",
+        "he"
+      ],
+      [
+        "shekalim",
+        "shekels",
+        "he"
+      ],
+      [
+        "kesef",
+        "money; silver",
+        "he"
+      ],
+      [
+        "sakal",
+        "stone",
+        "he"
+      ]
+    ],
+    "33": [
+      [
+        "If pesin open pit or dig one and no cover am",
+        "if someone opens or digs a pit and leaves it uncovered",
+        "pcm"
+      ],
+      [
+        "ox or donkey fit fall enter",
+        "an ox or donkey falls in",
+        "pcm"
+      ],
+      [
+        "Bí ènìyàn bá ṣí kòtò tàbí gbẹ́ kòtò láìbò",
+        "if someone opens or digs a pit and does not cover it",
+        "yo"
+      ],
+      [
+        "màlúù tàbí kẹ́tẹ́kẹ́tẹ́ bọ́ sínú rẹ",
+        "an ox or donkey falls in",
+        "yo"
+      ],
+      [
+        "öffnet oder gräbt jemand eine Grube und deckt sie nicht zu",
+        "if someone opens or digs a pit and leaves it uncovered",
+        "de"
+      ],
+      [
+        "fallen Rind oder Esel hinein",
+        "an ox or donkey falls in",
+        "de"
+      ],
+      [
+        "patach",
+        "open",
+        "he"
+      ],
+      [
+        "bor",
+        "pit",
+        "he"
+      ],
+      [
+        "karah",
+        "dig",
+        "he"
+      ],
+      [
+        "lo",
+        "not",
+        "he"
+      ],
+      [
+        "kisah",
+        "cover",
+        "he"
+      ],
+      [
+        "shor",
+        "ox",
+        "he"
+      ],
+      [
+        "chamor",
+        "donkey",
+        "he"
+      ]
+    ],
+    "34": [
+      [
+        "Pit owner go pay the other owner full loss",
+        "the pit owner pays the animal owner for the loss",
+        "pcm"
+      ],
+      [
+        "then dead beast na him own",
+        "then the dead animal belongs to him",
+        "pcm"
+      ],
+      [
+        "Ẹni tí ó ni kòtò san owó fún ẹni tí ó ni ẹran",
+        "the pit owner pays the animal owner",
+        "yo"
+      ],
+      [
+        "òkú ẹran náà di tirẹ̀",
+        "the dead animal becomes his",
+        "yo"
+      ],
+      [
+        "der Besitzer der Grube zahlt Ersatz",
+        "the pit owner pays compensation",
+        "de"
+      ],
+      [
+        "das tote Tier gehört dann ihm",
+        "the dead animal then belongs to him",
+        "de"
+      ],
+      [
+        "baal",
+        "owner",
+        "he"
+      ],
+      [
+        "bor",
+        "pit",
+        "he"
+      ],
+      [
+        "shalem",
+        "pay compensation",
+        "he"
+      ],
+      [
+        "kesef",
+        "money; silver",
+        "he"
+      ],
+      [
+        "baalav",
+        "its owner",
+        "he"
+      ],
+      [
+        "met",
+        "dies",
+        "he"
+      ]
+    ],
+    "35": [
+      [
+        "If one ox kill another ox",
+        "if one ox kills another",
+        "pcm"
+      ],
+      [
+        "dem sell the live one",
+        "they sell the living ox",
+        "pcm"
+      ],
+      [
+        "share the money and divide the dead one",
+        "divide the money and the dead ox",
+        "pcm"
+      ],
+      [
+        "Bí màlúù kan bá pa òmíràn",
+        "if one ox kills another",
+        "yo"
+      ],
+      [
+        "wọ́n ta èyí tí ó wà láàyè",
+        "they sell the living one",
+        "yo"
+      ],
+      [
+        "pín owó àti òkú ẹran",
+        "divide the money and dead animal",
+        "yo"
+      ],
+      [
+        "stößt ein Rind ein anderes tot",
+        "if an ox gores another to death",
+        "de"
+      ],
+      [
+        "verkaufen sie das lebende und teilen Geld und totes Tier",
+        "they sell the living ox and divide money and dead animal",
+        "de"
+      ],
+      [
+        "shor",
+        "ox",
+        "he"
+      ],
+      [
+        "nagaf",
+        "gore",
+        "he"
+      ],
+      [
+        "shor",
+        "ox",
+        "he"
+      ],
+      [
+        "met",
+        "dies",
+        "he"
+      ],
+      [
+        "makhar",
+        "sell",
+        "he"
+      ],
+      [
+        "chatzu",
+        "divide",
+        "he"
+      ],
+      [
+        "kesef",
+        "money; silver",
+        "he"
+      ],
+      [
+        "chatzu",
+        "divide",
+        "he"
+      ],
+      [
+        "dem haffi share di money",
+        "they must share the money",
+        "jam"
+      ]
+    ],
+    "36": [
+      [
+        "If owner sabi sey ox dey gore and e no hold am",
+        "if the owner knew the ox gored and did not restrain it",
+        "pcm"
+      ],
+      [
+        "e go pay ox for ox",
+        "he pays ox for ox",
+        "pcm"
+      ],
+      [
+        "the dead one na him own",
+        "the dead one becomes his",
+        "pcm"
+      ],
+      [
+        "Bí olówó ti mọ pé màlúù máa ń kan tí kò sì mú un so",
+        "if the owner knew the ox gored and did not restrain it",
+        "yo"
+      ],
+      [
+        "ó san ẹran dípò ẹran",
+        "he pays animal for animal",
+        "yo"
+      ],
+      [
+        "òkú náà di tirẹ̀",
+        "the dead one becomes his",
+        "yo"
+      ],
+      [
+        "war das Rind schon stößig und unbewacht",
+        "if the ox was known to gore and unrestrained",
+        "de"
+      ],
+      [
+        "ersetzt der Besitzer Rind für Rind und erhält das tote",
+        "the owner replaces ox for ox and receives the dead one",
+        "de"
+      ],
+      [
+        "shor",
+        "ox",
+        "he"
+      ],
+      [
+        "nagach",
+        "gore",
+        "he"
+      ],
+      [
+        "baal",
+        "owner",
+        "he"
+      ],
+      [
+        "shamar",
+        "restrain",
+        "he"
+      ],
+      [
+        "shalem",
+        "pay compensation",
+        "he"
+      ],
+      [
+        "shor",
+        "ox",
+        "he"
+      ],
+      [
+        "tachat",
+        "in place of",
+        "he"
+      ],
+      [
+        "shor",
+        "ox",
+        "he"
+      ],
+      [
+        "met",
+        "dies",
+        "he"
+      ]
+    ]
+  },
+  "languageSources": {
+    "pcm": "https://ebible.org/pcm/EXO21.htm",
+    "yo": "https://ebible.org/yor/EXO21.htm",
+    "de": "https://www.bibleserver.com/LUT/2.Mose21",
+    "he": "https://www.sefaria.org/Exodus.21?lang2=en&with=Navigation",
+    "fr": "https://saintebible.com/exodus/21-1.htm",
+    "ig": "https://www.jw.org/ig/ihe-ndi-anyi-nwere/magazin/g201110/Ba%E1%BB%8Bb%E1%BB%A5l-%C3%92%CC%A3-Kwadoro-%E1%BB%8Agba-Ohu/",
+    "ha": "https://ebible.org/study/content/texts/hausa/EX21.html",
+    "jam": "https://patoispal.com/dictionary/haffi",
+    "es": "https://ebible.org/spanblh/EXO21.htm",
+    "sw": "https://ebible.org/pdf/swhonen/swhonen_EXO.pdf"
+  }
+}

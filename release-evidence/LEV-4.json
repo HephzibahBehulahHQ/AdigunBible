@@ -1,0 +1,251 @@
+{
+  "gateVersion": 1,
+  "book": "LEV",
+  "chapter": 4,
+  "versesVar": "leviticusFourth",
+  "glossesVar": "leviticusFourthGlosses",
+  "expectedVerseCount": 35,
+  "sourceFile": "Leviticus/Chapter 4.txt",
+  "status": "passed_with_visual_deferral",
+  "reviewer": "Codex",
+  "reviewedAt": "2026-11-21T22:19:00.442Z",
+  "languageReferences": {
+    "pcm": "https://www.britishcouncil.org/voices-magazine/nigerian-pidgin-words-phrases",
+    "yo": "https://ebible.org/pdf/yor/yor_LEV.pdf",
+    "de": "https://www.bibleserver.com/LUT/3.Mose4",
+    "he": "https://www.sefaria.org/Leviticus.4?lang2=en&with=all",
+    "fr": "https://saintebible.com/leviticus/4-1.htm",
+    "ig": "https://www.bible.com/bible/77/LEV.4.IGBOB",
+    "ha": "https://www.bible.com/fr/bible/71/LEV.4.HAU",
+    "jam": "https://patwapartner.com/words/",
+    "es": "https://ebible.org/bible/details.php?id=spablm",
+    "sw": "https://ebible.org/swhonen/LEV04.htm"
+  },
+  "checks": {
+    "universalVoice": "pass",
+    "scriptureMeaning": "pass",
+    "completenessAndOrder": "pass",
+    "multilingualAccuracy": "pass",
+    "sourceSyntax": "pass",
+    "hoverGlosses": "pass",
+    "readerNavigation": "pass",
+    "readerRendering": "deferred"
+  },
+  "verseReviews": {
+    "1": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "2": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "3": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "4": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "5": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "6": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "7": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "8": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "9": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "10": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "11": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "12": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "13": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "14": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "15": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "16": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "17": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "18": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "19": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "20": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "21": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "22": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "23": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "24": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "25": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "26": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "27": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "28": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "29": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "30": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "31": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "32": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "33": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "34": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "35": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    }
+  },
+  "visualDeferral": {
+    "approvedBy": "owner",
+    "approvedAt": "2026-11-21",
+    "approvalReference": "Owner approved pending reader visual evidence and continuing chapter work in the Codex chat on 2026-11-21."
+  }
+}

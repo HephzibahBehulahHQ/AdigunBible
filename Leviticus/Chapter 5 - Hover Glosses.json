@@ -1,0 +1,450 @@
+{
+  "1": [
+    [
+      "shama kol alah ed velo yagid",
+      "hear the oath's call as witness but do not tell",
+      "he"
+    ],
+    [
+      "You see am know am talk",
+      "if you saw or know it, speak",
+      "pcm"
+    ],
+    [
+      "Bí o rí tàbí mọ̀ sọ",
+      "if you saw or know, tell",
+      "yo"
+    ],
+    [
+      "Zeuge sah oder wusste muss reden",
+      "witness who saw or knew must speak",
+      "de"
+    ],
+    [
+      "témoin qui sait doit parler",
+      "a witness who knows must speak",
+      "fr"
+    ]
+  ],
+  "2": [
+    [
+      "naga benivlat chayah temeah veashem",
+      "touch an unclean animal carcass and incur guilt",
+      "he"
+    ],
+    [
+      "Touch dirty dead animal no know",
+      "touch an unclean dead animal unknowingly",
+      "pcm"
+    ],
+    [
+      "Fọwọ́ kan òkú ẹranko aláìmọ́",
+      "touch an unclean animal carcass",
+      "yo"
+    ],
+    [
+      "unreinen Tierkadaver berühren unbemerkt schuldig",
+      "touch unclean animal carcass unknowingly, guilty",
+      "de"
+    ],
+    [
+      "ozu anụ ruru arụ",
+      "carcass of an unclean animal",
+      "ig"
+    ]
+  ],
+  "3": [
+    [
+      "tumat adam venelam mimenu veashem",
+      "human uncleanness hidden from him, then guilt",
+      "he"
+    ],
+    [
+      "Touch person uncleanness later know guilt",
+      "touch human uncleanness; later know, guilty",
+      "pcm"
+    ],
+    [
+      "Fọwọ́ kan àìmọ́ ènìyàn mọ̀ lẹ́yìn",
+      "touch human uncleanness, learn later",
+      "yo"
+    ],
+    [
+      "menschliche Unreinheit berühren später erkennen schuldig",
+      "touch human uncleanness, know later, guilty",
+      "de"
+    ],
+    [
+      "taɓa ƙazantar mutum daga baya sani",
+      "touch human uncleanness, know afterward",
+      "ha"
+    ]
+  ],
+  "4": [
+    [
+      "shvua levateh bisfatayim lehara o leheitiv",
+      "an oath spoken with lips to do evil or good",
+      "he"
+    ],
+    [
+      "Mouth swear good or bad forget",
+      "mouth swears good or bad and forgets",
+      "pcm"
+    ],
+    [
+      "Ẹnu búra rere tàbí búburú gbàgbé",
+      "lips swear good or evil and forget",
+      "yo"
+    ],
+    [
+      "Schwur für Gutes oder Böses vergessen",
+      "forget an oath for good or evil",
+      "de"
+    ],
+    [
+      "Mout mek vow good or bad",
+      "mouth makes a vow for good or bad",
+      "jam"
+    ]
+  ],
+  "5": [
+    [
+      "vehitvadah asher chata aleha",
+      "confess what one sinned in it",
+      "he"
+    ],
+    [
+      "Talk di sin wey you do",
+      "speak the sin you did",
+      "pcm"
+    ],
+    [
+      "Jẹ́wọ́ ẹ̀ṣẹ̀ tí o ṣe",
+      "confess the sin you committed",
+      "yo"
+    ],
+    [
+      "Sünde die du tatest bekennen",
+      "confess the sin you did",
+      "de"
+    ]
+  ],
+  "6": [
+    [
+      "nekevah min hatzon kisbah o seirat izim",
+      "female from flock, lamb or young goat",
+      "he"
+    ],
+    [
+      "Bring female sheep or goat priest atone",
+      "bring female sheep or goat; priest atones",
+      "pcm"
+    ],
+    [
+      "Mú àgùntàn abo tàbí ewúrẹ́ abo",
+      "bring female lamb or goat",
+      "yo"
+    ],
+    [
+      "weibliches Lamm oder junge Ziege",
+      "female lamb or young goat",
+      "de"
+    ]
+  ],
+  "7": [
+    [
+      "shtei torim o shnei bnei yonah",
+      "two turtledoves or two young pigeons",
+      "he"
+    ],
+    [
+      "No fit afford lamb bring two birds",
+      "if unable to afford lamb, bring two birds",
+      "pcm"
+    ],
+    [
+      "Bí o kò lè mú àgùntàn mú ẹyẹ méjì",
+      "if unable to bring lamb, bring two birds",
+      "yo"
+    ],
+    [
+      "kein Lamm leisten zwei Vögel bringen",
+      "if unable to afford lamb, bring two birds",
+      "de"
+    ]
+  ],
+  "8": [
+    [
+      "hachatat rishonah umalak rosho velo yavdil",
+      "sin offering first, pinch head but do not sever",
+      "he"
+    ],
+    [
+      "Sin bird first neck no cut off",
+      "sin bird first, do not cut neck through",
+      "pcm"
+    ],
+    [
+      "Ẹyẹ ẹ̀ṣẹ̀ kọ́kọ́ má pín orí kúrò",
+      "sin bird first, do not sever head",
+      "yo"
+    ],
+    [
+      "Sündopfer zuerst Kopf am Hals nicht abtrennen",
+      "sin offering first, do not sever head at neck",
+      "de"
+    ]
+  ],
+  "9": [
+    [
+      "midam hachatat al kir hamizbeach",
+      "sin offering blood on altar side",
+      "he"
+    ],
+    [
+      "Blood for side rest for base",
+      "blood on side, rest at base",
+      "pcm"
+    ],
+    [
+      "Ẹ̀jẹ̀ sí ẹgbẹ́ pẹpẹ ìyókù ìsàlẹ̀",
+      "blood on altar side, rest at base",
+      "yo"
+    ],
+    [
+      "Blut an Altarseite Rest am Fuß",
+      "blood at altar side, rest at base",
+      "de"
+    ]
+  ],
+  "10": [
+    [
+      "hasheni olah vehikhapper hakohen venislach",
+      "the second as burnt offering; priest atones and forgiveness follows",
+      "he"
+    ],
+    [
+      "Second bird burn priest atone forgive",
+      "second bird burned; priest atones and he is forgiven",
+      "pcm"
+    ],
+    [
+      "Ẹyẹ kejì sísun àlùfáà ṣe ètùtù",
+      "second bird burnt; priest makes atonement",
+      "yo"
+    ],
+    [
+      "zweiter Vogel Brandopfer Priester sühnt ihm wird vergeben",
+      "second bird burnt; priest atones; he is forgiven",
+      "de"
+    ]
+  ],
+  "11": [
+    [
+      "asirit haeifah solet lechatat",
+      "a tenth of an ephah of fine flour for sin offering",
+      "he"
+    ],
+    [
+      "No fit buy birds bring flour",
+      "unable to afford birds, bring flour",
+      "pcm"
+    ],
+    [
+      "Mú ìdámẹ́wàá òṣùwọ̀n ìyẹ̀fun dáradára",
+      "bring a tenth measure of fine flour",
+      "yo"
+    ],
+    [
+      "zehntes Efa Feinmehl ohne Öl Weihrauch",
+      "tenth of an ephah fine flour without oil or frankincense",
+      "de"
+    ]
+  ],
+  "12": [
+    [
+      "melo kumtzo azkaratah vehiktir hamizbechah",
+      "a handful as its memorial burned on altar",
+      "he"
+    ],
+    [
+      "Priest take handful burn for altar",
+      "priest takes a handful and burns it on altar",
+      "pcm"
+    ],
+    [
+      "Àlùfáà mú ẹ̀kúnwọ́ sun lórí pẹpẹ",
+      "priest takes a handful and burns on altar",
+      "yo"
+    ],
+    [
+      "Priester nimmt Handvoll verbrennt auf Altar",
+      "priest takes a handful and burns it on altar",
+      "de"
+    ]
+  ],
+  "13": [
+    [
+      "vekhapper hakohen alav venislach lo",
+      "the priest atones for him and he is forgiven",
+      "he"
+    ],
+    [
+      "Priest atone God forgive person keep rest",
+      "priest atones; God forgives; priest keeps rest",
+      "pcm"
+    ],
+    [
+      "Àlùfáà ṣe ètùtù ìyókù jẹ́ tirẹ̀",
+      "priest makes atonement; remainder is his",
+      "yo"
+    ],
+    [
+      "Priester sühnt Rest gehört ihm",
+      "priest atones; remainder belongs to him",
+      "de"
+    ]
+  ],
+  "14": [
+    [
+      "vayedabber Adonai el Moshe",
+      "the LORD spoke to Moses",
+      "he"
+    ],
+    [
+      "God talk to Moses again",
+      "God spoke again to Moses",
+      "pcm"
+    ],
+    [
+      "Olúwa sọ fún Mósè",
+      "the LORD spoke to Moses",
+      "yo"
+    ],
+    [
+      "der HERR sprach zu Mose",
+      "the LORD spoke to Moses",
+      "de"
+    ]
+  ],
+  "15": [
+    [
+      "ayil tamim kesef shekalim beshekel hakodesh",
+      "flawless ram valued in silver sanctuary shekels",
+      "he"
+    ],
+    [
+      "Bring clean ram measure by holy shekel",
+      "bring flawless ram valued by sanctuary shekel",
+      "pcm"
+    ],
+    [
+      "Mú àgbò aláìlábààwọ́n pẹ̀lú ìwọ̀n fàdákà",
+      "bring flawless ram valued in silver",
+      "yo"
+    ],
+    [
+      "makelloser Widder Silberwert nach Heiligtumsschekel",
+      "flawless ram, silver value by sanctuary shekel",
+      "de"
+    ],
+    [
+      "carnero sin defecto valor en plata",
+      "ram without defect valued in silver",
+      "es"
+    ]
+  ],
+  "16": [
+    [
+      "chamishito yosef alav venatan lakohen",
+      "add a fifth and give it to the priest",
+      "he"
+    ],
+    [
+      "Pay back add one fifth priest atone",
+      "repay, add a fifth, priest atones",
+      "pcm"
+    ],
+    [
+      "San padà fi ìdámárùnún kún fún àlùfáà",
+      "repay and add a fifth for the priest",
+      "yo"
+    ],
+    [
+      "ersetzen fünftes Teil dazu Priester sühnt",
+      "make restitution plus a fifth; priest atones",
+      "de"
+    ],
+    [
+      "rudisha na ongeza sehemu ya tano",
+      "repay and add a fifth",
+      "sw"
+    ]
+  ],
+  "17": [
+    [
+      "nefesh ki techeta velo yada veashem",
+      "a person sins without knowing and incurs guilt",
+      "he"
+    ],
+    [
+      "Person no know still carry guilt",
+      "person does not know, still bears guilt",
+      "pcm"
+    ],
+    [
+      "Ẹni kò mọ̀ ṣùgbọ́n jẹ̀bi",
+      "person did not know but is guilty",
+      "yo"
+    ],
+    [
+      "unwissend gesündigt trotzdem schuldig bleiben",
+      "sin unknowingly yet remain guilty",
+      "de"
+    ]
+  ],
+  "18": [
+    [
+      "ayil tamim haerkecha leasham",
+      "flawless ram by valuation for guilt offering",
+      "he"
+    ],
+    [
+      "Bring ram priest atone forgive am",
+      "bring ram, priest atones, he is forgiven",
+      "pcm"
+    ],
+    [
+      "Mú àgbò aláìlábààwọ́n àlùfáà ṣe ètùtù",
+      "bring flawless ram; priest makes atonement",
+      "yo"
+    ],
+    [
+      "makellosen Widder bringen Priester sühnt ihm wird vergeben",
+      "bring flawless ram; priest atones; he is forgiven",
+      "de"
+    ]
+  ],
+  "19": [
+    [
+      "asham hu ashom asham laAdonai",
+      "it is guilt; he surely incurred guilt before the LORD",
+      "he"
+    ],
+    [
+      "Na guilt offering person offend God",
+      "it is a guilt offering; person offended God",
+      "pcm"
+    ],
+    [
+      "Ẹbọ ẹ̀bi ni ó ṣẹ̀ sí Olúwa",
+      "it is a guilt offering; he sinned against LORD",
+      "yo"
+    ],
+    [
+      "Schuldopfer wirklich schuldig vor dem HERRN",
+      "guilt offering; truly guilty before the LORD",
+      "de"
+    ]
+  ]
+}

@@ -7,7 +7,7 @@
   "expectedVerseCount": 16,
   "status": "passed_with_visual_deferral",
   "reviewer": "Codex",
-  "reviewedAt": "2026-11-21T16:07:57Z",
+  "reviewedAt": "2026-11-21T21:45:35.977Z",
   "languageReferences": {
     "pcm": "https://www.britishcouncil.org/voices-magazine/nigerian-pidgin-words-phrases",
     "yo": "https://ebible.org/pdf/yor/yor_EXO.pdf",
@@ -16,7 +16,9 @@
     "ha": "https://www.bible.com/fr/bible/71/EXO.17.HAU",
     "jam": "https://patoispal.com/dictionary/mek",
     "he": "https://freely-given.org/OBD/ref/HebWrd/EXOc17v2w14.htm",
-    "fr": "https://www.larousse.fr/dictionnaires/francais/jaillir/"
+    "fr": "https://www.larousse.fr/dictionnaires/francais/jaillir/",
+    "es": "https://ebible.org/spablm/EXO17.htm",
+    "sw": "https://ebible.org/pdf/swhonen/swhonen_EXO.pdf"
   },
   "checks": {
     "universalVoice": "pass",

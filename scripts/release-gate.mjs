@@ -46,10 +46,60 @@ function escapeHtml(value) {
   })[character]);
 }
 
+const renderAnnotatedStart = readFileSync(path.join(root, "Matthew", "render-verse.js"), "utf8");
+const renderAnnotatedVerse = new Function(
+  "escapeHtml",
+  `${renderAnnotatedStart}; return renderMatthewVerse;`,
+)(escapeHtml);
+const annotatedBookFolders = { MAT: "Matthew", MRK: "Mark", LUK: "Luke", JHN: "John" };
+const annotatedChapterMaps = { MAT: "matthewChapters", MRK: "markChapters", LUK: "lukeChapters", JHN: "johnChapters" };
+
+function loadAnnotatedChapter(evidence, sourceText) {
+  const folder = annotatedBookFolders[evidence.book];
+  if (!folder) fail(`${evidence.book} ${evidence.chapter}: annotated chapter modules are not supported for this book`);
+  const expectedModule = `${folder}/chapter-${evidence.chapter}.js`;
+  if (evidence.chapterModule !== expectedModule) fail(`${evidence.book} ${evidence.chapter}: chapterModule must be ${expectedModule}`);
+  if (!/^[A-Za-z_$][\w$]*$/.test(evidence.chapterVar ?? "")) fail(`${evidence.book} ${evidence.chapter}: chapterVar is invalid`);
+  const resolvedPath = path.resolve(root, expectedModule);
+  if (!resolvedPath.startsWith(`${root}${path.sep}`)) fail(`${evidence.book} ${evidence.chapter}: chapterModule escapes the project`);
+  const source = sourceText ?? readFileSync(resolvedPath, "utf8");
+  const chapter = vm.runInNewContext(`${source}\n;${evidence.chapterVar}`, Object.create(null), {
+    filename: expectedModule,
+    timeout: 1000,
+  });
+  if (!chapter || chapter.book !== ({ MAT: "Matthew", MRK: "Mark", LUK: "Luke", JHN: "John" })[evidence.book] ||
+      chapter.chapter !== evidence.chapter || !Array.isArray(chapter.verses)) {
+    fail(`${evidence.book} ${evidence.chapter}: chapter module does not contain the expected chapter object`);
+  }
+  return chapter;
+}
+
+function readChapterContent(evidence, sourceText) {
+  if (evidence.chapterModule) {
+    const chapter = loadAnnotatedChapter(evidence, sourceText);
+    return {
+      chapter,
+      verses: chapter.verses.map((verse) => verse.text),
+      glosses: Object.fromEntries(chapter.verses.map((verse) => [String(verse.number), verse.glosses])),
+    };
+  }
+  return {
+    chapter: null,
+    verses: extractDeclaration(evidence.versesVar, "\n];", sourceText ?? reader),
+    glosses: extractDeclaration(evidence.glossesVar, "\n};", sourceText ?? reader),
+  };
+}
+
 const paletteAtWordEnd = /^(?:❤️|🙏|✨|🔥|🫶|🌍|😭|👀|💯|🕊️)/u;
 const paletteGlobal = /(?:❤️|🙏|✨|🔥|🫶|🌍|😭|👀|💯|🕊️)/gu;
+function normalizeGlossPhrase(value) {
+  return [...value.replace(paletteGlobal, "").matchAll(/[\p{L}\p{M}]+(?:['’\-][\p{L}\p{M}]+)*/gu)]
+    .map(([word]) => word)
+    .join(" ");
+}
 const coreLanguages = ["pcm", "yo", "de", "he"];
 const chapterLanguages = ["fr", "ig", "ha", "jam"];
+const rotatingLanguages = ["es", "ar", "pt", "sw", "hi", "zh", "tl", "ko", "ja", "it", "nl"];
 const requiredManualChecks = [
   "universalVoice",
   "scriptureMeaning",
@@ -92,26 +142,40 @@ function auditChapter(evidence, { requirePublished = true, requireVisualReview =
   if (!/^[A-Z0-9]{3}$/.test(book ?? "") || !(book in canonicalBookChapters)) fail("Evidence book must be a canonical three-character code");
   if (!Number.isInteger(chapter) || chapter < 1) fail("Evidence chapter must be a positive integer");
   if (!Number.isInteger(expectedVerseCount) || expectedVerseCount < 1) fail("Evidence needs the verified verse count");
-  if (!/^[A-Za-z_$][\w$]*$/.test(versesVar ?? "")) fail("Evidence versesVar is invalid");
-  if (!/^[A-Za-z_$][\w$]*$/.test(glossesVar ?? "")) fail("Evidence glossesVar is invalid");
+  if (!evidence.chapterModule && !/^[A-Za-z_$][\w$]*$/.test(versesVar ?? "")) fail("Evidence versesVar is invalid");
+  if (!evidence.chapterModule && !/^[A-Za-z_$][\w$]*$/.test(glossesVar ?? "")) fail("Evidence glossesVar is invalid");
 
-  const verses = extractDeclaration(versesVar, "\n];");
-  const glosses = extractDeclaration(glossesVar, "\n};");
+  const { chapter: moduleChapter, verses, glosses } = readChapterContent(evidence);
   if (!Array.isArray(verses) || verses.length !== expectedVerseCount) {
     fail(`${book} ${chapter}: expected ${expectedVerseCount} verses, found ${verses?.length ?? "no array"}`);
   }
-  const booksStart = reader.indexOf("const books={");
-  const booksEnd = reader.indexOf("\n};", booksStart);
-  if (booksStart < 0 || booksEnd < 0) fail("Could not locate the reader book/navigation registry");
-  const booksLines = reader.slice(booksStart, booksEnd).split(/\r?\n/);
-  const bookLine = booksLines.find((line) => line.trimStart().startsWith(`${book}:{`));
-  if (!bookLine) fail(`${book} ${chapter}: book is missing from reader navigation`);
-  const chapterPattern = new RegExp(
-    `${chapter}\\s*:\\s*\\{\\s*title\\s*:\\s*"[^"]+"\\s*,\\s*verses\\s*:\\s*${versesVar}\\s*(?:,\\s*inReview\\s*:\\s*(true|false))?\\s*\\}`,
-  );
-  const chapterMatch = bookLine.match(chapterPattern);
-  if (!chapterMatch) fail(`${book} ${chapter}: reader navigation does not point to ${versesVar}`);
-  if (requirePublished && chapterMatch[1] === "true") fail(`${book} ${chapter} is still marked in editorial review`);
+  if (moduleChapter) {
+    const mapName = annotatedChapterMaps[book];
+    const moduleTag = new RegExp(`<script\\b[^>]*\\bsrc=["']${evidence.chapterModule.replace(/[.*+?^${}()|[\\]\\]/g, "\\$&")}['"][^>]*>`, "iu");
+    if (!moduleTag.test(reader) || !reader.includes(`${chapter}:${evidence.chapterVar}`) ||
+        !reader.includes(`${book}:${mapName}`)) {
+      fail(`${book} ${chapter}: reader does not load and register ${evidence.chapterModule}`);
+    }
+    if (!/\.words-of-jesus\s*\{\s*color\s*:/iu.test(reader) ||
+        !/body\[data-theme=["']light["']\]\s+\.words-of-jesus\s*\{\s*color\s*:/iu.test(reader)) {
+      fail(`${book} ${chapter}: reader must set Jesus speech to red in dark and light themes`);
+    }
+    if (requirePublished && moduleChapter.inReview) fail(`${book} ${chapter} is still marked in editorial review`);
+  }
+  if (!moduleChapter) {
+    const booksStart = reader.indexOf("const books={");
+    const booksEnd = reader.indexOf("\n};", booksStart);
+    if (booksStart < 0 || booksEnd < 0) fail("Could not locate the reader book/navigation registry");
+    const booksLines = reader.slice(booksStart, booksEnd).split(/\r?\n/);
+    const bookLine = booksLines.find((line) => line.trimStart().startsWith(`${book}:{`));
+    if (!bookLine) fail(`${book} ${chapter}: book is missing from reader navigation`);
+    const chapterPattern = new RegExp(
+      `${chapter}\\s*:\\s*\\{\\s*title\\s*:\\s*"[^"]+"\\s*,\\s*verses\\s*:\\s*${versesVar}\\s*(?:,\\s*inReview\\s*:\\s*(true|false))?\\s*\\}`,
+    );
+    const chapterMatch = bookLine.match(chapterPattern);
+    if (!chapterMatch) fail(`${book} ${chapter}: reader navigation does not point to ${versesVar}`);
+    if (requirePublished && chapterMatch[1] === "true") fail(`${book} ${chapter} is still marked in editorial review`);
+  }
   if (!/function buildChapterGrid\(\)[\s\S]*?button\.onclick=\(\)=>openChapter\(n\)/.test(reader) ||
       !/function openChapter\(n,selected=book\)[\s\S]*?chapter=n[\s\S]*?render\(\)/.test(reader)) {
     fail(`${book} ${chapter}: chapter selection does not route through the reader navigation and renderer`);
@@ -139,7 +203,21 @@ function auditChapter(evidence, { requirePublished = true, requireVisualReview =
 
     const verseGlosses = chapterGlosses[String(number)];
     if (!Array.isArray(verseGlosses)) fail(`${book} ${chapter}:${number} has no glossary list`);
-    const html = renderVerseText(verse, verseGlosses);
+    const moduleVerse = moduleChapter?.verses[index];
+    if (moduleVerse && (moduleVerse.number !== number || !Array.isArray(moduleVerse.wordsOfJesus))) {
+      fail(`${book} ${chapter}:${number}: annotated verse numbering or Jesus speech ranges are missing`);
+    }
+    for (const [start, end] of moduleVerse?.wordsOfJesus ?? []) {
+      if (!Number.isInteger(start) || !Number.isInteger(end) || start < 0 || end <= start || end > verse.length) {
+        fail(`${book} ${chapter}:${number}: Jesus speech range is outside the verse text`);
+      }
+    }
+    const html = moduleVerse
+      ? renderAnnotatedVerse(moduleVerse, escapeHtml)
+      : renderVerseText(verse, verseGlosses);
+    if (moduleVerse?.wordsOfJesus.length && !html.includes('class="words-of-jesus"')) {
+      fail(`${book} ${chapter}:${number}: Jesus speech range did not render as red-letter markup`);
+    }
     const spans = [...html.matchAll(/<span class="verse-gloss" title="([^"]*)" lang="([^"]*)" dir="auto">([^<]*)<\/span>/g)];
     const usedSpans = new Set();
     const glossedWords = new Set(spans.flatMap((span) =>
@@ -152,8 +230,8 @@ function auditChapter(evidence, { requirePublished = true, requireVisualReview =
       }
       const visiblePhrase = phrase;
       const renderedIndex = spans.findIndex((span, spanIndex) => !usedSpans.has(spanIndex) &&
-        span[3].replace(paletteGlobal, "").trim() === visiblePhrase &&
-        span[1] === meaning && span[2] === language);
+        normalizeGlossPhrase(span[3]) === normalizeGlossPhrase(visiblePhrase) &&
+        span[1] === escapeHtml(meaning) && span[2] === language);
       if (renderedIndex < 0) fail(`${book} ${chapter}:${number}: hover gloss does not render for “${phrase}”`);
       usedSpans.add(renderedIndex);
       languageTotals[language] = (languageTotals[language] ?? 0) + phrase.split(" ").length;
@@ -176,6 +254,12 @@ function auditChapter(evidence, { requirePublished = true, requireVisualReview =
   for (const language of chapterLanguages) {
     if ((languageTotals[language] ?? 0) < 4) {
       fail(`${book} ${chapter} needs at least four ${language} switch words across the chapter`);
+    }
+  }
+  if (moduleChapter) {
+    const rotatingUsed = rotatingLanguages.filter((language) => (languageTotals[language] ?? 0) > 0);
+    if (rotatingUsed.length < 2) {
+      fail(`${book} ${chapter} needs switches from at least two rotating languages; found ${rotatingUsed.length}`);
     }
   }
 
@@ -248,12 +332,25 @@ try {
       ".github/workflows/pages.yml",
       "scripts/release-gate.mjs",
     ]);
-    const unexpected = changedFiles.filter((file) => !allowed.has(file));
-    if (unexpected.length) fail(`Chapter release PR contains unrelated changes: ${unexpected.join(", ")}`);
     const evidence = readEvidence(path.join(root, changedEvidence[0]));
     if (path.basename(changedEvidence[0]) !== `${evidence.book}-${evidence.chapter}.json`) {
       fail(`${changedEvidence[0]}: evidence filename must match its book and chapter`);
     }
+    if (evidence.chapterModule) {
+      if (typeof evidence.chapterModule !== "string" || !changedFiles.includes(evidence.chapterModule)) {
+        fail(`${evidence.book} ${evidence.chapter}: PR must change its chapter module`);
+      }
+      allowed.add(evidence.chapterModule);
+      const supportingFilePattern = new RegExp(`^${annotatedBookFolders[evidence.book]}/[^/]+\\.(?:txt|md)$`, "u");
+      for (const file of evidence.supportingFiles ?? []) {
+        if (typeof file !== "string" || !supportingFilePattern.test(file)) {
+          fail(`${evidence.book} ${evidence.chapter}: invalid supporting file path`);
+        }
+        allowed.add(file);
+      }
+    }
+    const unexpected = changedFiles.filter((file) => !allowed.has(file));
+    if (unexpected.length) fail(`Chapter release PR contains unrelated changes: ${unexpected.join(", ")}`);
     const baseEvidence = execFileSync("git", ["ls-tree", "-r", "--name-only", `origin/${base}`, "--", "release-evidence"], { encoding: "utf8" })
       .split(/\r?\n/).filter((file) => /^release-evidence\/[A-Z0-9]{3}-\d+\.json$/.test(file))
       .map((file) => path.basename(file, ".json"));
@@ -267,10 +364,27 @@ try {
       fail(`Next chapter release must be ${expected}; found ${evidence.book}-${evidence.chapter}`);
     }
     const baseReader = execFileSync("git", ["show", `origin/${base}:index.html`], { encoding: "utf8", maxBuffer: 16 * 1024 * 1024 });
-    const beforeVerses = extractOptionalDeclaration(evidence.versesVar, "\n];", baseReader);
-    const afterVerses = extractDeclaration(evidence.versesVar, "\n];");
-    const beforeGlosses = extractOptionalDeclaration(evidence.glossesVar, "\n};", baseReader);
-    const afterGlosses = extractDeclaration(evidence.glossesVar, "\n};");
+    let beforeVerses;
+    let afterVerses;
+    let beforeGlosses;
+    let afterGlosses;
+    if (evidence.chapterModule) {
+      let beforeModule = null;
+      try {
+        beforeModule = execFileSync("git", ["show", `origin/${base}:${evidence.chapterModule}`], { encoding: "utf8", maxBuffer: 16 * 1024 * 1024 });
+      } catch {}
+      const beforeContent = beforeModule ? readChapterContent(evidence, beforeModule) : null;
+      const afterContent = readChapterContent(evidence);
+      beforeVerses = beforeContent?.verses ?? null;
+      beforeGlosses = beforeContent?.glosses ?? null;
+      afterVerses = afterContent.verses;
+      afterGlosses = afterContent.glosses;
+    } else {
+      beforeVerses = extractOptionalDeclaration(evidence.versesVar, "\n];", baseReader);
+      afterVerses = extractDeclaration(evidence.versesVar, "\n];");
+      beforeGlosses = extractOptionalDeclaration(evidence.glossesVar, "\n};", baseReader);
+      afterGlosses = extractDeclaration(evidence.glossesVar, "\n};");
+    }
     if (JSON.stringify(beforeVerses) === JSON.stringify(afterVerses) || JSON.stringify(beforeGlosses) === JSON.stringify(afterGlosses)) {
       fail(`${evidence.book} ${evidence.chapter}: PR must change the target chapter text and glossary`);
     }

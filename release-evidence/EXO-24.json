@@ -1,0 +1,149 @@
+{
+  "gateVersion": 1,
+  "book": "EXO",
+  "chapter": 24,
+  "versesVar": "exodusTwentyFourth",
+  "glossesVar": "exodusTwentyFourthGlosses",
+  "expectedVerseCount": 18,
+  "sourceFile": "Exodus/Chapter 24.txt",
+  "status": "passed_with_visual_deferral",
+  "reviewer": "Codex",
+  "reviewedAt": "2026-11-21T19:33:53.215Z",
+  "languageReferences": {
+    "pcm": "https://ebible.org/pcm/EXO24.htm",
+    "yo": "https://ebible.org/yor/EXO24.htm",
+    "de": "https://www.bibleserver.com/LUT/2.Mose24",
+    "he": "https://www.sefaria.org/Exodus.24?lang2=en&with=Navigation",
+    "fr": "https://saintebible.com/exodus/24-1.htm",
+    "ig": "https://www.bible.com/bible/77/EXO.24.IGBOB",
+    "ha": "https://www.divinerevelations.info/documents/bible/hausa/hausa_nt/exo24.htm",
+    "jam": "https://patwapartner.com/words/",
+    "es": "https://ebible.org/spanblh/EXO24.htm",
+    "sw": "https://ebible.org/pdf/swhonen/swhonen_EXO.pdf"
+  },
+  "checks": {
+    "universalVoice": "pass",
+    "scriptureMeaning": "pass",
+    "completenessAndOrder": "pass",
+    "multilingualAccuracy": "pass",
+    "sourceSyntax": "pass",
+    "hoverGlosses": "pass",
+    "readerNavigation": "pass",
+    "readerRendering": "deferred"
+  },
+  "verseReviews": {
+    "1": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "2": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "3": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "4": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "5": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "6": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "7": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "8": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "9": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "10": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "11": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "12": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "13": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "14": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "15": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "16": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "17": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "18": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    }
+  },
+  "visualDeferral": {
+    "approvedBy": "owner",
+    "approvedAt": "2026-11-21",
+    "approvalReference": "Owner approved pending reader visual evidence and continuing chapter work in the Codex chat on 2026-11-21."
+  }
+}

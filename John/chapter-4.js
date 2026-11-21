@@ -2,8 +2,8 @@ const johnChapterFour = {
   "book": "John",
   "chapter": 4,
   "title": "The Samaritan Woman and the Official’s Son",
-  "inReview": false,
-  "publicationNotice": "Published at owner direction; editorial and visual review remains incomplete.",
+  "inReview": true,
+  "publicationNotice": "Local draft in editorial review; not yet released.",
   "verses": [
     {
       "number": 1,
@@ -278,7 +278,7 @@ const johnChapterFour = {
     },
     {
       "number": 4,
-      "text": "E💯 gats💯 pass🌍 through🌍 Samaria🌍—יֵשׁוּעַ🙏—, haya💯 tsarikh💯, ó💯 ní💯 láti💯 kọjá🌍 Sàmáríà🌍, er💯 musste💯 durch🌍 Samaria🌍, la’avor🌍, hindurchgehen🌍.",
+      "text": "יֵשׁוּעַ🙏—E💯 gats💯 pass🌍 through🌍 Samaria🌍, haya💯 tsarikh💯, ó💯 ní💯 láti💯 kọjá🌍 Sàmáríà🌍, er💯 musste💯 durch🌍 Samaria🌍, la’avor🌍, hindurchgehen🌍.",
       "glosses": [
         [
           "E gats pass through Samaria",
@@ -309,6 +309,11 @@ const johnChapterFour = {
           "hindurchgehen",
           "to go through",
           "de"
+        ],
+        [
+          "יֵשׁוּעַ",
+          "Jesus",
+          "he"
         ]
       ],
       "wordsOfJesus": []
@@ -891,7 +896,7 @@ const johnChapterFour = {
         ],
         [
           "ve’ein lekha",
-          "and you have nothing",
+          "and you do not have one",
           "he"
         ],
         [
@@ -1151,7 +1156,7 @@ const johnChapterFour = {
           "de"
         ],
         [
-          "the water I go give am",
+          "the water I go give",
           "the water I give",
           "pcm"
         ],
@@ -1166,8 +1171,18 @@ const johnChapterFour = {
           "yo"
         ],
         [
-          "das Wasser das ich gebe",
+          "omi tí màá fún un",
           "the water I give",
+          "yo"
+        ],
+        [
+          "das Wasser",
+          "the water",
+          "de"
+        ],
+        [
+          "das ich gebe",
+          "that I give",
           "de"
         ],
         [
@@ -1230,7 +1245,7 @@ const johnChapterFour = {
     },
     {
       "number": 15,
-      "text": "The✨ woman✨ tell✨ am✨: “Sir🫶, ten🫶 li🫶, fún🫶 mi🫶, gib🫶 mir🫶 this🌍 water🌍, hamayim🌍, omi🌍 yìí🌍, dieses🌍 Wasser🌍, so👀 I👀 no👀 go👀 thirst👀, ve-lo👀 etzma👀, kí👀 òùngbẹ👀 má👀 tún👀 gbẹ👀 mí👀, damit👀 ich👀 nicht👀 mehr👀 durstig👀 bin👀, and🌍 no🌍 need🌍 come🌍 here🌍 to🌍 draw🌍 water🌍.”",
+      "text": "The✨ woman✨ tell✨ am✨: “Sir🫶, ten🫶 li🫶, fún🫶 mi🫶, gib🫶 mir🫶 this🌍 water🌍, hamayim🌍, omi🌍 yìí🌍, dieses🌍 Wasser🌍, so👀 I👀 no👀 go👀 thirst👀, ve-lo👀 etzma👀, kí👀 òùngbẹ👀 má👀 tún👀 gbẹ👀 mí👀, damit👀 ich👀 nicht👀 mehr👀 durstig👀 bin👀, and👀 I👀 no👀 go👀 need👀 trek👀 back👀 here👀 to👀 fetch👀 water🌍.”",
       "glosses": [
         [
           "The woman tell am",
@@ -1293,8 +1308,8 @@ const johnChapterFour = {
           "de"
         ],
         [
-          "and no need come here to draw water",
-          "and I will not need to come here to draw water",
+          "and I no go need trek back here to fetch water",
+          "and I will not need to come back here to draw water",
           "pcm"
         ]
       ],
@@ -1302,7 +1317,7 @@ const johnChapterFour = {
     },
     {
       "number": 16,
-      "text": "Jesus✨ tell✨ her✨: “Fam👀, go🌍 call🌍 your🌍 husband🌍, lekhi🌍 qri’i🌍 et🌍 ishekh🌍, lọ🌍 pe🌍 ọkọ🌍 rẹ🌍, geh🌍 ruf🌍 deinen🌍 Mann🌍, then🌍 slide🌍 back🌍 here🌍, shuvi🌍, padà🌍 sí🌍 ibí🌍, komm🌍 zurück🌍.”",
+      "text": "Jesus✨ tell✨ her✨: “Fam👀, go🌍 call🌍 your🌍 husband🌍, lekhi🌍 qri’i🌍 et🌍 ishekh🌍, lọ🌍 pe🌍 ọkọ🌍 rẹ🌍, geh🌍, ruf🌍 deinen🌍 Mann🌍, then🌍 slide🌍 back🌍 here🌍, shuvi🌍, padà🌍 sí🌍 ibí🌍, komm🌍 zurück🌍.”",
       "glosses": [
         [
           "Jesus tell her",
@@ -1521,23 +1536,28 @@ const johnChapterFour = {
           "pcm"
         ],
         [
-          "Hold up I dey clock say you be prophet",
+          "Hold up",
+          "Wait a minute",
+          "pcm"
+        ],
+        [
+          "I dey clock say you be prophet",
           "I can see that you are a prophet",
           "pcm"
         ],
         [
-          "navi",
-          "prophet",
+          "אֲדוֹנִי אֲנִי רוֹאָה כִּי אַתָּה נָבִיא",
+          "Sir, I see that you are a prophet",
           "he"
         ],
         [
-          "wòlíì",
-          "prophet",
+          "Mo rí pé o jẹ́ wòlíì",
+          "I see that you are a prophet",
           "yo"
         ],
         [
-          "ein Prophet",
-          "a prophet",
+          "Du bist ein Prophet",
+          "You are a prophet",
           "de"
         ]
       ],
@@ -1563,8 +1583,8 @@ const johnChapterFour = {
           "yo"
         ],
         [
-          "unsere Vorfahren",
-          "our ancestors",
+          "unsere Vorfahren beteten",
+          "our ancestors worshiped",
           "de"
         ],
         [
@@ -1591,6 +1611,16 @@ const johnChapterFour = {
           "Jerusalem",
           "Jerusalem",
           "de"
+        ],
+        [
+          "הִשְׁתַּחֲווּ",
+          "worshiped",
+          "he"
+        ],
+        [
+          "בָּהָר",
+          "on the mountain",
+          "he"
         ]
       ],
       "wordsOfJesus": []
@@ -1605,8 +1635,13 @@ const johnChapterFour = {
           "pcm"
         ],
         [
-          "Woman trust me",
-          "woman believe me",
+          "Woman",
+          "woman",
+          "pcm"
+        ],
+        [
+          "trust me",
+          "believe me",
           "pcm"
         ],
         [
@@ -1631,7 +1666,7 @@ const johnChapterFour = {
         ],
         [
           "you no go worship the Father",
-          "you will worship the Father neither here nor there",
+          "you will not worship the Father",
           "pcm"
         ],
         [
@@ -1674,17 +1709,12 @@ const johnChapterFour = {
     },
     {
       "number": 22,
-      "text": "“Una👀 dey👀 worship👀 wetin👀 una👀 no👀 even👀 know👀, IDK👀. We👀 know👀 wetin👀 we👀 dey👀 worship👀, anu👀 yod’im👀, a👀 mọ👀 ohun👀 tá👀 a👀 ń👀 sìn👀, wir👀 wissen👀 was👀 wir👀 anbeten👀. Salvation🙏 dey🙏 come🙏 from🙏 the🙏 Jews🙏, yeshu’ah🙏 min🙏 haYehudim🙏, ìgbàlà🙏 wá🙏 láti🙏 ọ̀dọ̀🙏 àwọn🙏 Júù🙏, Rettung🙏 kommt🙏 von🙏 den🙏 Juden🙏.”",
+      "text": "“Una👀 dey👀 worship👀 wetin👀 una👀 no👀 even👀 know👀. We👀 know👀 wetin👀 we👀 dey👀 worship👀, anu👀 yod’im👀, a👀 mọ👀 ohun👀 tá👀 a👀 ń👀 sìn👀, wir👀 wissen👀 was👀 wir👀 anbeten👀. Salvation🙏 dey🙏 come🙏 from🙏 the🙏 Jews🙏, yeshu’ah🙏 min🙏 haYehudim🙏, ìgbàlà🙏 wá🙏 láti🙏 ọ̀dọ̀🙏 àwọn🙏 Júù🙏, Rettung🙏 kommt🙏 von🙏 den🙏 Juden🙏.”",
       "glosses": [
         [
           "Una dey worship wetin una no even know",
           "you worship what you do not know",
           "pcm"
-        ],
-        [
-          "IDK",
-          "I do not know",
-          "he"
         ],
         [
           "We know wetin we dey worship",
@@ -1727,11 +1757,11 @@ const johnChapterFour = {
           "de"
         ]
       ],
-      "wordsOfJesus": [[1,353]]
+      "wordsOfJesus": [[1,346]]
     },
     {
       "number": 23,
-      "text": "“But🫶 the🫶 time🫶 dey🫶 come🫶, haSha’ah🫶 ba’ah🫶, wákàtí🫶 náà🫶 ti🫶 dé🫶, die🫶 Stunde🫶 kommt🫶, and🫶 now🫶 e🫶 don🫶 reach🫶, ve’atah🫶, báyìí🫶, jetzt🫶. True💯 worshippers💯 go💯 worship💯 the💯 Father🙏 in🙏 spirit🙏 and🙏 truth🙏, ba’ruach🙏 uve’emet🙏, ní🙏 Ẹ̀mí🙏 àti🙏 òtítọ́🙏, im🙏 Geist🙏 und🙏 in🙏 Wahrheit🙏. Na💯 people💯 like💯 this💯 the💯 Father🙏 dey🙏 look🙏 for🙏 to🙏 worship🙏 am🙏.”",
+      "text": "“But🫶 the🫶 time🫶 dey🫶 come🫶, haSha’ah🫶 ba’ah🫶, wákàtí🫶 náà🫶 ti🫶 dé🫶, die🫶 Stunde🫶 kommt🫶, and🫶 now🫶 e🫶 don🫶 reach🫶, ve’atah🫶, báyìí🫶, jetzt🫶. Real💯 worshippers💯 go💯 worship💯 the💯 Father🙏 in🙏 spirit🙏 and🙏 truth🙏, ba’ruach🙏 uve’emet🙏, ní🙏 Ẹ̀mí🙏 àti🙏 òtítọ́🙏, im🙏 Geist🙏 und🙏 in🙏 Wahrheit🙏. Na💯 people💯 like💯 this💯 the💯 Father🙏 dey🙏 look🙏 for🙏 to🙏 worship🙏 am🙏.”",
       "glosses": [
         [
           "the time dey come",
@@ -1774,7 +1804,7 @@ const johnChapterFour = {
           "de"
         ],
         [
-          "True worshippers go worship the Father in spirit and truth",
+          "Real worshippers go worship the Father in spirit and truth",
           "true worshippers will worship the Father in spirit and truth",
           "pcm"
         ],
@@ -1868,8 +1898,8 @@ const johnChapterFour = {
           "pcm"
         ],
         [
-          "Mashiach ba",
-          "Messiah is coming",
+          "הַמָּשִׁיחַ בָּא",
+          "the Messiah is coming",
           "he"
         ],
         [
@@ -1883,12 +1913,17 @@ const johnChapterFour = {
           "de"
         ],
         [
-          "when e show e go tell us everything",
-          "when he comes he will tell us all things",
+          "when e show",
+          "when he comes",
           "pcm"
         ],
         [
-          "hakol",
+          "e go tell us everything",
+          "he will tell us everything",
+          "pcm"
+        ],
+        [
+          "הַכֹּל",
           "everything",
           "he"
         ],
@@ -1901,6 +1936,11 @@ const johnChapterFour = {
           "alles",
           "everything",
           "de"
+        ],
+        [
+          "כְּשֶׁיָּבוֹא",
+          "when he comes",
+          "he"
         ]
       ],
       "wordsOfJesus": []
@@ -1920,7 +1960,7 @@ const johnChapterFour = {
           "pcm"
         ],
         [
-          "ani hu haMedaber",
+          "אֲנִי הוּא הַמְדַבֵּר",
           "I am the one speaking",
           "he"
         ],
@@ -1930,16 +1970,26 @@ const johnChapterFour = {
           "yo"
         ],
         [
-          "ich bin der der mit dir redet",
-          "I am the one speaking with you",
+          "ich bin der",
+          "I am the one",
           "de"
+        ],
+        [
+          "der mit dir redet",
+          "who speaks with you",
+          "de"
+        ],
+        [
+          "אָמַר",
+          "said",
+          "he"
         ]
       ],
       "wordsOfJesus": [[31,171]]
     },
     {
       "number": 27,
-      "text": "Right💯 then💯, Jesus’s❤️ disciples❤️ show❤️ back❤️, talmidim❤️ shavu❤️, àwọn❤️ ọmọ❤️ ẹ̀yìn❤️ rẹ̀❤️ padà❤️ dé❤️, die❤️ Jünger❤️ kamen❤️ zurück❤️, and👀 dey👀 wonder👀 say👀 e👀 dey👀 yarn👀 with👀 woman👀. Dem👀 neva👀 aks👀 her👀, “Wetin👀 you👀 need👀, mah👀 at👀 mevaqeshet👀, kí👀 lo👀 ń👀 wá👀, was👀 suchst👀 du👀?” Nobody👀 ask👀 Jesus👀, “Why👀 you👀 dey👀 talk👀 with👀 her👀?”",
+      "text": "Right💯 then💯, Jesus’s❤️ disciples❤️ slide💯 back❤️, talmidim❤️ shavu❤️, àwọn❤️ ọmọ❤️ ẹ̀yìn❤️ rẹ̀❤️ padà❤️ dé❤️, die❤️ Jünger❤️ kamen❤️ zurück❤️, and👀 dem👀 dey👀 wonder👀 say👀 e👀 dey👀 yarn👀 with👀 a👀 woman👀. Nobody👀 ask👀 am👀, “Wetin👀 you👀 dey👀 look👀 for👀, mah👀 at👀 mevaqeshet👀, kí👀 lo👀 ń👀 wá👀, was👀 suchst👀 du👀?” Nobody👀 ask👀, “Why👀 you👀 dey👀 talk👀 with👀 her👀?”",
       "glosses": [
         [
           "Right then",
@@ -1947,7 +1997,7 @@ const johnChapterFour = {
           "pcm"
         ],
         [
-          "Jesus’s disciples show back",
+          "Jesus’s disciples slide back",
           "his disciples returned",
           "pcm"
         ],
@@ -1967,18 +2017,18 @@ const johnChapterFour = {
           "de"
         ],
         [
-          "dey wonder say e dey yarn with woman",
+          "dem dey wonder say e dey yarn with a woman",
           "they were surprised he was speaking with a woman",
           "pcm"
         ],
         [
-          "Dem neva aks her",
-          "they did not ask her",
-          "jam"
+          "Nobody ask am",
+          "no one asked him",
+          "pcm"
         ],
         [
-          "Wetin you need",
-          "what do you want",
+          "Wetin you dey look for",
+          "what are you seeking",
           "pcm"
         ],
         [
@@ -1995,6 +2045,11 @@ const johnChapterFour = {
           "was suchst du",
           "what are you seeking",
           "de"
+        ],
+        [
+          "Nobody ask",
+          "no one asked him",
+          "pcm"
         ],
         [
           "Why you dey talk with her",
@@ -2019,8 +2074,8 @@ const johnChapterFour = {
           "ig"
         ],
         [
-          "kadah",
-          "water jar",
+          "כַּדָּהּ",
+          "her water jar",
           "he"
         ],
         [
@@ -2039,7 +2094,7 @@ const johnChapterFour = {
           "pcm"
         ],
         [
-          "la’ir",
+          "לָעִיר",
           "to the town",
           "he"
         ],
@@ -2057,13 +2112,23 @@ const johnChapterFour = {
           "tell everybody there",
           "told the people",
           "pcm"
+        ],
+        [
+          "עָזְבָה",
+          "she left",
+          "he"
+        ],
+        [
+          "וַתֵּלֶךְ",
+          "and she went",
+          "he"
         ]
       ],
       "wordsOfJesus": []
     },
     {
       "number": 29,
-      "text": "“Abeg🫶 come🫶 see👀 one👀 man👀, Venez👀 voir👀, wey👀 tell👀 me👀 everything👀 wey👀 I👀 ever👀 do👀, kol👀 asher👀 asiti👀, gbogbo👀 ohun👀 tí👀 mo👀 ṣe👀 rí👀, alles👀 was👀 ich👀 je👀 getan👀 habe👀. Could👀 this👀 be👀 the👀 Messiah👀, Mashiach👀, Messías👀, Messias👀? ¿Será👀 él👀 el👀 Mesías👀?”",
+      "text": "“Abeg🫶 come🫶 see👀 one👀 man👀, Venez👀 voir👀, wey👀 tell👀 me👀 everything👀 wey👀 I👀 ever👀 do👀, kol👀 asher👀 asiti👀, gbogbo👀 ohun👀 tí👀 mo👀 ṣe👀 rí👀, alles👀, was👀 ich👀 je👀 getan👀 habe👀. You👀 think👀 this👀 one👀 be👀 the👀 Messiah👀, Mashiach👀, Messías👀, Messias👀? ¿Será👀 él👀 el👀 Mesías👀?”",
       "glosses": [
         [
           "Abeg come see one man",
@@ -2096,7 +2161,7 @@ const johnChapterFour = {
           "de"
         ],
         [
-          "Could this be the Messiah",
+          "You think this one be the Messiah",
           "could this be the Messiah",
           "pcm"
         ],
@@ -2195,23 +2260,38 @@ const johnChapterFour = {
           "pcm"
         ],
         [
-          "Master abeg chop",
-          "Master, please eat",
+          "Master",
+          "Master",
           "pcm"
         ],
         [
-          "Adon eat",
-          "Master, eat",
+          "abeg chop",
+          "please eat",
+          "pcm"
+        ],
+        [
+          "וַיְבַקְּשׁוּ מִמֶּנּוּ רַבִּי אֱכוֹל",
+          "they urged him, Teacher, eat",
           "he"
         ],
         [
-          "olùkọ́ ẹ jẹun",
-          "teacher, please eat",
+          "olùkọ́",
+          "teacher",
           "yo"
         ],
         [
-          "Meister iss",
-          "Master, eat",
+          "ẹ jọ̀ọ́ jẹun",
+          "please eat",
+          "yo"
+        ],
+        [
+          "Meister",
+          "Master",
+          "de"
+        ],
+        [
+          "iss doch bitte",
+          "please eat",
           "de"
         ]
       ],
@@ -2271,11 +2351,16 @@ const johnChapterFour = {
     },
     {
       "number": 33,
-      "text": "The👀 disciples👀 look👀 each👀 other👀, and👀 ask👀, “Abi👀 somebody👀 bring👀 am👀 food👀, hevi👀 ish👀 lo👀 okhel👀, ẹnìkan👀 ha👀 mú👀 oúnjẹ👀 wá👀 fún👀 un👀, hat👀 ihm👀 jemand👀 Essen👀 gebracht👀?”",
+      "text": "The👀 disciples👀 look👀 each👀 other👀, and👀 ask👀, “Abi👀 somebody👀 bring👀 am👀 food👀, ha’im👀 mishehu👀 hevi👀 lo👀 le’echol👀, ẹnìkan👀 ha👀 mú👀 oúnjẹ👀 wá👀 fún👀 un👀, hat👀 ihm👀 jemand👀 Essen👀 gebracht👀?”",
       "glosses": [
         [
-          "The disciples look each other and ask",
-          "the disciples said to one another",
+          "The disciples look each other",
+          "the disciples looked at one another",
+          "pcm"
+        ],
+        [
+          "and ask",
+          "and asked",
           "pcm"
         ],
         [
@@ -2284,8 +2369,8 @@ const johnChapterFour = {
           "pcm"
         ],
         [
-          "hevi ish lo okhel",
-          "has someone brought him food",
+          "ha’im mishehu hevi lo le’echol",
+          "did someone bring him something to eat",
           "he"
         ],
         [
@@ -2303,7 +2388,7 @@ const johnChapterFour = {
     },
     {
       "number": 34,
-      "text": "Jesus❤️ tell❤️ dem❤️: “My❤️ food❤️ na❤️ do❤️ the❤️ will❤️ of❤️ the❤️ One❤️ wey❤️ send❤️ me❤️, la’asot❤️ retzono❤️, láti❤️ ṣe❤️ ìfẹ́❤️ ẹni❤️ tó❤️ rán❤️ mi❤️, den❤️ Willen❤️ dessen❤️ tun❤️ der❤️ mich❤️ gesandt❤️ hat❤️, and❤️ finish❤️ him❤️ work❤️, leshalem❤️ et❤️ melakhto❤️, àti❤️ láti❤️ parí❤️ iṣẹ́❤️ rẹ̀❤️, und❤️ sein❤️ Werk❤️ vollenden❤️.”",
+      "text": "Jesus❤️ tell❤️ dem❤️: “My❤️ food❤️ na❤️ do❤️ the❤️ will❤️ of❤️ the❤️ One❤️ wey❤️ send❤️ me❤️, la’asot❤️ retzono❤️, láti❤️ ṣe❤️ ìfẹ́❤️ ẹni❤️ tó❤️ rán❤️ mi❤️, den❤️ Willen❤️ dessen❤️ zu❤️ tun❤️, der❤️ mich❤️ gesandt❤️ hat❤️, and❤️ finish❤️ him❤️ work❤️, leshalem❤️ et❤️ melakhto❤️, àti❤️ láti❤️ parí❤️ iṣẹ́❤️ rẹ̀❤️, und❤️ sein❤️ Werk❤️ vollenden❤️.”",
       "glosses": [
         [
           "Jesus tell dem",
@@ -2326,8 +2411,8 @@ const johnChapterFour = {
           "yo"
         ],
         [
-          "den Willen dessen tun der mich gesandt hat",
-          "the will of the one who sent me",
+          "den Willen dessen zu tun der mich gesandt hat",
+          "to do the will of the one who sent me",
           "de"
         ],
         [
@@ -2351,14 +2436,14 @@ const johnChapterFour = {
           "de"
         ]
       ],
-      "wordsOfJesus": [[23,340]]
+      "wordsOfJesus": [[23,345]]
     },
     {
       "number": 35,
-      "text": "“Una👀 no👀 dey👀 talk👀 say👀 four👀 months👀 still👀 remain👀, arba’ah👀 chodashim👀, oṣù👀 mẹ́rin👀 ṣì👀 kù👀, noch👀 vier👀 Monate👀? Look👀 up👀 now👀, lift👀 your👀 eyes👀, harimu👀 et👀 eineikhem👀, ẹ👀 gbé👀 ojú👀 yín👀 sókè👀, hebt👀 eure👀 Augen👀 auf👀, and👀 check👀 the👀 fields👀: they👀 already👀 white👀, ripe👀 for👀 harvest👀, laqatzir👀.”",
+      "text": "“Una👀 no👀 dey👀 talk👀 say👀 four👀 months👀 still👀 remain👀 before👀 harvest👀, arba’ah👀 chodashim👀, oṣù👀 mẹ́rin👀 ṣì👀 kù👀, noch👀 vier👀 Monate👀? Look👀 up👀 now👀, lift👀 your👀 eyes👀, harimu👀 et👀 eineikhem👀, ẹ👀 gbé👀 ojú👀 yín👀 sókè👀, hebt👀 eure👀 Augen👀 auf👀, and👀 check👀 the👀 fields👀: they👀 already👀 white👀, ripe👀 for👀 harvest👀, laqatzir👀.”",
       "glosses": [
         [
-          "Una no dey talk say four months still remain",
+          "Una no dey talk say four months still remain before harvest",
           "do you not say there are four months until harvest",
           "pcm"
         ],
@@ -2378,8 +2463,13 @@ const johnChapterFour = {
           "de"
         ],
         [
-          "Look up now lift your eyes",
-          "lift up your eyes and look",
+          "Look up now",
+          "look up now",
+          "pcm"
+        ],
+        [
+          "lift your eyes",
+          "lift your eyes",
           "pcm"
         ],
         [
@@ -2398,8 +2488,18 @@ const johnChapterFour = {
           "de"
         ],
         [
-          "check the fields they already white ripe for harvest",
-          "look at the fields, they are ready for harvest",
+          "check the fields",
+          "look at the fields",
+          "pcm"
+        ],
+        [
+          "they already white",
+          "they are already white",
+          "pcm"
+        ],
+        [
+          "ripe for harvest",
+          "ripe for harvest",
           "pcm"
         ],
         [
@@ -2412,10 +2512,10 @@ const johnChapterFour = {
     },
     {
       "number": 36,
-      "text": "“The👀 reaper👀 get👀 him👀 pay👀, sakar👀, èrè👀 iṣẹ́👀 rẹ̀👀, seinen👀 Lohn👀, and👀 gather👀 fruit👀 wey👀 lead👀 to👀 life👀 wey👀 no👀 end👀, pri👀 lechayei👀 olam👀, èso👀 fún👀 ìyè👀 àìnípẹ̀kun👀, Frucht👀 zum👀 ewigen👀 Leben👀. So👀 both👀 the👀 sower👀 and👀 reaper👀 fit👀 rejoice👀 together👀, yachdav👀, papọ̀👀, gemeinsam👀.”",
+      "text": "“The👀 reaper👀 dey💯 collect💯 im🫶 pay💯, sakar👀, èrè👀 iṣẹ́👀 rẹ̀👀, seinen👀 Lohn👀, and👀 e🫶 dey💯 gather💯 fruit🌍 wey🌍 go💯 lead👀 to👀 life🫶 wey🌍 no👀 dey💯 end💯, pri👀 lechayei👀 olam👀, èso👀 fún👀 ìyè👀 àìnípẹ̀kun👀, Frucht👀 zum👀 ewigen👀 Leben👀. So👀 both👀 person🫶 wey🌍 sow🫶 and👀 person🫶 wey🌍 reap🌍 fit💯 rejoice🫶 together✨, yachdav👀, papọ̀👀, gemeinsam👀.”",
       "glosses": [
         [
-          "The reaper get him pay",
+          "The reaper dey collect im pay",
           "the reaper receives his wages",
           "pcm"
         ],
@@ -2435,8 +2535,8 @@ const johnChapterFour = {
           "de"
         ],
         [
-          "gather fruit wey lead to life wey no end",
-          "gathers fruit for eternal life",
+          "e dey gather fruit wey go lead to life wey no dey end",
+          "he gathers fruit leading to eternal life",
           "pcm"
         ],
         [
@@ -2455,7 +2555,7 @@ const johnChapterFour = {
           "de"
         ],
         [
-          "both the sower and reaper fit rejoice together",
+          "both person wey sow and person wey reap fit rejoice together",
           "both the sower and the reaper may rejoice together",
           "pcm"
         ],
@@ -2475,7 +2575,7 @@ const johnChapterFour = {
           "de"
         ]
       ],
-      "wordsOfJesus": [[1,338]]
+      "wordsOfJesus": [[1,386]]
     },
     {
       "number": 37,
@@ -2598,10 +2698,10 @@ const johnChapterFour = {
     },
     {
       "number": 39,
-      "text": "Many✨ Samaritans✨ for✨ that✨ town✨ believe✨ Jesus✨, Shomronim✨ rabbim✨, ọ̀pọ̀✨ ará✨ Sàmáríà✨, viele✨ Samariter✨, beaucoup✨ de✨ Samaritains✨ crurent✨ in✨ him✨ because✨ the✨ woman’s✨ testimony✨, ẹ̀rí✨ obìnrin✨ náà✨, edut✨ ha’ishah✨, das✨ Zeugnis✨ der✨ Frau✨. She✨ say✨, “E✨ tell✨ me✨ everything✨ wey✨ I✨ ever✨ do✨.”",
+      "text": "Plenty✨ Samaritans✨ for✨ that✨ town✨ don💯 believe🙏 Jesus🙏, Shomronim✨ rabbim✨, ọ̀pọ̀✨ ará✨ Sàmáríà✨, viele✨ Samariter✨, beaucoup✨ de✨ Samaritains✨ crurent✨ en✨ Jésus✨ à✨ cause✨ du✨ témoignage✨ de✨ la✨ femme✨, na✨ because✨ of✨ wetin✨ di✨ woman✨ yarn✨ about✨ am✨, ẹ̀rí✨ obìnrin✨ náà✨, edut✨ ha’ishah✨, das✨ Zeugnis✨ der✨ Frau✨. She✨ say✨, “E✨ tell✨ me✨ everything✨ wey✨ I✨ ever✨ do✨.”",
       "glosses": [
         [
-          "Many Samaritans for that town believe Jesus",
+          "Plenty Samaritans for that town don believe Jesus",
           "many Samaritans in the town believed in Jesus",
           "pcm"
         ],
@@ -2621,13 +2721,13 @@ const johnChapterFour = {
           "de"
         ],
         [
-          "beaucoup de Samaritains crurent",
-          "many Samaritans believed",
+          "beaucoup de Samaritains crurent en Jésus à cause du témoignage de la femme",
+          "many Samaritans believed in Jesus because of the woman’s testimony",
           "fr"
         ],
         [
-          "because the woman’s testimony",
-          "because of the woman’s testimony",
+          "na because of wetin di woman yarn about am",
+          "because of what the woman told them about him",
           "pcm"
         ],
         [
@@ -2660,7 +2760,7 @@ const johnChapterFour = {
     },
     {
       "number": 40,
-      "text": "When👀 the👀 Samaritans👀 reach👀 am👀, ha’Shomronim👀 ba’u👀 elav👀, àwọn👀 ará👀 Sàmáríà👀 dé👀 ọ̀dọ̀👀 rẹ̀👀, die👀 Samariter👀 kamen👀 zu👀 ihm👀, Ndi👀 Sameria👀 bịakwutere👀 ya👀, dem👀 beg👀 make👀 e👀 stay👀 with👀 dem👀, sha’alu👀 mimeno👀, wọ́n👀 bẹ̀👀 ẹ👀 pé👀 kó👀 dúró👀 lọ́dọ̀👀 wọn👀, sie👀 baten👀 ihn👀 zu👀 bleiben👀. And👀 e👀 stay👀 there👀 two👀 days👀, shnei👀 yamim👀, ọjọ́👀 méjì👀, zwei👀 Tage👀.",
+      "text": "When👀 the👀 Samaritans👀 reach👀 am👀, ha’Shomronim👀 ba’u👀 elav👀, àwọn👀 ará👀 Sàmáríà👀 dé👀 ọ̀dọ̀👀 rẹ̀👀, die👀 Samariter👀 kamen👀 zu👀 ihm👀, Ndị👀 Sameria👀 bịakwutere👀 ya👀, dem👀 beg👀 make👀 e👀 stay👀 with👀 dem👀, sha’alu👀 mimeno👀, wọ́n👀 bẹ̀👀 ẹ👀 pé👀 kó👀 dúró👀 lọ́dọ̀👀 wọn👀, sie👀 baten👀 ihn👀 zu👀 bleiben👀. And👀 e👀 stay👀 there👀 two👀 days👀, shnei👀 yamim👀, ọjọ́👀 méjì👀, zwei👀 Tage👀.",
       "glosses": [
         [
           "When the Samaritans reach am",
@@ -2683,7 +2783,7 @@ const johnChapterFour = {
           "de"
         ],
         [
-          "Ndi Sameria bịakwutere ya",
+          "Ndị Sameria bịakwutere ya",
           "the Samaritans came to him",
           "ig"
         ],
@@ -2735,13 +2835,33 @@ const johnChapterFour = {
       "text": "Plenty✨ more✨ folks🫶—וְעוֹד✨ רַבִּים🌍—don💯 believe🙏—הֶאֱמִינוּ🙏—because👀 of👀 im🫶 word🕊️—בִּדְבָרוֹ🕊️, ọ̀pọ̀✨ ènìyàn🌍, ọ̀rọ̀✨ rẹ̀✨, viele✨ Menschen🌍, seine✨ Worte✨, da✨ maganarsa✨.",
       "glosses": [
         [
-          "More people believe because of his own words",
-          "many more believed because he spoke",
+          "Plenty more folks",
+          "many more people",
           "pcm"
         ],
         [
-          "dvarav",
-          "his words",
+          "don believe",
+          "believed",
+          "pcm"
+        ],
+        [
+          "because of im word",
+          "because of his word",
+          "pcm"
+        ],
+        [
+          "וְעוֹד רַבִּים",
+          "and many more",
+          "he"
+        ],
+        [
+          "הֶאֱמִינוּ",
+          "believed",
+          "he"
+        ],
+        [
+          "בִּדְבָרוֹ",
+          "because of his word",
           "he"
         ],
         [
@@ -2758,6 +2878,16 @@ const johnChapterFour = {
           "da maganarsa",
           "because of his words",
           "ha"
+        ],
+        [
+          "ọ̀pọ̀ ènìyàn",
+          "many people",
+          "yo"
+        ],
+        [
+          "viele Menschen",
+          "many people",
+          "de"
         ]
       ],
       "wordsOfJesus": []
@@ -2856,7 +2986,7 @@ const johnChapterFour = {
     },
     {
       "number": 43,
-      "text": "After👀 two👀 days👀, יוֹמַיִם👀—לְאַחַר👀—, ọjọ́👀 méjì👀 ti👀 kọjá👀, zwei👀 Tage👀 später👀, après👀 deux👀 jours👀, Jesus👀 move👀 on👀 from👀 there👀—יֵשׁוּעַ👀— and👀 head👀 go👀 Galilee👀, לַגָּלִיל👀, sí👀 Gálílì👀, nach👀 Galiläa👀.",
+      "text": "After👀 two👀 days👀, לְאַחַר👀 יוֹמַיִם👀, ọjọ́👀 méjì👀 ti👀 kọjá👀, zwei👀 Tage👀 später👀, après👀 deux👀 jours👀, Jesus👀 move👀 on👀 from👀 there👀—יֵשׁוּעַ👀— and👀 head👀 go👀 Galilee👀, לַגָּלִיל👀, sí👀 Gálílì👀, nach👀 Galiläa👀.",
       "glosses": [
         [
           "After two days",
@@ -2864,7 +2994,7 @@ const johnChapterFour = {
           "pcm"
         ],
         [
-          "yomayim",
+          "יוֹמַיִם",
           "two days",
           "he"
         ],
@@ -2894,7 +3024,7 @@ const johnChapterFour = {
           "pcm"
         ],
         [
-          "laGalil",
+          "לַגָּלִיל",
           "to Galilee",
           "he"
         ],
@@ -2907,17 +3037,27 @@ const johnChapterFour = {
           "nach Galiläa",
           "to Galilee",
           "de"
+        ],
+        [
+          "לְאַחַר",
+          "after",
+          "he"
+        ],
+        [
+          "יֵשׁוּעַ",
+          "Jesus",
+          "he"
         ]
       ],
       "wordsOfJesus": []
     },
     {
       "number": 44,
-      "text": "Jesus❤️ himself❤️ had❤️ said❤️ it❤️ plain❤️: “A👀 prophet👀 no👀 get👀 honor👀 for👀 home👀 ground👀, navi👀 ein👀 lo👀 kavod👀 be’artzo👀, wòlíì👀 kì👀 í👀 ní👀 ọlá👀 ní👀 ìlú👀 rẹ̀👀, ein👀 Prophet👀 gilt👀 nichts👀 im👀 eigenen👀 Land👀, un👀 prophète👀 n’est👀 pas👀 honoré👀 chez👀 lui👀.”",
+      "text": "Jesus❤️ don❤️ already❤️ make❤️ am❤️ plain❤️: “A👀 prophet👀 no👀 get👀 honor👀 for👀 home👀 ground👀, navi👀 ein👀 lo👀 kavod👀 be’artzo👀, wòlíì👀 kì👀 í👀 ní👀 ọlá👀 ní👀 ìlú👀 rẹ̀👀, ein👀 Prophet👀 gilt👀 nichts👀 im👀 eigenen👀 Land👀, un👀 prophète👀 n’est👀 pas👀 honoré👀 chez👀 lui👀.”",
       "glosses": [
         [
-          "Jesus himself had said it plain",
-          "Jesus himself testified",
+          "Jesus don already make am plain",
+          "Jesus had already made this clear",
           "pcm"
         ],
         [
@@ -2950,7 +3090,7 @@ const johnChapterFour = {
     },
     {
       "number": 45,
-      "text": "When👀 Jesus👀 reach👀 Galilee👀, the👀 Galileans👀, הַגָּלִילִים👀, welcome👀 am👀—קִבְּלוּ👀—, wọn👀 gba👀 a👀, because👀 dem👀 don👀 see👀 all👀 the👀 things👀 wey👀 e👀 do👀, àwọn👀 ohun👀 tí👀 ó👀 ṣe👀, die👀 Dinge👀 die👀 er👀 getan👀 hatte👀, for👀 Jerusalem👀, יְרוּשָׁלַיִם👀, during👀 the👀 feast👀, חַג👀, àjọ̀dún👀, beim👀 Fest👀, la👀 fête👀—dem👀 too👀 go👀 there👀 for👀 the👀 feast👀.",
+      "text": "When👀 Jesus👀 reach👀 Galilee👀, the👀 Galileans👀, הַגָּלִילִים👀, welcome👀 am👀—קִבְּלוּ👀—, wọn👀 gba👀 a👀, because👀 dem👀 don👀 see👀 all👀 the👀 things👀 wey👀 e👀 do👀, àwọn👀 ohun👀 tí👀 ó👀 ṣe👀, die👀 Dinge👀, die👀 er👀 getan👀 hatte👀, for👀 Jerusalem👀, יְרוּשָׁלַיִם👀, during👀 the👀 feast👀, חַג👀, àjọ̀dún👀, beim👀 Fest👀, la👀 fête👀—dem👀 too👀 go👀 there👀 for👀 the👀 feast👀.",
       "glosses": [
         [
           "When Jesus reach Galilee",
@@ -2968,7 +3108,7 @@ const johnChapterFour = {
           "yo"
         ],
         [
-          "haGalilim",
+          "הַגָּלִילִים",
           "the Galileans",
           "he"
         ],
@@ -2978,7 +3118,7 @@ const johnChapterFour = {
           "pcm"
         ],
         [
-          "Yerushalayim",
+          "יְרוּשָׁלַיִם",
           "Jerusalem",
           "he"
         ],
@@ -2993,7 +3133,7 @@ const johnChapterFour = {
           "de"
         ],
         [
-          "chag",
+          "חַג",
           "feast",
           "he"
         ],
@@ -3006,6 +3146,16 @@ const johnChapterFour = {
           "dem too go there for the feast",
           "they had also gone to the feast",
           "pcm"
+        ],
+        [
+          "àjọ̀dún",
+          "festival",
+          "yo"
+        ],
+        [
+          "קִבְּלוּ",
+          "they welcomed",
+          "he"
         ]
       ],
       "wordsOfJesus": []
@@ -3079,7 +3229,7 @@ const johnChapterFour = {
     },
     {
       "number": 47,
-      "text": "When👀 the👀 official👀 hear👀 say👀 Jesus👀 don👀 leave👀 Judea👀 for👀 Galilee👀, he👀 hurry👀 go👀 meet👀 am👀, ọ👀 nụrụ👀, ọ👀 gakwuru👀 ya👀, laGalil👀, sí👀 Gálílì👀, nach👀 Galiläa👀, and👀 beg👀 am👀 make👀 e👀 come👀 down👀 heal👀 him👀 son👀, b’no👀 choleh👀 me’od👀, ọmọ👀 rẹ̀👀 sì👀 fẹ́rẹ̀ẹ́👀 kú👀, sein👀 Sohn👀 lag👀 im👀 Sterben👀.",
+      "text": "When👀 the👀 official👀 hear👀 say👀 Jesus👀 don👀 leave👀 Judea👀 for👀 Galilee👀, he👀 waka👀 go👀 meet👀 am👀, ọ👀 nụrụ👀, ọ👀 gakwuru👀 ya👀, laGalil👀, sí👀 Gálílì👀, nach👀 Galiläa👀, and👀 beg👀 am👀 make👀 e👀 come👀 down👀 heal👀 him👀 son👀, b’no👀 choleh👀 me’od👀, ọmọ👀 rẹ̀👀 sì👀 fẹ́rẹ̀ẹ́👀 kú👀, sein👀 Sohn👀 lag👀 im👀 Sterben👀.",
       "glosses": [
         [
           "When the official hear",
@@ -3107,7 +3257,7 @@ const johnChapterFour = {
           "de"
         ],
         [
-          "he hurry go meet am",
+          "he waka go meet am",
           "he went to meet Jesus",
           "pcm"
         ],
@@ -3146,7 +3296,7 @@ const johnChapterFour = {
     },
     {
       "number": 48,
-      "text": "Jesus❤️ answer❤️ am❤️: “Unless👀 una👀 see👀 signs👀 and👀 wonders👀, אוֹתוֹת👀 וּמוֹפְתִים👀, àmì👀 àti👀 iṣẹ́👀 ìyanu👀, Zeichen👀 und👀 Wunder👀 sehen👀, una👀 no👀 go👀 believe👀—לֹא👀 תַּאֲמִינוּ💯—, una👀 no👀 go👀 trust👀 am👀.”",
+      "text": "Jesus❤️ answer❤️ am❤️: “Unless👀 una👀 see👀 signs👀 and👀 wonders👀, אוֹתוֹת👀 וּמוֹפְתִים👀, àmì👀 àti👀 iṣẹ́👀 ìyanu👀, Zeichen👀 und👀 Wunder👀 sehen👀, una👀 no👀 go👀 believe👀—לֹא👀 תַּאֲמִינוּ💯.”",
       "glosses": [
         [
           "Jesus answer am",
@@ -3159,7 +3309,7 @@ const johnChapterFour = {
           "pcm"
         ],
         [
-          "otot u’moftim",
+          "אוֹתוֹת וּמוֹפְתִים",
           "signs and wonders",
           "he"
         ],
@@ -3169,21 +3319,26 @@ const johnChapterFour = {
           "yo"
         ],
         [
-          "Zeichen und Wunder",
-          "signs and wonders",
+          "Zeichen und Wunder sehen",
+          "signs and wonders to see",
           "de"
         ],
         [
           "una no go believe",
           "you will not believe",
           "pcm"
+        ],
+        [
+          "לֹא תַּאֲמִינוּ",
+          "you will not believe",
+          "he"
         ]
       ],
-      "wordsOfJesus": [[24,234]]
+      "wordsOfJesus": [[24,203]]
     },
     {
       "number": 49,
-      "text": "The👀 official👀 beg👀 am👀: “Sir🫶, please🙏 come🙏 down🙏 before🙏 mi🙏 pickney🙏 dead😭—בְּטֶרֶם👀 יָמוּת👀—, בּוֹא👀 אֲדוֹנִי👀, jọ̀wọ́👀, wá👀 sọ̀kalẹ̀👀 kí👀 ọmọ👀 mi👀 tó👀 kú👀, bitte👀 komm👀 herunter👀 bevor👀 mein👀 Kind👀 stirbt👀.”",
+      "text": "The👀 official👀 beg👀 am👀: “Sir🫶, please🙏 come🙏 down🙏 before🙏 mi🙏 pickney🙏 dead😭—בְּטֶרֶם👀 יָמוּת👀—, בּוֹא👀 אֲדוֹנִי👀, jọ̀wọ́👀, wá👀 sọ̀kalẹ̀👀 kí👀 ọmọ👀 mi👀 tó👀 kú👀, bitte👀 komm👀 herunter👀, bevor👀 mein👀 Kind👀 stirbt👀.”",
       "glosses": [
         [
           "The official beg am",
@@ -3191,24 +3346,39 @@ const johnChapterFour = {
           "pcm"
         ],
         [
-          "Sir please come down before mi pickney dead",
-          "Sir please come down before my child dies",
+          "Sir",
+          "Sir",
           "pcm"
         ],
         [
-          "bo adoni",
-          "please my lord",
+          "please come down before mi pickney dead",
+          "please come down before my child dies",
+          "pcm"
+        ],
+        [
+          "בּוֹא אֲדוֹנִי",
+          "come, my lord",
           "he"
         ],
         [
-          "jọ̀wọ́ wá sọ̀kalẹ̀ kí ọmọ mi tó kú",
-          "please come down before my child dies",
+          "jọ̀wọ́",
+          "please",
+          "yo"
+        ],
+        [
+          "wá sọ̀kalẹ̀ kí ọmọ mi tó kú",
+          "come down before my child dies",
           "yo"
         ],
         [
           "bitte komm herunter bevor mein Kind stirbt",
           "please come down before my child dies",
           "de"
+        ],
+        [
+          "בְּטֶרֶם יָמוּת",
+          "before he dies",
+          "he"
         ]
       ],
       "wordsOfJesus": []
@@ -3300,7 +3470,7 @@ const johnChapterFour = {
           "pcm"
         ],
         [
-          "bin’kha chai",
+          "בִּנְךָ חַי",
           "your son is alive",
           "he"
         ],
@@ -3318,13 +3488,18 @@ const johnChapterFour = {
           "dein Sohn lebt",
           "your son is alive",
           "de"
+        ],
+        [
+          "הוֹדִיעוּ לוֹ",
+          "they told him",
+          "he"
         ]
       ],
       "wordsOfJesus": []
     },
     {
       "number": 52,
-      "text": "He👀 ask👀 dem👀, “Wetin👀 time👀 my👀 boy👀 start👀 feel👀 better👀, da’mah👀 sha’ah👀, ní👀 àkókò👀 wo👀 ni👀, um👀 wieviel👀 Uhr👀?” Dem👀 tell👀 am👀: “Yesterday👀, at👀 the👀 seventh👀 hour👀, a👀 sa’a👀 ta👀 bakwai👀, n’elekere👀 nke👀 asaa👀, in👀 der👀 siebten👀 Stunde👀, fever👀 leave👀 am👀, di👀 fever👀 lef👀 im👀, ha-kadachat👀 chalfah👀 mimenu👀, ibà👀 náà👀 lọ👀, zazzabi👀 ya👀 sauka👀, das👀 Fieber👀 ließ👀 nach👀.”",
+      "text": "He👀 ask👀 dem👀, “Wetin👀 time👀 my👀 boy👀 start👀 feel👀 better👀, b’eizo👀 sha’ah👀, ní👀 àkókò👀 wo👀 ni👀, um👀 wie👀 viel👀 Uhr👀?” Dem👀 tell👀 am👀: “Yesterday👀, at👀 the👀 seventh👀 hour👀, a👀 sa’a👀 ta👀 bakwai👀, n’elekere👀 nke👀 asaa👀, in👀 der👀 siebten👀 Stunde👀, fever👀 leave👀 am👀, di👀 fever👀 lef👀 im👀, ha-kadachat👀 chalfah👀 mimenu👀, ibà👀 náà👀 lọ👀, zazzabi👀 ya👀 sauka👀, das👀 Fieber👀 ließ👀 nach👀.”",
       "glosses": [
         [
           "He ask dem",
@@ -3337,7 +3512,7 @@ const johnChapterFour = {
           "pcm"
         ],
         [
-          "da’mah sha’ah",
+          "b’eizo sha’ah",
           "at what hour",
           "he"
         ],
@@ -3347,13 +3522,18 @@ const johnChapterFour = {
           "yo"
         ],
         [
-          "um wieviel Uhr",
+          "um wie viel Uhr",
           "at what time",
           "de"
         ],
         [
-          "Yesterday at the seventh hour",
-          "yesterday at the seventh hour",
+          "Yesterday",
+          "yesterday",
+          "pcm"
+        ],
+        [
+          "at the seventh hour",
+          "at the seventh hour",
           "pcm"
         ],
         [
@@ -3424,7 +3604,7 @@ const johnChapterFour = {
           "pcm"
         ],
         [
-          "bin’kha chai",
+          "בִּנְךָ חַי",
           "your son is alive",
           "he"
         ],
@@ -3434,8 +3614,8 @@ const johnChapterFour = {
           "yo"
         ],
         [
-          "dein Sohn lebt",
-          "your son is alive",
+          "dein Sohn lebt noch",
+          "your son is still alive",
           "de"
         ],
         [
@@ -3462,6 +3642,11 @@ const johnChapterFour = {
           "him whole family dem",
           "his whole family",
           "jam"
+        ],
+        [
+          "וְכָל בֵּיתוֹ",
+          "and his whole household",
+          "he"
         ]
       ],
       "wordsOfJesus": [[77,174]]
