@@ -1,0 +1,135 @@
+{
+  "gateVersion": 1,
+  "book": "EXO",
+  "chapter": 17,
+  "versesVar": "exodusSeventeenth",
+  "glossesVar": "exodusSeventeenthGlosses",
+  "expectedVerseCount": 16,
+  "status": "passed_with_visual_deferral",
+  "reviewer": "Codex",
+  "reviewedAt": "2026-11-21T16:07:57Z",
+  "languageReferences": {
+    "pcm": "https://www.britishcouncil.org/voices-magazine/nigerian-pidgin-words-phrases",
+    "yo": "https://ebible.org/pdf/yor/yor_EXO.pdf",
+    "de": "https://www.bibeltv.de/bibelthek/2-mose/kapitel-17/vers-2",
+    "ig": "https://biblics.com/ig/bible/bible-nso/agba-ochie/opupu/17/6",
+    "ha": "https://www.bible.com/fr/bible/71/EXO.17.HAU",
+    "jam": "https://patoispal.com/dictionary/mek",
+    "he": "https://freely-given.org/OBD/ref/HebWrd/EXOc17v2w14.htm",
+    "fr": "https://www.larousse.fr/dictionnaires/francais/jaillir/"
+  },
+  "checks": {
+    "universalVoice": "pass",
+    "scriptureMeaning": "pass",
+    "completenessAndOrder": "pass",
+    "multilingualAccuracy": "pass",
+    "sourceSyntax": "pass",
+    "hoverGlosses": "pass",
+    "readerNavigation": "pass",
+    "readerRendering": "deferred"
+  },
+  "verseReviews": {
+    "1": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "2": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "3": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "4": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "5": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "6": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "7": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "8": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "9": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "10": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "11": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "12": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "13": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "14": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "15": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    },
+    "16": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
+    }
+  },
+  "visualDeferral": {
+    "approvedBy": "owner",
+    "approvedAt": "2026-11-21",
+    "approvalReference": "Owner approved pending reader visual evidence and continuing publication in the Codex chat on 2026-11-21.",
+    "followUp": "Complete chapter and hover visual checks before whole-corpus completion."
+  }
+}
