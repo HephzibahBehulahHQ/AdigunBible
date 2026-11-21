@@ -277,7 +277,7 @@ const johnChapterFour = {
     },
     {
       "number": 4,
-      "text": "E💯 gats💯 pass🌍 through🌍 Samaria🌍, haya💯 tsarikh💯, ó💯 ní💯 láti💯 kọjá🌍 Sàmáríà🌍, er💯 musste💯 durch🌍 Samaria🌍, la’avor🌍, hindurchgehen🌍.",
+      "text": "E💯 gats💯 pass🌍 through🌍 Samaria🌍—יֵשׁוּעַ🙏—, haya💯 tsarikh💯, ó💯 ní💯 láti💯 kọjá🌍 Sàmáríà🌍, er💯 musste💯 durch🌍 Samaria🌍, la’avor🌍, hindurchgehen🌍.",
       "glosses": [
         [
           "E gats pass through Samaria",
@@ -1547,7 +1547,7 @@ const johnChapterFour = {
     },
     {
       "number": 19,
-      "text": "The👀 woman👀 tell👀 am👀: “Sir👀, Hold👀 up👀, I👀 dey👀 clock👀 say👀 you👀 be👀 prophet👀, navi👀, wòlíì👀, ein👀 Prophet👀.”",
+      "text": "The👀 woman👀 tell👀 am👀: “Sir👀, Hold👀 up👀, I👀 dey👀 clock👀 say👀 you👀 be👀 prophet👀, אֲדוֹנִי🙏 אֲנִי👀 רוֹאָה👀 כִּי👀 אַתָּה👀 נָבִיא👀, Mo👀 rí👀 pé👀 o👀 jẹ́👀 wòlíì👀, Du👀 bist👀 ein👀 Prophet👀.”",
       "glosses": [
         [
           "The woman tell am",
@@ -1579,7 +1579,7 @@ const johnChapterFour = {
     },
     {
       "number": 20,
-      "text": "“Our👀 ancestors👀 worship👀 for👀 this👀 mountain👀, avoteinu👀, àwọn👀 baba👀 wa👀, unsere👀 Vorfahren👀, but👀 una👀 talk👀 say👀 na👀 Jerusalem👀, Yerushalayim👀, Jerúsálẹ́mù👀, Jerusalem👀, be👀 the👀 spot👀 wey👀 people👀 suppose👀 worship👀.”",
+      "text": "“Our👀 ancestors👀 worship👀 for👀 this👀 mountain👀, avoteinu👀—הִשְׁתַּחֲווּ🙏 בָּהָר🌍—, àwọn👀 baba👀 wa👀, unsere👀 Vorfahren👀 beteten🙏, but👀 una👀 talk👀 say👀 na👀 Jerusalem👀, Yerushalayim👀, Jerúsálẹ́mù👀, Jerusalem👀, be👀 the👀 spot👀 wey👀 people👀 suppose👀 worship👀.”",
       "glosses": [
         [
           "Our ancestors worship for this mountain",
@@ -1909,7 +1909,7 @@ const johnChapterFour = {
     },
     {
       "number": 25,
-      "text": "The👀 woman👀 tell👀 am👀: “I👀 know👀 say👀 Messiah👀 dey👀 come👀, Mashiach👀 ba👀, Messías👀 ń👀 bọ̀👀, der👀 Messias👀 kommt👀, and👀 when👀 e👀 show👀, e👀 go👀 tell👀 us👀 everything👀, hakol👀, gbogbo👀 nǹkan👀, alles👀.”",
+      "text": "The👀 woman👀 tell👀 am👀: “I👀 know👀 say👀 Messiah👀 dey👀 come👀, הַמָּשִׁיחַ👀 בָּא👀, Messías👀 ń👀 bọ̀👀, der👀 Messias👀 kommt👀, and👀 when👀 e👀 show👀—כְּשֶׁיָּבוֹא👀—, e👀 go👀 tell👀 us👀 everything👀, הַכֹּל👀, gbogbo👀 nǹkan👀, alles👀.”",
       "glosses": [
         [
           "The woman tell am",
@@ -1961,7 +1961,7 @@ const johnChapterFour = {
     },
     {
       "number": 26,
-      "text": "Jesus❤️ tell❤️ her❤️: “Na❤️ me❤️ be❤️ am❤️, ani❤️ hu❤️ haMedaber❤️, èmi❤️ ni❤️ ẹni❤️ tó❤️ ń❤️ bá❤️ ẹ❤️ sọ̀rọ̀❤️, ich❤️ bin❤️ der❤️, der❤️ mit❤️ dir❤️ redet❤️.”",
+      "text": "Jesus❤️ tell❤️ her❤️—אָמַר👀: “Na❤️ me❤️ be❤️ am❤️, אֲנִי❤️ הוּא❤️ הַמְדַבֵּר❤️, èmi❤️ ni❤️ ẹni❤️ tó❤️ ń❤️ bá❤️ ẹ❤️ sọ̀rọ̀❤️, ich❤️ bin❤️ der❤️, der❤️ mit❤️ dir❤️ redet❤️.”",
       "glosses": [
         [
           "Jesus tell her",
@@ -2065,7 +2065,7 @@ const johnChapterFour = {
     },
     {
       "number": 28,
-      "text": "The👀 woman👀 drop👀 her👀 waterpot👀, ọ👀 hapụrụ👀 ite👀 mmiri👀 ya👀, kadah👀, ìkòkò👀 omi👀 rẹ̀👀, ihren👀 Wasserkrug👀, then👀 rush👀 go👀 town👀, la’ir👀, sí👀 ìlú👀, in👀 die👀 Stadt👀, tell👀 everybody👀 there👀.",
+      "text": "The👀 woman👀 drop👀 her👀 waterpot👀—עָזְבָה👀—, ọ👀 hapụrụ👀 ite👀 mmiri👀 ya👀, כַּדָּהּ👀, ìkòkò👀 omi👀 rẹ̀👀, ihren👀 Wasserkrug👀, then👀 rush👀 go👀 town👀—וַתֵּלֶךְ👀 לָעִיר👀—, sí👀 ìlú👀, in👀 die👀 Stadt👀, tell👀 everybody👀 there👀.",
       "glosses": [
         [
           "The woman drop her waterpot",
@@ -2241,7 +2241,7 @@ const johnChapterFour = {
     },
     {
       "number": 31,
-      "text": "Meanwhile👀, his👀 disciples👀 ask👀 am👀, “Master👀, abeg🫶 chop🫶, Adon👀, eat👀, olùkọ́👀, ẹ👀 jẹun👀, Meister👀, iss👀.”",
+      "text": "Meanwhile👀, his👀 disciples👀 ask👀 am👀, “Master👀, abeg🫶 chop🫶, וַיְבַקְּשׁוּ👀 מִמֶּנּוּ👀 רַבִּי🙏 אֱכוֹל👀, olùkọ́👀, ẹ👀 jọ̀ọ́🙏 jẹun👀, Meister👀, iss👀 doch✨ bitte🙏.”",
       "glosses": [
         [
           "Meanwhile",
@@ -2821,7 +2821,7 @@ const johnChapterFour = {
     },
     {
       "number": 41,
-      "text": "More✨ people✨ believe✨ because✨ of✨ his✨ own✨ words✨, dvarav✨, ọ̀rọ̀✨ rẹ̀✨, seine✨ Worte✨, da✨ maganarsa✨.",
+      "text": "Plenty✨ more✨ folks🫶—וְעוֹד✨ רַבִּים🌍—don💯 believe🙏—הֶאֱמִינוּ🙏—because👀 of👀 im🫶 word🕊️—בִּדְבָרוֹ🕊️, ọ̀pọ̀✨ ènìyàn🌍, ọ̀rọ̀✨ rẹ̀✨, viele✨ Menschen🌍, seine✨ Worte✨, da✨ maganarsa✨.",
       "glosses": [
         [
           "More people believe because of his own words",
@@ -2945,7 +2945,7 @@ const johnChapterFour = {
     },
     {
       "number": 43,
-      "text": "After👀 two👀 days👀, yomayim👀, ọjọ́👀 méjì👀 ti👀 kọjá👀, zwei👀 Tage👀 später👀, après👀 deux👀 jours👀, Jesus👀 move👀 on👀 from👀 there👀 and👀 head👀 go👀 Galilee👀, laGalil👀, sí👀 Gálílì👀, nach👀 Galiläa👀.",
+      "text": "After👀 two👀 days👀, יוֹמַיִם👀—לְאַחַר👀—, ọjọ́👀 méjì👀 ti👀 kọjá👀, zwei👀 Tage👀 später👀, après👀 deux👀 jours👀, Jesus👀 move👀 on👀 from👀 there👀—יֵשׁוּעַ👀— and👀 head👀 go👀 Galilee👀, לַגָּלִיל👀, sí👀 Gálílì👀, nach👀 Galiläa👀.",
       "glosses": [
         [
           "After two days",
@@ -3044,7 +3044,7 @@ const johnChapterFour = {
     },
     {
       "number": 45,
-      "text": "When👀 Jesus👀 reach👀 Galilee👀, the👀 Galileans👀, haGalilim👀, welcome👀 am👀, wọn👀 gba👀 a👀, because👀 dem👀 don👀 see👀 all👀 the👀 things👀 wey👀 e👀 do👀, àwọn👀 ohun👀 tí👀 ó👀 ṣe👀, die👀 Dinge👀 die👀 er👀 getan👀 hatte👀, for👀 Jerusalem👀, Yerushalayim👀, during👀 the👀 feast👀, chag👀, àjọ̀dún👀, beim👀 Fest👀, la👀 fête👀—dem👀 too👀 go👀 there👀 for👀 the👀 feast👀.",
+      "text": "When👀 Jesus👀 reach👀 Galilee👀, the👀 Galileans👀, הַגָּלִילִים👀, welcome👀 am👀—קִבְּלוּ👀—, wọn👀 gba👀 a👀, because👀 dem👀 don👀 see👀 all👀 the👀 things👀 wey👀 e👀 do👀, àwọn👀 ohun👀 tí👀 ó👀 ṣe👀, die👀 Dinge👀 die👀 er👀 getan👀 hatte👀, for👀 Jerusalem👀, יְרוּשָׁלַיִם👀, during👀 the👀 feast👀, חַג👀, àjọ̀dún👀, beim👀 Fest👀, la👀 fête👀—dem👀 too👀 go👀 there👀 for👀 the👀 feast👀.",
       "glosses": [
         [
           "When Jesus reach Galilee",
@@ -3240,7 +3240,7 @@ const johnChapterFour = {
     },
     {
       "number": 48,
-      "text": "Jesus❤️ answer❤️ am❤️: “Unless👀 una👀 see👀 signs👀 and👀 wonders👀, otot👀 u’moftim👀, àmì👀 àti👀 iṣẹ́👀 ìyanu👀, Zeichen👀 und👀 Wunder👀, una👀 no👀 go👀 believe👀, una👀 no👀 go👀 trust👀 am👀.”",
+      "text": "Jesus❤️ answer❤️ am❤️: “Unless👀 una👀 see👀 signs👀 and👀 wonders👀, אוֹתוֹת👀 וּמוֹפְתִים👀, àmì👀 àti👀 iṣẹ́👀 ìyanu👀, Zeichen👀 und👀 Wunder👀 sehen👀, una👀 no👀 go👀 believe👀—לֹא👀 תַּאֲמִינוּ💯—, una👀 no👀 go👀 trust👀 am👀.”",
       "glosses": [
         [
           "Jesus answer am",
@@ -3282,7 +3282,7 @@ const johnChapterFour = {
     },
     {
       "number": 49,
-      "text": "The👀 official👀 beg👀 am👀: “Sir🫶, please🙏 come🙏 down🙏 before🙏 mi🙏 pickney🙏 dead🙏, bo👀 adoni👀, jọ̀wọ́👀, wá👀 sọ̀kalẹ̀👀 kí👀 ọmọ👀 mi👀 tó👀 kú👀, bitte👀 komm👀 herunter👀 bevor👀 mein👀 Kind👀 stirbt👀.”",
+      "text": "The👀 official👀 beg👀 am👀: “Sir🫶, please🙏 come🙏 down🙏 before🙏 mi🙏 pickney🙏 dead😭—בְּטֶרֶם👀 יָמוּת👀—, בּוֹא👀 אֲדוֹנִי👀, jọ̀wọ́👀, wá👀 sọ̀kalẹ̀👀 kí👀 ọmọ👀 mi👀 tó👀 kú👀, bitte👀 komm👀 herunter👀 bevor👀 mein👀 Kind👀 stirbt👀.”",
       "glosses": [
         [
           "The official beg am",
@@ -3376,7 +3376,7 @@ const johnChapterFour = {
     },
     {
       "number": 51,
-      "text": "While👀 the👀 official👀 still👀 dey👀 go👀 down👀, him👀 servants👀 meet👀 am👀, àwọn👀 ìránṣẹ́👀 rẹ̀👀 pàdé👀 rẹ̀👀, seine👀 Diener👀 trafen👀 ihn👀, and👀 tell👀 am👀, “Your👀 son👀 dey👀 live👀, bin’kha👀 chai👀, yuh👀 son👀 alive👀, ọmọ👀 rẹ👀 wà👀 láàyè👀, dein👀 Sohn👀 lebt👀.”",
+      "text": "While👀 the👀 official👀 still👀 dey👀 go👀 down👀, him👀 servants👀 meet👀 am👀, àwọn👀 ìránṣẹ́👀 rẹ̀👀 pàdé👀 rẹ̀👀, seine👀 Diener👀 trafen👀 ihn👀, and👀 tell👀 am👀—הוֹדִיעוּ👀 לוֹ👀—, “Your👀 son👀 dey👀 live👀, בִּנְךָ👀 חַי👀, yuh👀 son👀 alive👀, ọmọ👀 rẹ👀 wà👀 láàyè👀, dein👀 Sohn👀 lebt👀.”",
       "glosses": [
         [
           "While the official still dey go down",
@@ -3510,7 +3510,7 @@ const johnChapterFour = {
     },
     {
       "number": 53,
-      "text": "The👀 father👀 know👀 say👀 e👀 happen👀 same👀 time👀 Jesus👀 tell👀 am👀, “Your❤️ son❤️ dey❤️ live❤️, bin’kha❤️ chai❤️, ọmọ❤️ rẹ❤️ wà❤️ láàyè❤️, dein❤️ Sohn❤️ lebt❤️,” at👀 that👀 exact👀 moment👀. Then👀 he👀 believe👀 am👀, and👀 his👀 whole👀 household👀 too👀, ezinaụlọ👀 ya👀 niile👀, duk👀 iyalinsa👀, him👀 whole👀 family👀 dem👀.",
+      "text": "The👀 father👀 know👀 say👀 e👀 happen👀 same👀 time👀 Jesus👀 tell👀 am👀, “Your❤️ son❤️ dey❤️ live❤️, בִּנְךָ❤️ חַי❤️, ọmọ❤️ rẹ❤️ wà❤️ láàyè❤️, dein❤️ Sohn❤️ lebt❤️ noch👀,” at👀 that👀 exact👀 moment👀. Then👀 he👀 believe👀 am👀, and👀 his👀 whole👀 household👀 too👀—וְכָל👀 בֵּיתוֹ👀—, ezinaụlọ👀 ya👀 niile👀, duk👀 iyalinsa👀, him👀 whole👀 family👀 dem👀.",
       "glosses": [
         [
           "The father know say e happen same time",
