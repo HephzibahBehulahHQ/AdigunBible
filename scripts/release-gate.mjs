@@ -146,7 +146,7 @@ function auditChapter(evidence, { requirePublished = true } = {}) {
         .map(([word]) => word.toLocaleLowerCase()),
     ));
     for (const [phrase, meaning, language] of verseGlosses) {
-      if (typeof phrase !== "string" || typeof meaning !== "string" || typeof language !== "string") {
+      if ([phrase, meaning, language].some((value) => typeof value !== "string" || !value.trim())) {
         fail(`${book} ${chapter}:${number} has an invalid glossary row`);
       }
       const visiblePhrase = phrase;
