@@ -5,9 +5,9 @@
   "versesVar": "exodusSeventeenth",
   "glossesVar": "exodusSeventeenthGlosses",
   "expectedVerseCount": 16,
-  "status": "in_progress",
-  "reviewer": "",
-  "reviewedAt": null,
+  "status": "passed_with_visual_deferral",
+  "reviewer": "Codex",
+  "reviewedAt": "2026-11-21T16:07:57Z",
   "languageReferences": {
     "pcm": "https://www.britishcouncil.org/voices-magazine/nigerian-pidgin-words-phrases",
     "yo": "https://ebible.org/pdf/yor/yor_EXO.pdf",
@@ -26,104 +26,110 @@
     "sourceSyntax": "pass",
     "hoverGlosses": "pass",
     "readerNavigation": "pass",
-    "readerRendering": "pending"
+    "readerRendering": "deferred"
   },
   "verseReviews": {
     "1": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "pending"
+      "rendering": "deferred"
     },
     "2": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "pending"
+      "rendering": "deferred"
     },
     "3": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "pending"
+      "rendering": "deferred"
     },
     "4": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "pending"
+      "rendering": "deferred"
     },
     "5": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "pending"
+      "rendering": "deferred"
     },
     "6": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "pending"
+      "rendering": "deferred"
     },
     "7": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "pending"
+      "rendering": "deferred"
     },
     "8": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "pending"
+      "rendering": "deferred"
     },
     "9": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "pending"
+      "rendering": "deferred"
     },
     "10": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "pending"
+      "rendering": "deferred"
     },
     "11": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "pending"
+      "rendering": "deferred"
     },
     "12": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "pending"
+      "rendering": "deferred"
     },
     "13": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "pending"
+      "rendering": "deferred"
     },
     "14": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "pending"
+      "rendering": "deferred"
     },
     "15": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "pending"
+      "rendering": "deferred"
     },
     "16": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "pending"
+      "rendering": "deferred"
     }
+  },
+  "visualDeferral": {
+    "approvedBy": "owner",
+    "approvedAt": "2026-11-21",
+    "approvalReference": "Owner approved pending reader visual evidence and continuing publication in the Codex chat on 2026-11-21.",
+    "followUp": "Complete chapter and hover visual checks before whole-corpus completion."
   }
 }

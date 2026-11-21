@@ -86,7 +86,7 @@ if (!/data\.verses\.map\(\([^)]*\)=>[^\n]*n:i\+1/.test(reader) ||
   fail("Reader must render verse array positions as ordered external verse numbers");
 }
 
-function auditChapter(evidence, { requirePublished = true } = {}) {
+function auditChapter(evidence, { requirePublished = true, requireVisualReview = false } = {}) {
   if (!evidence || typeof evidence !== "object") fail("Release evidence must be a JSON object");
   const { book, chapter, versesVar, glossesVar, expectedVerseCount } = evidence;
   if (!/^[A-Z0-9]{3}$/.test(book ?? "") || !(book in canonicalBookChapters)) fail("Evidence book must be a canonical three-character code");
@@ -181,17 +181,29 @@ function auditChapter(evidence, { requirePublished = true } = {}) {
 
   if (!skipManualReview) {
     if (evidence.gateVersion !== 1) fail(`${book} ${chapter}: gateVersion must be 1`);
-    if (evidence.status !== "passed") fail(`${book} ${chapter}: evidence status must be passed`);
+    const visualDeferred = evidence.status === "passed_with_visual_deferral";
+    if (evidence.status !== "passed" && !visualDeferred) fail(`${book} ${chapter}: evidence status must be passed or explicitly deferred`);
+    if (visualDeferred) {
+      const deferral = evidence.visualDeferral;
+      if (deferral?.approvedBy !== "owner" ||
+          typeof deferral.approvalReference !== "string" || !deferral.approvalReference.trim() ||
+          !Number.isFinite(Date.parse(deferral.approvedAt ?? ""))) {
+        fail(`${book} ${chapter}: visual deferral needs a dated owner approval reference`);
+      }
+      if (requireVisualReview) fail(`${book} ${chapter}: deferred visual review blocks whole-corpus completion`);
+    }
     if (typeof evidence.reviewer !== "string" || !evidence.reviewer.trim()) fail(`${book} ${chapter}: reviewer is required`);
     if (!Number.isFinite(Date.parse(evidence.reviewedAt ?? ""))) fail(`${book} ${chapter}: reviewedAt must be a valid date`);
     for (const check of requiredManualChecks) {
-      if (evidence.checks?.[check] !== "pass") fail(`${book} ${chapter}: manual check “${check}” has not passed`);
+      const expected = visualDeferred && check === "readerRendering" ? "deferred" : "pass";
+      if (evidence.checks?.[check] !== expected) fail(`${book} ${chapter}: manual check “${check}” must be ${expected}`);
     }
     for (let number = 1; number <= verses.length; number += 1) {
       const review = evidence.verseReviews?.[String(number)];
       for (const check of ["voice", "meaning", "languages", "rendering"]) {
-        if (review?.[check] !== "pass") {
-          fail(`${book} ${chapter}:${number}: verse review “${check}” has not passed`);
+        const expected = visualDeferred && check === "rendering" ? "deferred" : "pass";
+        if (review?.[check] !== expected) {
+          fail(`${book} ${chapter}:${number}: verse review “${check}” must be ${expected}`);
         }
       }
     }
@@ -278,6 +290,8 @@ try {
       const evidence = readEvidence(file);
       return [`${evidence.book}-${evidence.chapter}`, { file, evidence }];
     }));
+    const deferred = [...evidenceByChapter].filter(([, item]) => item.evidence.status === "passed_with_visual_deferral");
+    if (deferred.length) fail(`Whole-corpus visual review is incomplete: ${deferred.map(([id]) => id).join(", ")}`);
     const missing = [];
     for (const [book, count] of Object.entries(canonicalBookChapters)) {
       for (let chapter = 1; chapter <= count; chapter += 1) {
@@ -289,7 +303,7 @@ try {
     for (const { file, evidence } of evidenceByChapter.values()) {
       const expectedName = `${evidence.book}-${evidence.chapter}.json`;
       if (path.basename(file) !== expectedName) fail(`${file}: filename must be ${expectedName}`);
-      auditChapter(evidence);
+      auditChapter(evidence, { requireVisualReview: true });
     }
     console.log(`PASS whole corpus: all 66 books and ${canonicalChapterTotal} chapters validated`);
   } else {
