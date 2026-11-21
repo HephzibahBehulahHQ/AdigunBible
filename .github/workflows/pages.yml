@@ -33,21 +33,9 @@ jobs:
       - name: Validate published chapter evidence
         if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
         run: node scripts/release-gate.mjs --main
-  deploy:
+  package-pages:
     if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
     needs: editorial-status
-    permissions:
-      contents: read
-      pages: write
-      id-token: write
-    concurrency:
-      group: github-pages
-      cancel-in-progress: true
-    env:
-      PAGES_ARTIFACT_NAME: github-pages-${{ github.run_attempt }}
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Check out the site
@@ -55,12 +43,24 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload site artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
-          name: ${{ env.PAGES_ARTIFACT_NAME }}
           path: .
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: package-pages
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    concurrency:
+      group: github-pages
+      cancel-in-progress: true
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-        with:
-          artifact_name: ${{ env.PAGES_ARTIFACT_NAME }}
