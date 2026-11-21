@@ -6,9 +6,9 @@
   "glossesVar": "exodusNineteenthGlosses",
   "expectedVerseCount": 25,
   "sourceFile": "Exodus/Chapter 19.txt",
-  "status": "in_progress",
-  "reviewer": "",
-  "reviewedAt": null,
+  "status": "passed_with_visual_deferral",
+  "reviewer": "Codex",
+  "reviewedAt": "2026-11-21T18:11:51Z",
   "languageReferences": {
     "pcm": "https://www.britishcouncil.org/voices-magazine/nigerian-pidgin-words-phrases",
     "yo": "https://ebible.org/yor/EXO19.htm",
@@ -22,165 +22,170 @@
     "sw": "https://ebible.org/pdf/swhonen/swhonen_EXO.pdf"
   },
   "checks": {
-    "universalVoice": "pending",
-    "scriptureMeaning": "pending",
-    "completenessAndOrder": "pending",
-    "multilingualAccuracy": "pending",
-    "sourceSyntax": "pending",
-    "hoverGlosses": "pending",
-    "readerNavigation": "pending",
-    "readerRendering": "pending"
+    "universalVoice": "pass",
+    "scriptureMeaning": "pass",
+    "completenessAndOrder": "pass",
+    "multilingualAccuracy": "pass",
+    "sourceSyntax": "pass",
+    "hoverGlosses": "pass",
+    "readerNavigation": "pass",
+    "readerRendering": "deferred"
   },
   "verseReviews": {
     "1": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "2": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "3": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "4": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "5": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "6": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "7": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "8": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "9": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "10": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "11": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "12": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "13": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "14": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "15": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "16": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "17": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "18": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "19": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "20": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "21": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "22": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "23": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "24": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     },
     "25": {
-      "voice": "pending",
-      "meaning": "pending",
-      "languages": "pending",
-      "rendering": "pending"
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "deferred"
     }
+  },
+  "visualDeferral": {
+    "approvedBy": "owner",
+    "approvedAt": "2026-11-21",
+    "approvalReference": "Owner approved pending reader visual evidence and continuing chapter work in the Codex chat on 2026-11-21."
   }
 }
