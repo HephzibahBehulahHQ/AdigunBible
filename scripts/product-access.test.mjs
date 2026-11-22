@@ -8,6 +8,7 @@ const chapter = '/reader/Matthew/chapter-1.js';
 const env = {
   SUPABASE_URL: 'https://example.supabase.co',
   SUPABASE_PUBLISHABLE_KEY: 'test-publishable',
+  PRODUCT_ACCOUNT_PREFIX: 'adigunbible_preview',
   BIBLE_SESSION_SECRET: 'test-only-Bible-signing-material',
   AUTH_LIMITER: { limit: async () => ({ success: true }) },
   ASSETS: { fetch: async request => new Response(new URL(request.url).pathname) }
@@ -44,24 +45,41 @@ test('anonymous visitors can use the landing page but cannot load the reader or 
 });
 
 test('login issues a Bible-only cookie and registration waits for email confirmation', async () => {
-  const provider = mock.method(globalThis, 'fetch', async url => {
+  let enrolled = false;
+  const provider = mock.method(globalThis, 'fetch', async (url, options) => {
     if (url.pathname === '/auth/v1/signup') {
       assert.equal(url.searchParams.get('redirect_to'), origin + '/');
       return Response.json({ user: {} });
     }
+    if (url.pathname.startsWith('/rest/v1/rpc/')) {
+      assert.equal(options.headers.Authorization, 'Bearer provider-token');
+      if (url.pathname.endsWith('_register_account')) enrolled = true;
+      return Response.json(enrolled);
+    }
     assert.equal(url.pathname, '/auth/v1/token');
-    return Response.json({ access_token: 'provider-token', expires_in: 3600 });
+    if (JSON.parse(options.body).email === 'new@example.com') {
+      return Response.json({ error_code: 'invalid_credentials' }, { status: 400 });
+    }
+    return Response.json({ access_token: 'provider-token', expires_in: 3600, user: { email_confirmed_at: '2026-11-22' } });
   });
 
   try {
-    const registration = await request('/session', credentials('register'));
+    const newUser = credentials('register');
+    newUser.body.set('email', 'new@example.com');
+    const registration = await request('/session', newUser);
     assert.equal(registration.headers.get('Set-Cookie'), null);
-    assert.match(await registration.text(), /check your email/);
+    assert.match(await registration.text(), /check your email/i);
+    const denied = await request('/session', credentials('login'));
+    assert.equal(denied.status, 403);
+    assert.equal(denied.headers.get('Set-Cookie'), null);
+    const enrolledResponse = await request('/session', credentials('register'));
+    assert.equal(enrolledResponse.headers.get('Location'), '/reader/');
+    assert.ok(enrolledResponse.headers.has('Set-Cookie'));
 
     const login = await request('/session', credentials('login'));
     assert.equal(login.headers.get('Location'), '/reader/');
     const cookie = login.headers.get('Set-Cookie');
-    assert.match(cookie, /^__Host-adigunbible=.*; Path=\/; Max-Age=3600; Secure; HttpOnly; SameSite=Lax$/);
+    assert.match(cookie, /^__Host-adigunbible-enrolled=.*; Path=\/; Max-Age=3600; Secure; HttpOnly; SameSite=Lax$/);
     const session = cookie.split(';')[0];
     const authenticated = { headers: { Cookie: session } };
     for (const path of ['/reader/', chapter]) {
@@ -82,16 +100,23 @@ test('login issues a Bible-only cookie and registration waits for email confirma
 
 test('provider errors never create a session and give visitors an actionable status', async () => {
   let response;
-  const provider = mock.method(globalThis, 'fetch', async () => response);
+  let intentUnderTest;
+  const provider = mock.method(globalThis, 'fetch', async url => {
+    if (url.pathname === '/auth/v1/token' && intentUnderTest === 'register') {
+      return Response.json({ error_code: 'invalid_credentials' }, { status: 400 });
+    }
+    return response;
+  });
   try {
     for (const [intent, upstreamStatus, body, status, message] of [
       ['login', 400, { code: 400, error_code: 'invalid_credentials' }, 401, /Sign-in failed/],
       ['login', 401, { message: 'Invalid API key' }, 503, /temporarily unavailable/],
       ['login', 429, {}, 429, /Please wait/],
       ['register', 422, { code: 'weak_password' }, 400, /stronger password/],
-      ['register', 422, { code: 'user_already_exists' }, 200, /check your email/],
+      ['register', 422, { code: 'user_already_exists' }, 200, /check your email/i],
       ['register', 403, { code: 'signup_disabled' }, 503, /temporarily unavailable/]
     ]) {
+      intentUnderTest = intent;
       response = Response.json(body, { status: upstreamStatus });
       const result = await request('/session', credentials(intent));
       assert.equal(result.status, status);

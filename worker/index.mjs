@@ -1,4 +1,4 @@
-const cookieName = '__Host-adigunbible';
+const cookieName = '__Host-adigunbible-enrolled';
 const encoder = new TextEncoder();
 const sessionSeconds = 3600;
 
@@ -60,40 +60,92 @@ async function authenticate(request, env) {
       typeof password !== 'string' || !password.length || password.length > 256) return landing(intent, 'Enter a valid email and password.', 400);
   if (intent === 'register' && password.length < 8) return landing(intent, 'Choose a password with at least eight characters.', 400);
 
-  const endpoint = intent === 'register' ? '/auth/v1/signup' : '/auth/v1/token?grant_type=password';
-  const authUrl = new URL(endpoint, env.SUPABASE_URL);
-  if (intent === 'register') authUrl.searchParams.set('redirect_to', new URL('/', request.url).href);
-  let result;
+  let authResponse;
+  let auth;
   try {
-    result = await fetch(authUrl, {
-      method: 'POST',
-      headers: { apikey: env.SUPABASE_PUBLISHABLE_KEY, 'Content-Type': 'application/json' },
-      body: JSON.stringify({ email, password }),
-      signal: AbortSignal.timeout(10000)
-    });
+    authResponse = await providerAuth(env, '/auth/v1/token?grant_type=password', email, password);
+    auth = await authResponse.json();
   } catch {
     return landing(intent, unavailable, 503);
   }
-  if (result.status === 429) return landing(intent, 'Please wait before trying again.', 429);
 
-  const auth = await result.json().catch(() => null);
-  if (result.status >= 500 || !auth) return landing(intent, unavailable, 503);
+  if (authResponse.status === 429) return landing(intent, 'Please wait before trying again.', 429);
+  if (!authResponse.ok) {
+    const code = auth?.error_code ?? auth?.code;
+    if (code === 'email_not_confirmed') {
+      return landing(intent, 'Confirm your email before continuing.', 401);
+    }
+    if (code !== 'invalid_credentials') return landing(intent, unavailable, 503);
+    if (intent === 'login') {
+      return landing(intent, 'Sign-in failed. Check your email, password, and email confirmation.', 401);
+    }
+    return registerIdentity(request, env, email, password, unavailable);
+  }
 
-  const errorCode = auth.error_code ?? auth.code;
-  if (intent === 'register') {
-    if (errorCode === 'weak_password') return landing(intent, 'Choose a stronger password and try again.', 400);
-    if (!result.ok && !['user_already_exists', 'email_exists'].includes(errorCode)) return landing(intent, unavailable, 503);
-    return landing(intent, 'If registration succeeds, check your email for a confirmation link, then return here to sign in.');
+  if (!auth?.access_token || !Number.isFinite(auth.expires_in) || auth.expires_in < 1) return landing(intent, unavailable, 503);
+  if (!auth.user?.email_confirmed_at || auth.user.is_anonymous) {
+    return landing(intent, 'Confirm your email before continuing.', 401);
   }
-  if (!result.ok) {
-    if (!['invalid_credentials', 'email_not_confirmed'].includes(errorCode)) return landing(intent, unavailable, 503);
-    return landing(intent, 'Sign-in failed. Check your email, password, and email confirmation.', 401);
+
+  let enrolled;
+  try {
+    enrolled = await bibleAccount(env, auth.access_token, intent === 'register');
+  } catch {
+    return landing(intent, unavailable, 503);
   }
-  if (!auth.access_token || !Number.isFinite(auth.expires_in) || auth.expires_in < 1) return landing(intent, unavailable, 503);
+  if (!enrolled) return landing('register', 'Create an AdigunBible account before signing in.', 403);
+
   const ttl = Math.floor(Math.min(sessionSeconds, auth.expires_in));
   const payload = `${Math.floor(Date.now() / 1000) + ttl}.${crypto.randomUUID()}`;
   const signature = await crypto.subtle.sign('HMAC', await key(env), encoder.encode(payload));
   return redirect('/reader/', cookie(`${payload}.${hex(signature)}`, ttl));
+}
+
+async function providerAuth(env, endpoint, email, password) {
+  return fetch(new URL(endpoint, env.SUPABASE_URL), {
+    method: 'POST',
+    headers: { apikey: env.SUPABASE_PUBLISHABLE_KEY, 'Content-Type': 'application/json' },
+    body: JSON.stringify({ email, password }),
+    signal: AbortSignal.timeout(10000)
+  });
+}
+
+async function registerIdentity(request, env, email, password, unavailable) {
+  try {
+    const signup = new URL('/auth/v1/signup', env.SUPABASE_URL);
+    signup.searchParams.set('redirect_to', new URL('/', request.url).href);
+    const response = await providerAuth(env, signup, email, password);
+    const result = await response.json();
+    const code = result?.error_code ?? result?.code;
+    if (response.status === 429) return landing('register', 'Please wait before trying again.', 429);
+    if (code === 'weak_password') return landing('register', 'Choose a stronger password and try again.', 400);
+    if (!result || (!response.ok && !['user_already_exists', 'email_exists'].includes(code))) {
+      return landing('register', unavailable, 503);
+    }
+    return landing('register', 'Check your email for a confirmation link. After confirming, return and select Create account to finish.');
+  } catch {
+    return landing('register', unavailable, 503);
+  }
+}
+
+async function bibleAccount(env, accessToken, enroll) {
+  const prefix = env.PRODUCT_ACCOUNT_PREFIX;
+  if (!['adigunbible', 'adigunbible_preview'].includes(prefix)) throw new Error('Product accounts are unavailable');
+  const operation = enroll ? 'register_account' : 'has_account';
+  const response = await fetch(new URL(`/rest/v1/rpc/${prefix}_${operation}`, env.SUPABASE_URL), {
+    method: 'POST',
+    headers: {
+      apikey: env.SUPABASE_PUBLISHABLE_KEY,
+      Authorization: 'Bearer ' + accessToken,
+      'Content-Type': 'application/json'
+    },
+    body: '{}',
+    signal: AbortSignal.timeout(10000)
+  });
+  if (!response.ok) throw new Error('Product accounts are unavailable');
+  const result = await response.json();
+  if (typeof result !== 'boolean') throw new Error('Malformed product account response');
+  return result;
 }
 
 async function hasSession(request, env) {
@@ -108,7 +160,7 @@ async function hasSession(request, env) {
 }
 
 function key(env) {
-  return crypto.subtle.importKey('raw', encoder.encode('adigunbible:' + env.BIBLE_SESSION_SECRET),
+  return crypto.subtle.importKey('raw', encoder.encode('adigunbible-enrolled:' + env.BIBLE_SESSION_SECRET),
     { name: 'HMAC', hash: 'SHA-256' }, false, ['sign', 'verify']);
 }
 
