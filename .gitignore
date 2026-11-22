@@ -1,0 +1,6 @@
+
+/dist-worker/
+/.wrangler/
+/.dev.vars*
+/dist-legacy/
+/supabase/.temp/
