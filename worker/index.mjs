@@ -5,7 +5,10 @@ const sessionSeconds = 3600;
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
-    if (url.pathname === '/' && request.method === 'GET') return landing();
+    if (request.method === 'GET') {
+      if (url.pathname === '/') return landing();
+      if (url.pathname === '/sign-in') return landing('login');
+    }
 
     if (url.pathname === '/session' && request.method === 'POST') {
       if (request.headers.get('Origin') !== url.origin) return new Response(null, { status: 403 });
@@ -37,25 +40,25 @@ export default {
 };
 
 async function authenticate(request, env) {
-  if (!env.SUPABASE_URL || !env.SUPABASE_PUBLISHABLE_KEY || !env.BIBLE_SESSION_SECRET || !env.AUTH_LIMITER) {
-    return landing('Sign-in is temporarily unavailable.', 503);
-  }
-  const rate = await env.AUTH_LIMITER.limit({ key: request.headers.get('CF-Connecting-IP') || 'unknown' });
-  if (!rate.success) return landing('Please wait before trying again.', 429);
-
   let form;
   try {
     form = await request.formData();
   } catch {
-    return landing('Invalid sign-in form.', 400);
+    return landing('register', 'Invalid account form.', 400);
   }
   const email = form.get('email');
   const password = form.get('password');
   const intent = form.get('intent');
+  if (!['login', 'register'].includes(intent)) return landing('register', 'Invalid account form.', 400);
+  const unavailable = intent === 'register' ? 'Registration is temporarily unavailable.' : 'Sign-in is temporarily unavailable.';
+  if (!env.SUPABASE_URL || !env.SUPABASE_PUBLISHABLE_KEY || !env.BIBLE_SESSION_SECRET || !env.AUTH_LIMITER) {
+    return landing(intent, unavailable, 503);
+  }
+  const rate = await env.AUTH_LIMITER.limit({ key: request.headers.get('CF-Connecting-IP') || 'unknown' });
+  if (!rate.success) return landing(intent, 'Please wait before trying again.', 429);
   if (typeof email !== 'string' || email.length > 254 || !email.includes('@') ||
-      typeof password !== 'string' || !password.length || password.length > 256 ||
-      !['login', 'register'].includes(intent)) return landing('Enter a valid email and password.', 400);
-  if (intent === 'register' && password.length < 8) return landing('Choose a password with at least eight characters.', 400);
+      typeof password !== 'string' || !password.length || password.length > 256) return landing(intent, 'Enter a valid email and password.', 400);
+  if (intent === 'register' && password.length < 8) return landing(intent, 'Choose a password with at least eight characters.', 400);
 
   const endpoint = intent === 'register' ? '/auth/v1/signup' : '/auth/v1/token?grant_type=password';
   const authUrl = new URL(endpoint, env.SUPABASE_URL);
@@ -69,25 +72,24 @@ async function authenticate(request, env) {
       signal: AbortSignal.timeout(10000)
     });
   } catch {
-    return landing('Sign-in is temporarily unavailable.', 503);
+    return landing(intent, unavailable, 503);
   }
-  if (result.status === 429) return landing('Please wait before trying again.', 429);
+  if (result.status === 429) return landing(intent, 'Please wait before trying again.', 429);
 
   const auth = await result.json().catch(() => null);
-  const unavailable = intent === 'register' ? 'Registration is temporarily unavailable.' : 'Sign-in is temporarily unavailable.';
-  if (result.status >= 500 || !auth) return landing(unavailable, 503);
+  if (result.status >= 500 || !auth) return landing(intent, unavailable, 503);
 
   const errorCode = auth.error_code ?? auth.code;
   if (intent === 'register') {
-    if (errorCode === 'weak_password') return landing('Choose a stronger password and try again.', 400);
-    if (!result.ok && !['user_already_exists', 'email_exists'].includes(errorCode)) return landing(unavailable, 503);
-    return landing('If registration succeeds, check your email for a confirmation link, then return here to sign in.');
+    if (errorCode === 'weak_password') return landing(intent, 'Choose a stronger password and try again.', 400);
+    if (!result.ok && !['user_already_exists', 'email_exists'].includes(errorCode)) return landing(intent, unavailable, 503);
+    return landing(intent, 'If registration succeeds, check your email for a confirmation link, then return here to sign in.');
   }
   if (!result.ok) {
-    if (!['invalid_credentials', 'email_not_confirmed'].includes(errorCode)) return landing(unavailable, 503);
-    return landing('Sign-in failed. Check your email, password, and email confirmation.', 401);
+    if (!['invalid_credentials', 'email_not_confirmed'].includes(errorCode)) return landing(intent, unavailable, 503);
+    return landing(intent, 'Sign-in failed. Check your email, password, and email confirmation.', 401);
   }
-  if (!auth.access_token || !Number.isFinite(auth.expires_in) || auth.expires_in < 1) return landing(unavailable, 503);
+  if (!auth.access_token || !Number.isFinite(auth.expires_in) || auth.expires_in < 1) return landing(intent, unavailable, 503);
   const ttl = Math.floor(Math.min(sessionSeconds, auth.expires_in));
   const payload = `${Math.floor(Date.now() / 1000) + ttl}.${crypto.randomUUID()}`;
   const signature = await crypto.subtle.sign('HMAC', await key(env), encoder.encode(payload));
@@ -124,11 +126,16 @@ function redirect(location, sessionCookie) {
   return new Response(null, { status: 303, headers });
 }
 
-function landing(message = '', status = 200) {
+function landing(intent = 'register', message = '', status = 200) {
+  const registration = intent === 'register';
+  const action = registration ? 'Create account' : 'Sign in';
+  const help = registration
+    ? 'Already have an account? <a href="/sign-in">Sign in</a>'
+    : 'New to AdigunBible? <a href="/">Create account</a>';
   return new Response(`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>AdigunBible</title>
 <style>body{margin:0;background:#111827;color:#f8fafc;font:1rem system-ui}main{max-width:35rem;margin:auto;padding:clamp(2rem,7vw,6rem) 1.25rem}h1{color:#f9d477;font-size:clamp(2.7rem,8vw,4.5rem);margin:0}p{line-height:1.65}form{display:grid;gap:.8rem;margin-top:2rem}input,button{font:inherit;padding:.7rem;border-radius:.4rem}button{background:#f9d477;color:#111827;border:0;cursor:pointer}label{display:grid;gap:.35rem}a{color:#f9d477}</style></head>
-<body><main><h1>AdigunBible</h1><p>Explore Scripture in an interactive, multilingual reader from HB Evangelist.</p><p>Sign in or create your AdigunBible account to open the reader.</p>${message ? `<p role="status">${message}</p>` : ''}
-<form method="post" action="/session"><label>Email<input type="email" name="email" required autocomplete="email" maxlength="254"></label><label>Password<input type="password" name="password" required maxlength="256"></label><button name="intent" value="login">Sign in</button><button name="intent" value="register">Create account</button></form></main></body></html>`, {
+<body><main><h1>AdigunBible</h1><p>Explore Scripture in an interactive, multilingual reader from HB Evangelist.</p><h2>${action}</h2>${message ? `<p role="status">${message}</p>` : ''}
+<form method="post" action="/session"><label>Email<input type="email" name="email" required autocomplete="email" maxlength="254"></label><label>Password<input type="password" name="password" required maxlength="256" autocomplete="${registration ? 'new-password' : 'current-password'}"${registration ? ' minlength="8"' : ''}></label><button name="intent" value="${intent}">${action}</button></form><p>${help}</p></main></body></html>`, {
     status,
     headers: {
       'Content-Type': 'text/html; charset=utf-8',

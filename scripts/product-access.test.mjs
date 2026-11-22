@@ -26,7 +26,15 @@ function credentials(intent, from = origin) {
 }
 
 test('anonymous visitors can use the landing page but cannot load the reader or chapter files', async () => {
-  assert.equal((await request('/')).status, 200);
+  const landing = await request('/');
+  assert.equal(landing.status, 200);
+  const createAccount = await landing.text();
+  assert.match(createAccount, /value="register">Create account/);
+  assert.match(createAccount, /href="\/sign-in">Sign in/);
+  assert.doesNotMatch(createAccount, /value="login"/);
+  const returningReader = await (await request('/sign-in')).text();
+  assert.match(returningReader, /value="login">Sign in/);
+  assert.doesNotMatch(returningReader, /value="register"/);
   assert.equal((await request('/reader/')).headers.get('Location'), '/');
   assert.equal((await request(chapter)).status, 401);
   assert.equal((await request(chapter, { method: 'HEAD' })).status, 401);
