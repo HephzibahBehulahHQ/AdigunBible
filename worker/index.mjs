@@ -1,4 +1,4 @@
-const cookieName = '__Host-adigunbible-otp-session';
+const cookieName = '__Host-adigunbible-password-session';
 const encoder = new TextEncoder();
 const sessionSeconds = 3600;
 const challengeName = '__Host-adigunbible-email-check';
@@ -61,17 +61,25 @@ async function authenticate(request, env, verify) {
   try {
     if (!verify) {
       const email = typeof form.get('email') === 'string' ? form.get('email').trim().toLowerCase() : '';
+      const password = form.get('password');
       if (email.length > 254 || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
         return landing(intent, 'Enter a valid email address.', 400);
       }
-      const response = await providerRequest(env, '/auth/v1/otp', { email, create_user: intent === 'register' });
-      const result = await response.json();
-      const code = result?.error_code ?? result?.code;
-      if (response.status === 429) return landing(intent, 'Please wait before requesting another code.', 429);
-      if (!response.ok && !(intent === 'login' && ['otp_disabled', 'user_not_found'].includes(code))) {
-        return landing(intent, 'Could not send a code. Please try again.', 503);
+      if (typeof password !== 'string' || password.length < 12 || password.length > 256) {
+        return landing(intent, 'Enter a password between 12 and 256 characters.', 400);
       }
-      const challenge = await makeChallenge(env, email, intent);
+      const emailKey = hex(await crypto.subtle.sign('HMAC', await key(env), encoder.encode('limit:' + email)));
+      if (!(await env.AUTH_LIMITER.limit({ key: emailKey })).success) {
+        return landing(intent, 'Please wait before trying again.', 429);
+      }
+      const passwordProof = await productPasswordProof(env, email, password);
+      if (intent === 'login' && !await bibleAccount(env, 'password_sign_in', { email_address: email, password_proof: passwordProof })) {
+        return landing('login', 'Check your AdigunBible email and password, or create an account first.', 401);
+      }
+      const response = await providerRequest(env, '/auth/v1/otp', { email, create_user: intent === 'register' });
+      if (response.status === 429) return landing(intent, 'Please wait before requesting another code.', 429);
+      if (!response.ok) return landing(intent, 'Could not send a code. Please try again.', 503);
+      const challenge = await makeChallenge(env, email, passwordProof, intent);
       return landing(intent, '', 200, true, namedCookie(challengeName, challenge, challengeSeconds));
     }
 
@@ -91,13 +99,16 @@ async function authenticate(request, env, verify) {
       return landing(intent, 'Code verification is temporarily unavailable.', 503, true);
     }
 
-    const account = await bibleAccount(env, auth.access_token, intent === 'register');
+    const credentials = { email_address: challenge.email, password_proof: challenge.passwordProof };
     const clearChallenge = namedCookie(challengeName, '', 0);
-    if (!account) return landing('register', 'Create an AdigunBible account before signing in.', 403, false, clearChallenge);
     if (intent === 'register') {
-      return landing('login', 'Your AdigunBible account is active. Sign in to open the reader.', 200, false, clearChallenge);
+      const account = await bibleAccount(env, 'activate_password_account', credentials, auth.access_token);
+      if (!account) return landing('login', 'This email could not be activated. If you already registered, sign in.', 409, false, clearChallenge);
+      return landing('login', 'Your AdigunBible account is active. Sign in with your AdigunBible password.', 200, false, clearChallenge);
     }
-
+    if (!await bibleAccount(env, 'password_sign_in', credentials)) {
+      return landing('login', 'Check your AdigunBible email and password.', 401, false, clearChallenge);
+    }
     const ttl = Math.floor(Math.min(sessionSeconds, auth.expires_in));
     const payload = `${Math.floor(Date.now() / 1000) + ttl}.${crypto.randomUUID()}`;
     const signature = await crypto.subtle.sign('HMAC', await key(env), encoder.encode(payload));
@@ -115,34 +126,47 @@ function providerRequest(env, path, body, authorization) {
   });
 }
 
-async function bibleAccount(env, accessToken, enroll) {
+async function bibleAccount(env, operation, body, accessToken) {
   const prefix = env.PRODUCT_ACCOUNT_PREFIX;
   if (!['adigunbible', 'adigunbible_preview'].includes(prefix)) throw new Error('Product accounts are unavailable');
-  const operation = enroll ? 'activate_account' : 'has_account';
-  const body = enroll ? { activation_proof: env.BIBLE_ACTIVATION_SECRET } : {};
-  const response = await providerRequest(env, `/rest/v1/rpc/${prefix}_${operation}`, body, accessToken);
+  const response = await providerRequest(env, `/rest/v1/rpc/${prefix}_${operation}`, {
+    ...body, activation_proof: env.BIBLE_ACTIVATION_SECRET
+  }, accessToken);
   if (!response.ok) throw new Error('Product accounts are unavailable');
   const result = await response.json();
   if (typeof result !== 'boolean') throw new Error('Malformed product account response');
   return result;
 }
 
-async function makeChallenge(env, email, intent) {
-  const data = btoa(String.fromCharCode(...encoder.encode(JSON.stringify({
-    email, intent, expires: Date.now() + challengeSeconds * 1000
-  }))));
-  const signature = await crypto.subtle.sign('HMAC', await key(env), encoder.encode('email-check:' + data));
-  return `${data}.${hex(signature)}`;
+async function productPasswordProof(env, email, password) {
+  const scopedKey = await crypto.subtle.importKey('raw', encoder.encode('adigunbible-password-pepper:' + env.BIBLE_SESSION_SECRET),
+    {name: 'HMAC', hash: 'SHA-256'}, false, ['sign']);
+  return hex(await crypto.subtle.sign('HMAC', scopedKey, encoder.encode(JSON.stringify([email, password]))));
+}
+
+async function challengeKey(env) {
+  const material = await crypto.subtle.digest('SHA-256', encoder.encode('adigunbible-password-challenge:' + env.BIBLE_SESSION_SECRET));
+  return crypto.subtle.importKey('raw', material, 'AES-GCM', false, ['encrypt', 'decrypt']);
+}
+
+async function makeChallenge(env, email, passwordProof, intent) {
+  const iv = crypto.getRandomValues(new Uint8Array(12));
+  const data = encoder.encode(JSON.stringify({email, passwordProof, intent, expires: Date.now() + challengeSeconds * 1000}));
+  const sealed = await crypto.subtle.encrypt({name: 'AES-GCM', iv}, await challengeKey(env), data);
+  return `${hex(iv)}.${hex(sealed)}`;
 }
 
 async function readChallenge(request, env) {
   const value = readCookie(request, challengeName);
-  if (!value || !/^[A-Za-z0-9+/=]{1,1024}\.[0-9a-f]{64}$/.test(value)) return null;
-  const [data, mac] = value.split('.');
-  const valid = await crypto.subtle.verify('HMAC', await key(env), hexBytes(mac), encoder.encode('email-check:' + data));
-  if (!valid) return null;
-  const challenge = JSON.parse(new TextDecoder().decode(Uint8Array.from(atob(data), char => char.charCodeAt(0))));
-  return challenge.expires > Date.now() ? challenge : null;
+  if (!value || !/^[0-9a-f]{24}\.[0-9a-f]{2,2048}$/.test(value)) return null;
+  const [iv, sealed] = value.split('.');
+  try {
+    const data = await crypto.subtle.decrypt({name: 'AES-GCM', iv: hexBytes(iv)}, await challengeKey(env), hexBytes(sealed));
+    const challenge = JSON.parse(new TextDecoder().decode(data));
+    return challenge.expires > Date.now() ? challenge : null;
+  } catch {
+    return null;
+  }
 }
 
 function readCookie(request, name) {
@@ -165,7 +189,7 @@ async function hasSession(request, env) {
 }
 
 function key(env) {
-  return crypto.subtle.importKey('raw', encoder.encode('adigunbible-otp:' + env.BIBLE_SESSION_SECRET),
+  return crypto.subtle.importKey('raw', encoder.encode('adigunbible-password:' + env.BIBLE_SESSION_SECRET),
     { name: 'HMAC', hash: 'SHA-256' }, false, ['sign', 'verify']);
 }
 
@@ -202,8 +226,8 @@ function landing(intent = 'register', message = '', status = 200, verify = false
   if (setCookie) headers.set('Set-Cookie', setCookie);
   const form = verify
     ? `<form method="post" action="/verify-email"><label>Email code<input name="code" inputmode="numeric" autocomplete="one-time-code" pattern="[0-9]{6,10}" maxlength="10" required></label><button name="intent" value="${intent}">Verify code</button></form><p>Didn't get a code? <a href="${registration ? '/' : '/sign-in'}">Request another</a></p>`
-    : `<form method="post" action="/session"><label>Email<input type="email" name="email" required autocomplete="email" maxlength="254"></label><button name="intent" value="${intent}">${action}</button></form><p>${help}</p>`;
-  const instruction = verify ? 'Enter the one-time code from your email.' : 'We’ll email you a one-time code.';
+    : `<form method="post" action="/session"><label>Email<input type="email" name="email" required autocomplete="email" maxlength="254"></label><label>AdigunBible password<input type="password" name="password" minlength="12" maxlength="256" autocomplete="${registration ? 'new-password' : 'current-password'}" required></label><button name="intent" value="${intent}">${action}</button></form><p>${help}</p>`;
+  const instruction = verify ? 'Enter the one-time code from your email.' : registration ? 'Choose a separate password for AdigunBible. We’ll email you a code to activate your account.' : 'Enter your AdigunBible password. We’ll then email you a fresh sign-in code.';
   return new Response(`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>AdigunBible</title>
 <style>body{margin:0;background:#111827;color:#f8fafc;font:1rem system-ui}main{max-width:35rem;margin:auto;padding:clamp(2rem,7vw,6rem) 1.25rem}h1{color:#f9d477;font-size:clamp(2.7rem,8vw,4.5rem);margin:0}p{line-height:1.65}form{display:grid;gap:.8rem;margin-top:2rem}input,button{font:inherit;padding:.7rem;border-radius:.4rem}button{background:#f9d477;color:#111827;border:0;cursor:pointer}label{display:grid;gap:.35rem}a{color:#f9d477}</style></head>
 <body><main><h1>AdigunBible</h1><p>Explore Scripture in an interactive, multilingual reader from HB Evangelist.</p><h2>${action}</h2><p>${instruction}</p>${message ? `<p role="status">${message}</p>` : ''}${form}</main></body></html>`, { status, headers });

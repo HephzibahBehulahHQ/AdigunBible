@@ -15,6 +15,7 @@ const env = {
   ASSETS: { fetch: async request => new Response(new URL(request.url).pathname) }
 };
 const email = 'reader@example.com';
+const password = 'a Bible-only password';
 
 function request(path, options, bindings = env) {
   return worker.fetch(new Request(origin + path, options), bindings);
@@ -35,7 +36,7 @@ test('signed-out visitors can open product forms but cannot access any reader fi
   assert.equal((await request(chapter)).status, 401);
   assert.equal((await request(chapter, { method: 'HEAD' })).status, 401);
   assert.equal((await request('/Matthew/chapter-1.js')).status, 404);
-  for (const name of ['__Host-adigunsps', '__Host-adigunbible-enrolled']) {
+  for (const name of ['__Host-adigunsps', '__Host-adigunbible-otp-session']) {
     assert.equal((await request(chapter, { headers: {Cookie: name + '=other-session'} })).status, 401);
   }
   assert.equal((await post('/session', {intent: 'register', email}, '', 'https://adigunsps.hephzibahbehulah.com')).status, 403);
@@ -43,6 +44,7 @@ test('signed-out visitors can open product forms but cannot access any reader fi
 
 test('a verified shared identity must enter an emailed code to activate, then sign in separately', async () => {
   let active = false;
+  let registeredProof;
   let providerRequests = 0;
   const provider = mock.method(globalThis, 'fetch', async (url, options) => {
     providerRequests++;
@@ -59,28 +61,33 @@ test('a verified shared identity must enter an emailed code to activate, then si
       return Response.json({access_token: 'provider-otp-token', expires_in: 3600,
         user: { email, email_confirmed_at: '2026-11-22' }});
     }
-    assert.equal(options.headers.Authorization, 'Bearer provider-otp-token');
-    if (url.pathname === '/rest/v1/rpc/adigunbible_preview_activate_account') {
+    if (url.pathname.endsWith('_activate_password_account')) {
+      assert.equal(options.headers.Authorization, 'Bearer provider-otp-token');
       assert.equal(data.activation_proof, env.BIBLE_ACTIVATION_SECRET);
+      assert.equal(data.email_address, email);
+      assert.match(data.password_proof, /^[a-f0-9]{64}$/);
+      assert.equal(active, false);
+      registeredProof = data.password_proof;
       active = true;
-    } else {
-      assert.equal(url.pathname, '/rest/v1/rpc/adigunbible_preview_has_account');
-      assert.deepEqual(data, {});
+      return Response.json(true);
     }
-    return Response.json(active);
+    assert.equal(url.pathname, '/rest/v1/rpc/adigunbible_preview_password_sign_in');
+    assert.equal(options.headers.Authorization, undefined);
+    assert.equal(data.email_address, email);
+    return Response.json(active && data.password_proof === registeredProof);
   });
 
   try {
     const start = async intent => {
-      const response = await post('/session', {intent, email});
+      const response = await post('/session', {intent, email, password});
       assert.equal(response.status, 200);
       assert.match(await response.text(), /name="code".*autocomplete="one-time-code"/);
       return response.headers.get('Set-Cookie').split(';')[0];
     };
     const verify = (intent, cookie, code = '123456') => post('/verify-email', {intent, code}, cookie);
 
-    const foreign = await verify('login', await start('login'));
-    assert.equal(foreign.status, 403);
+    const foreign = await post('/session', {intent: 'login', email, password});
+    assert.equal(foreign.status, 401);
     assert.equal(active, false);
 
     const pending = await start('register');
@@ -97,11 +104,17 @@ test('a verified shared identity must enter an emailed code to activate, then si
     const registered = await verify('register', pending);
     assert.match(await registered.text(), /account is active/);
     assert.equal(active, true);
-    assert.ok(!registered.headers.get('Set-Cookie').includes('__Host-adigunbible-otp-session='));
+    assert.ok(!registered.headers.get('Set-Cookie').includes('__Host-adigunbible-password-session='));
 
-    const signedIn = await verify('login', await start('login'));
+    const wrongPassword = await post('/session', {intent: 'login', email, password: 'another product password'});
+    assert.equal(wrongPassword.status, 401);
+    assert.equal(wrongPassword.headers.get('Set-Cookie'), null);
+    const pendingLogin = await start('login');
+    assert.equal((await request(chapter, {headers: {Cookie: pendingLogin}})).status, 401);
+    assert.equal((await verify('login', pendingLogin, '000000')).status, 401);
+    const signedIn = await verify('login', pendingLogin);
     assert.equal(signedIn.headers.get('Location'), '/reader/');
-    const sessionCookie = signedIn.headers.getSetCookie().find(value => value.startsWith('__Host-adigunbible-otp-session='));
+    const sessionCookie = signedIn.headers.getSetCookie().find(value => value.startsWith('__Host-adigunbible-password-session='));
     assert.match(sessionCookie, /; Path=\/; Max-Age=3600; Secure; HttpOnly; SameSite=Lax$/);
     const signedInRequest = {headers: {Cookie: sessionCookie.split(';')[0]}};
     for (const path of ['/reader/', chapter]) {
