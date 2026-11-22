@@ -37,7 +37,10 @@ test('anonymous visitors can use the landing page but cannot load the reader or 
 
 test('login issues a Bible-only cookie and registration waits for email confirmation', async () => {
   const provider = mock.method(globalThis, 'fetch', async url => {
-    if (url.pathname === '/auth/v1/signup') return Response.json({ user: {} });
+    if (url.pathname === '/auth/v1/signup') {
+      assert.equal(url.searchParams.get('redirect_to'), origin + '/');
+      return Response.json({ user: {} });
+    }
     assert.equal(url.pathname, '/auth/v1/token');
     return Response.json({ access_token: 'provider-token', expires_in: 3600 });
   });

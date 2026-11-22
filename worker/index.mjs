@@ -58,9 +58,11 @@ async function authenticate(request, env) {
   if (intent === 'register' && password.length < 8) return landing('Choose a password with at least eight characters.', 400);
 
   const endpoint = intent === 'register' ? '/auth/v1/signup' : '/auth/v1/token?grant_type=password';
+  const authUrl = new URL(endpoint, env.SUPABASE_URL);
+  if (intent === 'register') authUrl.searchParams.set('redirect_to', new URL('/', request.url).href);
   let result;
   try {
-    result = await fetch(new URL(endpoint, env.SUPABASE_URL), {
+    result = await fetch(authUrl, {
       method: 'POST',
       headers: { apikey: env.SUPABASE_PUBLISHABLE_KEY, 'Content-Type': 'application/json' },
       body: JSON.stringify({ email, password }),
