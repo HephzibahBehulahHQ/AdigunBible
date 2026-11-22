@@ -7,6 +7,7 @@ Glossary for the chapter-level switches. Verse data includes these hover glosses
 | 4 | `ruwa ya yi motsi` | the water moved / was stirred | Hausa |
 | 8 | `marche` | walk (familiar imperative) | French |
 | 21 | `ndụ` | life | Igbo |
+| 21 | `onye ọ bụla ọ chọrọ` | to whomever he chooses | Igbo |
 | 21 | `vida` | life | Spanish |
 | 23 | `honneur` | honor | French |
 | 24 | `parole` | word | French |
