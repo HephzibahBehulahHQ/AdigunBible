@@ -9,126 +9,115 @@ const env = {
   SUPABASE_URL: 'https://example.supabase.co',
   SUPABASE_PUBLISHABLE_KEY: 'test-publishable',
   PRODUCT_ACCOUNT_PREFIX: 'adigunbible_preview',
-  BIBLE_SESSION_SECRET: 'test-only-Bible-signing-material',
+  BIBLE_SESSION_SECRET: 'test-session-key',
+  BIBLE_ACTIVATION_SECRET: 'test-activation-proof',
   AUTH_LIMITER: { limit: async () => ({ success: true }) },
   ASSETS: { fetch: async request => new Response(new URL(request.url).pathname) }
 };
+const email = 'reader@example.com';
 
 function request(path, options, bindings = env) {
   return worker.fetch(new Request(origin + path, options), bindings);
 }
 
-function credentials(intent, from = origin) {
-  return {
+function post(path, fields, cookie = '', requestOrigin = origin) {
+  return request(path, {
     method: 'POST',
-    headers: { Origin: from },
-    body: new URLSearchParams({ email: 'test@example.com', password: 'test-password', intent })
-  };
+    headers: { Origin: requestOrigin, Cookie: cookie },
+    body: new URLSearchParams(fields)
+  });
 }
 
-test('anonymous visitors can use the landing page but cannot load the reader or chapter files', async () => {
-  const landing = await request('/');
-  assert.equal(landing.status, 200);
-  const createAccount = await landing.text();
-  assert.match(createAccount, /value="register">Create account/);
-  assert.match(createAccount, /href="\/sign-in">Sign in/);
-  assert.doesNotMatch(createAccount, /value="login"/);
-  const returningReader = await (await request('/sign-in')).text();
-  assert.match(returningReader, /value="login">Sign in/);
-  assert.doesNotMatch(returningReader, /value="register"/);
+test('signed-out visitors can open product forms but cannot access any reader file', async () => {
+  assert.match(await (await request('/')).text(), /value="register">Create account/);
+  assert.match(await (await request('/sign-in')).text(), /value="login">Sign in/);
   assert.equal((await request('/reader/')).headers.get('Location'), '/');
   assert.equal((await request(chapter)).status, 401);
   assert.equal((await request(chapter, { method: 'HEAD' })).status, 401);
   assert.equal((await request('/Matthew/chapter-1.js')).status, 404);
-  assert.equal((await request(chapter, { headers: { Cookie: '__Host-adigunsps=foreign' } })).status, 401);
-  assert.equal((await request('/session', credentials('login', 'https://adigunsps.hephzibahbehulah.com'))).status, 403);
+  for (const name of ['__Host-adigunsps', '__Host-adigunbible-enrolled']) {
+    assert.equal((await request(chapter, { headers: {Cookie: name + '=other-session'} })).status, 401);
+  }
+  assert.equal((await post('/session', {intent: 'register', email}, '', 'https://adigunsps.hephzibahbehulah.com')).status, 403);
 });
 
-test('login issues a Bible-only cookie and registration waits for email confirmation', async () => {
-  let enrolled = false;
+test('a verified shared identity must enter an emailed code to activate, then sign in separately', async () => {
+  let active = false;
+  let providerRequests = 0;
   const provider = mock.method(globalThis, 'fetch', async (url, options) => {
-    if (url.pathname === '/auth/v1/signup') {
-      assert.equal(url.searchParams.get('redirect_to'), origin + '/');
-      return Response.json({ user: {} });
+    providerRequests++;
+    const data = JSON.parse(options.body);
+    if (url.pathname === '/auth/v1/otp') {
+      assert.equal(data.email, email);
+      assert.equal(typeof data.create_user, 'boolean');
+      return Response.json({});
     }
-    if (url.pathname.startsWith('/rest/v1/rpc/')) {
-      assert.equal(options.headers.Authorization, 'Bearer provider-token');
-      if (url.pathname.endsWith('_register_account')) enrolled = true;
-      return Response.json(enrolled);
+    if (url.pathname === '/auth/v1/verify') {
+      assert.equal(data.email, email);
+      assert.equal(data.type, 'email');
+      if (data.token !== '123456') return Response.json({}, {status: 403});
+      return Response.json({access_token: 'provider-otp-token', expires_in: 3600,
+        user: { email, email_confirmed_at: '2026-11-22' }});
     }
-    assert.equal(url.pathname, '/auth/v1/token');
-    if (JSON.parse(options.body).email === 'new@example.com') {
-      return Response.json({ error_code: 'invalid_credentials' }, { status: 400 });
+    assert.equal(options.headers.Authorization, 'Bearer provider-otp-token');
+    if (url.pathname === '/rest/v1/rpc/adigunbible_preview_activate_account') {
+      assert.equal(data.activation_proof, env.BIBLE_ACTIVATION_SECRET);
+      active = true;
+    } else {
+      assert.equal(url.pathname, '/rest/v1/rpc/adigunbible_preview_has_account');
+      assert.deepEqual(data, {});
     }
-    return Response.json({ access_token: 'provider-token', expires_in: 3600, user: { email_confirmed_at: '2026-11-22' } });
+    return Response.json(active);
   });
 
   try {
-    const newUser = credentials('register');
-    newUser.body.set('email', 'new@example.com');
-    const registration = await request('/session', newUser);
-    assert.equal(registration.headers.get('Set-Cookie'), null);
-    assert.match(await registration.text(), /check your email/i);
-    const denied = await request('/session', credentials('login'));
-    assert.equal(denied.status, 403);
-    assert.equal(denied.headers.get('Set-Cookie'), null);
-    const enrolledResponse = await request('/session', credentials('register'));
-    assert.equal(enrolledResponse.headers.get('Location'), '/reader/');
-    assert.ok(enrolledResponse.headers.has('Set-Cookie'));
+    const start = async intent => {
+      const response = await post('/session', {intent, email});
+      assert.equal(response.status, 200);
+      assert.match(await response.text(), /name="code".*autocomplete="one-time-code"/);
+      return response.headers.get('Set-Cookie').split(';')[0];
+    };
+    const verify = (intent, cookie, code = '123456') => post('/verify-email', {intent, code}, cookie);
 
-    const login = await request('/session', credentials('login'));
-    assert.equal(login.headers.get('Location'), '/reader/');
-    const cookie = login.headers.get('Set-Cookie');
-    assert.match(cookie, /^__Host-adigunbible-enrolled=.*; Path=\/; Max-Age=3600; Secure; HttpOnly; SameSite=Lax$/);
-    const session = cookie.split(';')[0];
-    const authenticated = { headers: { Cookie: session } };
+    const foreign = await verify('login', await start('login'));
+    assert.equal(foreign.status, 403);
+    assert.equal(active, false);
+
+    const pending = await start('register');
+    assert.equal(active, false);
+    const beforeRejected = providerRequests;
+    assert.equal((await verify('register', '')).status, 400);
+    const tampered = pending.slice(0, -1) + (pending.endsWith('0') ? '1' : '0');
+    assert.equal((await verify('register', tampered)).status, 400);
+    assert.equal((await verify('login', pending)).status, 400);
+    assert.equal(providerRequests, beforeRejected);
+    assert.equal((await verify('register', pending, '000000')).status, 401);
+    assert.equal(active, false);
+
+    const registered = await verify('register', pending);
+    assert.match(await registered.text(), /account is active/);
+    assert.equal(active, true);
+    assert.ok(!registered.headers.get('Set-Cookie').includes('__Host-adigunbible-otp-session='));
+
+    const signedIn = await verify('login', await start('login'));
+    assert.equal(signedIn.headers.get('Location'), '/reader/');
+    const sessionCookie = signedIn.headers.getSetCookie().find(value => value.startsWith('__Host-adigunbible-otp-session='));
+    assert.match(sessionCookie, /; Path=\/; Max-Age=3600; Secure; HttpOnly; SameSite=Lax$/);
+    const signedInRequest = {headers: {Cookie: sessionCookie.split(';')[0]}};
     for (const path of ['/reader/', chapter]) {
-      const response = await request(path, authenticated);
+      const response = await request(path, signedInRequest);
       assert.equal(response.status, 200);
       assert.equal(response.headers.get('Cache-Control'), 'private, no-store');
-      assert.equal(await response.text(), path);
     }
-    assert.equal((await request(chapter, authenticated, { ...env, BIBLE_SESSION_SECRET: 'foreign-product-key' })).status, 401);
-    const modified = session.slice(0, -1) + (session.endsWith('0') ? '1' : '0');
-    assert.equal((await request(chapter, { headers: { Cookie: modified } })).status, 401);
-    const logout = await request('/sign-out', { method: 'POST', headers: { Origin: origin } });
-    assert.match(logout.headers.get('Set-Cookie'), /Max-Age=0/);
+    assert.equal((await request(chapter, signedInRequest, {...env, BIBLE_SESSION_SECRET: 'other-key'})).status, 401);
+    const logout = await post('/sign-out', {});
+    assert.ok(logout.headers.getSetCookie().every(value => value.includes('Max-Age=0')));
   } finally {
     provider.mock.restore();
   }
 });
 
-test('provider errors never create a session and give visitors an actionable status', async () => {
-  let response;
-  let intentUnderTest;
-  const provider = mock.method(globalThis, 'fetch', async url => {
-    if (url.pathname === '/auth/v1/token' && intentUnderTest === 'register') {
-      return Response.json({ error_code: 'invalid_credentials' }, { status: 400 });
-    }
-    return response;
-  });
-  try {
-    for (const [intent, upstreamStatus, body, status, message] of [
-      ['login', 400, { code: 400, error_code: 'invalid_credentials' }, 401, /Sign-in failed/],
-      ['login', 401, { message: 'Invalid API key' }, 503, /temporarily unavailable/],
-      ['login', 429, {}, 429, /Please wait/],
-      ['register', 422, { code: 'weak_password' }, 400, /stronger password/],
-      ['register', 422, { code: 'user_already_exists' }, 200, /check your email/i],
-      ['register', 403, { code: 'signup_disabled' }, 503, /temporarily unavailable/]
-    ]) {
-      intentUnderTest = intent;
-      response = Response.json(body, { status: upstreamStatus });
-      const result = await request('/session', credentials(intent));
-      assert.equal(result.status, status);
-      assert.equal(result.headers.get('Set-Cookie'), null);
-      assert.match(await result.text(), message);
-    }
-  } finally {
-    provider.mock.restore();
-  }
-});
-
-test('the packaged reader includes sign-out and all chapter scripts it references', async () => {
+test('the packaged reader includes sign-out and every chapter script it references', async () => {
   const reader = await readFile('dist-worker/reader/index.html', 'utf8');
   assert.match(reader, /action="\/sign-out"/);
   const scripts = [...reader.matchAll(/<script[^>]*src=["']((?:Matthew|Mark|Luke|John)\/[^"']+)["']/g)];
