@@ -3,13 +3,32 @@ const encoder = new TextEncoder();
 const sessionSeconds = 3600;
 const challengeName = '__Host-adigunbible-email-check';
 const challengeSeconds = 600;
+const guestCookie = '__Host-adigunbible-trial';
+const guestDurationMs = 240000;
+const guestCookieAge = 60 * 60 * 24 * 365;
 
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
     if (request.method === 'GET') {
-      if (url.pathname === '/') return landing();
+      if (url.pathname === '/') {
+        const expires = await guestExpiry(request, env);
+        const expired = expires !== null && expires <= Date.now();
+        return landing('register', expired ? 'Your four-minute trial ended. Create an account or sign in to continue.' : '', 200, false, undefined, !expired);
+      }
       if (url.pathname === '/sign-in') return landing('login');
+    }
+
+    if (url.pathname === '/try' && request.method === 'POST') {
+      if (request.headers.get('Origin') !== url.origin) return new Response(null, { status: 403 });
+      if (await hasSession(request, env)) return redirect('/reader/');
+      if (!env.BIBLE_SESSION_SECRET) return landing('register', 'Guest access is temporarily unavailable.', 503);
+      const previousExpiry = await guestExpiry(request, env);
+      if (previousExpiry !== null) return redirect(previousExpiry > Date.now() ? '/reader/' : '/');
+      const expiry = Date.now() + guestDurationMs;
+      const payload = `${expiry}.${crypto.randomUUID()}`;
+      const mac = await crypto.subtle.sign('HMAC', await key(env), encoder.encode('guest:' + payload));
+      return redirect('/reader/', [namedCookie(guestCookie, `${payload}.${hex(mac)}`, guestCookieAge)]);
     }
 
     if (['/session', '/verify-email'].includes(url.pathname) && request.method === 'POST') {
@@ -26,7 +45,9 @@ export default {
       ['GET', 'HEAD'].includes(request.method) &&
       /^\/reader\/(?:index\.html|(?:Matthew|Mark|Luke|John)\/(?:chapter-\d+|render-verse)\.js)?$/.test(url.pathname)
     ) {
-      if (!await hasSession(request, env)) {
+      const signedIn = await hasSession(request, env);
+      const expires = signedIn ? null : await guestExpiry(request, env);
+      if (!signedIn && (expires === null || expires <= Date.now())) {
         return url.pathname === '/reader/' ? redirect('/') : new Response(null, { status: 401, headers: { 'Cache-Control': 'no-store' } });
       }
       if (url.pathname === '/reader/index.html') return redirect('/reader/');
@@ -34,12 +55,60 @@ export default {
       const headers = new Headers(response.headers);
       headers.set('Cache-Control', 'private, no-store');
       headers.set('X-Content-Type-Options', 'nosniff');
-      return new Response(response.body, { status: response.status, headers });
+      if (!signedIn && expires <= Date.now()) {
+        return url.pathname === '/reader/' ? redirect('/') : new Response(null, { status: 401, headers });
+      }
+      const reader = new Response(response.body, { status: response.status, headers });
+      if (!signedIn && request.method === 'GET' && url.pathname === '/reader/' && reader.ok) {
+        return guestReader(reader, expires - Date.now());
+      }
+      return reader;
     }
 
     return new Response(null, { status: 404 });
   }
 };
+
+async function guestExpiry(request, env) {
+  if (!env.BIBLE_SESSION_SECRET) return null;
+  const value = readCookie(request, guestCookie);
+  if (!value || !/^\d{13}\.[0-9a-f-]{36}\.[0-9a-f]{64}$/.test(value)) return null;
+  const [expires, id, mac] = value.split('.');
+  const valid = await crypto.subtle.verify('HMAC', await key(env), hexBytes(mac), encoder.encode(`guest:${expires}.${id}`));
+  return valid ? Number(expires) : null;
+}
+
+function guestReader(response, milliseconds) {
+  const script = `<script>(() => {
+    const duration = ${Math.max(0, milliseconds)};
+    const wallDeadline = Date.now() + duration;
+    const monotonicDeadline = performance.now() + duration;
+    function checkTrial() {
+      const remaining = Math.min(wallDeadline - Date.now(), monotonicDeadline - performance.now());
+      if (remaining > 0) {
+        const seconds = Math.ceil(remaining / 1000);
+        const clock = document.getElementById('adigunbible-trial-clock');
+        if (clock) clock.textContent = Math.floor(seconds / 60) + ':' + String(seconds % 60).padStart(2, '0');
+        return;
+      }
+      window.stop();
+      document.documentElement.replaceChildren();
+      window.location.replace('/');
+    }
+    setTimeout(checkTrial, duration);
+    setInterval(checkTrial, 250);
+    document.addEventListener('visibilitychange', checkTrial);
+    window.addEventListener('pageshow', checkTrial);
+    window.addEventListener('focus', checkTrial);
+  })()</script>`;
+  return new HTMLRewriter()
+    .on('head', { element(head) { head.prepend(script, { html: true }); } })
+    .on('body', { element(body) {
+      body.prepend('<aside aria-label="Guest access" style="padding:0.65rem 1rem;background:#1f2937;color:#fff;font:1rem system-ui">Guest access · <span id="adigunbible-trial-clock">4:00</span> remaining · <a style="color:#f9d477" href="/">Create account</a> · <a style="color:#f9d477" href="/sign-in">Sign in</a></aside>', { html: true });
+    } })
+    .on('form[action="/sign-out"]', { element(form) { form.remove(); } })
+    .transform(response);
+}
 
 async function authenticate(request, env, verify) {
   if (!env.SUPABASE_URL || !env.SUPABASE_PUBLISHABLE_KEY || !env.BIBLE_SESSION_SECRET ||
@@ -211,7 +280,7 @@ function redirect(location, sessionCookies = []) {
   return new Response(null, { status: 303, headers });
 }
 
-function landing(intent = 'register', message = '', status = 200, verify = false, setCookie) {
+function landing(intent = 'register', message = '', status = 200, verify = false, setCookie, offerGuest = false) {
   const registration = intent === 'register';
   const action = registration ? 'Create account' : 'Sign in';
   const help = registration
@@ -230,5 +299,5 @@ function landing(intent = 'register', message = '', status = 200, verify = false
   const instruction = verify ? 'Enter the one-time code from your email.' : registration ? 'Choose a separate password for AdigunBible. We’ll email you a code to activate your account.' : 'Enter your AdigunBible password. We’ll then email you a fresh sign-in code.';
   return new Response(`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>AdigunBible</title>
 <style>body{margin:0;background:#111827;color:#f8fafc;font:1rem system-ui}main{max-width:35rem;margin:auto;padding:clamp(2rem,7vw,6rem) 1.25rem}h1{color:#f9d477;font-size:clamp(2.7rem,8vw,4.5rem);margin:0}p{line-height:1.65}form{display:grid;gap:.8rem;margin-top:2rem}input,button{font:inherit;padding:.7rem;border-radius:.4rem}button{background:#f9d477;color:#111827;border:0;cursor:pointer}label{display:grid;gap:.35rem}a{color:#f9d477}</style></head>
-<body><main><h1>AdigunBible</h1><p>Explore Scripture in an interactive, multilingual reader from HB Evangelist.</p><h2>${action}</h2><p>${instruction}</p>${message ? `<p role="status">${message}</p>` : ''}${form}</main></body></html>`, { status, headers });
+<body><main><h1>AdigunBible</h1><p>Explore Scripture in an interactive, multilingual reader from HB Evangelist.</p><h2>${action}</h2><p>${instruction}</p>${message ? `<p role="status">${message}</p>` : ''}${form}${offerGuest ? '<form method="post" action="/try"><button>Try the reader for four minutes</button></form>' : ''}</main></body></html>`, { status, headers });
 }

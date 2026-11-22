@@ -137,3 +137,32 @@ test('the packaged reader includes sign-out and every chapter script it referenc
   assert.ok(scripts.length > 0);
   await Promise.all(scripts.map(([, path]) => readFile('dist-worker/reader/' + path)));
 });
+
+test('a guest can read through 3:59 and cannot restart the trial at 4:00', async () => {
+  const startTime = Date.parse('2026-11-22T12:00:00Z');
+  mock.timers.enable({ apis: ['Date'], now: startTime });
+  try {
+    assert.match(await (await request('/')).text(), /Try the reader for four minutes/);
+    assert.equal((await post('/try', {}, '', 'https://adigunsps.hephzibahbehulah.com')).status, 403);
+    const trial = await post('/try', {});
+    assert.equal(trial.headers.get('Location'), '/reader/');
+    const cookie = trial.headers.get('Set-Cookie').split(';')[0];
+    const headers = { Cookie: cookie };
+    mock.timers.setTime(startTime + 239999);
+    assert.equal((await request(chapter, { headers })).status, 200);
+    const resume = await post('/try', {}, cookie);
+    assert.equal(resume.headers.get('Location'), '/reader/');
+    assert.equal(resume.headers.get('Set-Cookie'), null);
+    mock.timers.setTime(startTime + 240000);
+    assert.equal((await request(chapter, { headers })).status, 401);
+    assert.equal((await request('/reader/', { headers })).headers.get('Location'), '/');
+    const restart = await post('/try', {}, cookie);
+    assert.equal(restart.headers.get('Location'), '/');
+    assert.equal(restart.headers.get('Set-Cookie'), null);
+    const landing = await (await request('/', { headers })).text();
+    assert.match(landing, /four-minute trial ended/);
+    assert.doesNotMatch(landing, /action="\/try"/);
+  } finally {
+    mock.timers.reset();
+  }
+});
