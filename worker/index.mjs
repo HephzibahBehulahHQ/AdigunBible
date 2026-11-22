@@ -77,13 +77,14 @@ async function authenticate(request, env) {
   const unavailable = intent === 'register' ? 'Registration is temporarily unavailable.' : 'Sign-in is temporarily unavailable.';
   if (result.status >= 500 || !auth) return landing(unavailable, 503);
 
+  const errorCode = auth.error_code ?? auth.code;
   if (intent === 'register') {
-    if (auth.code === 'weak_password') return landing('Choose a stronger password and try again.', 400);
-    if (!result.ok && !['user_already_exists', 'email_exists'].includes(auth.code)) return landing(unavailable, 503);
+    if (errorCode === 'weak_password') return landing('Choose a stronger password and try again.', 400);
+    if (!result.ok && !['user_already_exists', 'email_exists'].includes(errorCode)) return landing(unavailable, 503);
     return landing('If registration succeeds, check your email for a confirmation link, then return here to sign in.');
   }
   if (!result.ok) {
-    if (!['invalid_credentials', 'email_not_confirmed'].includes(auth.code)) return landing(unavailable, 503);
+    if (!['invalid_credentials', 'email_not_confirmed'].includes(errorCode)) return landing(unavailable, 503);
     return landing('Sign-in failed. Check your email, password, and email confirmation.', 401);
   }
   if (!auth.access_token || !Number.isFinite(auth.expires_in) || auth.expires_in < 1) return landing(unavailable, 503);

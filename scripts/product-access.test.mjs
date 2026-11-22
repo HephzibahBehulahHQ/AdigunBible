@@ -77,7 +77,7 @@ test('provider errors never create a session and give visitors an actionable sta
   const provider = mock.method(globalThis, 'fetch', async () => response);
   try {
     for (const [intent, upstreamStatus, body, status, message] of [
-      ['login', 400, { code: 'invalid_credentials' }, 401, /Sign-in failed/],
+      ['login', 400, { code: 400, error_code: 'invalid_credentials' }, 401, /Sign-in failed/],
       ['login', 401, { message: 'Invalid API key' }, 503, /temporarily unavailable/],
       ['login', 429, {}, 429, /Please wait/],
       ['register', 422, { code: 'weak_password' }, 400, /stronger password/],
