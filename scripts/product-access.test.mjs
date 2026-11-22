@@ -72,6 +72,29 @@ test('login issues a Bible-only cookie and registration waits for email confirma
   }
 });
 
+test('provider errors never create a session and give visitors an actionable status', async () => {
+  let response;
+  const provider = mock.method(globalThis, 'fetch', async () => response);
+  try {
+    for (const [intent, upstreamStatus, body, status, message] of [
+      ['login', 400, { code: 'invalid_credentials' }, 401, /Sign-in failed/],
+      ['login', 401, { message: 'Invalid API key' }, 503, /temporarily unavailable/],
+      ['login', 429, {}, 429, /Please wait/],
+      ['register', 422, { code: 'weak_password' }, 400, /stronger password/],
+      ['register', 422, { code: 'user_already_exists' }, 200, /check your email/],
+      ['register', 403, { code: 'signup_disabled' }, 503, /temporarily unavailable/]
+    ]) {
+      response = Response.json(body, { status: upstreamStatus });
+      const result = await request('/session', credentials(intent));
+      assert.equal(result.status, status);
+      assert.equal(result.headers.get('Set-Cookie'), null);
+      assert.match(await result.text(), message);
+    }
+  } finally {
+    provider.mock.restore();
+  }
+});
+
 test('the packaged reader includes sign-out and all chapter scripts it references', async () => {
   const reader = await readFile('dist-worker/reader/index.html', 'utf8');
   assert.match(reader, /action="\/sign-out"/);

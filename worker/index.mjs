@@ -71,15 +71,22 @@ async function authenticate(request, env) {
   } catch {
     return landing('Sign-in is temporarily unavailable.', 503);
   }
+  if (result.status === 429) return landing('Please wait before trying again.', 429);
+
+  const auth = await result.json().catch(() => null);
+  const unavailable = intent === 'register' ? 'Registration is temporarily unavailable.' : 'Sign-in is temporarily unavailable.';
+  if (result.status >= 500 || !auth) return landing(unavailable, 503);
+
   if (intent === 'register') {
-    if (result.status === 429) return landing('Please wait before trying again.', 429);
-    if (result.status >= 500) return landing('Registration is temporarily unavailable.', 503);
+    if (auth.code === 'weak_password') return landing('Choose a stronger password and try again.', 400);
+    if (!result.ok && !['user_already_exists', 'email_exists'].includes(auth.code)) return landing(unavailable, 503);
     return landing('If registration succeeds, check your email for a confirmation link, then return here to sign in.');
   }
-  if (result.status >= 500) return landing('Sign-in is temporarily unavailable.', 503);
-  if (!result.ok) return landing('Sign-in failed. Check your email, password, and email confirmation.', 401);
-  const auth = await result.json().catch(() => null);
-  if (!auth?.access_token || !Number.isFinite(auth.expires_in) || auth.expires_in < 1) return landing('Sign-in is temporarily unavailable.', 503);
+  if (!result.ok) {
+    if (!['invalid_credentials', 'email_not_confirmed'].includes(auth.code)) return landing(unavailable, 503);
+    return landing('Sign-in failed. Check your email, password, and email confirmation.', 401);
+  }
+  if (!auth.access_token || !Number.isFinite(auth.expires_in) || auth.expires_in < 1) return landing(unavailable, 503);
   const ttl = Math.floor(Math.min(sessionSeconds, auth.expires_in));
   const payload = `${Math.floor(Date.now() / 1000) + ttl}.${crypto.randomUUID()}`;
   const signature = await crypto.subtle.sign('HMAC', await key(env), encoder.encode(payload));
