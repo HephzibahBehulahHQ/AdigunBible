@@ -33,9 +33,20 @@ jobs:
       - name: Validate published chapter evidence
         if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
         run: node scripts/release-gate.mjs --main
+  product-access:
+    name: Validate AdigunBible product access
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: node scripts/build-product.mjs
+      - run: node --test scripts/product-access.test.mjs
+
   package-pages:
     if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
-    needs: editorial-status
+    needs: [editorial-status, product-access]
     runs-on: ubuntu-latest
     steps:
       - name: Check out the site

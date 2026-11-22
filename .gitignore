@@ -1,0 +1,4 @@
+
+/dist-worker/
+/.wrangler/
+/.dev.vars*
