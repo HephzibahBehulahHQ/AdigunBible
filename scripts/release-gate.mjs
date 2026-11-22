@@ -153,7 +153,7 @@ function auditChapter(evidence, { requirePublished = true, requireVisualReview =
       const visiblePhrase = phrase;
       const renderedIndex = spans.findIndex((span, spanIndex) => !usedSpans.has(spanIndex) &&
         span[3].replace(paletteGlobal, "").trim() === visiblePhrase &&
-        span[1] === meaning && span[2] === language);
+        span[1] === escapeHtml(meaning) && span[2] === language);
       if (renderedIndex < 0) fail(`${book} ${chapter}:${number}: hover gloss does not render for “${phrase}”`);
       usedSpans.add(renderedIndex);
       languageTotals[language] = (languageTotals[language] ?? 0) + phrase.split(" ").length;
