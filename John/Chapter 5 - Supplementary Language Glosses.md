@@ -22,14 +22,14 @@ Glossary for the chapter-level switches. Verse data includes these hover glosses
 | 39 | `maandiko` | writings / Scriptures | Swahili |
 | 40 | `venir vers moi` | to come to me | French |
 | 40 | `ịbịa` | to come | Igbo |
-| 41 | `mi nuh` | I do not | Jamaican Patois |
+| 41 | `Mi nuh tek praise from people` | I do not accept praise from people | Jamaican Patois |
 
 ## Language references
 
 - French word meanings: [Cambridge French–English Dictionary](https://dictionary.cambridge.org/dictionary/french-english/vie).
 - Igbo vocabulary: [Kay Williamson’s Igbo Dictionary](https://nairametrics.com/wp-content/uploads/2013/01/IGBO-Dictionary.pdf) and [English–Igbo Dictionary](https://www.polytranslator.com/dictionary/igbo/).
 - Hausa vocabulary: [HausaDictionary](https://www.hausadictionary.com/rayuwa), [water](https://hausadictionary.com/water), and the study of *ji* as “hear” in [Language in Africa](https://iling-ran.ru/library/languageinafrica/2/LiA_2_1_4_Pawlak.pdf).
-- Jamaican Patois: [Open Grammar](https://opengrammar.github.io/jam/learners_grammar-jam.pdf) and [Patois dictionary](https://www.jamaicanpatois.com/dictionary).
+- Jamaican Patois: [Open Grammar](https://opengrammar.github.io/jam/learners_grammar-jam.pdf), [Open Grammar glossary (`tek` = take)](https://opengrammar.github.io/jam/glossary/), and [Patois dictionary](https://www.jamaicanpatois.com/dictionary).
 - Spanish: [Cambridge Spanish–English Dictionary](https://dictionary.cambridge.org/dictionary/spanish-english/verdad) and [listen](https://dictionary.cambridge.org/dictionary/english-spanish/listen).
 - Swahili: [Madan Swahili–English Dictionary](https://upload.wikimedia.org/wikipedia/commons/f/f5/Swahili-English_dictionary_%28IA_swahilienglishdi00madarich%29.pdf) and [Swahili Bible text](https://languages.bibleschools.com/kiswahili/swahili24.htm).
 - Swahili plural “graves” (`makaburi`): [Kamusi English–Swahili Dictionary](https://somabiblia.com/wp-content/uploads/2014/03/kamusi-english-swahili.pdf).
