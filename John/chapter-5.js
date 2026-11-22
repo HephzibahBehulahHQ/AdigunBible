@@ -668,86 +668,103 @@ const johnChapterFive = {
     },
     {
       "number": 14,
-      "text": "Later💯, Jesus🙏 spot👀 am🫶 inside✨ the🌍 temple🙏 and💯 tell👀 am🫶: “You🌍 good🫶 now💯. No👀 go💯 sin😭 again✨, or✨ something✨ worse😭 fit💯 happen🫶 to✨ you🫶.” Lẹ́yìn💯 náà✨, Jesu🙏 rí👀 i👀 nínú✨ tẹ́ńpìlì🙏, ó✨ sì✨ sọ👀 fún✨ un👀 pé👀: “Wò👀 ó👀, ara🫶 rẹ👀 ti💯 yá🫶. Má👀 dẹ́ṣẹ̀😭 mọ́✨, kí✨ ohun✨ búburú😭 jù✨ má👀 bà🫶 ọ👀.” Später💯 fand👀 Jesus🙏 ihn👀 im✨ Tempel🙏 und✨ sagte👀: “Sieh👀, du👀 bist💯 gesund🫶. Sündige😭 nicht👀 mehr✨, sonst👀 geschieht🫶 dir👀 etwas✨ Schlimmeres😭.” אַחַר💯 כָּךְ✨ מָצָא👀 יֵשׁוּעַ🙏 אוֹתוֹ👀 בַּמִּקְדָּשׁ🙏 וְאָמַר👀: “הִנֵּה👀, נִרְפֵּאתָ🫶. אַל👀 תֶּחֱטָא😭 עוֹד✨, פֶּן✨ יִקְרֶה🫶 לְךָ👀 דָּבָר✨ רַע😭 יוֹתֵר✨.”",
+      "text": "Later💯, Jesus🙏 spot👀 am🫶 for✨ temple🙏 and💯 tell👀 am🫶: “You🫶 don💯 well🫶 now💯—ara🫶 rẹ🫶 ti✨ yá🫶; du👀 bist💯 jetzt💯 gesund🫶; הִנֵּה👀 נִרְפֵּאתָ🫶. No👀 go💯 sin😭 again✨—má👀 dẹ́ṣẹ̀😭 mọ́✨; sündige😭 nicht👀 mehr💯; אַל👀 תֶּחֱטָא😭 עוֹד👀—or✨ something🫶 worse😭 fit💯 happen🫶 to✨ you🫶.”",
       "glosses": [
         [
-          "Lẹ́yìn náà Jesu rí i nínú tẹ́ńpìlì ó sì sọ fún un pé",
-          "Later Jesus found him in the temple and told him",
+          "You don well now",
+          "You are well now",
+          "pcm"
+        ],
+        [
+          "ara rẹ ti yá",
+          "your body is healed",
           "yo"
         ],
         [
-          "Wò ó ara rẹ ti yá Má dẹ́ṣẹ̀ mọ́ kí ohun búburú jù má bà ọ",
-          "Look, you are well now. Do not sin anymore, so nothing worse happens to you",
+          "du bist jetzt gesund",
+          "you are well now",
+          "de"
+        ],
+        [
+          "הִנֵּה נִרְפֵּאתָ",
+          "Look, you have been healed",
+          "he"
+        ],
+        [
+          "No go sin again",
+          "Do not sin again",
+          "pcm"
+        ],
+        [
+          "má dẹ́ṣẹ̀ mọ́",
+          "do not sin anymore",
           "yo"
         ],
         [
-          "Später fand Jesus ihn im Tempel und sagte",
-          "Later Jesus found him in the temple and said",
+          "sündige nicht mehr",
+          "do not sin anymore",
           "de"
         ],
         [
-          "Sieh du bist gesund Sündige nicht mehr sonst geschieht dir etwas Schlimmeres",
-          "Look, you are well. Stop sinning, or something worse may happen to you",
-          "de"
-        ],
-        [
-          "אַחַר כָּךְ מָצָא יֵשׁוּעַ אוֹתוֹ בַּמִּקְדָּשׁ וְאָמַר",
-          "Later Jesus found him in the temple and said",
+          "אַל תֶּחֱטָא עוֹד",
+          "do not sin anymore",
           "he"
         ],
         [
-          "הִנֵּה נִרְפֵּאתָ אַל תֶּחֱטָא עוֹד פֶּן יִקְרֶה לְךָ דָּבָר רַע יוֹתֵר",
-          "Look, you are well. Do not sin anymore, or something worse may happen to you",
-          "he"
-        ],
-
-        [
-          "You good now No go sin again or something worse fit happen to you",
-          "You are well now. Do not sin again, or something worse may happen to you",
+          "or something worse fit happen to you",
+          "or something worse may happen to you",
           "pcm"
         ]
       ],
       "wordsOfJesus": [
         [
-          71,
-          165
-        ],
-        [
-          243,
-          334
-        ],
-        [
-          392,
-          496
-        ],
-        [
-          567,
-          662
+          63,
+          304
         ]
       ]
     },
     {
       "number": 15,
-      "text": "Man🫶 comot👀 go💯 tell👀 the🌍 leaders🌍 say👀 na💯 Jesus🙏 heal🫶 am👀. Ọkùnrin🫶 náà✨ lọ👀, ó✨ sì✨ sọ👀 fún✨ àwọn🌍 aṣáájú🌍 Júù🌍 pé👀 Jesu🙏 ló✨ mú🫶 òun👀 lára🫶 dá✨. Der✨ Mann🫶 ging👀 weg✨ und✨ sagte👀 den🌍 jüdischen🌍 Führern🌍, dass✨ Jesus🙏 ihn👀 geheilt🫶 hatte💯. הָאִישׁ🫶 הָלַךְ👀 וְסִפֵּר👀 לְמַנְהִיגֵי🌍 הַיְּהוּדִים🌍 שֶׁיֵּשׁוּעַ🙏 רִפֵּא🫶 אוֹתוֹ👀.",
+      "text": "Man🫶 come👀 comot👀 go💯 yarn👀 leaders🌍—àwọn🌍 aṣáájú🌍 Júù🌍, den🌍 jüdischen🌍 Führern🌍, לְמַנְהִיגֵי🌍 הַיְּהוּדִים🌍—say👀 Jesus🙏 don💯 heal🫶 am🫶: Jesu🙏 ló✨ mú🫶 un👀 lára🫶 dá✨; Jesus🙏 heilte🫶 den🌍 Mann🫶; יֵשׁוּעַ🙏 רִפֵּא🫶 אֶת✨ הָאִישׁ🫶.",
       "glosses": [
         [
-          "Man comot go tell the leaders say na Jesus heal am",
-          "The man went and told the Jewish leaders that Jesus had healed him",
+          "Man come comot go yarn leaders",
+          "The man left and went to tell the leaders",
           "pcm"
         ],
         [
-          "Ọkùnrin náà lọ ó sì sọ fún àwọn aṣáájú Júù pé Jesu ló mú òun lára dá",
-          "The man went and told the Jews that Jesus had healed him",
+          "àwọn aṣáájú Júù",
+          "the Jewish leaders",
           "yo"
         ],
         [
-          "Der Mann ging weg und sagte den jüdischen Führern dass Jesus ihn geheilt hatte",
-          "The man went away and told the Jewish leaders that Jesus had healed him",
+          "Jesu ló mú un lára dá",
+          "Jesus is the one who healed him",
+          "yo"
+        ],
+        [
+          "den jüdischen Führern",
+          "the Jewish leaders",
           "de"
         ],
         [
-          "הָאִישׁ הָלַךְ וְסִפֵּר לְמַנְהִיגֵי הַיְּהוּדִים שֶׁיֵּשׁוּעַ רִפֵּא אוֹתוֹ",
-          "The man went and told the Jews that Jesus had healed him",
+          "Jesus heilte den Mann",
+          "Jesus healed the man",
+          "de"
+        ],
+        [
+          "לְמַנְהִיגֵי הַיְּהוּדִים",
+          "to the Jewish leaders",
+          "he"
+        ],
+        [
+          "say Jesus don heal am",
+          "that Jesus had healed him",
+          "pcm"
+        ],
+        [
+          "יֵשׁוּעַ רִפֵּא אֶת הָאִישׁ",
+          "Jesus healed the man",
           "he"
         ]
       ],
@@ -755,26 +772,51 @@ const johnChapterFive = {
     },
     {
       "number": 16,
-      "text": "Dem🌍 persecute😭 Jesus🙏 and💯 wan👀 kill😭 am🫶 because👀 e🫶 do✨ these🌍 things✨ for✨ Sabbath🕊️. Nítorí💯 náà👀, àwọn🌍 aṣáájú🌍 Júù🫶 ń✨ ṣe✨ inúnibíni😭 sí✨ Jésù🙏, wọ́n🌍 sì✨ ń✨ wá👀 ọ̀nà👀 láti✨ pa😭 á👀, nítorí💯 ó🫶 ṣe✨ àwọn🌍 nǹkan✨ wọ̀nyí🌍 ní✨ ọjọ́🕊️ ìsinmi🕊️. Darum✨ verfolgten😭 die🌍 jüdischen🌍 Führer🌍 Jesus🙏 und✨ wollten👀 ihn👀 töten😭, weil👀 er🫶 diese🌍 Dinge✨ am🕊️ Sabbat🕊️ getan💯 hatte💯. לָכֵן✨ רָדְפוּ😭 מַנְהִיגֵי🌍 הַיְּהוּדִים🌍 אֶת✨ יֵשׁוּעַ🙏 וּבִקְּשׁוּ👀 לְהָמִית😭 אוֹתוֹ👀, כִּי✨ עָשָׂה✨ אֶת✨ הַמַּעֲשִׂים✨ הָאֵלֶּה✨ בַּשַּׁבָּת🕊️.",
+      "text": "Dem🌍 dey💯 persecute😭 Jesus🙏, wan👀 kill😭 am🫶, because👀 he🫶 do✨ those🌍 things✨ on✨ Sabbath🕊️—ń✨ ṣe✨ inúnibíni😭 sí✨ Jésù🙏; ó🫶 ṣe✨ àwọn🌍 nǹkan✨ wọ̀nyí🌍; verfolgten😭 Jesus🙏, wollten👀 ihn👀 töten😭, am✨ Sabbat🕊️; רָדְפוּ😭 אֶת✨ יֵשׁוּעַ🙏 בַּשַּׁבָּת🕊️.",
       "glosses": [
         [
-          "Dem persecute Jesus and wan kill am because e do these things for Sabbath",
-          "They persecuted Jesus and wanted to kill him because he did these things on the Sabbath",
+          "Dem dey persecute Jesus wan kill am",
+          "They persecuted Jesus and wanted to kill him",
           "pcm"
         ],
         [
-          "Nítorí náà àwọn aṣáájú Júù ń ṣe inúnibíni sí Jésù wọ́n sì ń wá ọ̀nà láti pa á nítorí ó ṣe àwọn nǹkan wọ̀nyí ní ọjọ́ ìsinmi",
-          "Therefore the Jewish leaders persecuted Jesus and sought to kill him because he did these things on the Sabbath",
+          "because he do those things on Sabbath",
+          "because he did those things on the Sabbath",
+          "pcm"
+        ],
+        [
+          "ń ṣe inúnibíni sí Jésù",
+          "they persecuted Jesus",
           "yo"
         ],
         [
-          "Darum verfolgten die jüdischen Führer Jesus und wollten ihn töten weil er diese Dinge am Sabbat getan hatte",
-          "So the Jewish leaders persecuted Jesus and wanted to kill him because he did this on the Sabbath",
+          "ó ṣe àwọn nǹkan wọ̀nyí",
+          "he did those things",
+          "yo"
+        ],
+        [
+          "verfolgten Jesus",
+          "persecuted Jesus",
           "de"
         ],
         [
-          "לָכֵן רָדְפוּ מַנְהִיגֵי הַיְּהוּדִים אֶת יֵשׁוּעַ וּבִקְּשׁוּ לְהָמִית אוֹתוֹ כִּי עָשָׂה אֶת הַמַּעֲשִׂים הָאֵלֶּה בַּשַּׁבָּת",
-          "So the Jews persecuted Jesus and sought to kill him because he did these things on the Sabbath",
+          "wollten ihn töten",
+          "wanted to kill him",
+          "de"
+        ],
+        [
+          "am Sabbat",
+          "on the Sabbath",
+          "de"
+        ],
+        [
+          "רָדְפוּ אֶת יֵשׁוּעַ",
+          "they persecuted Jesus",
+          "he"
+        ],
+        [
+          "בַּשַּׁבָּת",
+          "on the Sabbath",
           "he"
         ]
       ],
@@ -782,63 +824,103 @@ const johnChapterFive = {
     },
     {
       "number": 17,
-      "text": "Jesus🙏 answer👀 dem🌍: “My🫶 Papa🙏 still💯 dey💯 work✨ o✨, and💯 I🫶 sef✨ dey💯 work✨.” Bàbá🙏 mi🫶 ṣì💯 ń✨ ṣiṣẹ́✨, èmi🫶 náà💯 sì✨ ń✨ ṣiṣẹ́✨; Mein🫶 Vater🙏 arbeitet✨ noch💯, und✨ ich🫶 arbeite✨ auch✨; אָבִי🙏 עוֹד💯 פּוֹעֵל✨, וַאֲנִי🫶 פוֹעֵל✨.",
+      "text": "Jesus🙏 answer👀 dem🌍: “My🫶 Papa🙏 still💯 dey💯 work✨, and💯 I🫶 sef✨ dey💯 work✨—Bàbá🙏 mi🫶 ṣì💯 ń✨ ṣiṣẹ́✨, mein🫶 Vater🙏 arbeitet✨ noch💯, אָבִי🙏 עוֹד💯 פּוֹעֵל✨; וַאֲנִי🫶 פּוֹעֵל✨ too✨.”",
       "glosses": [
         [
-          "My Papa still dey work o and I sef dey work",
-          "My Father is still working, and I am working too",
+          "My Papa still dey work",
+          "My Father is still working",
           "pcm"
         ],
         [
-          "Bàbá mi ṣì ń ṣiṣẹ́ èmi náà sì ń ṣiṣẹ́",
-          "My Father is still working, and I am working too",
+          "and I sef dey work",
+          "and I am working too",
+          "pcm"
+        ],
+        [
+          "Bàbá mi ṣì ń ṣiṣẹ́",
+          "My Father is still working",
           "yo"
         ],
         [
-          "Mein Vater arbeitet noch und ich arbeite auch",
-          "My Father is still working, and I am working too",
+          "mein Vater arbeitet noch",
+          "my Father is still working",
           "de"
         ],
         [
-          "אָבִי עוֹד פּוֹעֵל וַאֲנִי פוֹעֵל",
-          "My Father is still working, and I am working too",
+          "אָבִי עוֹד פּוֹעֵל",
+          "My Father is still working",
+          "he"
+        ],
+        [
+          "וַאֲנִי פּוֹעֵל",
+          "and I am working",
           "he"
         ],
         [
           "Jesus answer dem",
-          "The speaker replied",
+          "Jesus replied to them",
           "pcm"
         ]
       ],
       "wordsOfJesus": [
         [
-          24,
-          248
+          25,
+          195
         ]
       ]
     },
     {
       "number": 18,
-      "text": "Na💯 why💯 dem🌍 wan👀 kill😭 am👀 even💯 more💯: e🫶 break😭 Sabbath🕊️ rule✨, call👀 God🙏 im🫶 Papa🙏, and💯 e🫶 put🫶 himself🫶 for💯 God🙏 level💯. Nítorí✨ náà✨, wọ́n🌍 tún💯 fẹ́👀 pa😭 á👀 síi💯, nítorí✨ ó✨ rú😭 òfin✨ ọjọ́✨ ìsinmi🕊️, ó✨ tún💯 pe👀 Ọlọ́run🙏 ní✨ Bàbá🙏 rẹ̀🫶, ó✨ sọ👀 ara🫶 rẹ̀🫶 di✨ ẹni💯 tó✨ dọ́gba💯 pẹ̀lú✨ Ọlọ́run🙏. Darum✨ wollten👀 sie🌍 ihn👀 erst✨ recht💯 töten😭: Er✨ habe👀 den✨ Sabbat🕊️ gebrochen😭 und✨ Gott🙏 seinen🫶 Vater🙏 genannt👀, sich🫶 Gott🙏 gleich💯 gemacht✨. לָכֵן✨ הוֹסִיפוּ💯 לְבַקֵּשׁ👀 לַהֲרֹג😭 אוֹתוֹ👀, כִּי✨ הֵפֵר😭 אֶת✨ הַשַּׁבָּת🕊️ וְאָמַר👀 שֶׁאֱלֹהִים🙏 אָבִיו🙏, וְעָשָׂה✨ אֶת✨ עַצְמוֹ🫶 שָׁוֶה💯 לֵאלֹהִים🙏.",
+      "text": "Dem🌍 wan👀 kill😭 am🫶 even💯 more💯 because👀 e🫶 break😭 Sabbath🕊️ law✨, call👀 God🙏 im🫶 Papa🙏, and💯 claim👀 equal💯 level🌍 with✨ God🙏—ó🫶 rú😭 òfin✨ ọjọ́🕊️ ìsinmi🕊️; ó🫶 pe👀 Ọlọ́run🙏 ní✨ Bàbá🙏 rẹ̀🫶; ó🫶 sọ👀 ara🫶 rẹ̀🫶 dọ́gba💯 pẹ̀lú✨ Ọlọ́run🙏; den🌍 Sabbat🕊️ gebrochen😭, Gott🙏 seinen🫶 Vater🙏 genannt👀, sich🫶 Gott🙏 gleich💯 gemacht✨; הֵפֵר😭 אֶת✨ הַשַּׁבָּת🕊️, אָמַר👀 שֶׁאֱלֹהִים🙏 אָבִיו🙏, שָׁוֶה💯 לֵאלֹהִים🙏.",
       "glosses": [
         [
-          "Na why dem wan kill am even more e break Sabbath rule call God im Papa and e put himself for God level",
-          "That is why they wanted even more to kill him: he broke the Sabbath law, called God his Father, and made himself equal to God",
+          "Dem wan kill am even more because e break Sabbath law call God im Papa and claim equal level with God",
+          "They wanted even more to kill him because he broke the Sabbath law, called God his Father, and claimed equality with God",
           "pcm"
         ],
         [
-          "Nítorí náà wọ́n tún fẹ́ pa á síi nítorí ó rú òfin ọjọ́ ìsinmi ó tún pe Ọlọ́run ní Bàbá rẹ̀ ó sọ ara rẹ̀ di ẹni tó dọ́gba pẹ̀lú Ọlọ́run",
-          "For this reason they wanted even more to kill him: he broke the Sabbath law, called God his Father, and made himself equal with God",
+          "ó rú òfin ọjọ́ ìsinmi",
+          "he broke the Sabbath law",
           "yo"
         ],
         [
-          "Darum wollten sie ihn erst recht töten Er habe den Sabbat gebrochen und Gott seinen Vater genannt sich Gott gleich gemacht",
-          "So they wanted all the more to kill him: he had broken the Sabbath, called God his Father, and made himself equal with God",
+          "ó pe Ọlọ́run ní Bàbá rẹ̀",
+          "he called God his Father",
+          "yo"
+        ],
+        [
+          "ó sọ ara rẹ̀ dọ́gba pẹ̀lú Ọlọ́run",
+          "he made himself equal with God",
+          "yo"
+        ],
+        [
+          "den Sabbat gebrochen",
+          "broke the Sabbath",
           "de"
         ],
         [
-          "לָכֵן הוֹסִיפוּ לְבַקֵּשׁ לַהֲרֹג אוֹתוֹ כִּי הֵפֵר אֶת הַשַּׁבָּת וְאָמַר שֶׁאֱלֹהִים אָבִיו וְעָשָׂה אֶת עַצְמוֹ שָׁוֶה לֵאלֹהִים",
-          "So they sought even more to kill him, because he broke the Sabbath, said God was his Father, and made himself equal to God",
+          "Gott seinen Vater genannt",
+          "called God his Father",
+          "de"
+        ],
+        [
+          "sich Gott gleich gemacht",
+          "made himself equal to God",
+          "de"
+        ],
+        [
+          "הֵפֵר אֶת הַשַּׁבָּת",
+          "he broke the Sabbath",
+          "he"
+        ],
+        [
+          "אָמַר שֶׁאֱלֹהִים אָבִיו",
+          "he said God was his Father",
+          "he"
+        ],
+        [
+          "שָׁוֶה לֵאלֹהִים",
+          "equal to God",
           "he"
         ]
       ],
@@ -846,174 +928,319 @@ const johnChapterFive = {
     },
     {
       "number": 19,
-      "text": "Jesus🙏 answer👀 dem🌍: “True💯 true💯, I🫶 tell👀 una🌍: the🌍 Son🙏 no👀 fit💯 do✨ anything👀 by💯 imself🫶; na💯 wetin👀 e🫶 see👀 the🌍 Father🙏 do✨, e🫶 do✨ am🕊️ too✨. Anything💯 Papa🙏 do✨, na💯 so✨ Son🙏 sef💯 do✨ am👀. Lóòótọ́💯, lóòótọ́💯, Ọmọ🙏 kò👀 lè💯 ṣe✨ ohunkóhun👀 fún✨ ara🫶 rẹ̀🫶, àyàfi✨ ohun✨ tó✨ rí👀 tí✨ Bàbá🙏 ń✨ ṣe✨; ohunkóhun✨ tí✨ Bàbá🙏 bá✨ ṣe✨, Ọmọ🙏 náà✨ ń✨ ṣe✨ bákan✨ náà💯. Wahrlich💯, wahrlich💯, der🌍 Sohn🙏 kann💯 nichts👀 aus✨ sich🫶 selbst🫶 tun✨, außer✨ was✨ er👀 den🌍 Vater🙏 tun✨ sieht👀; was✨ der🌍 Vater🙏 tut✨, das✨ tut✨ der🌍 Sohn🙏 ebenso💯. אָמֵן💯 אָמֵן💯, הַבֵּן🙏 אֵינוֹ👀 יָכוֹל💯 לַעֲשׂוֹת✨ דָּבָר✨ מֵעַצְמוֹ🫶, אֶלָּא✨ מַה✨ שֶׁהוּא👀 רוֹאֶה👀 אֶת✨ הָאָב🙏 עוֹשֶׂה✨; כָּל💯 מַה✨ שֶׁהָאָב🙏 עוֹשֶׂה✨, כֵּן✨ עוֹשֶׂה✨ הַבֵּן🙏.",
+      "text": "Jesus🙏 answer👀 dem🌍: “True💯 true💯, I🫶 tell👀 una🌍: the🌍 Son🙏 no👀 fit💯 act✨ solo✨—kò👀 lè💯 ṣe✨ ohunkóhun👀 fún✨ ara🫶 rẹ̀🫶; aus✨ sich🫶 selbst🫶 nichts👀 tun✨; אֵינוֹ👀 יָכוֹל💯 לַעֲשׂוֹת✨ דָּבָר✨ מֵעַצְמוֹ🫶—na💯 only💯 wetin👀 e🫶 see👀 Papa🙏 dey💯 do✨: ohun✨ tí✨ Bàbá🙏 ń✨ ṣe✨; was👀 der🌍 Vater🙏 tut✨; מַה👀 שֶׁהָאָב🙏 עוֹשֶׂה✨. Anything💯 Papa🙏 do✨, Son🙏 do💯 same✨—Ọmọ🙏 náà✨ ń✨ ṣe✨ bákan✨ náà💯; der🌍 Sohn🙏 tut✨ ebenso💯; כֵּן✨ עוֹשֶׂה✨ הַבֵּן🙏.”",
       "glosses": [
         [
-          "True true I tell una the Son no fit do anything by imself na wetin e see the Father do e do am too Anything Papa do na so Son sef do am",
-          "The Son can do nothing by himself except what he sees the Father doing; whatever the Father does, the Son does likewise",
+          "True true I tell una",
+          "Truly, truly, I tell you",
           "pcm"
         ],
         [
-          "Lóòótọ́ lóòótọ́ Ọmọ kò lè ṣe ohunkóhun fún ara rẹ̀ àyàfi ohun tó rí tí Bàbá ń ṣe ohunkóhun tí Bàbá bá ṣe Ọmọ náà ń ṣe bákan náà",
-          "Truly, the Son can do nothing by himself except what he sees the Father doing; whatever the Father does, the Son does likewise",
+          "the Son no fit act solo",
+          "the Son cannot act on his own",
+          "pcm"
+        ],
+        [
+          "kò lè ṣe ohunkóhun fún ara rẹ̀",
+          "cannot do anything by himself",
           "yo"
         ],
         [
-          "Wahrlich wahrlich der Sohn kann nichts aus sich selbst tun außer was er den Vater tun sieht was der Vater tut das tut der Sohn ebenso",
-          "Truly, the Son can do nothing by himself except what he sees the Father doing; whatever the Father does, the Son does likewise",
+          "aus sich selbst nichts tun",
+          "do nothing from himself",
           "de"
         ],
         [
-          "אָמֵן אָמֵן הַבֵּן אֵינוֹ יָכוֹל לַעֲשׂוֹת דָּבָר מֵעַצְמוֹ אֶלָּא מַה שֶׁהוּא רוֹאֶה אֶת הָאָב עוֹשֶׂה כָּל מַה שֶׁהָאָב עוֹשֶׂה כֵּן עוֹשֶׂה הַבֵּן",
-          "Truly, the Son can do nothing by himself except what he sees the Father doing; whatever the Father does, the Son does likewise",
+          "אֵינוֹ יָכוֹל לַעֲשׂוֹת דָּבָר מֵעַצְמוֹ",
+          "cannot do anything by himself",
           "he"
         ],
         [
-          "Jesus answer dem",
-          "The speaker replied",
+          "na only wetin e see Papa dey do",
+          "only what he sees the Father doing",
           "pcm"
+        ],
+        [
+          "ohun tí Bàbá ń ṣe",
+          "what the Father is doing",
+          "yo"
+        ],
+        [
+          "was der Vater tut",
+          "what the Father does",
+          "de"
+        ],
+        [
+          "מַה שֶׁהָאָב עוֹשֶׂה",
+          "what the Father does",
+          "he"
+        ],
+        [
+          "Anything Papa do Son do same",
+          "whatever the Father does, the Son does the same",
+          "pcm"
+        ],
+        [
+          "Ọmọ náà ń ṣe bákan náà",
+          "the Son does likewise",
+          "yo"
+        ],
+        [
+          "der Sohn tut ebenso",
+          "the Son does likewise",
+          "de"
+        ],
+        [
+          "כֵּן עוֹשֶׂה הַבֵּן",
+          "so the Son does",
+          "he"
         ]
       ],
       "wordsOfJesus": [
         [
-          24,
-          775
+          25,
+          471
         ]
       ]
     },
     {
       "number": 20,
-      "text": "Papa🙏 love🫶 Son🙏 and💯 dey💯 show👀 am🫶 all💯 wey👀 e🫶 dey💯 do✨; e🫶 go💯 show👀 bigger💯 works✨ pass💯 these🌍, make💯 una🌍 marvel👀. Bàbá🙏 nífẹ̀ẹ́🫶 Ọmọ🙏, ó✨ sì✨ ń✨ fi👀 gbogbo💯 ohun✨ tó✨ ń✨ ṣe✨ hàn👀 fún✨ Ọmọ🙏; yóò💯 sì✨ fi👀 iṣẹ́✨ tó✨ tóbi💯 ju✨ ìwọ̀nyí✨ lọ✨ hàn👀, kí✨ ẹ̀yin🌍 lè💯 yà👀 lẹ́nu👀. Der🌍 Vater🙏 liebt🫶 den🌍 Sohn🙏 und✨ zeigt👀 ihm👀 alles💯, was✨ er🫶 selbst🫶 tut✨; er💯 wird👀 ihm👀 noch💯 größere💯 Werke✨ zeigen👀, damit✨ ihr🌍 staunt👀. הָאָב🙏 אוֹהֵב🫶 אֶת✨ הַבֵּן🙏 וּמַרְאֶה👀 לוֹ👀 כָּל💯 מַה✨ שֶׁהוּא🫶 עוֹשֶׂה✨; וְיַרְאֶה👀 לוֹ👀 מַעֲשִׂים✨ גְּדוֹלִים💯 מֵאֵלֶּה✨, לְמַעַן✨ תִּתְמְהוּ👀.",
+      "text": "Papa🙏 love🫶 Son🙏 big💯 time💯—Bàbá🙏 nífẹ̀ẹ́🫶 Ọmọ🙏; der🌍 Vater🙏 liebt🫶 den🌍 Sohn🙏; הָאָב🙏 אוֹהֵב🫶 אֶת✨ הַבֵּן🙏. Papa🙏 dey💯 show👀 am🫶 all💯 that✨ e🫶 dey💯 do✨, and💯 go💯 show👀 am🫶 even💯 greater💯 works✨ than✨ these🌍, make💯 una🌍 marvel👀—ń✨ fi✨ gbogbo💯 ohun✨ tó✨ ń✨ ṣe✨ hàn👀 fún✨ Ọmọ🙏; zeigt👀 ihm👀 alles💯, was👀 er🫶 tut✨; מַרְאֶה👀 לוֹ👀 כָּל💯 מַה✨ שֶׁעוֹשֶׂה✨; iṣẹ́✨ tó💯 tóbi💯 ju✨ ìwọ̀nyí✨ lọ✨; größere💯 Werke✨ als✨ diese🌍; מַעֲשִׂים✨ גְּדוֹלִים💯 מֵאֵלֶּה✨; kí✨ ẹ̀yin🌍 lè💯 yà👀 lẹ́nu👀; damit✨ ihr🌍 staunt👀; לְמַעַן✨ תִּתְמְהוּ👀.",
       "glosses": [
         [
-          "Papa love Son and dey show am all wey e dey do e go show bigger works pass these make una marvel",
-          "The Father loves the Son and shows him everything he does; he will show him greater works than these so you may marvel",
+          "Papa love Son big time",
+          "The Father loves the Son greatly",
           "pcm"
         ],
         [
-          "Bàbá nífẹ̀ẹ́ Ọmọ ó sì ń fi gbogbo ohun tó ń ṣe hàn fún Ọmọ yóò sì fi iṣẹ́ tó tóbi ju ìwọ̀nyí lọ hàn kí ẹ̀yin lè yà lẹ́nu",
-          "The Father loves the Son and shows him all he does; he will show him greater works than these so you may marvel",
+          "Bàbá nífẹ̀ẹ́ Ọmọ",
+          "the Father loves the Son",
           "yo"
         ],
         [
-          "Der Vater liebt den Sohn und zeigt ihm alles was er selbst tut er wird ihm noch größere Werke zeigen damit ihr staunt",
-          "The Father loves the Son and shows him everything he does; he will show him greater works than these so you may marvel",
+          "der Vater liebt den Sohn",
+          "the Father loves the Son",
           "de"
         ],
         [
-          "הָאָב אוֹהֵב אֶת הַבֵּן וּמַרְאֶה לוֹ כָּל מַה שֶׁהוּא עוֹשֶׂה וְיַרְאֶה לוֹ מַעֲשִׂים גְּדוֹלִים מֵאֵלֶּה לְמַעַן תִּתְמְהוּ",
-          "The Father loves the Son and shows him all he does; he will show him greater works than these so you may marvel",
+          "הָאָב אוֹהֵב אֶת הַבֵּן",
+          "the Father loves the Son",
+          "he"
+        ],
+        [
+          "Papa dey show am all that e dey do",
+          "The Father shows him all he does",
+          "pcm"
+        ],
+        [
+          "ń fi gbogbo ohun tó ń ṣe hàn fún Ọmọ",
+          "shows the Son all that he does",
+          "yo"
+        ],
+        [
+          "zeigt ihm alles was er tut",
+          "shows him everything he does",
+          "de"
+        ],
+        [
+          "מַרְאֶה לוֹ כָּל מַה שֶׁעוֹשֶׂה",
+          "shows him all that he does",
+          "he"
+        ],
+        [
+          "and go show am even greater works than these",
+          "and will show him even greater works than these",
+          "pcm"
+        ],
+        [
+          "iṣẹ́ tó tóbi ju ìwọ̀nyí lọ",
+          "works greater than these",
+          "yo"
+        ],
+        [
+          "größere Werke als diese",
+          "greater works than these",
+          "de"
+        ],
+        [
+          "מַעֲשִׂים גְּדוֹלִים מֵאֵלֶּה",
+          "greater works than these",
+          "he"
+        ],
+        [
+          "make una marvel",
+          "so you may be amazed",
+          "pcm"
+        ],
+        [
+          "kí ẹ̀yin lè yà lẹ́nu",
+          "so that you may marvel",
+          "yo"
+        ],
+        [
+          "damit ihr staunt",
+          "so that you may marvel",
+          "de"
+        ],
+        [
+          "לְמַעַן תִּתְמְהוּ",
+          "so that you may marvel",
           "he"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          631
+          571
         ]
       ]
     },
     {
       "number": 21,
-      "text": "Jesus🙏 say👀: “Papa🙏 raise✨ dead😭 people🌍 and💯 make💯 dem🌍 live🫶; Son🙏 too✨ fit💯 give✨ life🫶—ndụ🫶, vida🫶—to✨ anybody🫶 wey🌍 e🫶 choose👀.” Bí💯 Bàbá🙏 ṣe✨ ń✨ jí💯 àwọn🌍 òkú😭 dìde💯, tí✨ ó✨ sì✨ ń✨ fún✨ wọn🌍 ní✨ ìyè🫶, bẹ́ẹ̀💯 náà✨ ni✨ Ọmọ🙏 ń✨ fún✨ ní✨ ìyè🫶 fún✨ ẹni🫶 tí✨ Òun🙏 bá💯 yàn👀. Wie💯 der🌍 Vater🙏 die🌍 Toten😭 auferweckt💯 und✨ lebendig🫶 macht✨, so💯 gibt✨ auch✨ der🌍 Sohn🙏 Leben🫶, wem🫶 er✨ will🫶. כְּמוֹ💯 שֶׁהָאָב🙏 מֵקִים💯 אֶת✨ הַמֵּתִים😭 וּמְחַיֶּה🫶 אוֹתָם🌍, כֵּן💯 גַּם✨ הַבֵּן🙏 מְחַיֶּה🫶 אֶת✨ מִי🫶 שֶׁיִּרְצֶה🫶.”",
+      "text": "Jesus🙏 say👀: “Papa🙏 fit💯 raise✨ dead😭 people🌍 and💯 make💯 dem🌍 live🫶—ń✨ jí💯 àwọn🌍 òkú😭 dìde✨, ó✨ sì✨ fún✨ wọn🌍 ní✨ ìyè🫶; die🌍 Toten😭 auferwecken✨ und✨ lebendig🫶 machen✨; מֵקִים💯 אֶת✨ הַמֵּתִים😭 וּמְחַיֶּה🫶 אוֹתָם🌍—Son🙏 sef✨ fit💯 give✨ life🫶—ndụ🫶—to✨ anybody🫶 wey👀 e🫶 choose👀: fún✨ ẹni🫶 tí✨ Ọmọ🙏 bá💯 yàn👀; wem🫶 der🌍 Sohn🙏 will🫶; מְחַיֶּה🫶 אֶת✨ מִי🫶 שֶׁיִּרְצֶה🫶; onye🫶 ọ🫶 bụla🫶 ọ👀 chọrọ🫶.”",
       "glosses": [
+        [
+          "Son sef fit give life",
+          "the Son can give life too",
+          "pcm"
+        ],
+        [
+          "to anybody wey e choose",
+          "to anyone he chooses",
+          "pcm"
+        ],
+        [
+          "Papa fit raise dead people and make dem live",
+          "The Father can raise dead people and give them life",
+          "pcm"
+        ],
+        [
+          "ń jí àwọn òkú dìde",
+          "raises the dead",
+          "yo"
+        ],
+        [
+          "ó sì fún wọn ní ìyè",
+          "and gives them life",
+          "yo"
+        ],
+        [
+          "die Toten auferwecken",
+          "raise the dead",
+          "de"
+        ],
+        [
+          "lebendig machen",
+          "make alive",
+          "de"
+        ],
+        [
+          "מֵקִים אֶת הַמֵּתִים",
+          "raises the dead",
+          "he"
+        ],
+        [
+          "וּמְחַיֶּה אוֹתָם",
+          "and gives them life",
+          "he"
+        ],
+        [
+          "fún ẹni tí Ọmọ bá yàn",
+          "to the one whom the Son chooses",
+          "yo"
+        ],
+        [
+          "wem der Sohn will",
+          "to whomever the Son wills",
+          "de"
+        ],
+        [
+          "מְחַיֶּה אֶת מִי שֶׁיִּרְצֶה",
+          "gives life to whomever he wishes",
+          "he"
+        ],
         [
           "ndụ",
           "life",
           "ig"
         ],
         [
-          "vida",
-          "life",
-          "es"
-        ],
-        [
-          "Papa raise dead people and make dem live Son too fit give life",
-          "The Father raises the dead and gives them life; the Son can give life too",
-          "pcm"
-        ],
-        [
-          "Bí Bàbá ṣe ń jí àwọn òkú dìde tí ó sì ń fún wọn ní ìyè bẹ́ẹ̀ náà ni Ọmọ ń fún ní ìyè fún ẹni tí Òun bá yàn",
-          "Just as the Father raises the dead and gives them life, the Son gives life to whomever he wishes",
-          "yo"
-        ],
-        [
-          "Wie der Vater die Toten auferweckt und lebendig macht so gibt auch der Sohn Leben wem er will",
-          "Just as the Father raises the dead and makes them alive, the Son gives life to whomever he wishes",
-          "de"
-        ],
-        [
-          "כְּמוֹ שֶׁהָאָב מֵקִים אֶת הַמֵּתִים וּמְחַיֶּה אוֹתָם כֵּן גַּם הַבֵּן מְחַיֶּה אֶת מִי שֶׁיִּרְצֶה",
-          "Just as the Father raises the dead and gives them life, the Son gives life to whomever he wishes",
-          "he"
-        ],
-        [
-          "to anybody wey e choose",
-          "to anyone he chooses",
-          "pcm"
+          "onye ọ bụla ọ chọrọ",
+          "to whomever he chooses",
+          "ig"
         ]
       ],
       "wordsOfJesus": [
         [
-          15,
-          563
+          16,
+          395
         ]
       ]
     },
     {
       "number": 22,
-      "text": "Papa🙏 no👀 dey💯 judge💯 anybody🫶; e🫶 don💯 hand🫶 all💯 judgment💯 over✨ to✨ Son🙏. Bàbá🙏 kì👀 í✨ ṣe💯 ìdájọ́💯 fún✨ ẹnikẹ́ni🫶, ṣùgbọ́n✨ ó✨ ti💯 fi🫶 gbogbo💯 ìdájọ́💯 lé✨ Ọmọ🙏 lọ́wọ́🫶. Der🌍 Vater🙏 richtet💯 niemanden🫶, sondern✨ hat💯 das💯 ganze✨ Gericht💯 dem🌍 Sohn🙏 übergeben🫶. הָאָב🙏 אֵינוֹ👀 דָּן💯 אִישׁ🫶, אֶלָּא✨ מָסַר🫶 אֶת✨ כָּל💯 הַמִּשְׁפָּט💯 לַבֵּן🙏.",
+      "text": "Papa🙏 no👀 dey💯 judge💯 anybody🫶; e🫶 don💯 hand🫶 all💯 judgment💯 to✨ Son🙏—kò👀 ṣe💯 ìdájọ́💯 fún✨ ẹnikẹ́ni🫶; ó✨ ti💯 fi🫶 gbogbo💯 ìdájọ́💯 lé✨ Ọmọ🙏 lọ́wọ́🫶; richtet💯 niemanden🫶; das🌍 ganze💯 Gericht💯 dem🌍 Sohn🙏 übergeben🫶; אֵינוֹ👀 דָּן💯 אִישׁ🫶; מָסַר🫶 אֶת✨ כָּל💯 הַמִּשְׁפָּט💯 לַבֵּן🙏.",
       "glosses": [
         [
-          "Papa no dey judge anybody e don hand all judgment over to Son",
-          "The Father judges no one; he has entrusted all judgment to the Son",
+          "Papa no dey judge anybody",
+          "The Father does not judge anyone",
           "pcm"
         ],
         [
-          "Bàbá kì í ṣe ìdájọ́ fún ẹnikẹ́ni ṣùgbọ́n ó ti fi gbogbo ìdájọ́ lé Ọmọ lọ́wọ́",
-          "The Father judges no one, but has entrusted all judgment to the Son",
+          "kò ṣe ìdájọ́ fún ẹnikẹ́ni",
+          "does not judge anyone",
           "yo"
         ],
         [
-          "Der Vater richtet niemanden sondern hat das ganze Gericht dem Sohn übergeben",
-          "The Father judges no one, but has entrusted all judgment to the Son",
+          "richtet niemanden",
+          "judges no one",
           "de"
         ],
         [
-          "הָאָב אֵינוֹ דָּן אִישׁ אֶלָּא מָסַר אֶת כָּל הַמִּשְׁפָּט לַבֵּן",
-          "The Father judges no one, but has entrusted all judgment to the Son",
+          "אֵינוֹ דָּן אִישׁ",
+          "does not judge anyone",
+          "he"
+        ],
+        [
+          "e don hand all judgment to Son",
+          "he has handed all judgment to the Son",
+          "pcm"
+        ],
+        [
+          "ó ti fi gbogbo ìdájọ́ lé Ọmọ lọ́wọ́",
+          "he has handed all judgment to the Son",
+          "yo"
+        ],
+        [
+          "das ganze Gericht dem Sohn übergeben",
+          "handed all judgment to the Son",
+          "de"
+        ],
+        [
+          "מָסַר אֶת כָּל הַמִּשְׁפָּט לַבֵּן",
+          "handed all judgment to the Son",
           "he"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          380
+          310
         ]
       ]
     },
     {
       "number": 23,
-      "text": "Make💯 everybody🌍 give🙏 Son🙏 honneur🙏 like💯 dem🌍 dey💯 honor🙏 Papa🙏; anybody🫶 wey🌍 no👀 honor🙏 Son🙏 no👀 honor🙏 Papa🙏 wey🌍 send✨ am👀. Kí💯 gbogbo🌍 ènìyàn🌍 lè💯 bu✨ ọlá🙏 fún✨ Ọmọ🙏 gẹ́gẹ́✨ bí💯 wọ́n🌍 ti💯 ń✨ bu✨ ọlá🙏 fún✨ Bàbá🙏. Ẹni🫶 tí✨ kò👀 bá✨ bu✨ ọlá🙏 fún✨ Ọmọ🙏, kò👀 bu✨ ọlá🙏 fún✨ Bàbá🙏 tó✨ rán✨ an👀. Damit✨ sollen🌍 alle💯 den🌍 Sohn🙏 ehren🙏, wie💯 sie🌍 den🌍 Vater🙏 ehren🙏. Wer🫶 den🌍 Sohn🙏 nicht👀 ehrt🙏, ehrt🙏 auch✨ den🌍 Vater🙏 nicht👀, der👀 ihn👀 gesandt✨ hat💯. לְמַעַן✨ יְכַבְּדוּ🙏 הַכֹּל🌍 אֶת✨ הַבֵּן🙏 כְּמוֹ💯 אֶת✨ הָאָב🙏; וְכָל✨ מִי🫶 שֶׁאֵינוֹ👀 מְכַבֵּד🙏 אֶת✨ הַבֵּן🙏, אֵינוֹ👀 מְכַבֵּד🙏 גַּם✨ אֶת✨ הָאָב🙏 אֲשֶׁר👀 שְׁלָחוֹ✨.",
+      "text": "Make💯 everybody🌍 give🙏 Son🙏 honneur🙏 like💯 dem🌍 honor🙏 Papa🙏—bu✨ ọlá🙏 fún✨ Ọmọ🙏 gẹ́gẹ́✨ bí💯, den🌍 Sohn🙏 ehren🙏 wie💯 den🌍 Vater🙏, יְכַבְּדוּ🙏 אֶת✨ הַבֵּן🙏 כְּמוֹ💯 אֶת✨ הָאָב🙏. Anybody🫶 wey🌍 no👀 honor🙏 Son🙏 no👀 honor🙏 the🌍 Papa🙏 wey👀 send✨ am👀—kò👀 bu✨ ọlá🙏 fún✨ Ọmọ🙏; kò👀 bu✨ ọlá🙏 fún✨ Bàbá🙏 tó👀 rán✨ an👀; wer🫶 den🌍 Sohn🙏 nicht👀 ehrt🙏, ehrt🙏 auch✨ den🌍 Vater🙏 nicht👀, der👀 ihn👀 gesandt✨ hat💯; כָּל✨ מִי🫶 שֶׁאֵינוֹ👀 מְכַבֵּד🙏 אֶת✨ הַבֵּן🙏, אֵינוֹ👀 מְכַבֵּד🙏 גַּם✨ אֶת✨ הָאָב🙏 אֲשֶׁר👀 שְׁלָחוֹ✨.",
       "glosses": [
         [
-          "Kí gbogbo ènìyàn lè bu ọlá fún Ọmọ gẹ́gẹ́ bí wọ́n ti ń bu ọlá fún Bàbá Ẹni tí kò bá bu ọlá fún Ọmọ kò bu ọlá fún Bàbá tó rán an",
-          "Everyone should honor the Son as they honor the Father; whoever does not honor the Son does not honor the Father who sent him",
-          "yo"
-        ],
-        [
-          "Damit sollen alle den Sohn ehren wie sie den Vater ehren Wer den Sohn nicht ehrt ehrt auch den Vater nicht der ihn gesandt hat",
-          "Everyone should honor the Son as they honor the Father; whoever does not honor the Son does not honor the Father who sent him",
-          "de"
-        ],
-        [
-          "לְמַעַן יְכַבְּדוּ הַכֹּל אֶת הַבֵּן כְּמוֹ אֶת הָאָב וְכָל מִי שֶׁאֵינוֹ מְכַבֵּד אֶת הַבֵּן אֵינוֹ מְכַבֵּד גַּם אֶת הָאָב אֲשֶׁר שְׁלָחוֹ",
-          "So everyone may honor the Son just as they honor the Father; whoever does not honor the Son does not honor the Father who sent him",
-          "he"
-        ],
-        [
           "Make everybody give Son",
-          "Everyone should honor the Son",
+          "Let everyone give the Son",
+          "pcm"
+        ],
+        [
+          "like dem honor Papa",
+          "as they honor the Father",
           "pcm"
         ],
         [
@@ -1022,76 +1249,166 @@ const johnChapterFive = {
           "fr"
         ],
         [
-          "like dem dey honor Papa",
-          "as they honor the Father",
+          "bu ọlá fún Ọmọ gẹ́gẹ́ bí",
+          "give honor to the Son as",
+          "yo"
+        ],
+        [
+          "den Sohn ehren wie den Vater",
+          "honor the Son as the Father",
+          "de"
+        ],
+        [
+          "יְכַבְּדוּ אֶת הַבֵּן כְּמוֹ אֶת הָאָב",
+          "honor the Son as the Father",
+          "he"
+        ],
+        [
+          "Anybody wey no honor Son no honor the Papa wey send am",
+          "Anyone who does not honor the Son does not honor the Father who sent him",
           "pcm"
         ],
         [
-          "anybody wey no honor Son no honor Papa wey send am",
-          "whoever does not honor the Son does not honor the Father who sent him",
-          "pcm"
+          "kò bu ọlá fún Ọmọ",
+          "does not honor the Son",
+          "yo"
+        ],
+        [
+          "kò bu ọlá fún Bàbá tó rán an",
+          "does not honor the Father who sent him",
+          "yo"
+        ],
+        [
+          "wer den Sohn nicht ehrt",
+          "whoever does not honor the Son",
+          "de"
+        ],
+        [
+          "ehrt auch den Vater nicht der ihn gesandt hat",
+          "also does not honor the Father who sent him",
+          "de"
+        ],
+        [
+          "כָּל מִי שֶׁאֵינוֹ מְכַבֵּד אֶת הַבֵּן",
+          "everyone who does not honor the Son",
+          "he"
+        ],
+        [
+          "אֵינוֹ מְכַבֵּד גַּם אֶת הָאָב אֲשֶׁר שְׁלָחוֹ",
+          "does not honor the Father who sent him",
+          "he"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          683
+          552
         ]
       ]
     },
     {
       "number": 24,
-      "text": "Jesus🙏 continue👀: “True💯 true💯, anybody🫶 wey🌍 hear👀 my🫶 word🕊️—parole🕊️, okwu🕊️—and💯 believe💯 the🌍 One🫶 wey🌍 send✨ me👀 get💯 life🫶 wey🌍 no👀 dey💯 end✨—ndụ🫶, vida🫶 eterna💯; e🫶 no👀 go💯 face👀 condemnation💯, e🫶 don💯 cross✨ from✨ death😭 enter✨ life🫶.” Ẹni🫶 tó✨ bá✨ gbọ́👀 ọ̀rọ̀✨ mi🫶, tó✨ sì✨ gbàgbọ́🙏 nínú✨ ẹni🫶 tó✨ rán✨ mi👀, ó✨ ní💯 ìyè🫶 àìnípẹ̀kun💯; kò👀 ní✨ wọ̀👀 sínú✨ ìdálẹ́bi💯, ó✨ ti💯 kọjá✨ láti✨ ikú😭 sí✨ ìyè🫶. Wer🫶 mein🫶 Wort✨ hört👀 und✨ dem🌍 glaubt🙏, der👀 mich👀 gesandt✨ hat💯, hat💯 ewiges💯 Leben🫶 und✨ kommt👀 nicht👀 in✨ die🌍 Verdammnis💯; er✨ ist💯 vom✨ Tod😭 zum✨ Leben🫶 hinübergegangen✨. אָמֵן💯 אָמֵן💯, הַשּׁוֹמֵעַ👀 אֶת✨ דְּבָרִי✨ וּמַאֲמִין🙏 לְשׁוֹלְחִי✨, יֵשׁ💯 לוֹ👀 חַיֵּי💯 עוֹלָם🫶; לֹא👀 יָבוֹא👀 לְמִשְׁפָּט💯, אֶלָּא✨ עָבַר✨ מִמָּוֶת😭 לְחַיִּים🫶.”",
+      "text": "Jesus❤️ continue🙏: “True✨ true🔥, anybody🫶 wey🌍 hear😭 my👀 word💯—gbọ́🕊️ ọ̀rọ̀❤️ mi🙏, mein✨ Wort🔥, דְּבָרִי🫶—and🌍 believe😭 the👀 One💯 wey🕊️ send❤️ me🙏—ẹni✨ tó🔥 rán🫶 mi🌍, der😭 mich👀 gesandt💯 hat🕊️, לְשׁוֹלְחִי❤️—get🙏 eternal✨ life🔥—vida🫶 eterna🌍, ìyè😭 àìnípẹ̀kun👀, ewiges💯 Leben🕊️, חַיֵּי❤️ עוֹלָם🙏; e✨ no🔥 go🫶 face🌍 condemnation😭—kò👀 wọ̀💯 ìdálẹ́bi🕊️, nicht❤️ in🙏 die✨ Verdammnis🔥, לֹא🫶 יָבוֹא🌍 לְמִשְׁפָּט😭—but👀 e💯 don🕊️ cross❤️ from🙏 death✨ into🔥 life🫶—ó🌍 ti😭 kọjá👀, vom💯 Tod🕊️ zum❤️ Leben🙏, מִמָּוֶת✨ לְחַיִּים🔥.”",
       "glosses": [
         [
-          "parole",
-          "word",
-          "fr"
+          "gbọ́ ọ̀rọ̀ mi",
+          "hear my word",
+          "yo"
         ],
         [
-          "okwu",
-          "word",
-          "ig"
+          "ẹni tó rán mi",
+          "the One who sent me",
+          "yo"
         ],
         [
-          "ndụ",
-          "life",
-          "ig"
+          "ìyè àìnípẹ̀kun",
+          "eternal life",
+          "yo"
         ],
         [
-          "True true anybody wey hear",
-          "Truly, whoever hears",
+          "kò wọ̀ ìdálẹ́bi",
+          "does not enter condemnation",
+          "yo"
+        ],
+        [
+          "ó ti kọjá",
+          "has crossed over",
+          "yo"
+        ],
+        [
+          "mein Wort",
+          "my word",
+          "de"
+        ],
+        [
+          "der mich gesandt hat",
+          "the One who sent me",
+          "de"
+        ],
+        [
+          "ewiges Leben",
+          "eternal life",
+          "de"
+        ],
+        [
+          "nicht in die Verdammnis",
+          "not into condemnation",
+          "de"
+        ],
+        [
+          "vom Tod zum Leben",
+          "from death to life",
+          "de"
+        ],
+        [
+          "דְּבָרִי",
+          "my word",
+          "he"
+        ],
+        [
+          "לְשׁוֹלְחִי",
+          "the One who sent me",
+          "he"
+        ],
+        [
+          "חַיֵּי עוֹלָם",
+          "eternal life",
+          "he"
+        ],
+        [
+          "לֹא יָבוֹא לְמִשְׁפָּט",
+          "will not enter judgment",
+          "he"
+        ],
+        [
+          "מִמָּוֶת לְחַיִּים",
+          "from death to life",
+          "he"
+        ],
+        [
+          "anybody wey hear",
+          "anyone who hears",
           "pcm"
         ],
         [
           "and believe the One wey send me",
-          "and believe the One who sent me",
+          "and believes the One who sent me",
           "pcm"
         ],
         [
-          "get life wey no dey end",
+          "get eternal life",
           "has eternal life",
           "pcm"
         ],
         [
-          "e no go face condemnation e don cross from death enter life",
-          "will not face condemnation and has passed from death into life",
+          "e no go face condemnation",
+          "will not face condemnation",
           "pcm"
         ],
         [
-          "Ẹni tó bá gbọ́ ọ̀rọ̀ mi tó sì gbàgbọ́ nínú ẹni tó rán mi ó ní ìyè àìnípẹ̀kun kò ní wọ̀ sínú ìdálẹ́bi ó ti kọjá láti ikú sí ìyè",
-          "Whoever hears my word and believes the One who sent me has eternal life, will not face condemnation, and has passed from death into life",
-          "yo"
-        ],
-        [
-          "Wer mein Wort hört und dem glaubt der mich gesandt hat hat ewiges Leben und kommt nicht in die Verdammnis er ist vom Tod zum Leben hinübergegangen",
-          "Whoever hears my word and believes the One who sent me has eternal life, does not face condemnation, and has passed from death to life",
-          "de"
-        ],
-        [
-          "אָמֵן אָמֵן הַשּׁוֹמֵעַ אֶת דְּבָרִי וּמַאֲמִין לְשׁוֹלְחִי יֵשׁ לוֹ חַיֵּי עוֹלָם לֹא יָבוֹא לְמִשְׁפָּט אֶלָּא עָבַר מִמָּוֶת לְחַיִּים",
-          "Truly, whoever hears my word and believes the One who sent me has eternal life, does not enter judgment, but has passed from death to life",
-          "he"
+          "but e don cross from death into life",
+          "has crossed from death into life",
+          "pcm"
         ],
         [
           "vida eterna",
@@ -1102,811 +1419,1350 @@ const johnChapterFive = {
       "wordsOfJesus": [
         [
           20,
-          826
+          568
         ]
       ]
     },
     {
       "number": 25,
-      "text": "“True💯 true💯, I🫶 tell👀 una🌍: time💯 dey💯 come✨—and💯 e🫶 don💯 reach✨—when💯 dead😭 people🌍 go💯 hear👀 the🌍 Son🙏 of✨ God🙏 voice✨; anybody🫶 wey🌍 hear👀 am🫶 go💯 live🫶.” Lóòótọ́💯, lóòótọ́💯, àkókò💯 náà✨ ń💯 bọ̀✨, ó✨ sì✨ ti💯 dé👀, nígbà💯 tí✨ àwọn🌍 òkú😭 yóò💯 gbọ́👀 ohùn✨ Ọmọ🙏 Ọlọ́run🙏; àwọn🌍 tó✨ bá✨ gbọ́👀 yóò💯 yè🫶. Wahrlich💯, wahrlich💯, die🌍 Stunde💯 kommt✨ und✨ ist💯 schon💯 da👀, in✨ der✨ die🌍 Toten😭 die🌍 Stimme✨ des🌍 Sohnes🙏 Gottes🙏 hören👀; wer🫶 hört👀, wird✨ leben🫶. אָמֵן💯 אָמֵן💯, בָּאָה✨ הַשָּׁעָה💯 וְהִנֵּה✨ הִיא👀 עַכְשָׁיו💯, כְּשֶׁהַמֵּתִים😭 יִשְׁמְעוּ👀 אֶת✨ קוֹל✨ בֶּן🙏 הָאֱלֹהִים🙏; וְהַשּׁוֹמְעִים👀 יִחְיוּ🫶.”",
+      "text": "“True❤️ true🙏, I✨ tell🔥 una🫶: the🌍 time😭—àkókò👀 náà💯, die🕊️ Stunde❤️, הַשָּׁעָה🙏—dey✨ come🔥 and🫶 e🌍 don😭 reach👀; the💯 dead🕊️—àwọn❤️ òkú🙏, die✨ Toten🔥, הַמֵּתִים🫶—go🌍 hear😭 the👀 Son💯 of🕊️ God❤️ voice🙏—ohùn✨ Ọmọ🔥 Ọlọ́run🫶, die🌍 Stimme😭 des👀 Sohnes💯 Gottes🕊️, קוֹל❤️ בֶּן🙏 הָאֱלֹהִים✨—and🔥 anybody🫶 wey🌍 hear😭 am👀 go💯 live🕊️.”",
       "glosses": [
         [
-          "True true I tell una time dey come and e don reach when dead people go hear the Son of God voice anybody wey hear am go live",
-          "Truly, I tell you: the time is coming and has arrived when the dead will hear the Son of God’s voice; whoever hears will live",
-          "pcm"
-        ],
-        [
-          "Lóòótọ́ lóòótọ́ àkókò náà ń bọ̀ ó sì ti dé nígbà tí àwọn òkú yóò gbọ́ ohùn Ọmọ Ọlọ́run àwọn tó bá gbọ́ yóò yè",
-          "Truly, truly, the time is coming and has arrived when the dead will hear the Son of God’s voice; those who hear will live",
+          "àkókò náà",
+          "the time",
           "yo"
         ],
         [
-          "Wahrlich wahrlich die Stunde kommt und ist schon da in der die Toten die Stimme des Sohnes Gottes hören wer hört wird leben",
-          "Truly, the hour is coming and is already here when the dead will hear the Son of God's voice; whoever hears will live",
+          "àwọn òkú",
+          "the dead",
+          "yo"
+        ],
+        [
+          "ohùn Ọmọ Ọlọ́run",
+          "the Son of God’s voice",
+          "yo"
+        ],
+        [
+          "die Stunde",
+          "the hour",
           "de"
         ],
         [
-          "אָמֵן אָמֵן בָּאָה הַשָּׁעָה וְהִנֵּה הִיא עַכְשָׁיו כְּשֶׁהַמֵּתִים יִשְׁמְעוּ אֶת קוֹל בֶּן הָאֱלֹהִים וְהַשּׁוֹמְעִים יִחְיוּ",
-          "Truly, the hour is coming and is now here when the dead will hear the Son of God's voice; those who hear will live",
+          "die Toten",
+          "the dead",
+          "de"
+        ],
+        [
+          "die Stimme des Sohnes Gottes",
+          "the voice of God’s Son",
+          "de"
+        ],
+        [
+          "הַשָּׁעָה",
+          "the hour",
           "he"
+        ],
+        [
+          "הַמֵּתִים",
+          "the dead",
+          "he"
+        ],
+        [
+          "קוֹל בֶּן הָאֱלֹהִים",
+          "the voice of God’s Son",
+          "he"
+        ],
+        [
+          "I tell una",
+          "I tell you",
+          "pcm"
+        ],
+        [
+          "dey come and e don reach the dead",
+          "is coming and has arrived; the dead",
+          "pcm"
+        ],
+        [
+          "go hear the Son of God voice",
+          "will hear the Son of God’s voice",
+          "pcm"
+        ],
+        [
+          "and anybody wey hear am go live",
+          "and whoever hears will live",
+          "pcm"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          670
+          362
         ]
       ]
     },
     {
       "number": 26,
-      "text": "Jesus🙏 continue👀: “As💯 Papa🙏 get💯 life🫶 inside✨ himself🫶, e🫶 don💯 give✨ Son🙏 life🫶 inside✨ himself🫶 too✨.” Bàbá🙏 ní💯 ìyè🫶 nínú✨ ara🫶 rẹ̀🫶, ó✨ sì✨ fún✨ Ọmọ🙏 ní✨ ìyè🫶 nínú✨ ara🫶 rẹ̀🫶. So💯 wie🌍 der🌍 Vater🙏 Leben🫶 in✨ sich🫶 selbst🫶 hat💯, so💯 hat💯 er🫶 auch✨ dem🌍 Sohn🙏 gegeben💯, Leben🫶 in✨ sich🫶 selbst🫶 zu✨ haben🫶. כִּי✨ כְּמוֹ💯 שֶׁלָּאָב🙏 חַיִּים🫶 בְּעַצְמוֹ🫶, כֵּן💯 נָתַן✨ גַּם✨ לַבֵּן🙏 חַיִּים🫶 בְּעַצְמוֹ🫶.”",
+      "text": "“Papa❤️ get🙏 life✨ inside🔥 himself🫶—ìyè🌍 nínú😭 ara👀 rẹ̀💯, Leben🕊️ in❤️ sich🙏 selbst✨, חַיִּים🔥 בְּעַצְמוֹ🫶—and🌍 e😭 don👀 give💯 the🕊️ Son❤️ that🙏 same✨ life🔥—fún🫶 Ọmọ🌍 ní😭 ìyè👀, dem💯 Sohn🕊️ Leben❤️ gegeben🙏, נָתַן✨ לַבֵּן🔥 חַיִּים🫶—inside🌍 himself😭 too👀.”",
       "glosses": [
         [
-          "As Papa get life inside himself e don give Son life inside himself too",
-          "As the Father has life in himself, he has also given the Son life in himself",
-          "pcm"
-        ],
-        [
-          "Bàbá ní ìyè nínú ara rẹ̀ ó sì fún Ọmọ ní ìyè nínú ara rẹ̀",
-          "The Father has life in himself, and he gave the Son life in himself",
+          "ìyè nínú ara rẹ̀",
+          "life within himself",
           "yo"
         ],
         [
-          "So wie der Vater Leben in sich selbst hat so hat er auch dem Sohn gegeben Leben in sich selbst zu haben",
-          "The Father has life in himself, and he has also given the Son to have life in himself",
-          "de"
-        ],
-        [
-          "כִּי כְּמוֹ שֶׁלָּאָב חַיִּים בְּעַצְמוֹ כֵּן נָתַן גַּם לַבֵּן חַיִּים בְּעַצְמוֹ",
-          "As the Father has life in himself, so he gave the Son life in himself",
-          "he"
-        ]
-      ],
-      "wordsOfJesus": [
-        [
-          20,
-          454
-        ]
-      ]
-    },
-    {
-      "number": 27,
-      "text": "E🫶 don💯 give✨ am👀 authority💯 to✨ judge💯 too✨, because👀 na💯 Son🙏 of✨ Man🫶 e🫶 be💯. Ó✨ tún💯 fún✨ un👀 ní✨ àṣẹ💯 láti✨ ṣe✨ ìdájọ́💯, nítorí✨ Òun🙏 ni💯 Ọmọ🙏 ènìyàn🫶. Er💯 gab💯 ihm👀 auch✨ Vollmacht💯, zu✨ richten💯, denn✨ er🙏 ist💯 der🌍 Sohn🙏 des🌍 Menschen🫶. וְגַם✨ נָתַן✨ לוֹ👀 סַמְכוּת💯 לַעֲשׂוֹת✨ מִשְׁפָּט💯, כִּי✨ הוּא🙏 בֶּן💯 אָדָם🫶.",
-      "glosses": [
-        [
-          "E don give am authority to judge too because na Son of Man e be",
-          "He also gave him authority to judge, because he is the Son of Man",
-          "pcm"
-        ],
-        [
-          "Ó tún fún un ní àṣẹ láti ṣe ìdájọ́ nítorí Òun ni Ọmọ ènìyàn",
-          "He also gave him authority to judge, because he is the Son of Man",
+          "fún Ọmọ ní ìyè",
+          "gave the Son life",
           "yo"
         ],
         [
-          "Er gab ihm auch Vollmacht zu richten denn er ist der Sohn des Menschen",
-          "He also gave him authority to judge, because he is the Son of Man",
+          "Leben in sich selbst",
+          "life in himself",
           "de"
         ],
         [
-          "וְגַם נָתַן לוֹ סַמְכוּת לַעֲשׂוֹת מִשְׁפָּט כִּי הוּא בֶּן אָדָם",
-          "He also gave him authority to judge, because he is the Son of Man",
+          "dem Sohn Leben gegeben",
+          "gave the Son life",
+          "de"
+        ],
+        [
+          "חַיִּים בְּעַצְמוֹ",
+          "life in himself",
           "he"
+        ],
+        [
+          "נָתַן לַבֵּן חַיִּים",
+          "gave the Son life",
+          "he"
+        ],
+        [
+          "Papa get life inside himself",
+          "The Father has life in himself",
+          "pcm"
+        ],
+        [
+          "and e don give the Son that same life",
+          "and has given the Son that same life",
+          "pcm"
+        ],
+        [
+          "inside himself too",
+          "inside himself too",
+          "pcm"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          358
+          282
+        ]
+      ]
+    },
+    {
+      "number": 27,
+      "text": "“Papa❤️ don🙏 give✨ am🔥 authority🫶 to🌍 judge😭—àṣẹ👀 láti💯 ṣe🕊️ ìdájọ́❤️, Vollmacht🙏 zu✨ richten🔥, סַמְכוּת🫶 לַעֲשׂוֹת🌍 מִשְׁפָּט😭—because👀 na💯 Son🕊️ of❤️ Man🙏 e✨ be🔥—Ọmọ🫶 ènìyàn🌍, Sohn😭 des👀 Menschen💯, בֶּן🕊️ אָדָם❤️.”",
+      "glosses": [
+        [
+          "àṣẹ láti ṣe ìdájọ́",
+          "authority to judge",
+          "yo"
+        ],
+        [
+          "Ọmọ ènìyàn",
+          "Son of Man",
+          "yo"
+        ],
+        [
+          "Vollmacht zu richten",
+          "authority to judge",
+          "de"
+        ],
+        [
+          "Sohn des Menschen",
+          "Son of Man",
+          "de"
+        ],
+        [
+          "סַמְכוּת לַעֲשׂוֹת מִשְׁפָּט",
+          "authority to judge",
+          "he"
+        ],
+        [
+          "בֶּן אָדָם",
+          "Son of Man",
+          "he"
+        ],
+        [
+          "Papa don give am authority to judge",
+          "The Father gave him authority to judge",
+          "pcm"
+        ],
+        [
+          "because na Son of Man e be",
+          "because he is the Son of Man",
+          "pcm"
+        ]
+      ],
+      "wordsOfJesus": [
+        [
+          0,
+          239
         ]
       ]
     },
     {
       "number": 28,
-      "text": "“No👀 shock👀 for✨ this✨: time💯 dey💯 come✨ when💯 everybody🌍 wey🌍 dey💯 for✨ grave😭—makaburi😭—go💯 hear👀 e🫶 voice✨.” Ẹ🫶 má👀 ṣe✨ kàyéfì👀 nípa✨ èyí✨: àkókò💯 ń💯 bọ̀✨ tí✨ gbogbo🌍 àwọn🌍 tó✨ wà👀 nínú✨ ibojì😭 yóò💯 gbọ́👀 ohùn✨ rẹ̀🫶. Wundert👀 euch🌍 nicht👀 darüber✨: Die🌍 Stunde💯 kommt✨, in✨ der✨ alle🌍 in✨ den🌍 Gräbern😭 seine🫶 Stimme✨ hören👀 werden✨. אַל👀 תִּתְמְהוּ👀 עַל✨ זֶה✨: בָּאָה✨ הַשָּׁעָה💯, שֶׁכָּל🌍 הַנִּמְצָאִים👀 בַּקְּבָרִים😭 יִשְׁמְעוּ👀 אֶת✨ קוֹלוֹ✨.”",
+      "text": "“No❤️ let🙏 this✨ shock🔥 una🫶—ẹ🌍 má😭 ṣe👀 kàyéfì💯, wundert🕊️ euch❤️ nicht🙏, אַל✨ תִּתְמְהוּ🔥—time🫶 dey🌍 come😭 when👀 everybody💯 wey🕊️ dey❤️ grave🙏—ní✨ inú🔥 ibojì🫶, in🌍 den😭 Gräbern👀, בַּקְּבָרִים💯, makaburi🕊️—go❤️ hear🙏 his✨ voice🔥—ohùn🫶 rẹ̀🌍, seine😭 Stimme👀, קוֹלוֹ💯.”",
       "glosses": [
+        [
+          "ẹ má ṣe kàyéfì",
+          "do not be amazed",
+          "yo"
+        ],
+        [
+          "ní inú ibojì",
+          "in the tombs",
+          "yo"
+        ],
+        [
+          "ohùn rẹ̀",
+          "his voice",
+          "yo"
+        ],
+        [
+          "wundert euch nicht",
+          "do not be amazed",
+          "de"
+        ],
+        [
+          "in den Gräbern",
+          "in the graves",
+          "de"
+        ],
+        [
+          "seine Stimme",
+          "his voice",
+          "de"
+        ],
+        [
+          "אַל תִּתְמְהוּ",
+          "do not be amazed",
+          "he"
+        ],
+        [
+          "בַּקְּבָרִים",
+          "in the graves",
+          "he"
+        ],
+        [
+          "קוֹלוֹ",
+          "his voice",
+          "he"
+        ],
         [
           "makaburi",
           "graves",
           "sw"
         ],
         [
-          "No shock for this time dey come when everybody wey dey for grave",
-          "Do not be amazed at this: the time is coming when everyone in the graves",
+          "No let this shock una",
+          "Do not be amazed",
           "pcm"
         ],
         [
-          "go hear e voice",
+          "time dey come when everybody wey dey grave",
+          "an hour is coming when everyone in the graves",
+          "pcm"
+        ],
+        [
+          "go hear his voice",
           "will hear his voice",
           "pcm"
-        ],
-        [
-          "Ẹ má ṣe kàyéfì nípa èyí àkókò ń bọ̀ tí gbogbo àwọn tó wà nínú ibojì yóò gbọ́ ohùn rẹ̀",
-          "Do not be amazed at this: the time is coming when everyone in the tombs will hear his voice",
-          "yo"
-        ],
-        [
-          "Wundert euch nicht darüber Die Stunde kommt in der alle in den Gräbern seine Stimme hören werden",
-          "Do not be amazed at this: the hour is coming when everyone in the graves will hear his voice",
-          "de"
-        ],
-        [
-          "אַל תִּתְמְהוּ עַל זֶה בָּאָה הַשָּׁעָה שֶׁכָּל הַנִּמְצָאִים בַּקְּבָרִים יִשְׁמְעוּ אֶת קוֹלוֹ",
-          "Do not be amazed at this: the hour is coming when all those in the graves will hear his voice",
-          "he"
-        ],
+        ]
       ],
       "wordsOfJesus": [
         [
           0,
-          486
+          296
         ]
       ]
     },
     {
       "number": 29,
-      "text": "“Dem🌍 go💯 come✨ out✨: people🌍 wey🌍 do✨ good💯 go💯 rise✨ for🌍 resurrection✨ of✨ life🫶; people🌍 wey🌍 do✨ bad😭 go💯 rise✨ for🌍 resurrection✨ of✨ condemnation😭.” Àwọn🌍 tó✨ ṣe✨ rere💯 yóò💯 jáde✨ fún✨ àjíǹde💯 ìyè🫶; àwọn🌍 tó✨ ṣe✨ búburú😭 yóò💯 jáde✨ fún✨ àjíǹde💯 ìdájọ́💯. Die🌍, die🌍 Gutes💯 getan✨ haben💯, werden💯 zur✨ Auferstehung💯 des🌍 Lebens🫶 kommen✨; die🌍, die🌍 Böses😭 getan✨ haben💯, werden💯 zur✨ Auferstehung💯 des🌍 Gerichts😭 kommen✨. יֵצְאוּ✨: עוֹשֵׂי✨ הַטּוֹב💯 לִתְקוּמַת💯 חַיִּים🫶, וְעוֹשֵׂי✨ הָרַע😭 לִתְקוּמַת💯 הַרְשָׁעָה😭.”",
+      "text": "“Dem❤️ go🙏 come✨ out🔥: people🫶 wey🌍 do😭 good👀 go💯 rise🕊️ to❤️ resurrection🙏 of✨ life🔥—àjíǹde🫶 ìyè🌍, Auferstehung😭 des👀 Lebens💯, תְּקוּמַת🕊️ חַיִּים❤️; people🙏 wey✨ do🔥 bad🫶 go🌍 rise😭 to👀 resurrection💯 of🕊️ judgment❤️—àjíǹde🙏 ìdájọ́✨, Auferstehung🔥 des🫶 Gerichts🌍, תְּקוּמַת😭 הַרְשָׁעָה👀.”",
       "glosses": [
         [
-          "Dem go come out people wey do good go rise for resurrection of life people wey do bad go rise for resurrection of condemnation",
-          "They will come out: those who did good will rise to the resurrection of life; those who did evil to the resurrection of condemnation",
-          "pcm"
-        ],
-        [
-          "Àwọn tó ṣe rere yóò jáde fún àjíǹde ìyè àwọn tó ṣe búburú yóò jáde fún àjíǹde ìdájọ́",
-          "Those who did good will come out to the resurrection of life; those who did evil to the resurrection of judgment",
+          "àjíǹde ìyè",
+          "resurrection of life",
           "yo"
         ],
         [
-          "Die die Gutes getan haben werden zur Auferstehung des Lebens kommen die die Böses getan haben werden zur Auferstehung des Gerichts kommen",
-          "Those who did good will come to the resurrection of life; those who did evil to the resurrection of condemnation",
+          "àjíǹde ìdájọ́",
+          "resurrection of judgment",
+          "yo"
+        ],
+        [
+          "Auferstehung des Lebens",
+          "resurrection of life",
           "de"
         ],
         [
-          "יֵצְאוּ עוֹשֵׂי הַטּוֹב לִתְקוּמַת חַיִּים וְעוֹשֵׂי הָרַע לִתְקוּמַת הַרְשָׁעָה",
-          "They will come out: those who did good to the resurrection of life, and those who did evil to the resurrection of condemnation",
+          "Auferstehung des Gerichts",
+          "resurrection of judgment",
+          "de"
+        ],
+        [
+          "תְּקוּמַת חַיִּים",
+          "resurrection of life",
           "he"
+        ],
+        [
+          "תְּקוּמַת הַרְשָׁעָה",
+          "resurrection of condemnation",
+          "he"
+        ],
+        [
+          "Dem go come out people wey do good go rise to resurrection of life",
+          "They will come out; those who did good will rise to life",
+          "pcm"
+        ],
+        [
+          "people wey do bad go rise to resurrection of judgment",
+          "those who did evil will rise to judgment",
+          "pcm"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          566
+          317
         ]
       ]
     },
     {
       "number": 30,
-      "text": "“I🫶 no👀 fit💯 do✨ anything👀 by✨ myself🫶; as💯 I🫶 hear👀, na💯 so✨ I🫶 dey💯 judge👀, and💯 my🫶 judgment💯 na💯 correct💯, because👀 I🫶 no👀 dey💯 chase👀 my🫶 own🫶 will🫶; na💯 Papa🙏 will🫶 I🫶 dey💯 seek👀, na💯 im🫶 wey🌍 send✨ me👀.” Èmi🫶 kò👀 lè💯 ṣe✨ ohunkóhun👀 fún✨ ara🫶 mi🫶; mo🫶 ń💯 ṣe✨ ìdájọ́💯 gẹ́gẹ́✨ bí💯 mo🫶 ti💯 gbọ́👀, ìdájọ́💯 mi🫶 sì✨ jẹ́💯 òdodo💯, nítorí✨ èmi🫶 kò👀 wá👀 ìfẹ́🫶 ti✨ ara🫶 mi🫶, bí✨ kò👀 ṣe✨ ìfẹ́🫶 Bàbá🙏 tó✨ rán✨ mi👀. Ich🫶 kann💯 nichts👀 aus✨ mir🫶 selbst🫶 tun✨; ich🫶 richte💯, wie💯 ich🫶 höre👀, und✨ mein🫶 Urteil💯 ist💯 gerecht💯, denn✨ ich🫶 suche👀 nicht👀 meinen🫶 Willen🫶, sondern✨ den🌍 Willen🫶 des🌍 Vaters🙏, der👀 mich👀 gesandt✨ hat💯. אֵינִי👀 יָכוֹל💯 לַעֲשׂוֹת✨ דָּבָר👀 מֵעַצְמִי🫶; כַּאֲשֶׁר💯 אֲנִי🫶 שׁוֹמֵעַ👀 כֵּן💯 אֲנִי🫶 שׁוֹפֵט💯, וּמִשְׁפָּטִי💯 צוֹדֵק💯, כִּי✨ אֵינֶנִּי👀 מְבַקֵּשׁ👀 אֶת✨ רְצוֹנִי🫶 אֶלָּא✨ אֶת✨ רְצוֹן🫶 הָאָב🙏 שֶׁשְּׁלָחַנִי✨.”",
+      "text": "“I❤️ no🙏 fit✨ do🔥 anything🫶 by🌍 myself😭; I👀 judge💯 as🕊️ I❤️ hear🙏—gẹ́gẹ́✨ bí🔥 mo🫶 ti🌍 gbọ́😭, wie👀 ich💯 höre🕊️, כַּאֲשֶׁר❤️ אֲנִי🙏 שׁוֹמֵעַ✨—and🔥 my🫶 judgment🌍 na😭 straight👀—ìdájọ́💯 mi🕊️ tọ́❤️, mein🙏 Urteil✨ gerecht🔥, מִשְׁפָּטִי🫶 צוֹדֵק🌍—because😭 I👀 no💯 chase🕊️ my❤️ own🙏 will✨; na🔥 Papa🫶 will🌍 I😭 dey👀 seek💯—ìfẹ́🕊️ Bàbá❤️, den🙏 Willen✨ des🔥 Vaters🫶, רְצוֹן🌍 הָאָב😭 שֶׁשְּׁלָחַנִי👀.”",
       "glosses": [
         [
-          "I no fit do anything by myself as I hear na so I dey judge and my judgment na correct because I no dey chase my own will na Papa will I dey seek na im wey send me",
-          "I can do nothing on my own; I judge as I hear, and my judgment is right because I seek the will of the Father who sent me, not my own",
-          "pcm"
-        ],
-        [
-          "Èmi kò lè ṣe ohunkóhun fún ara mi mo ń ṣe ìdájọ́ gẹ́gẹ́ bí mo ti gbọ́ ìdájọ́ mi sì jẹ́ òdodo nítorí èmi kò wá ìfẹ́ ti ara mi bí kò ṣe ìfẹ́ Bàbá tó rán mi",
-          "I can do nothing on my own; I judge as I hear, and my judgment is just, because I seek not my own will but the will of the Father who sent me",
+          "gẹ́gẹ́ bí mo ti gbọ́",
+          "as I hear",
           "yo"
         ],
         [
-          "Ich kann nichts aus mir selbst tun ich richte wie ich höre und mein Urteil ist gerecht denn ich suche nicht meinen Willen sondern den Willen des Vaters der mich gesandt hat",
-          "I can do nothing on my own; I judge as I hear, and my judgment is just, for I seek the Father's will, not mine",
+          "ìdájọ́ mi tọ́",
+          "my judgment is right",
+          "yo"
+        ],
+        [
+          "ìfẹ́ Bàbá",
+          "the Father’s will",
+          "yo"
+        ],
+        [
+          "wie ich höre",
+          "as I hear",
           "de"
         ],
         [
-          "אֵינִי יָכוֹל לַעֲשׂוֹת דָּבָר מֵעַצְמִי כַּאֲשֶׁר אֲנִי שׁוֹמֵעַ כֵּן אֲנִי שׁוֹפֵט וּמִשְׁפָּטִי צוֹדֵק כִּי אֵינֶנִּי מְבַקֵּשׁ אֶת רְצוֹנִי אֶלָּא אֶת רְצוֹן הָאָב שֶׁשְּׁלָחַנִי",
-          "I can do nothing on my own; I judge as I hear, and my judgment is just, because I seek the Father's will, not my own",
+          "mein Urteil gerecht",
+          "my judgment is just",
+          "de"
+        ],
+        [
+          "den Willen des Vaters",
+          "the Father’s will",
+          "de"
+        ],
+        [
+          "כַּאֲשֶׁר אֲנִי שׁוֹמֵעַ",
+          "as I hear",
           "he"
+        ],
+        [
+          "מִשְׁפָּטִי צוֹדֵק",
+          "my judgment is just",
+          "he"
+        ],
+        [
+          "רְצוֹן הָאָב שֶׁשְּׁלָחַנִי",
+          "the will of the Father who sent me",
+          "he"
+        ],
+        [
+          "I no fit do anything by myself I judge as I hear",
+          "I can do nothing on my own; I judge as I hear",
+          "pcm"
+        ],
+        [
+          "and my judgment na straight",
+          "and my judgment is just",
+          "pcm"
+        ],
+        [
+          "because I no chase my own will na Papa will I dey seek",
+          "because I do not seek my own will but the Father’s will",
+          "pcm"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          935
+          428
         ]
       ]
     },
     {
       "number": 31,
-      "text": "Jesus🙏 continue👀: “If👀 na💯 me🫶 dey💯 witness👀 about✨ myself🫶, my🫶 witness👀 no👀 be💯 true💯 o✨.” Bí✨ èmi🫶 bá✨ jẹ́👀 ẹlẹ́rìí👀 fún✨ ara🫶 mi🫶, ẹ̀rí👀 mi🫶 kì👀 í✨ ṣe💯 òtítọ́💯. Wenn✨ ich🫶 von✨ mir🫶 selbst🫶 zeuge👀, ist✨ mein🫶 Zeugnis👀 nicht👀 wahr💯. אִם✨ אֲנִי🫶 מֵעִיד👀 עַל✨ עַצְמִי🫶, עֵדוּתִי👀 אֵינָהּ👀 אֱמֶת💯.”",
+      "text": "Jesus❤️ say🙏: “If✨ na🔥 me🫶 dey🌍 witness😭 about👀 myself💯—ẹlẹ́rìí🕊️ fún❤️ ara🙏 mi✨, wenn🔥 ich🫶 von🌍 mir😭 selbst👀 zeuge💯, אִם🕊️ אֲנִי❤️ מֵעִיד🙏 עַל✨ עַצְמִי🔥—and🫶 my🌍 witness😭 no👀 be💯 true🕊️—ẹ̀rí❤️ mi🙏 kì✨ í🔥 ṣe🫶 òtítọ́🌍, mein😭 Zeugnis👀 nicht💯 wahr🕊️, עֵדוּתִי❤️ אֵינָהּ🙏 אֱמֶת✨.”",
       "glosses": [
         [
-          "If na me dey witness about myself my witness no be true o",
-          "If I testify about myself, my testimony is not true",
+          "If na me dey witness about myself",
+          "If I testify about myself",
           "pcm"
         ],
         [
-          "Bí èmi bá jẹ́ ẹlẹ́rìí fún ara mi ẹ̀rí mi kì í ṣe òtítọ́",
-          "If I testify about myself, my testimony is not true",
+          "and my witness no be true",
+          "my testimony is not true",
+          "pcm"
+        ],
+        [
+          "ẹlẹ́rìí fún ara mi",
+          "a witness for myself",
           "yo"
         ],
         [
-          "Wenn ich von mir selbst zeuge ist mein Zeugnis nicht wahr",
-          "If I testify about myself, my testimony is not true",
+          "ẹ̀rí mi kì í ṣe òtítọ́",
+          "my testimony is not true",
+          "yo"
+        ],
+        [
+          "wenn ich von mir selbst zeuge",
+          "if I testify about myself",
           "de"
         ],
         [
-          "אִם אֲנִי מֵעִיד עַל עַצְמִי עֵדוּתִי אֵינָהּ אֱמֶת",
-          "If I testify about myself, my testimony is not true",
+          "mein Zeugnis nicht wahr",
+          "my testimony is not true",
+          "de"
+        ],
+        [
+          "אִם אֲנִי מֵעִיד עַל עַצְמִי",
+          "if I testify about myself",
+          "he"
+        ],
+        [
+          "עֵדוּתִי אֵינָהּ אֱמֶת",
+          "my testimony is not true",
           "he"
         ]
       ],
       "wordsOfJesus": [
         [
-          20,
-          335
+          15,
+          309
         ]
       ]
     },
     {
       "number": 32,
-      "text": "“Another🫶 person🌍 dey💯 witness👀 about✨ me🫶; I🫶 know👀 say🕊️ the🌍 witness👀 wey🌍 e🫶 give✨ about✨ me🫶 na💯 true💯.” Ẹlòmíràn🫶 tún💯 jẹ́👀 ẹlẹ́rìí👀 nípa✨ mi🫶, mo🫶 sì✨ mọ̀✨ pé✨ ẹ̀rí👀 rẹ̀🫶 nípa✨ mi🫶 jẹ́💯 òtítọ́💯. Ein✨ anderer🫶 legt👀 Zeugnis🕊️ über✨ mich🫶 ab👀, und✨ ich🫶 weiß✨, sein🫶 Zeugnis👀 über✨ mich🫶 ist💯 wahr💯. יֵשׁ💯 אַחֵר🫶 הַמֵּעִיד👀 עָלַי✨, וַאֲנִי🫶 יוֹדֵעַ✨ שֶׁעֵדוּתוֹ👀 עָלַי✨ אֱמֶת💯.”",
+      "text": "“Another❤️ person🙏 dey✨ witness🔥 about🫶 me🌍—Ẹlòmíràn😭 jẹ́👀 ẹlẹ́rìí💯 nípa🕊️ mi❤️, Ein🙏 anderer✨ legt🔥 Zeugnis🫶 über🌍 mich😭 ab👀, יֵשׁ💯 אַחֵר🕊️ הַמֵּעִיד❤️ עָלַי🙏—and✨ I🔥 know🫶 say🌍 the😭 witness👀 e💯 give🕊️ about❤️ me🙏 na✨ truth🔥—mo🫶 mọ̀🌍 pé😭 ẹ̀rí👀 rẹ̀💯 jẹ́🕊️ òtítọ́❤️, ich🙏 weiß✨ sein🔥 Zeugnis🫶 ist🌍 wahr😭, וַאֲנִי👀 יוֹדֵעַ💯 שֶׁעֵדוּתוֹ🕊️ עָלַי❤️ אֱמֶת🙏.”",
       "glosses": [
         [
-          "Another person dey witness about me I know say the witness wey e give about me na true",
-          "Another person testifies about me; I know that his testimony about me is true",
+          "Another person dey witness about me",
+          "Another person testifies about me",
           "pcm"
         ],
         [
-          "Ẹlòmíràn tún jẹ́ ẹlẹ́rìí nípa mi mo sì mọ̀ pé ẹ̀rí rẹ̀ nípa mi jẹ́ òtítọ́",
-          "Another also testifies about me, and I know his testimony about me is true",
+          "and I know say the witness e give about me na truth",
+          "I know that his testimony about me is true",
+          "pcm"
+        ],
+        [
+          "Ẹlòmíràn jẹ́ ẹlẹ́rìí nípa mi",
+          "another person testifies about me",
           "yo"
         ],
         [
-          "Ein anderer legt Zeugnis über mich ab und ich weiß sein Zeugnis über mich ist wahr",
-          "Another person testifies about me, and I know his testimony about me is true",
+          "mo mọ̀ pé ẹ̀rí rẹ̀ jẹ́ òtítọ́",
+          "I know his testimony is true",
+          "yo"
+        ],
+        [
+          "Ein anderer legt Zeugnis über mich ab",
+          "another person testifies about me",
           "de"
         ],
         [
-          "יֵשׁ אַחֵר הַמֵּעִיד עָלַי וַאֲנִי יוֹדֵעַ שֶׁעֵדוּתוֹ עָלַי אֱמֶת",
-          "There is another who testifies about me, and I know his testimony about me is true",
+          "ich weiß sein Zeugnis ist wahr",
+          "I know his testimony is true",
+          "de"
+        ],
+        [
+          "יֵשׁ אַחֵר הַמֵּעִיד עָלַי",
+          "there is another who testifies about me",
+          "he"
+        ],
+        [
+          "וַאֲנִי יוֹדֵעַ שֶׁעֵדוּתוֹ עָלַי אֱמֶת",
+          "I know his testimony about me is true",
           "he"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          426
+          392
         ]
       ]
     },
     {
       "number": 33,
-      "text": "“Una🌍 send✨ go💯 meet👀 John🫶, John🫶 witness🕊️ say🕊️ na💯 truth💯—vérité💯, gaskiya💯, verdad💯.” Ẹ̀yin🌍 ránṣẹ́✨ sí✨ Johanu🫶, ó✨ sì✨ jẹ́👀 ẹlẹ́rìí👀 sí✨ òtítọ́💯. Ihr🌍 habt💯 Boten🌍 zu✨ Johannes🫶 gesandt✨; er🫶 hat💯 die🌍 Wahrheit💯 bezeugt👀. אַתֶּם🌍 שְׁלַחְתֶּם✨ אֶל✨ יוֹחָנָן🫶, וְהוּא🫶 הֵעִיד👀 עַל✨ הָאֱמֶת💯.”",
+      "text": "“Una❤️ send🙏 people✨ go🔥 meet🫶 John🌍—ẹ̀yin😭 ránṣẹ́👀 sí💯 Johanu🕊️, Ihr❤️ habt🙏 Boten✨ zu🔥 Johannes🫶 gesandt🌍, אַתֶּם😭 שְׁלַחְתֶּם👀 אֶל💯 יוֹחָנָן🕊️—and❤️ John🙏 witness✨ say🔥 na🫶 truth🌍—la😭 vérité👀, ó💯 jẹ́🕊️ ẹlẹ́rìí❤️ sí🙏 òtítọ́✨, er🔥 hat🫶 die🌍 Wahrheit😭 bezeugt👀, וְהוּא💯 הֵעִיד🕊️ עַל❤️ הָאֱמֶת🙏.”",
       "glosses": [
         [
-          "vérité",
-          "truth",
-          "fr"
-        ],
-        [
-          "gaskiya",
-          "truth",
-          "ha"
-        ],
-        [
-          "verdad",
-          "truth",
-          "es"
-        ],
-        [
-          "Una send go meet John John witness say na truth",
-          "You sent messengers to John, and he testified to the truth",
+          "Una send people go meet John",
+          "You sent messengers to John",
           "pcm"
         ],
         [
-          "Ẹ̀yin ránṣẹ́ sí Johanu ó sì jẹ́ ẹlẹ́rìí sí òtítọ́",
-          "You sent to John; he testified to the truth",
+          "and John witness say na truth",
+          "and John testified to the truth",
+          "pcm"
+        ],
+        [
+          "ẹ̀yin ránṣẹ́ sí Johanu",
+          "you sent to John",
           "yo"
         ],
         [
-          "Ihr habt Boten zu Johannes gesandt er hat die Wahrheit bezeugt",
-          "You sent messengers to John; he testified to the truth",
+          "ó jẹ́ ẹlẹ́rìí sí òtítọ́",
+          "he testified to the truth",
+          "yo"
+        ],
+        [
+          "Ihr habt Boten zu Johannes gesandt",
+          "you sent messengers to John",
           "de"
         ],
         [
-          "אַתֶּם שְׁלַחְתֶּם אֶל יוֹחָנָן וְהוּא הֵעִיד עַל הָאֱמֶת",
-          "You sent to John; he testified to the truth",
+          "er hat die Wahrheit bezeugt",
+          "he testified to the truth",
+          "de"
+        ],
+        [
+          "אַתֶּם שְׁלַחְתֶּם אֶל יוֹחָנָן",
+          "you sent to John",
           "he"
+        ],
+        [
+          "וְהוּא הֵעִיד עַל הָאֱמֶת",
+          "and he testified to the truth",
+          "he"
+        ],
+        [
+          "la vérité",
+          "the truth",
+          "fr"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          328
+          327
         ]
       ]
     },
     {
       "number": 34,
-      "text": "“I🫶 no👀 dey💯 collect👀 witness👀 from✨ person🌍; I🫶 talk🕊️ these✨ things🕊️—fi💯 unuh🌍 get🫶 saved🫶.” Èmi🫶 kò👀 gba👀 ẹ̀rí👀 láti✨ ọ̀dọ̀✨ ènìyàn🫶, ṣùgbọ́n✨ mo🫶 sọ👀 àwọn✨ nǹkan✨ wọ̀nyí✨ kí✨ ẹ̀yin🌍 lè💯 rí✨ ìgbàlà🫶. Ich🫶 nehme👀 kein👀 Zeugnis👀 von✨ Menschen🌍 an✨; ich🫶 sage👀 dies✨, damit✨ ihr🌍 gerettet🫶 werdet💯. אֲנִי🫶 אֵינֶנִּי👀 מְקַבֵּל👀 עֵדוּת👀 מֵאָדָם🫶, אֶלָּא✨ אֶת✨ זֹאת✨ אֲנִי🫶 אוֹמֵר👀 לְמַעַן✨ תִּוָּשְׁעוּ🫶.”",
+      "text": "“I❤️ no🙏 dey✨ collect🔥 witness🫶 from🌍 people😭—ẹ̀rí👀 láti💯 ọ̀dọ̀🕊️ ènìyàn❤️, kein🙏 Zeugnis✨ von🔥 Menschen🫶, אֵינֶנִּי🌍 מְקַבֵּל😭 עֵדוּת👀 מֵאָדָם💯; I🕊️ talk❤️ this🙏 so✨ una🔥 fit🫶 get🌍 saved😭—fi👀 get💯 save🕊️; pour❤️ que🙏 vous✨ soyez🔥 sauvés🫶, kí🌍 ẹ̀yin😭 lè👀 rí💯 ìgbàlà🕊️, damit❤️ ihr🙏 gerettet✨ werdet🔥, לְמַעַן🫶 תִּוָּשְׁעוּ🌍.”",
       "glosses": [
         [
-          "I no dey collect witness from person I talk these things",
-          "I do not accept human testimony; I say these things",
+          "I no dey collect witness from people",
+          "I do not accept human testimony",
           "pcm"
         ],
         [
-          "fi unuh get saved",
-          "so that you all may be saved",
-          "jam"
+          "I talk this so una fit get saved",
+          "I say this so you may be saved",
+          "pcm"
         ],
         [
-          "Èmi kò gba ẹ̀rí láti ọ̀dọ̀ ènìyàn ṣùgbọ́n mo sọ àwọn nǹkan wọ̀nyí kí ẹ̀yin lè rí ìgbàlà",
-          "I do not receive human testimony; I say this so you may be saved",
+          "ẹ̀rí láti ọ̀dọ̀ ènìyàn",
+          "testimony from people",
           "yo"
         ],
         [
-          "Ich nehme kein Zeugnis von Menschen an ich sage dies damit ihr gerettet werdet",
-          "I do not accept testimony from people; I say this so you may be saved",
+          "kí ẹ̀yin lè rí ìgbàlà",
+          "so that you may be saved",
+          "yo"
+        ],
+        [
+          "kein Zeugnis von Menschen",
+          "no testimony from people",
           "de"
         ],
         [
-          "אֲנִי אֵינֶנִּי מְקַבֵּל עֵדוּת מֵאָדָם אֶלָּא אֶת זֹאת אֲנִי אוֹמֵר לְמַעַן תִּוָּשְׁעוּ",
-          "I do not receive human testimony; I say this so you may be saved",
+          "damit ihr gerettet werdet",
+          "so that you may be saved",
+          "de"
+        ],
+        [
+          "אֵינֶנִּי מְקַבֵּל עֵדוּת מֵאָדָם",
+          "I do not receive testimony from a person",
           "he"
+        ],
+        [
+          "לְמַעַן תִּוָּשְׁעוּ",
+          "so that you may be saved",
+          "he"
+        ],
+        [
+          "fi get save",
+          "to be saved",
+          "jam"
+        ],
+        [
+          "pour que vous soyez sauvés",
+          "so that you may be saved",
+          "fr"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          445
+          360
         ]
       ]
     },
     {
       "number": 35,
-      "text": "“John🫶 bin💯 be💯 lamp✨ wey🌍 dey💯 burn🔥 and💯 shine✨; for✨ small💯 time💯, una🌍 gree💯 enjoy👀 im🫶 light✨—lumière✨.” Johanu🫶 jẹ́💯 fìtílà✨ tó✨ ń🔥 jó🔥, tó✨ sì✨ ń✨ tànmọ́lẹ̀✨, ẹ̀yin🌍 sì✨ fẹ́✨ yọ̀✨ fún✨ ìgbà💯 díẹ̀💯 nínú✨ ìmọ́lẹ̀✨ rẹ̀🫶. Johannes🫶 war💯 eine✨ brennende🔥 und💯 leuchtende✨ Lampe✨; eine✨ Zeit💯 lang💯 wolltet✨ ihr🌍 euch✨ an✨ seinem🫶 Licht✨ freuen✨. הוּא🫶 הָיָה💯 נֵר✨ בּוֹעֵר🔥 וּמֵאִיר✨, וְאַתֶּם🌍 רְצִיתֶם✨ לִשְׂמֹחַ✨ זְמַן💯 מְעַט💯 בְּאוֹרוֹ✨.”",
+      "text": "“John❤️ bin🙏 be✨ one🔥 lamp🫶 wey🌍 dey😭 burn👀 and💯 shine🕊️—fìtílà❤️ tó🙏 ń✨ jó🔥, tó🫶 ń🌍 tàn😭, eine👀 brennende💯 und🕊️ leuchtende❤️ Lampe🙏, נֵר✨ בּוֹעֵר🔥 וּמֵאִיר🫶; for🌍 small😭 time👀 una💯 enjoy🕊️ im❤️ light🙏—lumière✨, ìmọ́lẹ̀🔥 rẹ̀🫶, sein🌍 Licht😭, בְּאוֹרוֹ👀.”",
       "glosses": [
+        [
+          "John bin be one lamp wey dey burn and shine",
+          "John was a lamp that burned and shone",
+          "pcm"
+        ],
+        [
+          "for small time una enjoy im light",
+          "for a short time you enjoyed his light",
+          "pcm"
+        ],
+        [
+          "fìtílà tó ń jó tó ń tàn",
+          "a lamp burning and shining",
+          "yo"
+        ],
+        [
+          "ìmọ́lẹ̀ rẹ̀",
+          "his light",
+          "yo"
+        ],
+        [
+          "eine brennende und leuchtende Lampe",
+          "a burning and shining lamp",
+          "de"
+        ],
+        [
+          "sein Licht",
+          "his light",
+          "de"
+        ],
+        [
+          "נֵר בּוֹעֵר וּמֵאִיר",
+          "a burning and shining lamp",
+          "he"
+        ],
+        [
+          "בְּאוֹרוֹ",
+          "in his light",
+          "he"
+        ],
         [
           "lumière",
           "light",
           "fr"
-        ],
-        [
-          "John bin be lamp wey dey burn and shine for small time una gree enjoy im light",
-          "John was a burning and shining lamp; for a little while you were willing to enjoy his light",
-          "pcm"
-        ],
-        [
-          "Johanu jẹ́ fìtílà tó ń jó tó sì ń tànmọ́lẹ̀ ẹ̀yin sì fẹ́ yọ̀ fún ìgbà díẹ̀ nínú ìmọ́lẹ̀ rẹ̀",
-          "John was a burning, shining lamp; for a while you were willing to rejoice in his light",
-          "yo"
-        ],
-        [
-          "Johannes war eine brennende und leuchtende Lampe eine Zeit lang wolltet ihr euch an seinem Licht freuen",
-          "John was a burning lamp; for a while you wanted to rejoice in his light",
-          "de"
-        ],
-        [
-          "הוּא הָיָה נֵר בּוֹעֵר וּמֵאִיר וְאַתֶּם רְצִיתֶם לִשְׂמֹחַ זְמַן מְעַט בְּאוֹרוֹ",
-          "He was a burning, shining lamp; you wanted to rejoice in his light briefly",
-          "he"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          478
+          283
         ]
       ]
     },
     {
       "number": 36,
-      "text": "“My🫶 witness👀 pass💯 John🫶 own🫶: the🌍 works✨ wey🌍 Papa🙏 give✨ me🫶 to✨ finish💯—the🌍 same🌍 works✨ wey🌍 I🫶 dey💯 do✨—show👀 say🕊️ na💯 Papa🙏 send✨ me🫶.” Ṣùgbọ́n👀 ẹ̀rí👀 mi🫶 ga💯 ju✨ ti✨ Johanu🫶 lọ💯: iṣẹ́✨ tí✨ Bàbá🙏 fún✨ mi🫶 láti✨ parí💯, àwọn🌍 iṣẹ́✨ tí✨ mo🫶 ń✨ ṣe✨ gan-an💯, ń👀 jẹ́rìí👀 pé✨ Bàbá🙏 ló✨ rán✨ mi🫶. Doch👀 mein🫶 Zeugnis👀 wiegt💯 schwerer✨ als✨ das🌍 Zeugnis👀 des🌍 Johannes🫶: Die🌍 Werke✨, die🌍 der🌍 Vater🙏 mir🫶 zu✨ vollenden💯 gegeben💯 hat💯—genau💯 diese🌍 Werke✨—zeigen👀, dass✨ der🌍 Vater🙏 mich🫶 gesandt✨ hat💯. אֲבָל👀 עֵדוּתִי👀 גְּדוֹלָה💯 מִשֶּׁל✨ יוֹחָנָן🫶: הַמַּעֲשִׂים✨ שֶׁהָאָב🙏 נָתַן✨ לִי🫶 לְהַשְׁלִים💯, הֵם✨ הַמַּעֲשִׂים✨ שֶׁאֲנִי🫶 עוֹשֶׂה✨ וּמְעִידִים👀 שֶׁהָאָב🙏 שְׁלָחַנִי🫶.”",
+      "text": "“But❤️ my🙏 witness✨ pass🔥 John🫶 own🌍: the😭 works👀 wey💯 Papa🕊️ give❤️ me🙏 to✨ finish🔥—the🫶 same🌍 works😭 I👀 dey💯 do🕊️—na❤️ dem🙏 dey✨ show🔥 say🫶 Papa🌍 send😭 me👀—ìṣẹ́💯 tí🕊️ Bàbá❤️ fún🙏 mi✨ láti🔥 parí🫶, die🌍 Werke😭, die👀 der💯 Vater🕊️ mir❤️ zu🙏 vollenden✨ gab🔥, הַמַּעֲשִׂים🫶 שֶׁהָאָב🌍 נָתַן😭 לִי👀 לְהַשְׁלִים💯; Bàbá🕊️ ló❤️ rán🙏 mi✨, der🔥 Vater🫶 mich🌍 gesandt😭 hat👀, הָאָב💯 שְׁלָחַנִי🕊️.”",
       "glosses": [
         [
-          "My witness pass John own the works wey Papa give me to finish the same works wey I dey do show say na Papa send me",
-          "My testimony is greater than John’s: the works the Father gave me to finish—the same works I do—show that the Father sent me",
+          "But my witness pass John own",
+          "My testimony is greater than John’s",
           "pcm"
         ],
         [
-          "Ṣùgbọ́n ẹ̀rí mi ga ju ti Johanu lọ iṣẹ́ tí Bàbá fún mi láti parí àwọn iṣẹ́ tí mo ń ṣe gan-an ń jẹ́rìí pé Bàbá ló rán mi",
-          "My testimony is greater than John's; the works the Father gave me to finish testify that he sent me",
+          "the works wey Papa give me to finish the same works I dey do",
+          "the works the Father gave me to finish, the very works I do",
+          "pcm"
+        ],
+        [
+          "na dem dey show say Papa send me",
+          "they show that the Father sent me",
+          "pcm"
+        ],
+        [
+          "ìṣẹ́ tí Bàbá fún mi láti parí",
+          "the work the Father gave me to complete",
           "yo"
         ],
         [
-          "Doch mein Zeugnis wiegt schwerer als das Zeugnis des Johannes Die Werke die der Vater mir zu vollenden gegeben hat genau diese Werke zeigen dass der Vater mich gesandt hat",
-          "My testimony carries more weight than John's; the works the Father gave me to complete show that he sent me",
+          "Bàbá ló rán mi",
+          "the Father sent me",
+          "yo"
+        ],
+        [
+          "die Werke die der Vater mir zu vollenden gab",
+          "the works the Father gave me to complete",
           "de"
         ],
         [
-          "אֲבָל עֵדוּתִי גְּדוֹלָה מִשֶּׁל יוֹחָנָן הַמַּעֲשִׂים שֶׁהָאָב נָתַן לִי לְהַשְׁלִים הֵם הַמַּעֲשִׂים שֶׁאֲנִי עוֹשֶׂה וּמְעִידִים שֶׁהָאָב שְׁלָחַנִי",
-          "My testimony is greater than John's; the works the Father gave me to complete testify that he sent me",
+          "der Vater mich gesandt hat",
+          "the Father sent me",
+          "de"
+        ],
+        [
+          "הַמַּעֲשִׂים שֶׁהָאָב נָתַן לִי לְהַשְׁלִים",
+          "the works the Father gave me to complete",
+          "he"
+        ],
+        [
+          "הָאָב שְׁלָחַנִי",
+          "the Father sent me",
           "he"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          747
+          429
         ]
       ]
     },
     {
       "number": 37,
-      "text": "“Papa🙏 himself🫶, wey🌍 send✨ me🫶, don💯 witness👀 about✨ me🫶; but👀 una🌍 never💯 hear👀 im🫶 voice✨ or💯 see👀 im🫶 shape🫶.” Bàbá🙏 fúnra🫶 rẹ̀💯, ẹni🫶 tó✨ rán✨ mi🫶, ti✨ jẹ́rìí👀 nípa✨ mi🫶. Síbẹ̀👀 ẹ̀yin🌍 kò👀 tíì💯 gbọ́👀 ohùn✨ rẹ̀🫶 rí💯, bẹ́ẹ̀✨ ni✨ ẹ̀yin🌍 kò👀 tíì👀 rí👀 ìrísí✨ rẹ̀🫶. Der🌍 Vater🙏 selbst🫶, der✨ mich🫶 gesandt✨ hat💯, hat✨ Zeugnis👀 über✨ mich🫶 abgelegt💯. Doch👀 ihr🌍 habt💯 seine🫶 Stimme✨ nie💯 gehört👀 und💯 seine🫶 Gestalt🫶 nie💯 gesehen👀. הָאָב🙏 עַצְמוֹ🫶, שֶׁשְּׁלָחַנִי✨, הֵעִיד👀 עָלַי🫶; וְאַתֶּם🌍 לֹא👀 שְׁמַעְתֶּם👀 מֵעוֹלָם💯 אֶת✨ קוֹלוֹ✨ וְלֹא👀 רְאִיתֶם👀 אֶת✨ דְּמוּתוֹ🫶.”",
+      "text": "“Papa❤️ himself🙏, wey✨ send🔥 me🫶, don🌍 testify😭 about👀 me💯—Bàbá🕊️ fúnra❤️ rẹ̀🙏 ti✨ jẹ́🔥 ẹlẹ́rìí🫶 nípa🌍 mi😭, der👀 Vater💯 selbst🕊️ hat❤️ über🙏 mich✨ Zeugnis🔥 abgelegt🫶, הָאָב🌍 עַצְמוֹ😭 הֵעִיד👀 עָלַי💯; but🕊️ una❤️ never🙏 hear✨ im🔥 voice🫶 or🌍 see😭 im👀 shape💯—ẹ̀yin🕊️ kò❤️ tíì🙏 gbọ́✨ ohùn🔥 rẹ̀🫶, seine🌍 Stimme😭 nie👀 gehört💯, לֹא🕊️ שְׁמַעְתֶּם❤️ אֶת🙏 קוֹלוֹ✨; ẹ̀yin🔥 kò🫶 tíì🌍 rí😭 ìrísí👀 rẹ̀💯, seine🕊️ Gestalt❤️ nie🙏 gesehen✨, וְלֹא🔥 רְאִיתֶם🫶 אֶת🌍 דְּמוּתוֹ😭.”",
       "glosses": [
         [
-          "Papa himself wey send me don witness about me but una never hear im voice or see im shape",
-          "The Father himself, who sent me, has testified about me; you have never heard his voice or seen his form",
+          "Papa himself wey send me don testify about me",
+          "The Father himself, who sent me, has testified about me",
           "pcm"
         ],
         [
-          "Bàbá fúnra rẹ̀ ẹni tó rán mi ti jẹ́rìí nípa mi Síbẹ̀ ẹ̀yin kò tíì gbọ́ ohùn rẹ̀ rí bẹ́ẹ̀ ni ẹ̀yin kò tíì rí ìrísí rẹ̀",
-          "The Father himself testified about me; you have never heard his voice or seen his form",
+          "but una never hear im voice or see im shape",
+          "but you have never heard his voice or seen his form",
+          "pcm"
+        ],
+        [
+          "Bàbá fúnra rẹ̀ ti jẹ́ ẹlẹ́rìí nípa mi",
+          "the Father himself has testified about me",
           "yo"
         ],
         [
-          "Der Vater selbst der mich gesandt hat hat Zeugnis über mich abgelegt Doch ihr habt seine Stimme nie gehört und seine Gestalt nie gesehen",
-          "The Father himself testified about me; you have never heard his voice or seen his form",
+          "ẹ̀yin kò tíì gbọ́ ohùn rẹ̀",
+          "you have not heard his voice",
+          "yo"
+        ],
+        [
+          "ẹ̀yin kò tíì rí ìrísí rẹ̀",
+          "you have not seen his form",
+          "yo"
+        ],
+        [
+          "der Vater selbst hat über mich Zeugnis abgelegt",
+          "the Father himself testified about me",
           "de"
         ],
         [
-          "הָאָב עַצְמוֹ שֶׁשְּׁלָחַנִי הֵעִיד עָלַי וְאַתֶּם לֹא שְׁמַעְתֶּם מֵעוֹלָם אֶת קוֹלוֹ וְלֹא רְאִיתֶם אֶת דְּמוּתוֹ",
-          "The Father himself testified about me; you have never heard his voice or seen his form",
+          "seine Stimme nie gehört",
+          "never heard his voice",
+          "de"
+        ],
+        [
+          "seine Gestalt nie gesehen",
+          "never seen his form",
+          "de"
+        ],
+        [
+          "הָאָב עַצְמוֹ הֵעִיד עָלַי",
+          "the Father himself testified about me",
+          "he"
+        ],
+        [
+          "לֹא שְׁמַעְתֶּם אֶת קוֹלוֹ",
+          "you have not heard his voice",
+          "he"
+        ],
+        [
+          "וְלֹא רְאִיתֶם אֶת דְּמוּתוֹ",
+          "and you have not seen his form",
           "he"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          630
+          506
         ]
       ]
     },
     {
       "number": 38,
-      "text": "“Papa🙏 im🫶 word✨ no👀 dey💯 stay🫶 inside✨ una🌍, because👀 una🌍 no👀 believe💯 the🌍 One🫶 wey🌍 e🫶 send✨.” Ọ̀rọ̀✨ rẹ̀🫶 kò👀 gbé🫶 inú✨ yín🌍, nítorí👀 ẹ̀yin🌍 kò👀 gbàgbọ́💯 ẹni🫶 tí✨ ó✨ rán✨. Sein🫶 Wort✨ lebt👀 nicht👀 in✨ euch🌍, denn👀 ihr🌍 vertraut💯 dem🌍 nicht👀, den✨ er🙏 gesandt✨ hat💯. דְּבָרוֹ✨ אֵינוֹ👀 שֹׁכֵן🫶 בָּכֶם🌍, כִּי👀 אֵינְכֶם👀 מַאֲמִינִים💯 בְּמִי🫶 שֶׁהוּא🫶 שָׁלַח✨.”",
+      "text": "“Papa❤️ word🙏 no✨ dey🔥 settle🫶 inside🌍 una😭, because👀 una💯 no🕊️ trust❤️ the🙏 One✨ wey🔥 he🫶 send🌍—Ọ̀rọ̀😭 rẹ̀👀 kò💯 gbé🕊️ inú❤️ yín🙏, ẹ̀yin✨ kò🔥 gbàgbọ́🫶 ẹni🌍 tó😭 rán👀, Sein💯 Wort🕊️ wohnt❤️ nicht🙏 in✨ euch🔥, ihr🫶 glaubt🌍 dem😭 nicht👀, דְּבָרוֹ💯 אֵינוֹ🕊️ שֹׁכֵן❤️ בָּכֶם🙏, כִּי✨ אֵינְכֶם🔥 מַאֲמִינִים🫶 בְּמִי🌍 שֶׁהוּא😭 שָׁלַח👀.”",
       "glosses": [
         [
-          "Papa im word no dey stay inside una because una no believe the One wey e send",
-          "The Father's word does not remain in you, because you do not believe the one he sent",
+          "Papa word no dey settle inside una",
+          "The Father’s word does not remain in you",
           "pcm"
         ],
         [
-          "Ọ̀rọ̀ rẹ̀ kò gbé inú yín nítorí ẹ̀yin kò gbàgbọ́ ẹni tí ó rán",
-          "His word does not dwell in you, because you do not believe the one he sent",
+          "because una no trust the One wey he send",
+          "because you do not believe the One he sent",
+          "pcm"
+        ],
+        [
+          "Ọ̀rọ̀ rẹ̀ kò gbé inú yín",
+          "his word does not dwell in you",
           "yo"
         ],
         [
-          "Sein Wort lebt nicht in euch denn ihr vertraut dem nicht den er gesandt hat",
-          "His word does not live in you, because you do not trust the one he sent",
+          "ẹ̀yin kò gbàgbọ́ ẹni tó rán",
+          "you do not believe the one he sent",
+          "yo"
+        ],
+        [
+          "Sein Wort wohnt nicht in euch",
+          "his word does not dwell in you",
           "de"
         ],
         [
-          "דְּבָרוֹ אֵינוֹ שֹׁכֵן בָּכֶם כִּי אֵינְכֶם מַאֲמִינִים בְּמִי שֶׁהוּא שָׁלַח",
-          "His word does not dwell in you, because you do not believe the one he sent",
+          "ihr glaubt dem nicht",
+          "you do not believe him",
+          "de"
+        ],
+        [
+          "דְּבָרוֹ אֵינוֹ שֹׁכֵן בָּכֶם",
+          "his word does not dwell in you",
+          "he"
+        ],
+        [
+          "כִּי אֵינְכֶם מַאֲמִינִים בְּמִי שֶׁהוּא שָׁלַח",
+          "because you do not believe the one he sent",
           "he"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          403
+          360
         ]
       ]
     },
     {
       "number": 39,
-      "text": "“Una🌍 search👀 Scriptures🕊️—maandiko🕊️; una🌍 think👀 say🕊️ na💯 inside✨ dem🌍 una🌍 get🫶 life🫶 forever💯, but👀 na💯 dem🌍 dey💯 witness👀 about✨ me🫶.” Ẹ🌍 wá👀 inú✨ Ìwé🕊️ Mímọ́🙏; ẹ̀yin🌍 rò👀 pé✨ ẹ✨ ní✨ ìyè🫶 àìnípẹ̀kun💯 nínú✨ wọn🌍, àwọn🌍 ìwé🕊️ náà✨ sì👀 ń✨ tọ́ka💯 sí✨ mi🫶. Durchsucht👀 die🌍 Schriften🕊️: Ihr🌍 meint👀, ewiges🫶 Leben🫶 in✨ ihnen🌍 zu✨ haben👀; doch👀 sie🫶 weisen👀 auf✨ mich🫶 hin👀. חִפְשׂוּ👀 בַּכְּתוּבִים🕊️; אַתֶּם🌍 חוֹשְׁבִים👀 שֶׁבָּהֶם✨ חַיֵּי🫶 עוֹלָם💯, וְהֵם🫶 מְעִידִים👀 עָלַי🫶.”",
+      "text": "“Search❤️ the🙏 Scriptures✨—Ìwé🔥 Mímọ́🫶; una🌍 think😭 say👀 na💯 inside🕊️ dem❤️ una🙏 get✨ life🔥 forever🫶—ẹ̀yin🌍 rò😭 pé👀 ẹ💯 ní🕊️ ìyè❤️ àìnípẹ̀kun🙏 nínú✨ wọn🔥, ihr🫶 meint🌍 ewiges😭 Leben👀 in💯 ihnen🕊️, אַתֶּם❤️ חוֹשְׁבִים🙏 שֶׁבָּהֶם✨ חַיֵּי🔥 עוֹלָם🫶; but🌍 na😭 dem👀 dey💯 testify🕊️ about❤️ me🙏—wọn✨ ń🔥 jẹ́rìí🫶 nípa🌍 mi😭, sie👀 weisen💯 auf🕊️ mich❤️ hin🙏, הֵם✨ מְעִידִים🔥 עָלַי🫶.”",
       "glosses": [
         [
-          "Una search Scriptures",
-          "You search the Scriptures",
-          "pcm"
-        ],
-        [
-          "una think say na inside dem una get life forever but na dem dey witness about me",
-          "You think you have eternal life in them, but they testify about me",
-          "pcm"
-        ],
-        [
-          "Ẹ wá inú Ìwé Mímọ́ ẹ̀yin rò pé ẹ ní ìyè àìnípẹ̀kun nínú wọn àwọn ìwé náà sì ń tọ́ka sí mi",
-          "You search the Holy Scriptures; you think you have eternal life in them, and the writings point to me",
+          "Ìwé Mímọ́",
+          "the Scriptures",
           "yo"
         ],
         [
-          "Durchsucht die Schriften Ihr meint ewiges Leben in ihnen zu haben doch sie weisen auf mich hin",
-          "Search the Scriptures; you think you have eternal life in them, but they point to me",
+          "ẹ̀yin rò pé ẹ ní ìyè àìnípẹ̀kun nínú wọn",
+          "you think you have eternal life in them",
+          "yo"
+        ],
+        [
+          "wọn ń jẹ́rìí nípa mi",
+          "they testify about me",
+          "yo"
+        ],
+        [
+          "ihr meint ewiges Leben in ihnen",
+          "you think you have eternal life in them",
           "de"
         ],
         [
-          "חִפְשׂוּ בַּכְּתוּבִים אַתֶּם חוֹשְׁבִים שֶׁבָּהֶם חַיֵּי עוֹלָם וְהֵם מְעִידִים עָלַי",
-          "Search the Scriptures; you think they contain eternal life, but they testify about me",
+          "sie weisen auf mich hin",
+          "they point to me",
+          "de"
+        ],
+        [
+          "אַתֶּם חוֹשְׁבִים שֶׁבָּהֶם חַיֵּי עוֹלָם",
+          "you think you have eternal life in them",
           "he"
         ],
         [
-          "maandiko",
-          "writings / Scriptures",
-          "sw"
+          "הֵם מְעִידִים עָלַי",
+          "they testify about me",
+          "he"
+        ],
+        [
+          "Search the Scriptures",
+          "search the Scriptures",
+          "pcm"
+        ],
+        [
+          "una think say na inside dem una get life forever",
+          "you think you have eternal life in them",
+          "pcm"
+        ],
+        [
+          "but na dem dey testify about me",
+          "but they testify about me",
+          "pcm"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          532
+          409
         ]
       ]
     },
     {
       "number": 40,
-      "text": "“But👀 una🌍 no👀 wan👀 come✨ meet👀 me🫶—venir✨ vers✨ moi✨, ịbịa✨—so💯 una🌍 fit💯 get🫶 life🫶.” Síbẹ̀👀, ẹ̀yin🌍 kọ̀👀 láti✨ tọ̀👀 mí🫶 wá✨, kí✨ ẹ̀yin🌍 lè💯 ní✨ ìyè🫶. Und👀 trotzdem✨ wollt👀 ihr🌍 nicht👀 zu✨ mir🫶 kommen✨, damit✨ ihr🌍 Leben🫶 habt💯. וְאַתֶּם🌍 מְמָאֲנִים👀 לָבוֹא✨ אֵלַי🫶 לְמַעַן✨ תִּחְיוּ🫶.”",
+      "text": "“But❤️ una🙏 refuse✨ to🔥 come🫶 meet🌍 me😭 so👀 you💯 fit🕊️ get❤️ life🙏—venir✨ à🔥 moi🫶, ẹ̀yin🌍 kọ̀😭 láti👀 tọ̀💯 mí🕊️ wá❤️ kí🙏 ẹ✨ lè🔥 ní🫶 ìyè🌍, ihr😭 wollt👀 nicht💯 zu🕊️ mir❤️ kommen🙏 damit✨ ihr🔥 Leben🫶 habt🌍, וְאַתֶּם😭 מְמָאֲנִים👀 לָבוֹא💯 אֵלַי🕊️ לְמַעַן❤️ תִּחְיוּ🙏.”",
       "glosses": [
         [
-          "venir vers moi",
-          "to come to me",
-          "fr"
-        ],
-        [
-          "ịbịa",
-          "to come",
-          "ig"
-        ],
-        [
-          "But una no wan come meet me",
-          "But you do not want to come to me",
+          "But una refuse to come meet me so you fit get life",
+          "But you refuse to come to me so you may have life",
           "pcm"
         ],
         [
-          "so una fit get life",
-          "so that you may have life",
-          "pcm"
-        ],
-        [
-          "Síbẹ̀ ẹ̀yin kọ̀ láti tọ̀ mí wá kí ẹ̀yin lè ní ìyè",
-          "Yet you refuse to come to me so that you may have life",
+          "ẹ̀yin kọ̀ láti tọ̀ mí wá",
+          "you refuse to come to me",
           "yo"
         ],
         [
-          "Und trotzdem wollt ihr nicht zu mir kommen damit ihr Leben habt",
-          "And yet you do not want to come to me so that you may have life",
+          "kí ẹ lè ní ìyè",
+          "so that you may have life",
+          "yo"
+        ],
+        [
+          "ihr wollt nicht zu mir kommen",
+          "you do not want to come to me",
           "de"
         ],
         [
-          "וְאַתֶּם מְמָאֲנִים לָבוֹא אֵלַי לְמַעַן תִּחְיוּ",
-          "Yet you refuse to come to me so that you may live",
+          "damit ihr Leben habt",
+          "so that you may have life",
+          "de"
+        ],
+        [
+          "וְאַתֶּם מְמָאֲנִים לָבוֹא אֵלַי",
+          "but you refuse to come to me",
           "he"
         ],
+        [
+          "לְמַעַן תִּחְיוּ",
+          "so that you may live",
+          "he"
+        ],
+        [
+          "venir à moi",
+          "come to me",
+          "fr"
+        ]
       ],
       "wordsOfJesus": [
         [
           0,
-          319
+          292
         ]
       ]
     },
     {
       "number": 41,
-      "text": "“I🫶 no👀 dey💯 collect👀 honor✨ from✨ dem🌍.” Mi🫶 nuh👀 tek👀 praise✨ from✨ people🌍. Èmi🫶 kì👀 í👀 gba✨ ọlá✨ lọ́dọ̀✨ ènìyàn🌍. Ich🫶 nehme👀 keine✨ Ehre✨ von✨ Menschen🌍 an🫶. אֵינֶנִּי👀 מְקַבֵּל✨ כָּבוֹד✨ מִבְּנֵי🌍 אָדָם🫶.”",
+      "text": "“I❤️ no🙏 dey✨ collect🔥 praise🫶 from🌍 people😭—des👀 personnes💯, mi🕊️ nuh❤️ tek🙏 praise✨ from🔥 people🫶, èmi🌍 kì😭 í👀 gba💯 ọlá🕊️ lọ́dọ̀❤️ ènìyàn🙏, ich✨ nehme🔥 keine🫶 Ehre🌍 von😭 Menschen👀 an💯, אֵינֶנִּי🕊️ מְקַבֵּל❤️ כָּבוֹד🙏 מִבְּנֵי✨ אָדָם🔥.”",
       "glosses": [
         [
-          "I no dey collect honor from dem",
-          "I do not receive honor from people",
+          "I no dey collect praise from people",
+          "I do not receive praise from people",
           "pcm"
         ],
         [
-          "Mi nuh tek praise from people",
-          "I do not accept praise from people",
+          "mi nuh tek praise from people",
+          "I do not take praise from people",
           "jam"
         ],
         [
-          "Èmi kì í gba ọlá lọ́dọ̀ ènìyàn",
+          "èmi kì í gba ọlá lọ́dọ̀ ènìyàn",
           "I do not receive honor from people",
           "yo"
         ],
         [
-          "Ich nehme keine Ehre von Menschen an",
-          "I do not receive honor from people",
+          "ich nehme keine Ehre von Menschen an",
+          "I do not accept honor from people",
           "de"
         ],
         [
           "אֵינֶנִּי מְקַבֵּל כָּבוֹד מִבְּנֵי אָדָם",
           "I do not receive honor from people",
           "he"
+        ],
+        [
+          "des personnes",
+          "people",
+          "fr"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          231
+          262
         ]
       ]
     },
     {
       "number": 42,
-      "text": "“But👀 I🫶 sabi👀 una🌍: God🙏 love🫶 no👀 dey💯 inside✨ una🌍.” Ṣùgbọ́n👀 mo🫶 mọ̀👀 pé✨ ẹ̀yin🌍 fúnra🫶 yín🫶 kò👀 ní✨ ìfẹ́🫶 Ọlọ́run🙏 nínú✨ yín🌍. Doch👀 ich🫶 kenne👀 euch🌍: Gottes🙏 Liebe🫶 wohnt👀 nicht👀 in✨ euch🌍. אֲבָל👀 אֲנִי🫶 יוֹדֵעַ👀 אֶתְכֶם🌍: אַהֲבַת🫶 אֱלֹהִים🙏 אֵינֶנָּה👀 בָּכֶם🌍.”",
+      "text": "“But❤️ I🙏 sabi✨ una🔥: God🫶 love🌍 no😭 dey👀 inside💯 una🕊️—mo❤️ mọ̀🙏 yín✨, ìfẹ́🔥 Ọlọ́run🫶 kò🌍 sí😭 nínú👀 yín💯, ich🕊️ kenne❤️ euch🙏, Gottes✨ Liebe🔥 wohnt🫶 nicht🌍 in😭 euch👀, אֲבָל💯 אֲנִי🕊️ יוֹדֵעַ❤️ אֶתְכֶם🙏, אַהֲבַת✨ אֱלֹהִים🔥 אֵינֶנָּה🫶 בָּכֶם🌍.”",
       "glosses": [
         [
           "But I sabi una God love no dey inside una",
-          "But I know you: God's love is not within you",
+          "But I know you; God’s love is not in you",
           "pcm"
         ],
         [
-          "Ṣùgbọ́n mo mọ̀ pé ẹ̀yin fúnra yín kò ní ìfẹ́ Ọlọ́run nínú yín",
-          "But I know you: God's love is not in you",
+          "mo mọ̀ yín",
+          "I know you",
           "yo"
         ],
         [
-          "Doch ich kenne euch Gottes Liebe wohnt nicht in euch",
-          "But I know you: God's love does not dwell in you",
+          "ìfẹ́ Ọlọ́run kò sí nínú yín",
+          "God’s love is not in you",
+          "yo"
+        ],
+        [
+          "ich kenne euch",
+          "I know you",
           "de"
         ],
         [
-          "אֲבָל אֲנִי יוֹדֵעַ אֶתְכֶם אַהֲבַת אֱלֹהִים אֵינֶנָּה בָּכֶם",
-          "But I know you: God's love is not in you",
+          "Gottes Liebe wohnt nicht in euch",
+          "God’s love does not dwell in you",
+          "de"
+        ],
+        [
+          "אֲבָל אֲנִי יוֹדֵעַ אֶתְכֶם",
+          "but I know you",
+          "he"
+        ],
+        [
+          "אַהֲבַת אֱלֹהִים אֵינֶנָּה בָּכֶם",
+          "God’s love is not in you",
           "he"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          305
+          269
         ]
       ]
     },
     {
       "number": 43,
-      "text": "“I🫶 come✨ with✨ my🫶 Papa🙏 name✨, but👀 una🌍 no👀 welcome👀 me🫶; if✨ another🫶 person🌍 come✨ with✨ im🫶 own🫶 name✨, una🌍 go💯 welcome👀 am🫶.” Mo🫶 wá✨ ní✨ orúkọ✨ Bàbá🙏 mi🫶, ṣùgbọ́n👀 ẹ̀yin🌍 kò👀 gbà👀 mí🫶; bí✨ ẹlòmíràn🫶 bá💯 wá✨ ní✨ orúkọ✨ ara✨ rẹ̀🫶, ẹ̀yin🌍 yóò💯 gbà👀 á🫶. Ich🫶 bin💯 im🌍 Namen✨ meines🫶 Vaters🙏 gekommen✨, doch👀 ihr🌍 nehmt👀 mich🫶 nicht👀 an✨. Kommt👀 jemand🫶 in✨ seinem🫶 eigenen🫶 Namen✨, nehmt💯 ihr🌍 ihn👀 an✨. בָּאתִי✨ בְּשֵׁם🙏 אָבִי🫶 וְאֵינְכֶם👀 מְקַבְּלִים👀 אוֹתִי🫶; אִם✨ יָבוֹא✨ אַחֵר🫶 בְּשֵׁם✨ עַצְמוֹ🫶, אוֹתוֹ💯 תְּקַבְּלוּ👀.”",
+      "text": "“I❤️ come🙏 with✨ my🔥 Papa🫶 name🌍, but😭 una👀 no💯 welcome🕊️ me❤️—mo🙏 wá✨ ní🔥 orúkọ🫶 Bàbá🌍 mi😭 ṣùgbọ́n👀 ẹ̀yin💯 kò🕊️ gbà❤️ mí🙏, ich✨ bin🔥 im🫶 Namen🌍 meines😭 Vaters👀 gekommen💯 doch🕊️ ihr❤️ nehmt🙏 mich✨ nicht🔥 an🫶, בָּאתִי🌍 בְּשֵׁם😭 אָבִי👀 וְאֵינְכֶם💯 מְקַבְּלִים🕊️ אוֹתִי❤️; if🙏 another✨ person🔥 come🫶 with🌍 im😭 own👀 name💯, una🕊️ go❤️ welcome🙏 am✨—bí🔥 ẹlòmíràn🫶 bá🌍 wá😭 ní👀 orúkọ💯 ara🕊️ rẹ̀❤️ ẹ̀yin🙏 yóò✨ gbà🔥 á🫶, kommt🌍 jemand😭 in👀 seinem💯 eigenen🕊️ Namen❤️ nehmt🙏 ihr✨ ihn🔥 an🫶, אִם🌍 יָבוֹא😭 אַחֵר👀 בְּשֵׁם💯 עַצְמוֹ🕊️ אוֹתוֹ❤️ תְּקַבְּלוּ🙏.”",
       "glosses": [
         [
-          "I come with my Papa name but una no welcome me if another person come with im own name una go welcome am",
-          "I came in my Father's name, but you do not receive me; if another comes in his own name, you will receive him",
+          "I come with my Papa name but una no welcome me",
+          "I came in my Father’s name, but you do not accept me",
           "pcm"
         ],
         [
-          "Mo wá ní orúkọ Bàbá mi ṣùgbọ́n ẹ̀yin kò gbà mí bí ẹlòmíràn bá wá ní orúkọ ara rẹ̀ ẹ̀yin yóò gbà á",
-          "I came in my Father's name, but you do not receive me; if another comes in his own name, you will receive him",
+          "if another person come with im own name una go welcome am",
+          "if another comes in his own name, you will accept him",
+          "pcm"
+        ],
+        [
+          "mo wá ní orúkọ Bàbá mi",
+          "I came in my Father’s name",
           "yo"
         ],
         [
-          "Ich bin im Namen meines Vaters gekommen doch ihr nehmt mich nicht an Kommt jemand in seinem eigenen Namen nehmt ihr ihn an",
-          "I have come in my Father's name, but you do not receive me. If another comes in their own name, you receive them",
+          "ṣùgbọ́n ẹ̀yin kò gbà mí",
+          "but you do not accept me",
+          "yo"
+        ],
+        [
+          "bí ẹlòmíràn bá wá ní orúkọ ara rẹ̀",
+          "if another comes in his own name",
+          "yo"
+        ],
+        [
+          "ẹ̀yin yóò gbà á",
+          "you will accept him",
+          "yo"
+        ],
+        [
+          "ich bin im Namen meines Vaters gekommen",
+          "I came in my Father’s name",
           "de"
         ],
         [
-          "בָּאתִי בְּשֵׁם אָבִי וְאֵינְכֶם מְקַבְּלִים אוֹתִי אִם יָבוֹא אַחֵר בְּשֵׁם עַצְמוֹ אוֹתוֹ תְּקַבְּלוּ",
-          "I came in my Father's name, but you do not receive me; if another comes in his own name, you will receive him",
+          "doch ihr nehmt mich nicht an",
+          "but you do not accept me",
+          "de"
+        ],
+        [
+          "kommt jemand in seinem eigenen Namen",
+          "if someone comes in his own name",
+          "de"
+        ],
+        [
+          "nehmt ihr ihn an",
+          "you accept him",
+          "de"
+        ],
+        [
+          "בָּאתִי בְּשֵׁם אָבִי וְאֵינְכֶם מְקַבְּלִים אוֹתִי",
+          "I came in my Father’s name but you do not accept me",
+          "he"
+        ],
+        [
+          "אִם יָבוֹא אַחֵר בְּשֵׁם עַצְמוֹ אוֹתוֹ תְּקַבְּלוּ",
+          "if another comes in his own name you will accept him",
           "he"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          586
+          602
         ]
       ]
     },
     {
       "number": 44,
-      "text": "“How👀 una🌍 fit💯 believe💯 when👀 una🌍 dey💯 collect👀 honor✨ from✨ one🫶 another🫶, but👀 no👀 dey💯 chase👀 honor✨ wey🌍 come✨ from✨ God🙏 wey🌍 be💯 the🌍 only💯 One🙏?” Báwo👀 ni✨ ẹ̀yin🌍 ṣe💯 lè💯 gbàgbọ́💯, bí✨ ẹ̀yin🌍 ti✨ ń✨ gba✨ ọlá✨ lọ́dọ̀✨ ara✨ yín🫶, tí✨ ẹ̀yin🌍 kò👀 sì✨ wá👀 ọlá✨ tó✨ ti✨ Ọlọ́run🙏 nìkan💯? Wie👀 könnt💯 ihr🌍 glauben💯, wenn👀 ihr🌍 Ehre✨ voneinander🫶 annehmt👀, aber👀 nicht👀 die🌍 Ehre✨ sucht👀, die✨ vom🌍 einzigen💯 Gott🙏 kommt💯? אֵיךְ👀 תַּאֲמִינוּ💯, כְּשֶׁאַתֶּם🌍 מְקַבְּלִים✨ כָּבוֹד✨ זֶה💯 מִזֶּה💯 וְאֵינְכֶם👀 מְבַקְשִׁים👀 אֶת✨ הַכָּבוֹד✨ אֲשֶׁר👀 מֵאֵת🙏 הָאֱלֹהִים🙏 הַיָּחִיד💯?”",
+      "text": "“How❤️ una🙏 fit✨ believe🔥 when🫶 una🌍 dey😭 collect👀 honor💯 from🕊️ each❤️ other🙏—ọlá✨ lọ́dọ̀🔥 ara🫶 yín🌍, Ehre😭 voneinander👀, כָּבוֹד💯 זֶה🕊️ מִזֶּה❤️—but🙏 no✨ dey🔥 seek🫶 honor🌍 from😭 the👀 only💯 God🕊️—ọlá❤️ láti🙏 ọ̀dọ̀✨ Ọlọ́run🔥 kan🫶 ṣoṣo🌍, die😭 Ehre👀 vom💯 einzigen🕊️ Gott❤️, אֶת🙏 הַכָּבוֹד✨ אֲשֶׁר🔥 מֵאֵת🫶 הָאֱלֹהִים🌍 הַיָּחִיד😭?”",
       "glosses": [
         [
-          "How una fit believe when una dey collect honor from one another but no dey chase honor wey come from God wey be the only One",
-          "How can you believe while receiving honor from one another but not seeking honor from the only God?",
+          "How una fit believe when una dey collect honor from each other",
+          "How can you believe when you receive honor from one another",
           "pcm"
         ],
         [
-          "Báwo ni ẹ̀yin ṣe lè gbàgbọ́ bí ẹ̀yin ti ń gba ọlá lọ́dọ̀ ara yín tí ẹ̀yin kò sì wá ọlá tó ti Ọlọ́run nìkan",
-          "How can you believe while receiving honor from one another and not seeking honor from God alone?",
+          "but no dey seek honor from the only God",
+          "but do not seek honor from the only God",
+          "pcm"
+        ],
+        [
+          "ọlá lọ́dọ̀ ara yín",
+          "honor from one another",
           "yo"
         ],
         [
-          "Wie könnt ihr glauben wenn ihr Ehre voneinander annehmt aber nicht die Ehre sucht die vom einzigen Gott kommt",
-          "How can you believe when you receive honor from one another but do not seek the honor that comes from the only God?",
+          "ọlá láti ọ̀dọ̀ Ọlọ́run kan ṣoṣo",
+          "honor from the only God",
+          "yo"
+        ],
+        [
+          "Ehre voneinander",
+          "honor from one another",
           "de"
         ],
         [
-          "אֵיךְ תַּאֲמִינוּ כְּשֶׁאַתֶּם מְקַבְּלִים כָּבוֹד זֶה מִזֶּה וְאֵינְכֶם מְבַקְשִׁים אֶת הַכָּבוֹד אֲשֶׁר מֵאֵת הָאֱלֹהִים הַיָּחִיד",
-          "How can you believe while receiving honor from one another but not seeking honor that comes from the only God?",
+          "die Ehre vom einzigen Gott",
+          "the honor from the only God",
+          "de"
+        ],
+        [
+          "כָּבוֹד זֶה מִזֶּה",
+          "honor from one another",
+          "he"
+        ],
+        [
+          "אֶת הַכָּבוֹד אֲשֶׁר מֵאֵת הָאֱלֹהִים הַיָּחִיד",
+          "the honor from the only God",
           "he"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          633
+          363
         ]
       ]
     },
     {
       "number": 45,
-      "text": "“No👀 think👀 say🕊️ na💯 me🫶 go💯 accuse👀 una🌍 to✨ Papa🙏; na💯 Moses🫶 dey💯 accuse👀 una🌍—the🌍 Moses🫶 wey🌍 una🌍 trust💯.” Ẹ🌍 má👀 rò👀 pé✨ èmi🫶 ni💯 yóò💯 fi👀 yín🌍 sùn👀 lọ́dọ̀✨ Bàbá🙏; Mose🫶 fúnra🫶 rẹ̀👀 ni💯 yóò💯 fi✨ ẹ̀sùn👀 kan✨ yín🌍—ẹni🫶 tí✨ ẹ̀yin🌍 gbẹ́kẹ̀lé💯. Denkt👀 nicht👀, ich🫶 würde💯 euch🌍 vor✨ dem🌍 Vater🙏 anklagen👀; Mose🫶 klagt👀 euch🌍 an✨, auf✨ den🌍 ihr🌍 eure🫶 Hoffnung🫶 setzt✨. אַל👀 תַּחְשְׁבוּ👀 שֶׁאֲנִי🫶 אַאֲשִׁים👀 אֶתְכֶם🌍 לִפְנֵי✨ הָאָב🙏; מֹשֶׁה🫶 הוּא💯 הַמַּאֲשִׁים👀 אֶתְכֶם🌍, שֶׁבּוֹ🫶 אַתֶּם🌍 בּוֹטְחִים💯.”",
+      "text": "“No❤️ think🙏 say✨ na🔥 me🫶 go🌍 accuse😭 una👀 to💯 Papa🕊️; Moses❤️ himself🙏 go✨ accuse🔥 una🫶—Mose🌍 fúnra😭 rẹ̀👀 ni💯 yóò🕊️ fi❤️ ẹ̀sùn🙏 kan✨ yín🔥, Mose🫶 klagt🌍 euch😭 an👀, מֹשֶׁה💯 הוּא🕊️ הַמַּאֲשִׁים❤️ אֶתְכֶם🙏—na✨ Moses🔥 wey🫶 una🌍 put😭 hope👀 inside💯—ẹni🕊️ tí❤️ ẹ̀yin🙏 gbẹ́kẹ̀lé✨, auf🔥 den🫶 ihr🌍 eure😭 Hoffnung👀 setzt💯, שֶׁבּוֹ🕊️ אַתֶּם❤️ בּוֹטְחִים🙏.”",
       "glosses": [
         [
-          "No think say na me go accuse una to Papa na Moses dey accuse una the Moses wey una trust",
-          "Do not think I will accuse you to the Father; Moses, whom you trust, accuses you",
+          "No think say na me go accuse una to Papa",
+          "Do not think that I will accuse you to the Father",
           "pcm"
         ],
         [
-          "Ẹ má rò pé èmi ni yóò fi yín sùn lọ́dọ̀ Bàbá Mose fúnra rẹ̀ ni yóò fi ẹ̀sùn kan yín ẹni tí ẹ̀yin gbẹ́kẹ̀lé",
-          "Do not think I will accuse you before the Father; Moses himself accuses you, the one you trust",
+          "Moses himself go accuse una",
+          "Moses himself will accuse you",
+          "pcm"
+        ],
+        [
+          "na Moses wey una put hope inside",
+          "Moses, the one you trust",
+          "pcm"
+        ],
+        [
+          "Mose fúnra rẹ̀ ni yóò fi ẹ̀sùn kan yín",
+          "Moses himself will accuse you",
           "yo"
         ],
         [
-          "Denkt nicht ich würde euch vor dem Vater anklagen Mose klagt euch an auf den ihr eure Hoffnung setzt",
-          "Do not think I would accuse you before the Father; Moses accuses you, the one in whom you place hope",
+          "ẹni tí ẹ̀yin gbẹ́kẹ̀lé",
+          "the one you trust",
+          "yo"
+        ],
+        [
+          "Mose klagt euch an",
+          "Moses accuses you",
           "de"
         ],
         [
-          "אַל תַּחְשְׁבוּ שֶׁאֲנִי אַאֲשִׁים אֶתְכֶם לִפְנֵי הָאָב מֹשֶׁה הוּא הַמַּאֲשִׁים אֶתְכֶם שֶׁבּוֹ אַתֶּם בּוֹטְחִים",
-          "Do not think I will accuse you before the Father; Moses is your accuser, the one in whom you trust",
+          "auf den ihr eure Hoffnung setzt",
+          "in whom you put your hope",
+          "de"
+        ],
+        [
+          "מֹשֶׁה הוּא הַמַּאֲשִׁים אֶתְכֶם",
+          "Moses is the one accusing you",
+          "he"
+        ],
+        [
+          "שֶׁבּוֹ אַתֶּם בּוֹטְחִים",
+          "the one in whom you trust",
           "he"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          572
+          384
         ]
       ]
     },
     {
       "number": 46,
-      "text": "“If✨ una🌍 bin💯 trust💯 Moses🫶 well-well💯, una🌍 for💯 trust💯 me🫶 too✨, because👀 na💯 him🫶 write✨ about✨ me🫶.” Bí👀 ẹ̀yin🌍 ìbá💯 gbàgbọ́💯 Mose🫶 lóòótọ́💯, ẹ̀yin🌍 ìbá💯 tún✨ gbàgbọ́💯 mí🫶, nítorí👀 ó🫶 kọ✨ nípa✨ mi🫶. Wenn👀 ihr🌍 Mose🫶 wirklich💯 geglaubt💯 hättet💯, hättet💯 ihr🌍 auch✨ mir🫶 geglaubt💯, denn👀 er🫶 schrieb✨ über✨ mich🫶. אִלּוּ👀 הֶאֱמַנְתֶּם💯 לְמֹשֶׁה🫶, הֱיִיתֶם💯 מַאֲמִינִים💯 גַּם✨ לִי🫶, כִּי👀 הוּא🫶 כָּתַב✨ עָלַי🫶.”",
+      "text": "“If❤️ una🙏 trust✨ Moses🔥 well-well🫶, una🌍 for😭 trust👀 me💯 too🕊️—bí❤️ ẹ̀yin🙏 ìbá✨ gbàgbọ́🔥 Mose🫶 lóòótọ́🌍 ẹ̀yin😭 ìbá👀 gbàgbọ́💯 mí🕊️, wenn❤️ ihr🙏 Mose✨ wirklich🔥 geglaubt🫶 hättet🌍 hättet😭 ihr👀 auch💯 mir🕊️ geglaubt❤️, אִלּוּ🙏 הֶאֱמַנְתֶּם✨ לְמֹשֶׁה🔥 הֱיִיתֶם🫶 מַאֲמִינִים🌍 גַּם😭 לִי👀—because💯 na🕊️ him❤️ write🙏 about✨ me🔥—nítorí🫶 ó🌍 kọ😭 nípa👀 mi💯, denn🕊️ er❤️ schrieb🙏 über✨ mich🔥, כִּי🫶 הוּא🌍 כָּתַב😭 עָלַי👀.”",
       "glosses": [
         [
-          "If una bin trust Moses well-well una for trust me too because na him write about me",
-          "If you truly believed Moses, you would believe me too, because he wrote about me",
+          "If una trust Moses well-well una for trust me too",
+          "If you truly believed Moses, you would believe me too",
           "pcm"
         ],
         [
-          "Bí ẹ̀yin ìbá gbàgbọ́ Mose lóòótọ́ ẹ̀yin ìbá tún gbàgbọ́ mí nítorí ó kọ nípa mi",
-          "If you truly believed Moses, you would also believe me, because he wrote about me",
+          "because na him write about me",
+          "because he wrote about me",
+          "pcm"
+        ],
+        [
+          "bí ẹ̀yin ìbá gbàgbọ́ Mose lóòótọ́",
+          "if you truly believed Moses",
           "yo"
         ],
         [
-          "Wenn ihr Mose wirklich geglaubt hättet hättet ihr auch mir geglaubt denn er schrieb über mich",
-          "If you had truly believed Moses, you would also have believed me, because he wrote about me",
+          "ẹ̀yin ìbá gbàgbọ́ mí",
+          "you would believe me",
+          "yo"
+        ],
+        [
+          "nítorí ó kọ nípa mi",
+          "because he wrote about me",
+          "yo"
+        ],
+        [
+          "wenn ihr Mose wirklich geglaubt hättet",
+          "if you had truly believed Moses",
           "de"
         ],
         [
-          "אִלּוּ הֶאֱמַנְתֶּם לְמֹשֶׁה הֱיִיתֶם מַאֲמִינִים גַּם לִי כִּי הוּא כָּתַב עָלַי",
-          "If you had believed Moses, you would have believed me too, because he wrote about me",
+          "hättet ihr auch mir geglaubt",
+          "you would also have believed me",
+          "de"
+        ],
+        [
+          "denn er schrieb über mich",
+          "for he wrote about me",
+          "de"
+        ],
+        [
+          "אִלּוּ הֶאֱמַנְתֶּם לְמֹשֶׁה",
+          "if you had believed Moses",
+          "he"
+        ],
+        [
+          "הֱיִיתֶם מַאֲמִינִים גַּם לִי",
+          "you would also have believed me",
+          "he"
+        ],
+        [
+          "כִּי הוּא כָּתַב עָלַי",
+          "because he wrote about me",
           "he"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          461
+          452
         ]
       ]
     },
     {
       "number": 47,
-      "text": "“But👀 if✨ una🌍 no👀 believe💯 wetin👀 Moses🫶 write✨, how👀 una🌍 go💯 believe💯 my🫶 words🕊️?” Ṣùgbọ́n👀 bí👀 ẹ̀yin🌍 kò👀 bá💯 gbàgbọ́💯 ohun🫶 tí✨ ó🫶 kọ✨, báwo👀 ni✨ ẹ̀yin🌍 yóò💯 ṣe💯 gbàgbọ́💯 ọ̀rọ̀🕊️ mi🫶? Doch👀 wenn👀 ihr🌍 seinen🫶 Schriften✨ nicht👀 glaubt💯, wie👀 werdet💯 ihr🌍 dann✨ meinen🫶 Worten🕊️ glauben💯? וְאִם👀 אֵינְכֶם👀 מַאֲמִינִים💯 לִכְתָבָיו✨, אֵיךְ👀 תַּאֲמִינוּ💯 לִדְבָרַי🕊️?”",
+      "text": "“But❤️ if🙏 una✨ no🔥 believe🫶 wetin🌍 Moses😭 write👀, how💯 una🕊️ go❤️ believe🙏 my✨ words🔥—bí🫶 ẹ̀yin🌍 kò😭 bá👀 gbàgbọ́💯 ohun🕊️ tí❤️ Mose🙏 kọ✨, báwo🔥 lẹ🫶 ṣe🌍 máa😭 gbàgbọ́👀 ọ̀rọ̀💯 mi🕊️, wenn❤️ ihr🙏 seinen✨ Schriften🔥 nicht🫶 glaubt🌍 wie😭 werdet👀 ihr💯 meinen🕊️ Worten❤️ glauben🙏, וְאִם✨ אֵינְכֶם🔥 מַאֲמִינִים🫶 לִכְתָבָיו🌍 אֵיךְ😭 תַּאֲמִינוּ👀 לִדְבָרַי💯?”",
       "glosses": [
         [
           "But if una no believe wetin Moses write how una go believe my words",
-          "But if you do not believe what Moses wrote, how will you believe my words?",
+          "But if you do not believe what Moses wrote, how will you believe my words",
           "pcm"
         ],
         [
-          "Ṣùgbọ́n bí ẹ̀yin kò bá gbàgbọ́ ohun tí ó kọ báwo ni ẹ̀yin yóò ṣe gbàgbọ́ ọ̀rọ̀ mi",
-          "But if you do not believe what he wrote, how will you believe my words?",
+          "bí ẹ̀yin kò bá gbàgbọ́ ohun tí Mose kọ",
+          "if you do not believe what Moses wrote",
           "yo"
         ],
         [
-          "Doch wenn ihr seinen Schriften nicht glaubt wie werdet ihr dann meinen Worten glauben",
-          "But if you do not trust his writings, how will you believe my words?",
+          "báwo lẹ ṣe máa gbàgbọ́ ọ̀rọ̀ mi",
+          "how will you believe my words",
+          "yo"
+        ],
+        [
+          "wenn ihr seinen Schriften nicht glaubt",
+          "if you do not believe his writings",
           "de"
         ],
         [
-          "וְאִם אֵינְכֶם מַאֲמִינִים לִכְתָבָיו אֵיךְ תַּאֲמִינוּ לִדְבָרַי",
-          "And if you do not believe his writings, how will you believe my words?",
+          "wie werdet ihr meinen Worten glauben",
+          "how will you believe my words",
+          "de"
+        ],
+        [
+          "וְאִם אֵינְכֶם מַאֲמִינִים לִכְתָבָיו",
+          "if you do not believe his writings",
+          "he"
+        ],
+        [
+          "אֵיךְ תַּאֲמִינוּ לִדְבָרַי",
+          "how will you believe my words",
           "he"
         ]
       ],
       "wordsOfJesus": [
         [
           0,
-          414
+          383
         ]
       ]
     }
   ]
 };
-
