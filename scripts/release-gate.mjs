@@ -48,8 +48,17 @@ function escapeHtml(value) {
 
 const paletteAtWordEnd = /^(?:❤️|🙏|✨|🔥|🫶|🌍|😭|👀|💯|🕊️)/u;
 const paletteGlobal = /(?:❤️|🙏|✨|🔥|🫶|🌍|😭|👀|💯|🕊️)/gu;
+function decodeHtmlText(value) {
+  return value.replaceAll("&amp;", "&").replaceAll("&#39;", "'")
+    .replaceAll("&quot;", '"').replaceAll("&lt;", "<").replaceAll("&gt;", ">");
+}
+function normalizeGlossPhrase(value) {
+  return [...decodeHtmlText(value).replace(paletteGlobal, "").matchAll(/[\p{L}\p{M}]+(?:['’\-][\p{L}\p{M}]+)*/gu)]
+    .map(([word]) => word).join(" ");
+}
 const coreLanguages = ["pcm", "yo", "de", "he"];
 const chapterLanguages = ["fr", "ig", "ha", "jam"];
+const rotatingLanguages = ["es", "ar", "pt", "sw", "hi", "zh", "tl", "ko", "ja", "it", "nl"];
 const requiredManualChecks = [
   "universalVoice",
   "scriptureMeaning",
@@ -143,7 +152,7 @@ function auditChapter(evidence, { requirePublished = true, requireVisualReview =
     const spans = [...html.matchAll(/<span class="verse-gloss" title="([^"]*)" lang="([^"]*)" dir="auto">([^<]*)<\/span>/g)];
     const usedSpans = new Set();
     const glossedWords = new Set(spans.flatMap((span) =>
-      [...span[3].replace(paletteGlobal, "").matchAll(/[\p{L}\p{M}]+(?:['’\-][\p{L}\p{M}]+)*/gu)]
+      [...decodeHtmlText(span[3]).replace(paletteGlobal, "").matchAll(/[\p{L}\p{M}]+(?:['’\-][\p{L}\p{M}]+)*/gu)]
         .map(([word]) => word.toLocaleLowerCase()),
     ));
     for (const [phrase, meaning, language] of verseGlosses) {
@@ -152,7 +161,7 @@ function auditChapter(evidence, { requirePublished = true, requireVisualReview =
       }
       const visiblePhrase = phrase;
       const renderedIndex = spans.findIndex((span, spanIndex) => !usedSpans.has(spanIndex) &&
-        span[3].replace(paletteGlobal, "").trim() === visiblePhrase &&
+        normalizeGlossPhrase(span[3]) === normalizeGlossPhrase(visiblePhrase) &&
         span[1] === escapeHtml(meaning) && span[2] === language);
       if (renderedIndex < 0) fail(`${book} ${chapter}:${number}: hover gloss does not render for “${phrase}”`);
       usedSpans.add(renderedIndex);
@@ -160,7 +169,7 @@ function auditChapter(evidence, { requirePublished = true, requireVisualReview =
     }
 
     for (const token of tokens.slice(firstWord)) {
-      if (/[^\u0000-\u007f]/u.test(token[0]) && !glossedWords.has(token[0].toLocaleLowerCase())) {
+      if (/[^\u0000-\u007f]/u.test(token[0].replaceAll('’', "'")) && !glossedWords.has(token[0].toLocaleLowerCase())) {
         fail(`${book} ${chapter}:${number}: switched word “${token[0]}” has no rendered hover gloss`);
       }
     }
@@ -178,6 +187,9 @@ function auditChapter(evidence, { requirePublished = true, requireVisualReview =
       fail(`${book} ${chapter} needs at least four ${language} switch words across the chapter`);
     }
   }
+
+  const rotatingUsed = rotatingLanguages.filter((language) => (languageTotals[language] ?? 0) > 0);
+  if (rotatingUsed.length < 2) fail(`${book} ${chapter} needs two rotating languages; found ${rotatingUsed.length}`);
 
   if (!skipManualReview) {
     if (evidence.gateVersion !== 1) fail(`${book} ${chapter}: gateVersion must be 1`);
@@ -263,14 +275,18 @@ try {
     const outOfOrder = baseEvidence.find((id) => canonicalSequence.indexOf(id) > lastReleased);
     if (outOfOrder) fail(`Published chapter evidence has a gap before ${outOfOrder}`);
     const expected = canonicalSequence[lastReleased + 1];
-    if (`${evidence.book}-${evidence.chapter}` !== expected) {
-      fail(`Next chapter release must be ${expected}; found ${evidence.book}-${evidence.chapter}`);
+    const chapterId = `${evidence.book}-${evidence.chapter}`;
+    const sequenceIndex = canonicalSequence.indexOf(chapterId);
+    const isRevision = released.has(chapterId) || sequenceIndex <= releaseBaseline;
+    if (!isRevision && chapterId !== expected) {
+      fail(`Next chapter release must be ${expected}; found ${chapterId}`);
     }
     const baseReader = execFileSync("git", ["show", `origin/${base}:index.html`], { encoding: "utf8", maxBuffer: 16 * 1024 * 1024 });
     const beforeVerses = extractOptionalDeclaration(evidence.versesVar, "\n];", baseReader);
     const afterVerses = extractDeclaration(evidence.versesVar, "\n];");
     const beforeGlosses = extractOptionalDeclaration(evidence.glossesVar, "\n};", baseReader);
     const afterGlosses = extractDeclaration(evidence.glossesVar, "\n};");
+    if (isRevision && (!beforeVerses || !beforeGlosses)) fail(`${evidence.book} ${evidence.chapter}: revision needs existing reader content`);
     if (JSON.stringify(beforeVerses) === JSON.stringify(afterVerses) || JSON.stringify(beforeGlosses) === JSON.stringify(afterGlosses)) {
       fail(`${evidence.book} ${evidence.chapter}: PR must change the target chapter text and glossary`);
     }
