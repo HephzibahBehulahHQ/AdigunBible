@@ -98,7 +98,7 @@ jobs:
             assert.equal(rendered.title, 'Leviticus 2');
             assert.deepEqual(rendered.verses.map(([number]) => number), Array.from({length: 16}, (_, i) => i + 1));
             assert(rendered.verses.every(([, height]) => height > 0));
-            assert.equal(rendered.glosses, 70);
+            assert.equal(rendered.glosses, 82);
             assert.equal(rendered.missing, 0);
             const [x, y] = rendered.point;
             await request(session + '/actions', {actions: [{
@@ -107,7 +107,7 @@ jobs:
             }]});
             assert.equal(await evaluate("return document.querySelector('.verse-gloss:hover')?.title"),
               'a person should bring fine flour');
-            console.log('Chrome rendered all 16 Leviticus verses and 70 tooltip titles; the hover sample matched.');
+            console.log('Chrome rendered all 16 Leviticus verses and 82 tooltip titles; the hover sample matched.');
           } finally {
             await request(session, undefined, 'DELETE');
           }
