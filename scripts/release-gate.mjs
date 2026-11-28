@@ -1,5 +1,6 @@
 import { execFileSync } from "node:child_process";
 import { readdirSync, readFileSync } from "node:fs";
+import { isDeepStrictEqual } from "node:util";
 import path from "node:path";
 import vm from "node:vm";
 
@@ -241,7 +242,6 @@ try {
       .split(/\r?\n/).filter(Boolean);
     const changedEvidence = changedFiles.filter((file) => /^release-evidence\/[A-Z0-9]{3}-\d+\.json$/.test(file));
     if (changedEvidence.length !== 1) fail(`A chapter release PR must change exactly one evidence file; found ${changedEvidence.length}`);
-    if (!changedFiles.includes("index.html")) fail("A chapter release PR must update the reader content in index.html");
     const allowed = new Set([
       "index.html",
       changedEvidence[0],
@@ -253,6 +253,30 @@ try {
     const evidence = readEvidence(path.join(root, changedEvidence[0]));
     if (path.basename(changedEvidence[0]) !== `${evidence.book}-${evidence.chapter}.json`) {
       fail(`${changedEvidence[0]}: evidence filename must match its book and chapter`);
+    }
+    if (!changedFiles.includes("index.html")) {
+      const prior = JSON.parse(execFileSync("git", ["show", `origin/${base}:${changedEvidence[0]}`], { encoding: "utf8" }));
+      if (prior.status !== "passed_with_visual_deferral" || evidence.status !== "passed") {
+        fail("An evidence-only PR must close an existing chapter rendering deferral");
+      }
+      const expected = {
+        ...prior,
+        status: "passed",
+        checks: { ...prior.checks, readerRendering: "pass" },
+        verseReviews: Object.fromEntries(Object.entries(prior.verseReviews).map(([number, review]) =>
+          [number, { ...review, rendering: "pass" }],
+        )),
+        visualReview: evidence.visualReview,
+      };
+      delete expected.visualDeferral;
+      const { reviewer, reviewedAt, browser, reference } = evidence.visualReview ?? {};
+      if ([reviewer, reviewedAt, browser, reference].some((value) => typeof value !== "string" || !value.trim()) ||
+          !Number.isFinite(Date.parse(reviewedAt)) ||
+          !isDeepStrictEqual(evidence, expected)) {
+        fail("An evidence-only PR must record the browser review and preserve every prior nonvisual check");
+      }
+      auditChapter(evidence, { requireVisualReview: true });
+      process.exit(0);
     }
     const baseEvidence = execFileSync("git", ["ls-tree", "-r", "--name-only", `origin/${base}`, "--", "release-evidence"], { encoding: "utf8" })
       .split(/\r?\n/).filter((file) => /^release-evidence\/[A-Z0-9]{3}-\d+\.json$/.test(file))

@@ -5,7 +5,7 @@
   "versesVar": "exodusSeventeenth",
   "glossesVar": "exodusSeventeenthGlosses",
   "expectedVerseCount": 16,
-  "status": "passed_with_visual_deferral",
+  "status": "passed",
   "reviewer": "Codex",
   "reviewedAt": "2026-11-21T16:07:57Z",
   "languageReferences": {
@@ -26,110 +26,110 @@
     "sourceSyntax": "pass",
     "hoverGlosses": "pass",
     "readerNavigation": "pass",
-    "readerRendering": "deferred"
+    "readerRendering": "pass"
   },
   "verseReviews": {
     "1": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "2": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "3": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "4": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "5": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "6": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "7": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "8": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "9": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "10": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "11": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "12": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "13": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "14": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "15": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "16": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     }
   },
-  "visualDeferral": {
-    "approvedBy": "owner",
-    "approvedAt": "2026-11-21",
-    "approvalReference": "Owner approved pending reader visual evidence and continuing publication in the Codex chat on 2026-11-21.",
-    "followUp": "Complete chapter and hover visual checks before whole-corpus completion."
+  "visualReview": {
+    "reviewer": "Codex and project owner",
+    "reviewedAt": "2026-11-28",
+    "browser": "Codex in-app browser",
+    "reference": "Owner visually confirmed Kol in Exodus 17:1 shows all. Signed-in review checked all 16 verse rows and all 285 tooltip titles in Exodus 17."
   }
 }
