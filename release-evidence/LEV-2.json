@@ -4,5 +4,150 @@
   "versesVar": "leviticusSecond",
   "glossesVar": "leviticusSecondGlosses",
   "expectedVerseCount": 16,
-  "status": "in_review"
+  "status": "passed",
+  "gateVersion": 1,
+  "reviewer": "Codex",
+  "reviewedAt": "2026-11-28",
+  "scriptureReference": "https://ebible.org/eng-web/LEV02.htm",
+  "languageReferences": {
+    "pcm": "https://bibliamundi.com/wp-content/uploads/2023/09/Pidgin-Nigerian-All-Bible.pdf",
+    "yo": "https://www.biblegateway.com/passage/?search=Lefitiku+2&version=BYO",
+    "de": "https://www.bibleserver.com/LUT/3.Mose2",
+    "he": "https://mechon-mamre.org/p/pt/pt0302.htm",
+    "fr": "https://www.aelf.org/bible/Lv/2",
+    "ig": "https://www.bible.com/bible/77/LEV.2.IGBOB",
+    "ha": "https://luna.dbs.org/bibles/HAUSRK/pdf/books/LEV.pdf",
+    "jam": "https://www.mona.uwi.edu/dllp/sites/default/files/dllp/spelling-jamaican-the-jamaican-way-Handout.pdf"
+  },
+  "checks": {
+    "universalVoice": "pass",
+    "scriptureMeaning": "pass",
+    "completenessAndOrder": "pass",
+    "multilingualAccuracy": "pass",
+    "sourceSyntax": "pass",
+    "hoverGlosses": "pass",
+    "readerNavigation": "pass",
+    "readerRendering": "pass"
+  },
+  "verseReviews": {
+    "1": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "pass",
+      "meaningNote": "Fine flour, oil and frankincense for the LORD’s grain offering."
+    },
+    "2": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "pass",
+      "meaningNote": "Aaron’s sons receive the offering. The priest takes a handful of flour and oil with all the frankincense and burns the memorial on the altar."
+    },
+    "3": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "pass",
+      "meaningNote": "The most holy remainder goes to Aaron and his sons."
+    },
+    "4": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "pass",
+      "meaningNote": "Oven-baked offerings use unleavened cakes with oil in the dough or unleavened wafers brushed with oil."
+    },
+    "5": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "pass",
+      "meaningNote": "The griddle offering uses fine unleavened flour mixed with oil."
+    },
+    "6": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "pass",
+      "meaningNote": "The griddle offering is broken into pieces and oil is poured over it."
+    },
+    "7": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "pass",
+      "meaningNote": "A deep-pan offering uses fine flour and oil."
+    },
+    "8": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "pass",
+      "meaningNote": "The offerer presents the grain offering to the priest, who takes it to the altar."
+    },
+    "9": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "pass",
+      "meaningNote": "The priest burns the memorial portion on the altar as an offering that pleases the LORD."
+    },
+    "10": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "pass",
+      "meaningNote": "Aaron and his sons receive the most holy remainder."
+    },
+    "11": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "pass",
+      "meaningNote": "Do not leaven a grain offering or burn leaven or honey in the LORD’s fire offering."
+    },
+    "12": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "pass",
+      "meaningNote": "Leaven and honey may be offered as firstfruits and are kept off the altar."
+    },
+    "13": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "pass",
+      "meaningNote": "Season grain offerings with the covenant salt and include salt with every offering."
+    },
+    "14": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "pass",
+      "meaningNote": "The grain firstfruits use fresh heads roasted over fire and crushed."
+    },
+    "15": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "pass",
+      "meaningNote": "Oil and frankincense go on the grain offering."
+    },
+    "16": {
+      "voice": "pass",
+      "meaning": "pass",
+      "languages": "pass",
+      "rendering": "pass",
+      "meaningNote": "The priest burns some crushed grain and oil with all the frankincense as the memorial."
+    }
+  },
+  "visualReview": {
+    "reviewer": "Codex",
+    "reviewedAt": "2026-11-28",
+    "browser": "Headless Chrome on GitHub Actions",
+    "reference": "https://github.com/HephzibahBehulahHQ/AdigunBible/actions/runs/46158166417",
+    "coverage": "16 ordered visible verses, 82 native tooltip titles, and a matching mouse-hover sample."
+  }
 }
