@@ -4,7 +4,7 @@
   "versesVar": "leviticusFirst",
   "glossesVar": "leviticusFirstGlosses",
   "expectedVerseCount": 17,
-  "status": "in_review",
+  "status": "passed",
   "gateVersion": 1,
   "reviewer": "Codex",
   "reviewedAt": "2026-11-28",
@@ -22,21 +22,21 @@
     "sw": "https://bibliamundi.com/wp-content/uploads/2023/09/Swahili-All-Bible-Swahili-Union-Version.pdf"
   },
   "checks": {
-    "universalVoice": "pending_final_review",
+    "universalVoice": "pass",
     "scriptureMeaning": "pass",
     "completenessAndOrder": "pass",
-    "multilingualAccuracy": "pending_final_review",
+    "multilingualAccuracy": "pass",
     "sourceSyntax": "pass",
-    "hoverGlosses": "pending_native_hover",
+    "hoverGlosses": "pass",
     "readerNavigation": "pass",
-    "readerRendering": "pending_browser_review"
+    "readerRendering": "pass"
   },
   "verseReviews": {
     "1": {
-      "voice": "pending_final_review",
+      "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The LORD calls Moses and speaks from inside the meeting tent.",
       "prioritySwitchWords": {
         "pcm": 4,
@@ -46,10 +46,10 @@
       }
     },
     "2": {
-      "voice": "pending_final_review",
+      "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "Moses is to tell Israel to bring livestock offerings from the herd or flock.",
       "prioritySwitchWords": {
         "pcm": 4,
@@ -59,10 +59,10 @@
       }
     },
     "3": {
-      "voice": "pending_final_review",
+      "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The herd offering is a flawless male presented at the tent entrance so the offerer may be accepted.",
       "prioritySwitchWords": {
         "pcm": 5,
@@ -72,10 +72,10 @@
       }
     },
     "4": {
-      "voice": "pending_final_review",
+      "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The offerer places a hand on the burnt offering’s head and the offering is accepted on the offerer’s behalf for atonement.",
       "prioritySwitchWords": {
         "pcm": 4,
@@ -85,10 +85,10 @@
       }
     },
     "5": {
-      "voice": "pending_final_review",
+      "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The offerer slaughters the bull before the LORD. Aaron’s sons present and sprinkle its blood around the altar at the tent entrance.",
       "prioritySwitchWords": {
         "pcm": 5,
@@ -98,10 +98,10 @@
       }
     },
     "6": {
-      "voice": "pending_final_review",
+      "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The offerer removes the hide and cuts the animal into pieces.",
       "prioritySwitchWords": {
         "pcm": 5,
@@ -111,10 +111,10 @@
       }
     },
     "7": {
-      "voice": "pending_final_review",
+      "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "Aaron’s sons put fire on the altar and arrange the wood over it.",
       "prioritySwitchWords": {
         "pcm": 5,
@@ -124,10 +124,10 @@
       }
     },
     "8": {
-      "voice": "pending_final_review",
+      "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The priests place the cuts, the head, and the fat on wood over the altar fire.",
       "prioritySwitchWords": {
         "pcm": 11,
@@ -137,10 +137,10 @@
       }
     },
     "9": {
-      "voice": "pending_final_review",
+      "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The entrails and legs are washed. The priest burns the whole offering on the altar, a pleasing aroma to the LORD.",
       "prioritySwitchWords": {
         "pcm": 6,
@@ -150,10 +150,10 @@
       }
     },
     "10": {
-      "voice": "pending_final_review",
+      "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The flock offering is a flawless male sheep or goat.",
       "prioritySwitchWords": {
         "pcm": 6,
@@ -163,10 +163,10 @@
       }
     },
     "11": {
-      "voice": "pending_final_review",
+      "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The animal is slaughtered on the altar’s north side before the LORD. Aaron’s sons sprinkle the blood around the altar.",
       "prioritySwitchWords": {
         "pcm": 5,
@@ -176,10 +176,10 @@
       }
     },
     "12": {
-      "voice": "pending_final_review",
+      "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The offerer cuts up the animal. The priest arranges the pieces with the head and fat on wood over the altar fire.",
       "prioritySwitchWords": {
         "pcm": 8,
@@ -189,10 +189,10 @@
       }
     },
     "13": {
-      "voice": "pending_final_review",
+      "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The entrails and legs are washed. The priest presents and burns the whole offering on the altar.",
       "prioritySwitchWords": {
         "pcm": 6,
@@ -202,10 +202,10 @@
       }
     },
     "14": {
-      "voice": "pending_final_review",
+      "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The birds offered to the LORD are turtledoves or young pigeons.",
       "prioritySwitchWords": {
         "pcm": 5,
@@ -215,10 +215,10 @@
       }
     },
     "15": {
-      "voice": "pending_final_review",
+      "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The priest wrings off and burns the head, and the blood drains against the altar’s side.",
       "prioritySwitchWords": {
         "pcm": 5,
@@ -228,10 +228,10 @@
       }
     },
     "16": {
-      "voice": "pending_final_review",
+      "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The crop and feathers go to the ash disposal site east of the altar.",
       "prioritySwitchWords": {
         "pcm": 6,
@@ -241,10 +241,10 @@
       }
     },
     "17": {
-      "voice": "pending_final_review",
+      "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The priest opens the bird at the wings while keeping it in one piece, then burns it on the wood over the altar fire.",
       "prioritySwitchWords": {
         "pcm": 6,
@@ -290,6 +290,12 @@
     "voice": "Emoji-free editorial passes covered verses 1–4, 5–9, and 10–17. The working draft records the final wording for all three sections.",
     "meaning": "Each verse has a Scripture meaning review note and verse-order coverage.",
     "languages": "The working draft records the contextual language review and references. The release manifest records priority word counts and the distribution of the other languages.",
-    "browser": "Pending visual verification of the local preview and its native hover behavior."
+    "browser": "GitHub Actions Chrome rendered 17 ordered verse rows at desktop width and 87 native tooltip titles. A WebDriver pointer move over the first verse gloss matched the expected contextual title. The native popup itself was not captured."
+  },
+  "visualReview": {
+    "reviewer": "Codex",
+    "reviewedAt": "2026-11-28",
+    "browser": "Headless Chrome on GitHub Actions",
+    "reference": "https://github.com/HephzibahBehulahHQ/AdigunBible/actions/runs/46157602931"
   }
 }
