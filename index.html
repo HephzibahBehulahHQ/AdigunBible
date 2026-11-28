@@ -25,7 +25,7 @@
 <main class="layout">
 <aside class="sidebar" aria-label="Book and chapter navigation">
 <div class="sidecard"><div class="sidehead"><h2>Scripture</h2><span id="book-position">Book 40 / 66</span></div>
-<label for="book-select">Book</label> <select id="book-select"><option value="GEN">Genesis</option><option value="EXO">Exodus</option><option value="MAT">Matthew</option><option value="MRK">Mark</option><option value="LUK">Luke</option><option value="JHN">John</option></select><div class="bookpill"><div class="bookicon">✦</div><div><strong id="book-name">Genesis</strong></div></div>
+<label for="book-select">Book</label> <select id="book-select"><option value="GEN">Genesis</option><option value="EXO">Exodus</option><option value="LEV">Leviticus</option><option value="MAT">Matthew</option><option value="MRK">Mark</option><option value="LUK">Luke</option><option value="JHN">John</option></select><div class="bookpill"><div class="bookicon">✦</div><div><strong id="book-name">Genesis</strong></div></div>
 <p class="mobilechap">Choose a chapter</p><div class="chaptergrid" id="chapter-grid" aria-label="Genesis chapters"></div>
 <div class="sidefoot"><b id="book-summary">Genesis · 50 chapters</b></div>
 </div>
@@ -47356,9 +47356,500 @@ const exodusFortiethGlosses={
   37:[["im lo yealeh heanan lo yisu","if the cloud did not rise they did not travel","he"],["If cloud no rise dem no move","if cloud did not rise they did not move","pcm"],["Bí ìkùukùu kò bá gòkè wọn kò lọ","if cloud did not rise they did not go","yo"],["blieb die Wolke stehen blieb Israel stehen","if cloud stayed Israel stayed","de"]],
   38:[["mishkan","tabernacle","he"],["anan Adonai al hamishkan yomam veesh laylah","the LORD's cloud over the tabernacle by day and fire by night","he"],["Day cloud night fire all Israel see every journey","cloud by day and fire by night visible to all Israel","pcm"],["Ọ̀sán ìkùukùu òru iná gbogbo Ísírẹ́lì rí","cloud by day, fire by night, all Israel saw","yo"],["tagsüber Wolke nachts Feuer ganz Israel sah es","cloud by day, fire by night, all Israel saw","de"]],
 };
+const leviticusFirst=[
+  "Hold✨ up✨—Adonai🙏 vayikra✨ el🫶 Moshe🫶; l’appel✨ venait🌍 láti✨ inú✨ àgọ́🌍 ìpàdé🫶. Na✨ God🙏 call✨ Moses🫶, and✨ aus✨ dem✨ Begegnungszelt🌍 sprach✨ er🫶.",
+  "Then✨ God🙏 told✨ Moses🫶 to✨ pass✨ this✨ on✨: dabber✨ el🫶 bnei🫶 Yisrael🌍. Fam🫶, if✨ you🫶 bring🌍 a✨ korban🫶 to✨ the✨ LORD🙏, no✨ bring🌍 just✨ anything🌍—your🫶 animal🌍 comes🌍 du✨ gros🌍 ou✨ du✨ petit🌍 bétail🌍. Ẹran🌍 láti✨ inú✨ agbo🌍 màlúù🌍 tàbí✨ agbo🌍 àgùntàn🌍 àti✨ ewúrẹ́🌍, aus✨ der✨ Rinderherde🌍 oder✨ vom✨ Kleinvieh🌍.",
+  "For✨ a✨ burnt🔥 offering🙏 from✨ the✨ herd🌍, zachar🫶 tamim💯 yakrivenu🌍 lifnei👀 Adonai🙏. Carry🌍 am🫶 reach🌍 di✨ entrance🌍—à✨ l’entrée🌍 de✨ la✨ tente🌍 de✨ rencontre🫶. Present🌍 it✨ sin✨ defecto🌍 ante👀 el✨ Señor🙏, kí✨ Olúwa🙏 lè✨ tẹ́wọ́gbà🫶 ọ́🫶—damit✨ der✨ HERR🙏 dich🫶 annimmt🫶.",
+  "Now✨ place🌍 your🫶 hand🫶 on✨ that✨ burnt🔥 offering's🙏 head🌍. vesamakh🫶 yado🫶 al✨ rosh🌍 haolah🔥; God🙏 go✨ accept🫶 am🫶 n’ọnọdụ🫶 gị🫶 for✨ atonement❤️. Kí✨ ó✨ ṣe🌍 ètùtù❤️, für✨ ihn🫶 zur✨ Sühne❤️ angenommen🫶, weka🌍 mkono🫶 juu🌍 ya✨ kichwa🌍 kwa✨ upatanisho❤️.",
+  "You🫶 slaughter🔥 the✨ young✨ bull🌍 right✨ there🌍 before👀 the✨ LORD🙏— veshachat🔥 et✨ ben🌍 habakar🌍 lifnei👀 Adonai🙏. Then✨ Aaron's🫶 sons🫶, the✨ priests🙏, carry🫶 its✨ blood❤️ and✨ splash🌍 it✨ around✨ the✨ altar🌍 n’ọnụ🌍 ụzọ🌍 ụlọikwuu🌍 nzukọ🫶. Priests🙏 carry🫶 blood❤️ round🌍 altar🌍, Àwọn✨ àlùfáà🙏 yóò✨ wọ́n🌍 ẹ̀jẹ̀❤️ yí🌍 pẹpẹ🌍 ká🌍, Die✨ Priester🙏 sprengen🌍 das✨ Blut❤️ rings✨ um✨ den✨ Altar🌍.",
+  "Next✨, take🌍 the✨ hide🌍 off✨ that✨ burnt🔥 offering🙏 and✨ bee🌍 ya🫶 iberibe🌍: vehifshit🌍 et✨ haolah🔥 venitach🌍 otah🌍. Remove🌍 skin🌍 cut🌍 am🫶 up✨; Yọ🌍 awọ🌍 ẹbọ🙏 náà✨; zieh🌍 ihm🫶 die✨ Haut🌍 ab✨ und✨ zerleg🌍 es✨.",
+  "Now✨ Aaron's🫶 sons🫶 take🌍 over✨: venatnu🌍 bnei🫶 Aharon🫶 hakohen🙏 esh🔥. Dem🫶 light🔥 fire🔥 for✨ altar🌍, then✨ su🫶 jera🌍 itacen🌍 in✨ order💯 over✨ it✨. Fi🌍 iná🔥 sí✨ pẹpẹ🌍 náà✨, das✨ Holz🌍 aufs✨ Feuer🔥 schichten🌍.",
+  "Same✨ crew🫶—Aaron's🫶 sons🫶, the✨ priests🙏—arrange🌍 the✨ cut✨ pieces🌍, head🌍, and✨ fat🌍 on✨ wood🌍 a✨ kan✨ wutar🔥 bagaden🌍. vearkhu🌍 bnei🫶 Aharon🫶 hakohanim🙏 et✨ hanetachim🌍; Dem🫶 go✨ set🌍 di✨ head🌍 and✨ fat🌍 on✨ top✨ di✨ wood🌍, To🌍 àwọn✨ ègé🌍 náà✨ lé🌍 orí🌍 igi🌍, Kopf🌍 und✨ Fett🌍 mit✨ auf✨ das✨ Holz🌍 legen🌍.",
+  "Rinse🌍 the✨ guts🌍 and✨ legs🌍 da✨ ruwa🌍 first✨— kerevo🌍 ukeraav🌍 yirchatz🌍 bamayim🌍. Then✨ the✨ priest🙏 puts🌍 the✨ whole✨ offering🙏 on✨ the✨ altar🌍 to✨ burn🔥. Na✨ di✨ priest🙏 go✨ burn🔥 everything🌍, Wẹ̀🌍 inú✨ àti✨ ẹsẹ̀🌍 pẹ̀lú🫶 omi🌍, alles✨ auf✨ dem✨ Altar🌍 verbrennen🔥. It's✨ a✨ fire🔥 offering🙏, an✨ aroma✨ pleasing❤️ to✨ the✨ LORD🙏.",
+  "If✨ the✨ burnt🔥 offering🙏 comes🌍 from✨ the✨ flock🌍, choose🫶 shiip🌍 ar✨ guot🌍. min✨ hatzon🌍 min✨ hakvasim🌍 o✨ min✨ haizim🌍; Bring🌍 male🫶 wey✨ no✨ get✨ flaw🌍, Mú🫶 akọ🫶 aláìlábààwọ́n💯 láti✨ agbo🌍, ein✨ fehlerloses💯 männliches🫶 Tier🌍.",
+  "Pan✨ di✨ naat🌍 said🌍 a✨ di✨ alta🌍, slaughter🔥 that✨ animal🌍 before👀 the✨ LORD🙏. veshachat🔥 oto🫶 al✨ yerekh🌍 hamizbeach🌍 tzafonah🌍; Priests🙏 splash🌍 blood❤️ round🌍 altar🌍, Wọ́n🌍 ẹ̀jẹ̀❤️ náà✨ yí🌍 pẹpẹ🌍 ká🌍, das✨ Blut❤️ rings✨ um✨ den✨ Altar🌍 sprengen🌍. That's✨ where✨ Aaron's🫶 sons🫶 step🌍 in✨.",
+  "Cut🌍 it✨ into✨ pieces🌍, head🌍 and✨ fat🌍 included✨. venitach🌍 oto🫶 lenetachav🌍 veet✨ rosho🌍; then✨ the✨ priest🙏 lays🌍 those✨ pieces🌍 in✨ order💯 on✨ the✨ wood🌍 over✨ the✨ altar🌍 fire🔥. Cut🌍 am🫶 into✨ pieces🌍 with✨ head🌍 and✨ fat🌍, Pẹ̀lú🫶 orí🌍 rẹ̀✨ àti✨ ọ̀rá🌍 rẹ̀✨, die✨ Stücke🌍 ordentlich💯 aufs✨ Holz🌍 legen🌍.",
+  "Rinse🌍 the✨ guts🌍 and✨ legs🌍 with✨ water🌍 first✨— kerevo🌍 ukeraav🌍 yirchatz🌍 bamayim🌍. The✨ priest🙏 brings🌍 the✨ whole✨ thing🌍 and✨ bun🔥 it✨ pan✨ di✨ alta🌍. Na✨ di✨ priest🙏 go✨ burn🔥 everything🌍, Kí✨ àlùfáà🙏 sun🔥 gbogbo✨ rẹ̀✨, das✨ Ganze🌍 auf✨ dem✨ Altar🌍 verbrennen🔥. This✨ burnt🔥 offering🙏 by✨ fire🔥 rises🌍 as✨ a✨ pleasing❤️ aroma✨ to✨ the✨ LORD🙏.",
+  "Bringing🌍 a✨ bird🕊️ as✨ a✨ burnt🔥 offering🙏 to✨ the✨ LORD🙏? Bring🌍 turtledoves🕊️ or✨ young✨ pigeons🕊️. min✨ hatorim🕊️ o✨ mibnei✨ hayonah🕊️; Bring🌍 turtledove🕊️ or✨ young✨ pigeon🕊️, Mú🫶 àdàbà🕊️ tàbí✨ ọmọ🫶 ẹyẹlé🕊️, Turteltauben🕊️ oder✨ junge✨ Tauben🕊️ bringen🌍, des✨ tourterelles🕊️ ou✨ de✨ jeunes✨ pigeons🕊️.",
+  "The✨ priest🙏 brings🌍 that✨ bird🕊️ to✨ the✨ altar🌍 and✨ wrings🌍 off✨ its✨ head🌍, then✨ burns🔥 the✨ head🌍 there🌍. vehikrivo🌍 hakohen🙏 el✨ hamizbeach🌍 umalak🌍 et✨ rosho🌍; Blood❤️ drain🌍 for✨ altar🌍 side🌍, Ẹ̀jẹ̀❤️ ṣàn🌍 lẹ́gbẹ̀ẹ́🫶 pẹpẹ🌍, das✨ Blut❤️ läuft🌍 an✨ der✨ Seite🌍 des✨ Altars🌍 hinunter🌍, ọbara❤️ ya🫶 n’akụkụ🌍 ebe✨ ịchụàjà🙏.",
+  "Pull🌍 out✨ the✨ bird's🕊️ crop🌍 with✨ its✨ feathers🕊️ and✨ toss🌍 them🫶 where✨ the✨ ashes🌍 go✨, east🌍 of✨ the✨ altar🌍. vehisir🌍 et✨ muraato🌍 benotzatah🌍 vehishlikh🌍; Throw🌍 crop🌍 feathers🕊️ east🌍 by✨ ashes🌍, Yọ🌍 àpò🌍 inú✨ àti✨ ìyẹ́🕊️, den✨ Kropf🌍 samt✨ Federn🕊️ wegwerfen🌍, a✨ zubar🌍 da✨ gashin🕊️ tsuntsun🕊️ a✨ wurin🌍 zuba🌍 toka🌍.",
+  "Split🌍 the✨ bird🕊️ at✨ its✨ wings🕊️, but✨ don't✨ tear🔥 it✨ completely✨ apart🌍. veshisa🌍 oto🫶 vikhnafav🕊️ lo✨ yavdil🌍; Tear🌍 am🫶 open🌍 by✨ di✨ wings🕊️, Ya🌍 láti✨ ìyẹ́🕊️ má✨ pín🌍 méjì✨, an✨ den✨ Flügeln🕊️ aufreißen🌍 ohne✨ es✨ zu✨ teilen🌍, Plit🌍 it✨ bai✨ di✨ wing🕊️ dem✨. Then✨ the✨ priest🙏 lays🌍 it✨ on✨ the✨ wood🌍 over✨ the✨ altar🌍 fire🔥 and✨ burns🔥 it✨ up✨. It's✨ an✨ offering🙏 by✨ fire🔥, a✨ scent✨ that✨ pleases❤️ the✨ LORD🙏."
+];
+const leviticusFirstGlosses={
+  "1": [
+    [
+      "Adonai vayikra el Moshe",
+      "the LORD called to Moses",
+      "he"
+    ],
+    [
+      "l’appel venait",
+      "the call came",
+      "fr"
+    ],
+    [
+      "láti inú àgọ́ ìpàdé",
+      "from inside the meeting tent",
+      "yo"
+    ],
+    [
+      "Na God call Moses",
+      "it was God who called Moses",
+      "pcm"
+    ],
+    [
+      "aus dem Begegnungszelt sprach er",
+      "he spoke from the meeting tent",
+      "de"
+    ]
+  ],
+  "2": [
+    [
+      "dabber el bnei Yisrael",
+      "speak to the children of Israel",
+      "he"
+    ],
+    [
+      "korban",
+      "offering",
+      "he"
+    ],
+    [
+      "no bring just anything",
+      "do not bring just anything",
+      "pcm"
+    ],
+    [
+      "du gros ou du petit bétail",
+      "from the herd or the flock",
+      "fr"
+    ],
+    [
+      "Ẹran láti inú agbo màlúù tàbí agbo àgùntàn àti ewúrẹ́",
+      "an animal from the cattle herd or the flock of sheep and goats",
+      "yo"
+    ],
+    [
+      "aus der Rinderherde oder vom Kleinvieh",
+      "from the cattle herd or the flock",
+      "de"
+    ]
+  ],
+  "3": [
+    [
+      "zachar tamim yakrivenu lifnei Adonai",
+      "bring a spotless male before the LORD",
+      "he"
+    ],
+    [
+      "Carry am reach di entrance",
+      "bring it to the entrance",
+      "pcm"
+    ],
+    [
+      "à l’entrée de la tente de rencontre",
+      "at the entrance to the meeting tent",
+      "fr"
+    ],
+    [
+      "sin defecto ante el Señor",
+      "without defect before the LORD",
+      "es"
+    ],
+    [
+      "kí Olúwa lè tẹ́wọ́gbà ọ́",
+      "so the LORD can accept you",
+      "yo"
+    ],
+    [
+      "damit der HERR dich annimmt",
+      "so that the LORD accepts you",
+      "de"
+    ]
+  ],
+  "4": [
+    [
+      "vesamakh yado al rosh haolah",
+      "he places his hand on the burnt offering's head",
+      "he"
+    ],
+    [
+      "God go accept am",
+      "God will accept it",
+      "pcm"
+    ],
+    [
+      "n’ọnọdụ gị",
+      "on your behalf",
+      "ig"
+    ],
+    [
+      "Kí ó ṣe ètùtù",
+      "so that it makes atonement",
+      "yo"
+    ],
+    [
+      "für ihn zur Sühne angenommen",
+      "accepted on his behalf for atonement",
+      "de"
+    ],
+    [
+      "weka mkono juu ya kichwa kwa upatanisho",
+      "place a hand on the head for atonement",
+      "sw"
+    ]
+  ],
+  "5": [
+    [
+      "veshachat et ben habakar lifnei Adonai",
+      "slaughter the young bull before the LORD",
+      "he"
+    ],
+    [
+      "n’ọnụ ụzọ ụlọikwuu nzukọ",
+      "at the entrance of the meeting tent",
+      "ig"
+    ],
+    [
+      "Priests carry blood round altar",
+      "priests carry blood around the altar",
+      "pcm"
+    ],
+    [
+      "Àwọn àlùfáà yóò wọ́n ẹ̀jẹ̀ yí pẹpẹ ká",
+      "the priests will sprinkle the blood around the altar",
+      "yo"
+    ],
+    [
+      "Die Priester sprengen das Blut rings um den Altar",
+      "the priests splash the blood around the altar",
+      "de"
+    ]
+  ],
+  "6": [
+    [
+      "bee ya iberibe",
+      "cut it into pieces",
+      "ig"
+    ],
+    [
+      "vehifshit et haolah venitach otah",
+      "skin the burnt offering and cut it up",
+      "he"
+    ],
+    [
+      "Remove skin cut am up",
+      "remove its skin and cut it up",
+      "pcm"
+    ],
+    [
+      "Yọ awọ ẹbọ náà",
+      "remove the offering's skin",
+      "yo"
+    ],
+    [
+      "zieh ihm die Haut ab und zerleg es",
+      "take off its hide and cut it up",
+      "de"
+    ]
+  ],
+  "7": [
+    [
+      "venatnu bnei Aharon hakohen esh",
+      "the sons of Aaron the priest put fire in place",
+      "he"
+    ],
+    [
+      "Dem light fire for altar",
+      "they light fire on the altar",
+      "pcm"
+    ],
+    [
+      "su jera itacen",
+      "they arrange the wood",
+      "ha"
+    ],
+    [
+      "Fi iná sí pẹpẹ náà",
+      "put fire on the altar",
+      "yo"
+    ],
+    [
+      "das Holz aufs Feuer schichten",
+      "stack the wood on the fire",
+      "de"
+    ]
+  ],
+  "8": [
+    [
+      "a kan wutar bagaden",
+      "over the altar fire",
+      "ha"
+    ],
+    [
+      "vearkhu bnei Aharon hakohanim et hanetachim",
+      "Aaron’s sons, the priests, arrange the pieces",
+      "he"
+    ],
+    [
+      "Dem go set di head and fat on top di wood",
+      "they will set the head and fat on top of the wood",
+      "pcm"
+    ],
+    [
+      "To àwọn ègé náà lé orí igi",
+      "arrange the pieces on the wood",
+      "yo"
+    ],
+    [
+      "Kopf und Fett mit auf das Holz legen",
+      "lay the head and fat on the wood as well",
+      "de"
+    ]
+  ],
+  "9": [
+    [
+      "da ruwa",
+      "with water",
+      "ha"
+    ],
+    [
+      "kerevo ukeraav yirchatz bamayim",
+      "wash its innards and legs with water",
+      "he"
+    ],
+    [
+      "Na di priest go burn everything",
+      "the priest will burn everything",
+      "pcm"
+    ],
+    [
+      "Wẹ̀ inú àti ẹsẹ̀ pẹ̀lú omi",
+      "wash innards and legs with water",
+      "yo"
+    ],
+    [
+      "alles auf dem Altar verbrennen",
+      "burn it all on the altar",
+      "de"
+    ]
+  ],
+  "10": [
+    [
+      "shiip ar guot",
+      "sheep or goats",
+      "jam"
+    ],
+    [
+      "min hatzon min hakvasim o min haizim",
+      "from the flock, from the sheep or from the goats",
+      "he"
+    ],
+    [
+      "Bring male wey no get flaw",
+      "bring a male with no defect",
+      "pcm"
+    ],
+    [
+      "Mú akọ aláìlábààwọ́n láti agbo",
+      "bring a spotless male from the flock",
+      "yo"
+    ],
+    [
+      "ein fehlerloses männliches Tier",
+      "a flawless male animal",
+      "de"
+    ]
+  ],
+  "11": [
+    [
+      "Pan di naat said a di alta",
+      "on the north side of the altar",
+      "jam"
+    ],
+    [
+      "veshachat oto al yerekh hamizbeach tzafonah",
+      "slaughter it on the altar's north side",
+      "he"
+    ],
+    [
+      "Priests splash blood round altar",
+      "priests splash blood around the altar",
+      "pcm"
+    ],
+    [
+      "Wọ́n ẹ̀jẹ̀ náà yí pẹpẹ ká",
+      "sprinkle the blood around the altar",
+      "yo"
+    ],
+    [
+      "das Blut rings um den Altar sprengen",
+      "sprinkle the blood all around the altar",
+      "de"
+    ]
+  ],
+  "12": [
+    [
+      "venitach oto lenetachav veet rosho",
+      "cut it into pieces including its head",
+      "he"
+    ],
+    [
+      "Cut am into pieces with head and fat",
+      "cut it into pieces with the head and fat",
+      "pcm"
+    ],
+    [
+      "Pẹ̀lú orí rẹ̀ àti ọ̀rá rẹ̀",
+      "along with its head and its fat",
+      "yo"
+    ],
+    [
+      "die Stücke ordentlich aufs Holz legen",
+      "lay the pieces in order on the wood",
+      "de"
+    ]
+  ],
+  "13": [
+    [
+      "kerevo ukeraav yirchatz bamayim",
+      "wash its innards and legs with water",
+      "he"
+    ],
+    [
+      "bun it pan di alta",
+      "burns it on the altar",
+      "jam"
+    ],
+    [
+      "Na di priest go burn everything",
+      "the priest will burn everything",
+      "pcm"
+    ],
+    [
+      "Kí àlùfáà sun gbogbo rẹ̀",
+      "the priest is to burn all of it",
+      "yo"
+    ],
+    [
+      "das Ganze auf dem Altar verbrennen",
+      "burn the whole thing on the altar",
+      "de"
+    ]
+  ],
+  "14": [
+    [
+      "min hatorim o mibnei hayonah",
+      "from turtledoves or young pigeons",
+      "he"
+    ],
+    [
+      "Bring turtledove or young pigeon",
+      "bring a turtledove or young pigeon",
+      "pcm"
+    ],
+    [
+      "Mú àdàbà tàbí ọmọ ẹyẹlé",
+      "bring a dove or young pigeon",
+      "yo"
+    ],
+    [
+      "Turteltauben oder junge Tauben bringen",
+      "bring turtledoves or young pigeons",
+      "de"
+    ],
+    [
+      "des tourterelles ou de jeunes pigeons",
+      "turtledoves or young pigeons",
+      "fr"
+    ]
+  ],
+  "15": [
+    [
+      "vehikrivo hakohen el hamizbeach umalak et rosho",
+      "the priest brings it to the altar and wrings off its head",
+      "he"
+    ],
+    [
+      "Blood drain for altar side",
+      "blood drains against the altar side",
+      "pcm"
+    ],
+    [
+      "Ẹ̀jẹ̀ ṣàn lẹ́gbẹ̀ẹ́ pẹpẹ",
+      "blood drains beside the altar",
+      "yo"
+    ],
+    [
+      "das Blut läuft an der Seite des Altars hinunter",
+      "the blood runs down the side of the altar",
+      "de"
+    ],
+    [
+      "ọbara ya n’akụkụ ebe ịchụàjà",
+      "its blood at the side of the altar",
+      "ig"
+    ]
+  ],
+  "16": [
+    [
+      "vehisir et muraato benotzatah vehishlikh",
+      "remove its crop with feathers and throw it away",
+      "he"
+    ],
+    [
+      "Throw crop feathers east by ashes",
+      "throw crop and feathers east by ashes",
+      "pcm"
+    ],
+    [
+      "Yọ àpò inú àti ìyẹ́",
+      "remove crop and feathers",
+      "yo"
+    ],
+    [
+      "den Kropf samt Federn wegwerfen",
+      "throw away the crop along with the feathers",
+      "de"
+    ],
+    [
+      "a zubar da gashin tsuntsun a wurin zuba toka",
+      "discard the bird’s feathers at the ash dump",
+      "ha"
+    ]
+  ],
+  "17": [
+    [
+      "veshisa oto vikhnafav lo yavdil",
+      "split it at the wings without dividing it",
+      "he"
+    ],
+    [
+      "Tear am open by di wings",
+      "tear it open at the wings",
+      "pcm"
+    ],
+    [
+      "Ya láti ìyẹ́ má pín méjì",
+      "split at wings without dividing in two",
+      "yo"
+    ],
+    [
+      "an den Flügeln aufreißen ohne es zu teilen",
+      "tear it open at the wings without dividing it",
+      "de"
+    ],
+    [
+      "Plit it bai di wing dem",
+      "split it at the wings",
+      "jam"
+    ]
+  ]
+};
 const books={
  GEN:{name:"Genesis",count:50,position:"01",chapters:chapterMeta,glosses:verseGlosses},
- EXO:{name:"Exodus",count:40,position:"02",chapters:{1:{title:"Israel in Egypt",verses:exodusFirst},2:{title:"Moses in Egypt and Midian",verses:exodusSecond},3:{title:"The Burning Bush",verses:exodusThird},4:{title:"Moses Returns to Egypt",verses:exodusFourth},5:{title:"Bricks Without Straw",verses:exodusFifth},6:{title:"God Reaffirms His Promise",verses:exodusSixth},7:{title:"The Nile Turns to Blood",verses:exodusSeventh},8:{title:"Frogs, Lice, and Swarms",verses:exodusEighth},9:{title:"Livestock, Boils, and Hail",verses:exodusNinth},10:{title:"Locusts and Darkness",verses:exodusTenth},11:{title:"The Final Plague Announced",verses:exodusEleventh},12:{title:"Passover and the Exodus",verses:exodusTwelfth},13:{title:"Remembering the Exodus",verses:exodusThirteenth},14:{title:"Through the Sea",verses:exodusFourteenth},15:{title:"The Song at the Sea",verses:exodusFifteenth},16:{title:"Bread in the Wilderness",verses:exodusSixteenth},17:{title:"Water from the Rock",verses:exodusSeventeenth,inReview:false},18:{title:"Jethro Gives Counsel",verses:exodusEighteenth,inReview:false},19:{title:"At Mount Sinai",verses:exodusNineteenth,inReview:false},20:{title:"The Ten Words",verses:exodusTwentieth,inReview:false},21:{title:"Laws of Servants and Restitution",verses:exodusTwentyFirst,inReview:false},22:{title:"Property, Justice, and Mercy",verses:exodusTwentySecond,inReview:false},23:{title:"Justice, Sabbath, and the Promised Way",verses:exodusTwentyThird,inReview:false},24:{title:"Covenant on Sinai",verses:exodusTwentyFourth,inReview:false},25:{title:"Ark, Table, and Lampstand",verses:exodusTwentyFifth,inReview:false},26:{title:"Curtains and Frames of the Tabernacle",verses:exodusTwentySixth,inReview:false},27:{title:"Altar and Courtyard",verses:exodusTwentySeventh,inReview:false},28:{title:"Priestly Garments",verses:exodusTwentyEighth,inReview:false},29:{title:"Priestly Consecration and Daily Offerings",verses:exodusTwentyNinth,inReview:false},30:{title:"Incense Altar, Ransom, and Anointing Oil",verses:exodusThirtieth,inReview:false},31:{title:"Tabernacle Artisans and Sabbath Covenant",verses:exodusThirtyFirst,inReview:false},32:{title:"Golden Calf and Moses Intercession",verses:exodusThirtySecond,inReview:false},33:{title:"The Presence and the Glory",verses:exodusThirtyThird,inReview:false},34:{title:"Renewed Covenant and Radiant Face",verses:exodusThirtyFourth,inReview:false},35:{title:"Willing Offerings and Skilled Hands",verses:exodusThirtyFifth,inReview:false},36:{title:"The Tabernacle Takes Shape",verses:exodusThirtySixth,inReview:false},37:{title:"The Ark, Table, Lampstand, and Altar",verses:exodusThirtySeventh,inReview:false},38:{title:"The Altar, Courtyard, and Materials",verses:exodusThirtyEighth,inReview:false},39:{title:"Priestly Garments and Finished Work",verses:exodusThirtyNinth,inReview:false},40:{title:"The Glory Fills the Tabernacle",verses:exodusFortieth,inReview:false}},glosses:{...exodusVerseGlosses,2:exodusSecondGlosses,3:exodusThirdGlosses,4:exodusFourthGlosses,5:exodusFifthGlosses,6:exodusSixthGlosses,7:exodusSeventhGlosses,8:exodusEighthGlosses,9:exodusNinthGlosses,10:exodusTenthGlosses,11:exodusEleventhGlosses,12:exodusTwelfthGlosses,13:exodusThirteenthGlosses,14:exodusFourteenthGlosses,15:exodusFifteenthGlosses,16:exodusSixteenthGlosses,17:exodusSeventeenthGlosses,18:exodusEighteenthGlosses,19:exodusNineteenthGlosses,20:exodusTwentiethGlosses,21:exodusTwentyFirstGlosses,22:exodusTwentySecondGlosses,23:exodusTwentyThirdGlosses,24:exodusTwentyFourthGlosses,25:exodusTwentyFifthGlosses,26:exodusTwentySixthGlosses,27:exodusTwentySeventhGlosses,28:exodusTwentyEighthGlosses,29:exodusTwentyNinthGlosses,30:exodusThirtiethGlosses,31:exodusThirtyFirstGlosses,32:exodusThirtySecondGlosses,33:exodusThirtyThirdGlosses,34:exodusThirtyFourthGlosses,35:exodusThirtyFifthGlosses,36:exodusThirtySixthGlosses,37:exodusThirtySeventhGlosses,38:exodusThirtyEighthGlosses,39:exodusThirtyNinthGlosses,40:exodusFortiethGlosses}}
+ EXO:{name:"Exodus",count:40,position:"02",chapters:{1:{title:"Israel in Egypt",verses:exodusFirst},2:{title:"Moses in Egypt and Midian",verses:exodusSecond},3:{title:"The Burning Bush",verses:exodusThird},4:{title:"Moses Returns to Egypt",verses:exodusFourth},5:{title:"Bricks Without Straw",verses:exodusFifth},6:{title:"God Reaffirms His Promise",verses:exodusSixth},7:{title:"The Nile Turns to Blood",verses:exodusSeventh},8:{title:"Frogs, Lice, and Swarms",verses:exodusEighth},9:{title:"Livestock, Boils, and Hail",verses:exodusNinth},10:{title:"Locusts and Darkness",verses:exodusTenth},11:{title:"The Final Plague Announced",verses:exodusEleventh},12:{title:"Passover and the Exodus",verses:exodusTwelfth},13:{title:"Remembering the Exodus",verses:exodusThirteenth},14:{title:"Through the Sea",verses:exodusFourteenth},15:{title:"The Song at the Sea",verses:exodusFifteenth},16:{title:"Bread in the Wilderness",verses:exodusSixteenth},17:{title:"Water from the Rock",verses:exodusSeventeenth,inReview:false},18:{title:"Jethro Gives Counsel",verses:exodusEighteenth,inReview:false},19:{title:"At Mount Sinai",verses:exodusNineteenth,inReview:false},20:{title:"The Ten Words",verses:exodusTwentieth,inReview:false},21:{title:"Laws of Servants and Restitution",verses:exodusTwentyFirst,inReview:false},22:{title:"Property, Justice, and Mercy",verses:exodusTwentySecond,inReview:false},23:{title:"Justice, Sabbath, and the Promised Way",verses:exodusTwentyThird,inReview:false},24:{title:"Covenant on Sinai",verses:exodusTwentyFourth,inReview:false},25:{title:"Ark, Table, and Lampstand",verses:exodusTwentyFifth,inReview:false},26:{title:"Curtains and Frames of the Tabernacle",verses:exodusTwentySixth,inReview:false},27:{title:"Altar and Courtyard",verses:exodusTwentySeventh,inReview:false},28:{title:"Priestly Garments",verses:exodusTwentyEighth,inReview:false},29:{title:"Priestly Consecration and Daily Offerings",verses:exodusTwentyNinth,inReview:false},30:{title:"Incense Altar, Ransom, and Anointing Oil",verses:exodusThirtieth,inReview:false},31:{title:"Tabernacle Artisans and Sabbath Covenant",verses:exodusThirtyFirst,inReview:false},32:{title:"Golden Calf and Moses Intercession",verses:exodusThirtySecond,inReview:false},33:{title:"The Presence and the Glory",verses:exodusThirtyThird,inReview:false},34:{title:"Renewed Covenant and Radiant Face",verses:exodusThirtyFourth,inReview:false},35:{title:"Willing Offerings and Skilled Hands",verses:exodusThirtyFifth,inReview:false},36:{title:"The Tabernacle Takes Shape",verses:exodusThirtySixth,inReview:false},37:{title:"The Ark, Table, Lampstand, and Altar",verses:exodusThirtySeventh,inReview:false},38:{title:"The Altar, Courtyard, and Materials",verses:exodusThirtyEighth,inReview:false},39:{title:"Priestly Garments and Finished Work",verses:exodusThirtyNinth,inReview:false},40:{title:"The Glory Fills the Tabernacle",verses:exodusFortieth,inReview:false}},glosses:{...exodusVerseGlosses,2:exodusSecondGlosses,3:exodusThirdGlosses,4:exodusFourthGlosses,5:exodusFifthGlosses,6:exodusSixthGlosses,7:exodusSeventhGlosses,8:exodusEighthGlosses,9:exodusNinthGlosses,10:exodusTenthGlosses,11:exodusEleventhGlosses,12:exodusTwelfthGlosses,13:exodusThirteenthGlosses,14:exodusFourteenthGlosses,15:exodusFifteenthGlosses,16:exodusSixteenthGlosses,17:exodusSeventeenthGlosses,18:exodusEighteenthGlosses,19:exodusNineteenthGlosses,20:exodusTwentiethGlosses,21:exodusTwentyFirstGlosses,22:exodusTwentySecondGlosses,23:exodusTwentyThirdGlosses,24:exodusTwentyFourthGlosses,25:exodusTwentyFifthGlosses,26:exodusTwentySixthGlosses,27:exodusTwentySeventhGlosses,28:exodusTwentyEighthGlosses,29:exodusTwentyNinthGlosses,30:exodusThirtiethGlosses,31:exodusThirtyFirstGlosses,32:exodusThirtySecondGlosses,33:exodusThirtyThirdGlosses,34:exodusThirtyFourthGlosses,35:exodusThirtyFifthGlosses,36:exodusThirtySixthGlosses,37:exodusThirtySeventhGlosses,38:exodusThirtyEighthGlosses,39:exodusThirtyNinthGlosses,40:exodusFortiethGlosses}},
+ LEV:{name:"Leviticus",count:27,position:"03",chapters:{1:{title:"Burnt Offerings",verses:leviticusFirst,inReview:false}},glosses:{1:leviticusFirstGlosses}}
 };
   const matthewChapters={1:matthewChapterOne,2:matthewChapterTwo,3:matthewChapterThree,4:matthewChapterFour,5:matthewChapterFive,6:matthewChapterSix,7:matthewChapterSeven,8:matthewChapterEight,9:matthewChapterNine,10:matthewChapterTen,11:matthewChapterEleven,12:matthewChapterTwelve,13:matthewChapterThirteen,14:matthewChapterFourteen,15:matthewChapterFifteen,16:matthewChapterSixteen,17:matthewChapterSeventeen,18:matthewChapterEighteen,19:matthewChapterNineteen,20:matthewChapterTwenty,21:matthewChapterTwentyOne,22:matthewChapterTwentyTwo,23:matthewChapterTwentyThree,24:matthewChapterTwentyFour,25:matthewChapterTwentyFive,26:matthewChapterTwentySix,27:matthewChapterTwentySeven,28:matthewChapterTwentyEight};
   const markChapters={1:markChapterOne,2:markChapterTwo,3:markChapterThree,4:markChapterFour,5:markChapterFive,6:markChapterSix,7:markChapterSeven,8:markChapterEight,9:markChapterNine,10:markChapterTen,11:markChapterEleven,12:markChapterTwelve,13:markChapterThirteen,14:markChapterFourteen,15:markChapterFifteen,16:markChapterSixteen};
