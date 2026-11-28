@@ -4,7 +4,7 @@
   "versesVar": "leviticusThird",
   "glossesVar": "leviticusThirdGlosses",
   "expectedVerseCount": 17,
-  "status": "in_review",
+  "status": "passed",
   "gateVersion": 1,
   "reviewer": "Codex",
   "reviewedAt": "2026-11-28",
@@ -23,132 +23,139 @@
     "universalVoice": "pass",
     "scriptureMeaning": "pass",
     "completenessAndOrder": "pass",
-    "multilingualAccuracy": "pending_final_review",
+    "multilingualAccuracy": "pass",
     "sourceSyntax": "pass",
     "hoverGlosses": "pass",
     "readerNavigation": "pass",
-    "readerRendering": "pending_browser_review"
+    "readerRendering": "pass"
   },
   "verseReviews": {
     "1": {
       "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "A peace offering from the herd may be male or female, free of defect before the LORD."
     },
     "2": {
       "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The offerer lays a hand on its head and kills it at the tent entrance. Aaron’s sons sprinkle its blood around the altar."
     },
     "3": {
       "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The fire offering includes the fat covering and attached to the entrails."
     },
     "4": {
       "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "Remove both kidneys with their fat and the liver lobe with the kidneys."
     },
     "5": {
       "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "Aaron’s sons burn the parts on the altar above the burnt offering, on wood above the fire."
     },
     "6": {
       "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "A peace offering from the flock may be male or female, free of defect."
     },
     "7": {
       "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "A lamb is presented before the LORD."
     },
     "8": {
       "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The offerer lays a hand on its head and kills it before the tent. Aaron’s sons sprinkle its blood around the altar."
     },
     "9": {
       "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The sheep offering includes the whole fat tail removed close to the backbone, and the fat on and around the entrails."
     },
     "10": {
       "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "Remove both kidneys, their fat by the flanks, and the liver lobe with the kidneys."
     },
     "11": {
       "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The priest burns these parts on the altar as the food of the fire offering."
     },
     "12": {
       "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "A goat is presented before the LORD."
     },
     "13": {
       "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The offerer lays a hand on its head and kills it before the tent. Aaron’s sons sprinkle its blood around the altar."
     },
     "14": {
       "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The goat offering includes the fat covering and attached to the entrails."
     },
     "15": {
       "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "Remove both kidneys, their fat by the flanks, and the liver lobe with the kidneys."
     },
     "16": {
       "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "The priest burns the food offering on the altar. Its aroma pleases the LORD, to whom all the fat belongs."
     },
     "17": {
       "voice": "pass",
       "meaning": "pass",
-      "languages": "pending_final_review",
-      "rendering": "pending_browser_review",
+      "languages": "pass",
+      "rendering": "pass",
       "meaningNote": "In every generation and wherever Israel lives, neither fat nor blood may be eaten."
     }
   },
-  "languageReviewNotes": "Context checked against the Hausa and Igbo source text. The final revisions clarify the Hausa dual kidney reference, standardize Igbo phrasing, and use consistent Jamaican Patois spelling for the closing prohibition."
+  "languageReviewNotes": "Context checked against the Hausa and Igbo source text. The final revisions clarify the Hausa dual kidney reference, standardize Igbo phrasing, and use consistent Jamaican Patois spelling for the closing prohibition.",
+  "visualReview": {
+    "reviewer": "Codex",
+    "reviewedAt": "2026-11-28",
+    "browser": "Headless Chrome on GitHub Actions",
+    "reference": "https://github.com/HephzibahBehulahHQ/AdigunBible/actions/runs/46158757133",
+    "coverage": "17 visible ordered verses, 86 tooltip titles, and one matching pointer-hover sample."
+  }
 }
