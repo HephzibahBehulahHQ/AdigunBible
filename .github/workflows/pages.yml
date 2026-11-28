@@ -54,6 +54,65 @@ jobs:
       - run: node --test scripts/product-access.test.mjs
       - run: node scripts/build-legacy-redirect.mjs
 
+      - name: Verify the Leviticus 2 reader in Chrome
+        if: github.event_name == 'pull_request' && github.head_ref == 'codex/leviticus-2-release'
+        run: |
+          python3 -m http.server 8765 --bind 127.0.0.1 &
+          chromedriver --port=9515 &
+          trap 'jobs -p | xargs -r kill' EXIT
+          curl --retry 8 --retry-connrefused --fail --silent http://127.0.0.1:9515/status >/dev/null
+          node --input-type=module <<'NODE'
+          import assert from 'node:assert/strict';
+          async function request(path, data, method = data === undefined ? 'GET' : 'POST') {
+            const response = await fetch('http://127.0.0.1:9515' + path, {
+              method, headers: {'Content-Type': 'application/json'}, body: JSON.stringify(data),
+            });
+            const result = await response.json();
+            assert(response.ok, JSON.stringify(result));
+            return result.value;
+          }
+          const {sessionId} = await request('/session', {
+            capabilities: {alwaysMatch: {browserName: 'chrome', 'goog:chromeOptions': {
+              args: ['--headless', '--window-size=1280,900'],
+            }}},
+          });
+          const session = '/session/' + sessionId;
+          const evaluate = (script, args = []) => request(session + '/execute/sync', {script, args});
+          try {
+            await request(session + '/url', {url: 'http://127.0.0.1:8765/index.html'});
+            const rendered = await evaluate(`
+              const book = document.querySelector('#book-select');
+              book.value = 'LEV';
+              book.dispatchEvent(new Event('change'));
+              document.querySelectorAll('#chapter-grid .chbtn')[1].click();
+              const rows = [...document.querySelectorAll('.vtext')];
+              const glosses = [...document.querySelectorAll('.verse-gloss')];
+              const sample = document.querySelector('#v1 .verse-gloss');
+              sample.scrollIntoView({block: 'center', behavior: 'instant'});
+              const rect = sample.getClientRects()[0];
+              return {title: document.querySelector('#chapter-heading').textContent,
+                verses: rows.map(row => [Number(row.previousElementSibling.textContent), row.getBoundingClientRect().height]),
+                glosses: glosses.length, missing: glosses.filter(gloss => !gloss.title.trim()).length,
+                point: [Math.floor(rect.left + rect.width / 2), Math.floor(rect.top + rect.height / 2)]};
+            `);
+            assert.equal(rendered.title, 'Leviticus 2');
+            assert.deepEqual(rendered.verses.map(([number]) => number), Array.from({length: 16}, (_, i) => i + 1));
+            assert(rendered.verses.every(([, height]) => height > 0));
+            assert.equal(rendered.glosses, 70);
+            assert.equal(rendered.missing, 0);
+            const [x, y] = rendered.point;
+            await request(session + '/actions', {actions: [{
+              type: 'pointer', id: 'mouse', parameters: {pointerType: 'mouse'},
+              actions: [{type: 'pointerMove', duration: 0, x, y, origin: 'viewport'}],
+            }]});
+            assert.equal(await evaluate("return document.querySelector('.verse-gloss:hover')?.title"),
+              'a person should bring fine flour');
+            console.log('Chrome rendered all 16 Leviticus verses and 70 tooltip titles; the hover sample matched.');
+          } finally {
+            await request(session, undefined, 'DELETE');
+          }
+          NODE
+
   package-pages:
     if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
     needs: [editorial-status, product-access]
