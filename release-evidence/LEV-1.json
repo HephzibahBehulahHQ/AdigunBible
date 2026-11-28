@@ -1,0 +1,8 @@
+{
+  "book": "LEV",
+  "chapter": 1,
+  "versesVar": "leviticusFirst",
+  "glossesVar": "leviticusFirstGlosses",
+  "expectedVerseCount": 17,
+  "status": "in_review"
+}
