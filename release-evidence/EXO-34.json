@@ -6,7 +6,7 @@
   "glossesVar": "exodusThirtyFourthGlosses",
   "expectedVerseCount": 35,
   "sourceFile": "Exodus/Chapter 34.txt",
-  "status": "passed_with_visual_deferral",
+  "status": "passed",
   "reviewer": "Codex",
   "reviewedAt": "2026-11-21T21:09:25.804Z",
   "languageReferences": {
@@ -29,223 +29,224 @@
     "sourceSyntax": "pass",
     "hoverGlosses": "pass",
     "readerNavigation": "pass",
-    "readerRendering": "deferred"
+    "readerRendering": "pass"
   },
   "verseReviews": {
     "1": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "2": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "3": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "4": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "5": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "6": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "7": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "8": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "9": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "10": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "11": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "12": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "13": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "14": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "15": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "16": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "17": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "18": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "19": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "20": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "21": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "22": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "23": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "24": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "25": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "26": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "27": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "28": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "29": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "30": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "31": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "32": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "33": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "34": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     },
     "35": {
       "voice": "pass",
       "meaning": "pass",
       "languages": "pass",
-      "rendering": "deferred"
+      "rendering": "pass"
     }
   },
-  "visualDeferral": {
-    "approvedBy": "owner",
-    "approvedAt": "2026-11-21",
-    "approvalReference": "Owner approved pending reader visual evidence and continuing chapter work in the Codex chat on 2026-11-21."
+  "visualReview": {
+    "reviewer": "Codex",
+    "reviewedAt": "2026-11-28",
+    "browser": "Codex in-app browser",
+    "reference": "Signed-in browser review verified verse rows and nonempty tooltip titles across Exodus 34. A chapter-specific pointer check matched the hovered phrase to its title. The owner confirmed the shared native popup on the Exodus 17:1 sample in PR #114."
   }
 }
